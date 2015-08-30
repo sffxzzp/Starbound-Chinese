@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "贝壳床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "能够有效地保证海底生物的睡眠质量。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张床是用巨大的蛤壳制成的，看起来很温馨。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在贝贝贝壳做的床里很容容容易睡着。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。鲛人国王的御床。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张床很神奇，它甚至还有水床垫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "再没有比睡在贝壳之间更舒服的事情了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张床看起来很神奇。并且味道闻起来像美味的虾。"}]

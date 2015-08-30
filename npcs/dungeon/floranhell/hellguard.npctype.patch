@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/scriptConfig/dialog/attack/floran","value":{"default":["必必必必须解决犯犯犯犯人。","发发发发现一个逃逃逃逃犯！","犯犯犯犯人会被捅捅捅捅死！","叶族人除了捅捅捅捅和砍砍砍砍啥都不知道...","犯犯犯犯人的死不算献献献献祭...","你无无无无处可逃！","叶族人和饥饥饥饿都会杀掉你..."]}},
+{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/0","value":"入侵者！"}]

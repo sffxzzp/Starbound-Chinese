@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这玩意儿能吸引任何生物…在使用它之前我得确定我确实做好准备了。"},
+{"op":"replace","path":"/shortdescription","value":"花生酱陷阱"},
+{"op":"replace","path":"/apexDescription","value":"花生酱陷阱。我想知道这东西能抓住什么？"},
+{"op":"replace","path":"/avianDescription","value":"涂有花生酱的陷阱，美味而又致命。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人要用黏黏黏糊糊的花生抓东西！"},
+{"op":"replace","path":"/glitchDescription","value":"怀疑。看来只有小型生物才能被这个东西引诱过来。"},
+{"op":"replace","path":"/humanDescription","value":"如果我不小心一点，我自己可能会被这个陷阱困住。"},
+{"op":"replace","path":"/hylotlDescription","value":"花生酱陷阱。我怀疑这玩意儿可能什么东西都引不来。"}]

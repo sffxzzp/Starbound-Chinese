@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"为了吸引人注意力的灯。"},
+{"op":"replace","path":"/shortdescription","value":"小型聚光灯"},
+{"op":"replace","path":"/apexDescription","value":"小型聚光灯。"},
+{"op":"replace","path":"/avianDescription","value":"小型聚光灯。"},
+{"op":"replace","path":"/floranDescription","value":"聚、聚光灯。"},
+{"op":"replace","path":"/glitchDescription","value":"漠不关心：聚光灯。"},
+{"op":"replace","path":"/humanDescription","value":"一个普通的聚光灯。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个聚光灯。"}]

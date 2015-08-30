@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "符文砖"},
+{ "op" : "replace", "path" : "/description", "value" : "石头上布满小符号。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "解码。我不知道这些符号代表什么。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不会阅读这个。"}]

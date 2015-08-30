@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"花朵能依靠它的光芒生长，和太阳很像，但它不是太阳。"},
+{"op":"replace","path":"/shortdescription","value":"毒素灯"},
+{"op":"replace","path":"/apexDescription","value":"对于灯而言这是一个不错的创意。"},
+{"op":"replace","path":"/avianDescription","value":"当打开开关，这朵花将发出柔和的光芒。"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢植物。植物制造安全的火。"},
+{"op":"replace","path":"/glitchDescription","value":"……观测……这个灯的光完全是太阳能量。"},
+{"op":"replace","path":"/humanDescription","value":"呵呵，一朵用电的花。"},
+{"op":"replace","path":"/hylotlDescription","value":"对于灯而言这是一个有趣的创意。"}]

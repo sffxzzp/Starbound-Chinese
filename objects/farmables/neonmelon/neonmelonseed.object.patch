@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个发光的霓虹瓜，味道像泡泡糖。"},
+{"op":"replace","path":"/shortdescription","value":"霓虹瓜种子"},
+{"op":"replace","path":"/apexDescription","value":"多汁美味的甜瓜，快赶超香蕉了。"},
+{"op":"replace","path":"/avianDescription","value":"多汁的甜瓜，充满了美味的种子。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人粉碎甜瓜，挤压， 再吃。"},
+{"op":"replace","path":"/glitchDescription","value":"内容。这美味的甜瓜发出动人的光。"},
+{"op":"replace","path":"/humanDescription","value":"你可以吃掉它们、或用来装饰你的房间，我选择第一个。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个过于甜的瓜，虽然很漂亮。"}]

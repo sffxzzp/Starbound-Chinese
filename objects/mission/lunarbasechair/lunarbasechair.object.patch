@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"一个令人惊讶的舒适的椅子."},
+{"op":"replace","path":"/shortdescription","value":"月球基地椅"},
+{"op":"replace","path":"/apexDescription","value":"不错的椅子."},
+{"op":"replace","path":"/avianDescription","value":"令人放松的椅子."},
+{"op":"replace","path":"/floranDescription","value":"柔软的椅子."},
+{"op":"replace","path":"/glitchDescription","value":"声明.一个舒适的椅子."},
+{"op":"replace","path":"/humanDescription","value":"一个很好的舒适的椅子."},
+{"op":"replace","path":"/hylotlDescription","value":"一个说得过去的椅子."},
+{"op":"replace","path":"/novakidDescription","value":"这真放松!."}]

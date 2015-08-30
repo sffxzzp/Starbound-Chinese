@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用于展示展品的定向光源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "展示灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一盏灯，它的唯一目的是照亮那东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我应该看看光指向什么，可能会是什么有趣的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "明亮的光照在漂亮的物体上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "谦卑。这盏灯在努力的执行它唯一的目的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我对这光的所指向的东西更感兴趣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这光照亮一个让我更加感兴趣的东西。"}]

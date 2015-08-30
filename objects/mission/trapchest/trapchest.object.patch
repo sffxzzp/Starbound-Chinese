@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/description","value":"这个箱子会在开启时发送一个信号."},
+{"op":"replace","path":"/shortdescription","value":"陷阱箱"}]

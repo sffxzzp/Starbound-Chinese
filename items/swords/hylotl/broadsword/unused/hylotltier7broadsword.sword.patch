@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鲨鱼切片机。一把适合把鲨鱼肉切片的刀。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲨鱼切片机"}]

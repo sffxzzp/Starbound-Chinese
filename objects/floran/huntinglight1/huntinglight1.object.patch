@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏用藤蔓做的灯。还是用光制作的藤蔓？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藤蔓灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如此漂亮的灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一种发亮的植物。显著。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "植物的光不会烧到叶族。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。叶族真的知道如何控制大自然。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这让我想起了一个圣诞树。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使是邪恶的叶族也能欣赏美，看起来。"}]

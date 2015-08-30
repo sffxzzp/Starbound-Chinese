@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种治疗小伤口的绷带。使用恢复30点生命。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "绷带"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"指示牌上写着‘危险’等等，这些人怎么知道我的中间名。"},
+{"op":"replace","path":"/shortdescription","value":"水平危险指示牌"},
+{"op":"replace","path":"/apexDescription","value":"这上面写着危险, 但却没指出究竟有什么危险..."},
+{"op":"replace","path":"/avianDescription","value":"附近有什么危险的东西。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人面对危险放声大笑，哈哈！"},
+{"op":"replace","path":"/glitchDescription","value":"勇敢：这个指示牌与其说是警告倒不如说更像是挑战。"},
+{"op":"replace","path":"/humanDescription","value":"附近有什么危险的东西吗,还是说这些指示牌本身就是危险的? 它们的边缘看起来相当锋利啊..."},
+{"op":"replace","path":"/hylotlDescription","value":"简单明了, 如果耍花招, 就警告。 "}]

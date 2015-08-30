@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个长着翅膀的骨灰盒，也许他们相信这可以把死者引渡到来世吧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有翼骨灰盒"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "带翅膀的骨灰盒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些骨灰盒是给那些在战争中陨落的翼族人用的。这个骨灰盒象征着死者被送到太空。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "带翅翅翅膀的罐子。罐子不不不能飞。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这些翅膀一定有某种宗教含义。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我认为这是一个有翅膀的骨灰盒。里面都是骨灰。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道，翅膀会把死者带到哪里？"}]

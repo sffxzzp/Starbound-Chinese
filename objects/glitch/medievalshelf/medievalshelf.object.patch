@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"历史悠久的木制架子。"},
+{"op":"replace","path":"/shortdescription","value":"电子人架子"},
+{"op":"replace","path":"/apexDescription","value":"一个空的木制架子。"},
+{"op":"replace","path":"/avianDescription","value":"只是一个空架子。"},
+{"op":"replace","path":"/floranDescription","value":"空架、架子。"},
+{"op":"replace","path":"/glitchDescription","value":"不感兴趣：只是一个架子。"},
+{"op":"replace","path":"/humanDescription","value":"只是一种老旧的木架子。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个简陋的空架子。"}]

@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"一种轻金属块，非常适合研究实验室。"},
+{"op":"replace","path":"/shortdescription","value":"轻金属"},
+{"op":"replace","path":"/florandescription","value":"这不是重金属。"},
+{"op":"replace","path":"/glitchdescription","value":"陈述：轻金属块。"}]

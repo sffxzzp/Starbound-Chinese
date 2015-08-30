@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这是一块存在了很久了的钟乳石。"},
+{"op":"replace","path":"/shortdescription","value":"钟乳石"},
+{"op":"replace","path":"/apexDescription","value":"由岩石组成的尖石头。"},
+{"op":"replace","path":"/avianDescription","value":"这石头看起来像长矛。"},
+{"op":"replace","path":"/floranDescription","value":"钟乳石。"},
+{"op":"replace","path":"/glitchDescription","value":"……警告…… 钟乳石会掉落刺入电子人的躯体。"},
+{"op":"replace","path":"/humanDescription","value":"我不记得这是钟乳石还是石笋。"},
+{"op":"replace","path":"/hylotlDescription","value":"一块美丽光亮的钟乳石。"}]

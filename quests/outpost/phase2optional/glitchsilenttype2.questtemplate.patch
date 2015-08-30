@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;...."
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "...."
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "...."
+  }
+]

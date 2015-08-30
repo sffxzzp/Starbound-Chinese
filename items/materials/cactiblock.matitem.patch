@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"被加工成完美的立方体的仙人掌"},
+{"op":"replace","path":"/shortdescription","value":"仙人掌块"},
+{"op":"replace","path":"/florandescription","value":"植物不应该是立方体！立方体不自然！"},
+{"op":"replace","path":"/glitchdescription","value":"关注。我的形状识别系统出现故障。"}]

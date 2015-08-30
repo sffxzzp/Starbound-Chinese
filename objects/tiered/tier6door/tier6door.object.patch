@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个菲洛合金门,坚固!"},
+{"op":"replace","path":"/shortdescription","value":"菲洛合金门"},
+{"op":"replace","path":"/apexDescription","value":"一个坚固的门."},
+{"op":"replace","path":"/avianDescription","value":"一个坚固的门."},
+{"op":"replace","path":"/floranDescription","value":"门!"},
+{"op":"replace","path":"/glitchDescription","value":"声明,一个坚固的门."},
+{"op":"replace","path":"/humanDescription","value":"一个很棒的坚固的门."},
+{"op":"replace","path":"/hylotlDescription","value":"一个虽然粗糙但是非常坚固的门."}]

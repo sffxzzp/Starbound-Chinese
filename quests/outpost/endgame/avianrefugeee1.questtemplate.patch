@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;星海飞跃"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "还记得那个纸飞机么？我从那里得到了能够学会飞行的启发！^green;如果你带给我^orange;5个蓝色兴奋剂^white;，我就能开始练习。"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "你把它们带来了！但是，光跳跃还是不够的。我还需要翅膀..."
+  }
+]

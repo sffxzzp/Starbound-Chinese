@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/title","value":"猿人旅程"},
+{"op":"replace","path":"/description","value":"一个猿人旅程的开始"},
+{"op":"replace","path":"/shortdescription","value":"猿人序言"}]

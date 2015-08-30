@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "压制土块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。长满苔藓的泥土。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蓬松的泥土。"},
+{ "op" : "replace", "path" : "/description", "value" : "压制土块，布满了苔藓。"}]

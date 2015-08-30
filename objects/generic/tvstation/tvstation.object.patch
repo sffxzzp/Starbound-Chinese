@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用于广播视频信号。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "电视台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我曾经可以用这个来直播视频。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "“Twitch TV”在控制台上显示出来。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族曾经在网上说一些关于肉的事情。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "扫描。这似乎在广播一个被种族熟知的流媒体怪物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个Twitch广播电视站。这曾在地球上风靡一时。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "面板似乎给电视发送一个属于据说是来源于Twitch的视频信号。"}]

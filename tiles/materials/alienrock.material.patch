@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个奇特的岩石来自一个外星世界。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "外星岩块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这块岩石是外星人的起源。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢奇怪的岩石。"}]

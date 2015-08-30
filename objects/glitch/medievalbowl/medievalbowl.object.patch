@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个碗，看起来不是很干净。"},
+{"op":"replace","path":"/shortdescription","value":"电子人的碗"},
+{"op":"replace","path":"/apexDescription","value":"简陋、肮脏的碗。"},
+{"op":"replace","path":"/avianDescription","value":"似乎是用这个来吃饭的。"},
+{"op":"replace","path":"/floranDescription","value":"对于叶族人的胃口来说，这碗太小、小了。"},
+{"op":"replace","path":"/glitchDescription","value":"观察：一个简陋的碗，可能是黏土制成的。"},
+{"op":"replace","path":"/humanDescription","value":"一个小碗，感觉好像是黏土的。"},
+{"op":"replace","path":"/hylotlDescription","value":"我想知道电子人吃什么？"}]

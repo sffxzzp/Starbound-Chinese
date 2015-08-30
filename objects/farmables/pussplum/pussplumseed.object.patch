@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"圣女果！好多汁！"},
+{"op":"replace","path":"/shortdescription","value":"圣女果种子"},
+{"op":"replace","path":"/apexDescription","value":"相比于圣女果的样子和名字，味道更要好一些。"},
+{"op":"replace","path":"/avianDescription","value":"小个，多汁，易消化的美味佳肴。"},
+{"op":"replace","path":"/floranDescription","value":"多汁的，血腥的，美味~~"},
+{"op":"replace","path":"/glitchDescription","value":"惊叹模式。值得注意的是，只要味道好，就会有人会去吃。"},
+{"op":"replace","path":"/humanDescription","value":"显然这味道很好...因为某些原因，我犹豫要不要去找。"},
+{"op":"replace","path":"/hylotlDescription","value":"甜蜜的圣女果不是鲛人的口味。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一坨覆盖着鲜艳的花朵的草丛"},
+{"op":"replace","path":"/shortdescription","value":"鲜艳的花丛"},
+{"op":"replace","path":"/apexDescription","value":"多么可爱的小花！"},
+{"op":"replace","path":"/avianDescription","value":"这些小花看起来真可爱！"},
+{"op":"replace","path":"/floranDescription","value":"叶族要带着这朵小小小花，但是它看起来太太太小了。"},
+{"op":"replace","path":"/glitchDescription","value":"困惑： 这些小花是怎么在这么恶劣的环境（游戏）中存活下来的？"},
+{"op":"replace","path":"/humanDescription","value":"我非常希望我的花园里能有一些这种小花，但是它看起来不太容易移植。"},
+{"op":"replace","path":"/hylotlDescription","value":"这些小花在大雪和荒漠中散发着无助的绝望。"}]

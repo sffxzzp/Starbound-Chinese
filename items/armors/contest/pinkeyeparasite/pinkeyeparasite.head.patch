@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "啊，我的狗眼！一切都是…粉红色！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉色眼寄生虫"}]

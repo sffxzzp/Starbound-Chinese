@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "红绿灯"},
+{ "op" : "replace", "path" : "/description", "value" : "一个可以在红绿之间切换的灯。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个灯泡的拒绝访问？拉低了我的笑点。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我更喜欢它在绿色状态下。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "红和绿都没什么区别。叶族都直接过。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个可红可绿的灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它先是红的，然后是绿的。这是什么意思？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个简单的灯拥有允许和拒绝访问的权限。"}]

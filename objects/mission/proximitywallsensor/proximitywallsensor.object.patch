@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"走路小心！"},
+{"op":"replace","path":"/shortdescription","value":"近距离墙壁感应器"},
+{"op":"replace","path":"/apexDescription","value":"我靠近的话这将会被触发。"},
+{"op":"replace","path":"/avianDescription","value":"别靠太近！"},
+{"op":"replace","path":"/floranDescription","value":"叶族为这跳个舞！"},
+{"op":"replace","path":"/glitchDescription","value":"声明。一个近距离感应器。"},
+{"op":"replace","path":"/humanDescription","value":"一个近距离感应器。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个感应器。"},
+{"op":"replace","path":"/novakidDescription","value":"走的时候小心点。"}]

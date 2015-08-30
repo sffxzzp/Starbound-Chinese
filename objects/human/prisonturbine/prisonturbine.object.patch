@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这是涡轮，科学，你懂的。"},
+{"op":"replace","path":"/shortdescription","value":"小型涡轮"},
+{"op":"replace","path":"/apexDescription","value":"这是涡轮，是用来，呃，自由回转的。"},
+{"op":"replace","path":"/avianDescription","value":"会让我的羽毛立起来的。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人想进到管子里。 叶族人能能能行。"},
+{"op":"replace","path":"/glitchDescription","value":"怀疑： 涡轮机的叶片上有少许血迹。"},
+{"op":"replace","path":"/humanDescription","value":"我相信这东西可以让USCM把监狱迅速改造成飞行堡垒，我也能做到。"},
+{"op":"replace","path":"/hylotlDescription","value":"涡轮，这东西在水下可以用来为机器提供动力。"}]

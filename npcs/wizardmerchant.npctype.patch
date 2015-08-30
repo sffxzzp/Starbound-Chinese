@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/scriptConfig/dialog/merchant/start/default/default","value":["欢迎光临小店。","看上什么东西了吗？","我能为你效劳吗？"]},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/apex","value":{"default":["我的东西让科技发展部看见了会杀了我的。","你不是科技发展部的城管吧？太好了。","我有的不只是香蕉，如果你懂的话。","来点猴子魔法怎么样，嗯？"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/avian","value":{"default":["克鲁西斯赐予我财富。","我卖的东西连太阳之子都会羡慕嫉妒恨。","观星者们恨我，来，试试这个神奇的东西...","荆棘之翼曾买过我的东西。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/floran","value":{"default":["叶族人卖卖卖神奇的东西，买，买！","绿手指说说说，叶族人有有有最好的魔法货物。","魔法无处不在！"],"hylotl":["甚至鱼人都想要叶族人的魔法，看看看看吧。","叶族人卖卖卖东西给鱼人，三观毁了。","靠近点，傻鱼，看看看看叶族人能为你做什么。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/glitch","value":{"default":["神秘。不是所有的东西都能用科学来解释，我的客户。","神秘。旅行者，到这里来，看看我的魔法。","神秘。齿轮和传动装置只能带你走这么远，年轻人。","引诱。死亡不需要终结，我们有专门的兴奋剂..."]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/hylotl","value":{"default":["海洋里隐藏的不仅是财富，流浪者，还有神奇的魔法。","遮蔽着鲛人的黑暗将会随风而逝。","永恒的生命只是一种幻象...","我的货物没有什么问题。."],"floran":["来吧，叶族人朋友，来被净化吧！","我们种族之间存在战争，但我在魔法中找到了和平。","愿你找到庇护之所，叶族人，愿我的魔法可以对你的旅途有所帮助。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/end/default/default","value":["再见，旅行者。","祝福你。","勇气与你同在！"]},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/end/glitch","value":{"default":["虚伪。愿你永远幸福。","阴险。愿你平安，旅行者。","虚伪。愿你旅途平安。."]}}]

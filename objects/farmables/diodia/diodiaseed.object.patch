@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"双梅，一个有铜味的柔软的蔬菜。"},
+{"op":"replace","path":"/shortdescription","value":"双梅种子"},
+{"op":"replace","path":"/apexDescription","value":"双梅或许不是最美味的东西，但是很容易种植。"},
+{"op":"replace","path":"/avianDescription","value":"看起来像个螺母，味道不一样。"},
+{"op":"replace","path":"/floranDescription","value":"像血的味道，叶族人找到了双梅可接受的替代品。"},
+{"op":"replace","path":"/glitchDescription","value":"警报模式。这些蔬菜的味道异常熟悉。"},
+{"op":"replace","path":"/humanDescription","value":"看起来像个土豆，味道却像一分钱，不好取舍。"},
+{"op":"replace","path":"/hylotlDescription","value":"苦根菜，有利于增加味道。"}]

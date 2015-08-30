@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "重管子"},
+{ "op" : "replace", "path" : "/description", "value" : "一条重管子，通常用于老式系统。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一条管子。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "发…发臭的管子。"}]

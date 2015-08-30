@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由某种肉做成的可怕的难闻的方块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "肉块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。肉做成的物块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黏糊糊的肉块。"}]

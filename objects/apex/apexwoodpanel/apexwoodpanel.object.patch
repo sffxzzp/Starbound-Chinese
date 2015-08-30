@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这就是个木板。"},
+{"op":"replace","path":"/shortdescription","value":"木板"},
+{"op":"replace","path":"/apexDescription","value":"一个木板。在很多猿人家都有。"},
+{"op":"replace","path":"/avianDescription","value":"这是干嘛用的？"},
+{"op":"replace","path":"/floranDescription","value":"无意义的猿人装扮，嘶嘶。"},
+{"op":"replace","path":"/glitchDescription","value":"平淡。无目的的木板。"},
+{"op":"replace","path":"/humanDescription","value":"你可以在这后面藏一个麦克风。"},
+{"op":"replace","path":"/hylotlDescription","value":"这是装饰用的还是说有些其它的目的？"}]

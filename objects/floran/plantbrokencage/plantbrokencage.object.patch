@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个损坏的笼子。快，从里面逃出去！"},
+{"op":"replace","path":"/shortdescription","value":"损坏的笼子"},
+{"op":"replace","path":"/apexDescription","value":"也许有一个可怕的生物从里面逃出来了。"},
+{"op":"replace","path":"/avianDescription","value":"也许是一个叶族人从里面逃出来了。"},
+{"op":"replace","path":"/floranDescription","value":"垃圾。"},
+{"op":"replace","path":"/glitchDescription","value":"推测。也许是一只野兽从里面逃走了。"},
+{"op":"replace","path":"/humanDescription","value":"即使是我也可以从里面逃走。"},
+{"op":"replace","path":"/hylotlDescription","value":"我希望有人能从这里逃脱。"}]

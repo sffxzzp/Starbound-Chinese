@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "柔软的质地和甜蜜的味道，好吃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猕猴桃"}]

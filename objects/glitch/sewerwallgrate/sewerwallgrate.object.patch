@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个防护篦，太好了。"},
+{"op":"replace","path":"/shortdescription","value":"下水道防护篦"},
+{"op":"replace","path":"/apexDescription","value":"一个防护篦。"},
+{"op":"replace","path":"/avianDescription","value":"一个篦子。"},
+{"op":"replace","path":"/floranDescription","value":"条条儿。"},
+{"op":"replace","path":"/glitchDescription","value":"说明： 一个篦子。"},
+{"op":"replace","path":"/humanDescription","value":"只是一个篦子。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个篦子。"}]

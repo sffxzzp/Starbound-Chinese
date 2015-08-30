@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一扇门。它打开了。"},
+{"op":"replace","path":"/shortdescription","value":"门"},
+{"op":"replace","path":"/apexDescription","value":"一扇门。让我们打开它。"},
+{"op":"replace","path":"/avianDescription","value":"门。"},
+{"op":"replace","path":"/floranDescription","value":"想让叶族人听话，没门儿。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。一扇门。"},
+{"op":"replace","path":"/humanDescription","value":"一块大板子挡住了路。等等，原来是一扇门。"},
+{"op":"replace","path":"/hylotlDescription","value":"对于这种门我有许多话要说。但是这里又没有听众。"}]

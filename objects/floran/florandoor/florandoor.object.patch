@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这门看起来没法阻挡外面的天气。"},
+{"op":"replace","path":"/shortdescription","value":"破门"},
+{"op":"replace","path":"/apexDescription","value":"一个很薄的木头门，风一吹就会晃动。"},
+{"op":"replace","path":"/avianDescription","value":"一个没用的门。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人不锁门，叶族人不会偷偷偷叶族人的东西。"},
+{"op":"replace","path":"/glitchDescription","value":"疑惑：这个门完全没有必要存在。 ."},
+{"op":"replace","path":"/humanDescription","value":"我不确定这个门是不是有用。"},
+{"op":"replace","path":"/hylotlDescription","value":"一扇用又丑又没有处理过的木头做的门。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一株相当可爱的粉红色盆栽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "灿烂的盆栽"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "好美的花儿。真不知道是不是在实验室做出来的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个植物在开心地闪烁着。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看到这花儿，叶族人就可以冷静下来了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不错，这花传递了许多正能量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不错，这花传递了许多正能量。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我还未曾见过这么美的野生花呢，好奇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "花蕊如朝阳一样在闪烁。"}]

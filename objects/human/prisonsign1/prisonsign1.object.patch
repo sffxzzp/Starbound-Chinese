@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"标志上写着‘牢房’"},
+{"op":"replace","path":"/shortdescription","value":"牢房标志"},
+{"op":"replace","path":"/apexDescription","value":"标志上写着‘牢房’"},
+{"op":"replace","path":"/avianDescription","value":"这个标志指向牢房。"},
+{"op":"replace","path":"/floranDescription","value":"不管这里写写写的是啥，叶族人才不关心呢。"},
+{"op":"replace","path":"/glitchDescription","value":"阅读：牢房。"},
+{"op":"replace","path":"/humanDescription","value":"我一直都想去参观牢房! 等一下,不对,我想去的是动物园。"},
+{"op":"replace","path":"/hylotlDescription","value":"为那些不能看到周围环境的人立的标志。"}]

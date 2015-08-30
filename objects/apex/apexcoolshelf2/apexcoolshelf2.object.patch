@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"把一堆没有标签的化学药剂搁在一边看起来很不合理。"},
+{"op":"replace","path":"/shortdescription","value":"酷酷的化学储物架"},
+{"op":"replace","path":"/apexDescription","value":"一个放满实验调和物的架子。"},
+{"op":"replace","path":"/avianDescription","value":"炼金术士的药剂。"},
+{"op":"replace","path":"/floranDescription","value":"危险的粘手液体"},
+{"op":"replace","path":"/glitchDescription","value":"病态的好奇。我想要喝一点。"},
+{"op":"replace","path":"/humanDescription","value":"我不觉得这个架子上有任何东西是可以喝的。"},
+{"op":"replace","path":"/hylotlDescription","value":"大多的液体可以在数秒内杀人。"}]

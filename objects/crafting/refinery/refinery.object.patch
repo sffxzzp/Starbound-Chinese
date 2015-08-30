@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/subtitle","value":"矿石变成像素。"},
+{"op":"replace","path":"/description","value":"用于从矿石中生产像素。"},
+{"op":"replace","path":"/shortdescription","value":"^orange;矿石精炼机^white;"},
+{"op":"replace","path":"/apexDescription","value":"我能把矿石放在这里来生产像素。"},
+{"op":"replace","path":"/avianDescription","value":"用矿石制作像素，非常有用。"},
+{"op":"replace","path":"/floranDescription","value":"机器打烂石头来制造钱！"},
+{"op":"replace","path":"/glitchDescription","value":"声明.矿石能在这里转换成像素。"},
+{"op":"replace","path":"/humanDescription","value":"这东西能印钱！应该是这样！"},
+{"op":"replace","path":"/hylotlDescription","value":"一个用来把矿石变成像素的设备。"}]

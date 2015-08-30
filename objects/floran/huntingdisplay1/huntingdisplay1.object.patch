@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个挂在饰板上的长矛。如果你按了饰板下面的按钮，长矛会呜呜作响。"},
+{"op":"replace","path":"/shortdescription","value":"长矛装饰"},
+{"op":"replace","path":"/apexDescription","value":"一个装饰性的长矛。"},
+{"op":"replace","path":"/avianDescription","value":"一件结实的武器。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人展示杀死过大猎物的武器。"},
+{"op":"replace","path":"/glitchDescription","value":"折服。叶族人的武器远胜于电子人的武器。"},
+{"op":"replace","path":"/humanDescription","value":"一根长矛。好极了。"},
+{"op":"replace","path":"/hylotlDescription","value":"叶族人又一次以他们的野蛮为荣。"}]

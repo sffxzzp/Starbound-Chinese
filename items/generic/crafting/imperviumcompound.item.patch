@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这类化合物具有令人难以置信的耐久性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "帝合金"}]

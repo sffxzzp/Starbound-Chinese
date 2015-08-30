@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一种从带刺的植物上长出的带刺的水果。"},
+{"op":"replace","path":"/shortdescription","value":"棘果"},
+{"op":"replace","path":"/apexDescription","value":"这些水果看起来不吸引人...."},
+{"op":"replace","path":"/avianDescription","value":"奇怪的带刺植物长出奇怪的带刺水果。"},
+{"op":"replace","path":"/floranDescription","value":"带刺的水果~~太有伤害力了~~"},
+{"op":"replace","path":"/glitchDescription","value":"谨慎模式。这些棘手的水果好像是为了防范饥饿的野生动物。"},
+{"op":"replace","path":"/humanDescription","value":"一些奇怪的，带刺的水果。"},
+{"op":"replace","path":"/hylotlDescription","value":"这些植物保护他们宝贵的水...."}]

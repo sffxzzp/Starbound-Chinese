@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^orange;能源挖掘设施"},
+{ "op" : "replace", "path" : "/text", "value" : "为了^green;修复我的超光速驱动^white;，我需要探索能源挖掘设施。求救信号和坐标已经复制到了^green;S.A.I.L的任务表。我得到的生物植入芯片可以帮我在设施的缺氧环境中生存。"},
+{ "op" : "replace", "path" : "/completionText", "value" : "我终于得到了修复超光速驱动的晶体。我应该和S.A.I.L谈谈。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个坚固的吊柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "吊柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用于添加额外的存储空间。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用于在高处存储物品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "将墙壁转化为存储。聪明。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "批准。吊柜。有用的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一对墙柜。有利于节省空间。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "利用空间的好方法。"}]

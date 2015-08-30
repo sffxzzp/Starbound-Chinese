@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "死去的动物的皮毛使我温暖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叶族毛皮护胫"}]

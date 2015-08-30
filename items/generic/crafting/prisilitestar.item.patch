@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一个彩虹石星！银河系中最棘手一些的东西！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹石星"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种提供自然恢复的药汁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇恢复剂"}]

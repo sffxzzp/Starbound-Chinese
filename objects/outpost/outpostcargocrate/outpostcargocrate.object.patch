@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个包含着货物的箱子.什么货物?谁知道."},
+{"op":"replace","path":"/shortdescription","value":"前哨货物箱子"},
+{"op":"replace","path":"/apexDescription","value":"一个神秘的货物箱."},
+{"op":"replace","path":"/avianDescription","value":"我想知道里面有什么."},
+{"op":"replace","path":"/floranDescription","value":"叶族人把叶族人放进货物箱,跳出来,惊喜!"},
+{"op":"replace","path":"/glitchDescription","value":"声明. 一个货物容器."},
+{"op":"replace","path":"/humanDescription","value":"啊!货物!"},
+{"op":"replace","path":"/hylotlDescription","value":"一个基础的箱子."}]

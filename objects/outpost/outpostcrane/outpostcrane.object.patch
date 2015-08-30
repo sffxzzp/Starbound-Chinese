@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"起重机。用于起吊或摆动."},
+{"op":"replace","path":"/shortdescription","value":"前哨起重机"},
+{"op":"replace","path":"/apexDescription","value":"一个强大的起重机."},
+{"op":"replace","path":"/avianDescription","value":"一个并非是翼族人种类的起重机."},
+{"op":"replace","path":"/floranDescription","value":"叶族人用金属手臂摇摆!"},
+{"op":"replace","path":"/glitchDescription","value":"声明. 一个起重机."},
+{"op":"replace","path":"/humanDescription","value":"你认为他们使用更大的起重机建设起重机吗?"},
+{"op":"replace","path":"/hylotlDescription","value":"粗糙的起重机."}]

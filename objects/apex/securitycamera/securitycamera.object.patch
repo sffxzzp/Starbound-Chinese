@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这是猿人能拿出来最好的安全摄像头了。"},
+{"op":"replace","path":"/shortdescription","value":"猿人安全摄像头"},
+{"op":"replace","path":"/apexDescription","value":"永远保持警惕。"},
+{"op":"replace","path":"/avianDescription","value":"要像风一样行动来保持不被看见。"},
+{"op":"replace","path":"/floranDescription","value":"如此亮的激光。"},
+{"op":"replace","path":"/glitchDescription","value":"谨慎。禁止打扰我警觉的兄弟。"},
+{"op":"replace","path":"/humanDescription","value":"一个自动安全摄像头。"},
+{"op":"replace","path":"/hylotlDescription","value":"仅仅是激光不能穿透深沉的大海。"}]

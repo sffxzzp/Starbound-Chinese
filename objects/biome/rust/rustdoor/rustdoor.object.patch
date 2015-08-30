@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一扇生锈的门，看起来能够通向毛骨悚然的地下室。"},
+{"op":"replace","path":"/shortdescription","value":"生锈的门"},
+{"op":"replace","path":"/apexDescription","value":"一扇阴森生锈的门。"},
+{"op":"replace","path":"/avianDescription","value":"这样的门使得事物不明显。"},
+{"op":"replace","path":"/floranDescription","value":"头一次，叶族没有什么好说的。"},
+{"op":"replace","path":"/glitchDescription","value":"（描述）生锈的门。"},
+{"op":"replace","path":"/humanDescription","value":"一扇生锈的门。"},
+{"op":"replace","path":"/hylotlDescription","value":"这门没有很好的维护。"}]

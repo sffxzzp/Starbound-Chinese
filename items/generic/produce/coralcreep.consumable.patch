@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "煮熟的珊瑚果会变红，像一只龙虾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珊瑚果"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"机器人的盛宴?"},
+{"op":"replace","path":"/shortdescription","value":"电子人皇家餐桌"},
+{"op":"replace","path":"/apexDescription","value":"这张桌子的主要特征看起来是这张桌布。"},
+{"op":"replace","path":"/avianDescription","value":"电子人在桌子上铺了一块布以保持桌面整洁。"},
+{"op":"replace","path":"/floranDescription","value":"是、是床还是桌子？"},
+{"op":"replace","path":"/glitchDescription","value":"饥饿：自我上次出席电子人的宴会已经过去很长时间了，在宇宙中这种欢乐的日子并不多。"},
+{"op":"replace","path":"/humanDescription","value":"巨大的餐桌，宴会必备。"},
+{"op":"replace","path":"/hylotlDescription","value":"看起来这是电子人聚会用的桌子，桌布表明这是餐桌。"}]

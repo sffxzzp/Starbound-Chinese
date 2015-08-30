@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "流行的翼族疣草和发酵葡萄酒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "疣酒"}]

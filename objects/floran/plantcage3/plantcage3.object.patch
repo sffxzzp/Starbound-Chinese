@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个笼子。里面看起来有个愤怒的老鼠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "监狱笼"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个坚固的笼子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个令人印象深刻的笼子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族踢穿笼子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这个笼子可能可以抵御机械蜘蛛的攻击。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在笼子里会更搭么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "笼子里的叶族犯人很少能够逃离。"}]

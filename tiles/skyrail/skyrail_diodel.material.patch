@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "单向轨道（左）"},
+{ "op" : "replace", "path" : "/description", "value" : "上面有金属纹路。强制向一边运行。"}]

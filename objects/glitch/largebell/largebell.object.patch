@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这钟的声音一定很响。"},
+{"op":"replace","path":"/shortdescription","value":"大钟"},
+{"op":"replace","path":"/apexDescription","value":"一个大钟，声音一定很大。"},
+{"op":"replace","path":"/avianDescription","value":"一个巨大的钟，我想知道它的音色如何。"},
+{"op":"replace","path":"/floranDescription","value":"大钟响叮咚！"},
+{"op":"replace","path":"/glitchDescription","value":"博学：这个钟是用来发警报的。"},
+{"op":"replace","path":"/humanDescription","value":"一个巨钟，忍不住总想把它弄响。"},
+{"op":"replace","path":"/hylotlDescription","value":"这钟的声音鲛人从来没听过。"}]

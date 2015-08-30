@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/description","value":"<一个/'异或门/ 开关，需要一个输入为on，另一个输入为off。>"},
+{"op":"replace","path":"/shortdescription","value":"异或门开关"}]

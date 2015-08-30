@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用干燥的泥海胆叶做的茶叶在沸水中泡的茶。一种传统的饮料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尘茶"}]

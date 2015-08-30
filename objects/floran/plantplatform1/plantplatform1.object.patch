@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个木制平台。很普通。"},
+{"op":"replace","path":"/shortdescription","value":"木制平台"},
+{"op":"replace","path":"/apexDescription","value":"一个木制平台。"},
+{"op":"replace","path":"/avianDescription","value":"一个木制平台。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人站站站在平台上。扑向毫毫毫无防备的敌人。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。平台。"},
+{"op":"replace","path":"/humanDescription","value":"如果我用这个东西玩游戏。那它就是一个平台游戏。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个平台。"}]

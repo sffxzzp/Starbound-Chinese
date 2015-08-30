@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这种桌子就是专门用来进行重要抉择的地方。"},
+{"op":"replace","path":"/shortdescription","value":"古典书桌"},
+{"op":"replace","path":"/apexDescription","value":"这张桌子上曾做出过什么可怕的决定？"},
+{"op":"replace","path":"/avianDescription","value":"虽然翼族人并不如别的种族把金子看的那么重要，我仍然被这上面体现出的工艺震精鸟。"},
+{"op":"replace","path":"/floranDescription","value":"如此亮瞎眼的桌子。 可能猴子在做决定时是盲目的。"},
+{"op":"replace","path":"/glitchDescription","value":"发财。 电子人非常看重金子；一个人有这样一个桌子就可以维持一生的生计了。"},
+{"op":"replace","path":"/humanDescription","value":"我不觉得坐在这样的桌子前如此重要。"},
+{"op":"replace","path":"/hylotlDescription","value":"有时谦逊才会带来最佳的决定。"}]

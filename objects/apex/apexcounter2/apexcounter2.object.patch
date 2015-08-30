@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个复古厨房柜台。"},
+{"op":"replace","path":"/shortdescription","value":"标准厨房台面"},
+{"op":"replace","path":"/apexDescription","value":"我们可以在上面准备食物。"},
+{"op":"replace","path":"/avianDescription","value":"一个很适合准备食物的台面。"},
+{"op":"replace","path":"/floranDescription","value":"嗯…让我们开始制作美味！"},
+{"op":"replace","path":"/glitchDescription","value":"饥饿。我们可以在这里准备一些营养维持物。"},
+{"op":"replace","path":"/humanDescription","value":"觉着是做吃的的好地方。"},
+{"op":"replace","path":"/hylotlDescription","value":"这里是展示食物艺术的好地方。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "同很多叶族技术一样，采集者的头盔是利用倒下敌人的技术打造的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "采集者头盔"}]

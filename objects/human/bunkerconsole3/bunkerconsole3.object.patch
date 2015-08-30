@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"看起来像是一个充斥着人员备忘录的屏幕。"},
+{"op":"replace","path":"/shortdescription","value":"小型控制台"},
+{"op":"replace","path":"/apexDescription","value":"'亲爱的马乔莉。请记得把猫放出去。爱你的戴维' 有意思。"},
+{"op":"replace","path":"/avianDescription","value":"'昨天的毒性试验的结果不明确。请安排更多的试验体。克莱纳医生' 好吧。"},
+{"op":"replace","path":"/floranDescription","value":"人类发的有趣的毛球图片片片。 是菜单吗?"},
+{"op":"replace","path":"/glitchDescription","value":"阅读： '让我来向你解释一下你为什么是错的...' 邮件的内容接下来就陷入了莫名其妙的争吵和咆哮之中。"},
+{"op":"replace","path":"/humanDescription","value":"某人成了著名的‘reply-all’丑闻的牺牲品。可怜的家伙。"},
+{"op":"replace","path":"/hylotlDescription","value":"通过这些邮件可知, 人类在通过计算机进行争论的时候，只是一头扎进键盘里。"}]

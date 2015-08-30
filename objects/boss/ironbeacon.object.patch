@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个求救信标，天知道谁会听到求救信号。"},
+{"op":"replace","path":"/shortdescription","value":"求救信标"},
+{"op":"replace","path":"/apexDescription","value":"一个求救信标。我希望留下这个东西的人一切都好。"},
+{"op":"replace","path":"/avianDescription","value":"一个求救信标。一定有人遇到了麻烦。"},
+{"op":"replace","path":"/floranDescription","value":"这东西有有有时候对叶族人的狩猎有帮助。"},
+{"op":"replace","path":"/glitchDescription","value":"分析。这个求救信标能够发射一些列的频率。"},
+{"op":"replace","path":"/humanDescription","value":"这个信标能够发射求救信号。"},
+{"op":"replace","path":"/hylotlDescription","value":"有人需要帮助。保护弱小是一件值得去做的事。"}]

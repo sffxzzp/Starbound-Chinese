@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "从这些槽中释放的气体会让你觉得轻如鸿毛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空气加速器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果我站在这排气孔上，它就能提高我的跳跃能力。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个排气孔模拟了飞行的感觉！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "给我加个速！"}]

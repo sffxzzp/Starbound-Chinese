@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "大家都死了，戴夫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "红矮星"}]

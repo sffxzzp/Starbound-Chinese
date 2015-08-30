@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"上面焊着金属管的栅栏"},
+{"op":"replace","path":"/shortdescription","value":"管子栅栏"},
+{"op":"replace","path":"/apexDescription","value":"用管子做的栅栏，真聪明。"},
+{"op":"replace","path":"/avianDescription","value":"一个栅栏，无情地嘲讽着大地。"},
+{"op":"replace","path":"/floranDescription","value":"没有栅栏能档住叶族人! ...栅栏挡住了叶族人。"},
+{"op":"replace","path":"/glitchDescription","value":"描述：一堆管子被改造成了栅栏。"},
+{"op":"replace","path":"/humanDescription","value":"在我年轻的时候，我曾经翻过这样的栅栏去偷东西吃，美味啊，这样的罪行回味无穷。"},
+{"op":"replace","path":"/hylotlDescription","value":"如果海底有这样的栅栏，我可以很轻松地游过去，可是，陆地上的该怎么办？"}]

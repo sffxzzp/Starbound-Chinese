@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个背包在佩戴者周围创建一个透气的氧气区域。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生存系统"}]

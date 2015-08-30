@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"由掉下来的生物的尸体组成的固体物料…我觉得我看到了一个眼球。"},
+{"op":"replace","path":"/shortdescription","value":"蜂巢石"},
+{"op":"replace","path":"/florandescription","value":"破碎的动物。"},
+{"op":"replace","path":"/glitchdescription","value":"分析。该物质是由破碎的生物尸体组成的。"}]

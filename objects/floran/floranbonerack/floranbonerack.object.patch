@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"3根六神无主的骨头"},
+{"op":"replace","path":"/shortdescription","value":"骨头装饰架"},
+{"op":"replace","path":"/apexDescription","value":"放在这里的骨头好像是工具，但是他们是干什么用的？"},
+{"op":"replace","path":"/avianDescription","value":"这些是武器？工具？还是战利品？"},
+{"op":"replace","path":"/floranDescription","value":"这些骨骨骨头是用用来打磨磨其它骨骨头的。"},
+{"op":"replace","path":"/glitchDescription","value":"学习：这些骨头应该是一种工具。"},
+{"op":"replace","path":"/humanDescription","value":"这些骨头是武器吗？"},
+{"op":"replace","path":"/hylotlDescription","value":"用骨头来做工具或者武器，这让我难以接受。"}]

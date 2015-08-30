@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "圣殿骑士的胸甲是由瑟蓝合金打造。额外的圣殿骑士大脑会提示外来的攻击。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圣殿骑士胸甲"}]

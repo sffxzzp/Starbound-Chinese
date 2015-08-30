@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用刀剑制作的铁床，非常适合打盹。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个看起来不舒服的床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "真是个异常锋利的床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "床是尖锐的、高低不平的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "幸福。一个舒适的床。电子人应该能很容易在这上休息。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不认为我会在这样的床上睡的安稳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个非常残酷的床。这样的设计并不体现舒适感。"}]

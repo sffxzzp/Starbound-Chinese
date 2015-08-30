@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "沥青制成的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沥青箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "对于小偷来说是个棘手的箱子么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在箱子里的东西的价值最好比触碰这个箱子要高。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "很难打开的黏黏的箱子，里面宝物的价值最好高一点。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "精神。无论里面是什么，这箱子都黏黏的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "黏黏的箱子，我希望可以增加一些保护。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在本质上，这个箱子的粘性有它自己的自我防御机制。"}]

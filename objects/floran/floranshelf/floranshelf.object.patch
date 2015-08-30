@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一种原始的架子，用于存储补给和纪念品。"},
+{"op":"replace","path":"/shortdescription","value":"原始架子"},
+{"op":"replace","path":"/apexDescription","value":"用木头和骨头做的架子。"},
+{"op":"replace","path":"/avianDescription","value":"这架子本身可能就是一件战利品，不需要装饰。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人想用架架架子放战利品，但是站立品太大放不进架架架子。所所所以，叶族人把把把架架架子当成了战利品。"},
+{"op":"replace","path":"/glitchDescription","value":"鉴定。这骨头好像是一些巨大生物的肋骨。"},
+{"op":"replace","path":"/humanDescription","value":"这架子是空的。难道叶族人没有猎物可打吗？"},
+{"op":"replace","path":"/hylotlDescription","value":"至少这个架子是空的。"}]

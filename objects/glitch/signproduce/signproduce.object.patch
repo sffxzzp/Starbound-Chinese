@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"卖农产品的商店！不过机器人要吃什么农产品呢?"},
+{"op":"replace","path":"/shortdescription","value":"农产品商店招牌"},
+{"op":"replace","path":"/apexDescription","value":"一个木制招牌，看起来属于一家杂货店。"},
+{"op":"replace","path":"/avianDescription","value":"一个木制招牌，上面画着水果。"},
+{"op":"replace","path":"/floranDescription","value":"附近有水果商、商店？ 嘶嘶嘶嘶嘶！"},
+{"op":"replace","path":"/glitchDescription","value":"鉴定： 电子人农产品商店的招牌。."},
+{"op":"replace","path":"/humanDescription","value":"看起来是挂在农产品商店外面的招牌。"},
+{"op":"replace","path":"/hylotlDescription","value":"这个招牌表明这里是一家食品店。"}]

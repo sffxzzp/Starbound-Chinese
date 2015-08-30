@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"装满宝藏的木箱子"},
+{"op":"replace","path":"/shortdescription","value":"装满宝藏的箱子"},
+{"op":"replace","path":"/apexDescription","value":"一个木箱"},
+{"op":"replace","path":"/avianDescription","value":"木储物盒。"},
+{"op":"replace","path":"/floranDescription","value":"精致木箱。"},
+{"op":"replace","path":"/glitchDescription","value":"观察。木箱子。"},
+{"op":"replace","path":"/humanDescription","value":"它只是一个箱子。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个用木头做的箱子。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这就是传说中的饮水机器啊！"},
+{"op":"replace","path":"/shortdescription","value":"饮水机"},
+{"op":"replace","path":"/apexDescription","value":"冰冰凉、干净的水，爽！"},
+{"op":"replace","path":"/avianDescription","value":"我应该喝一杯。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人往水里吐吐吐唾沫，讨论谁又捅捅捅了谁。"},
+{"op":"replace","path":"/glitchDescription","value":"八卦：看到那个鲛人穿的是什么了吗?太恶心了， 呃，这似乎是一台饮水机。"},
+{"op":"replace","path":"/humanDescription","value":"我好渴， 我能喝下一匹马，如果这马是水做的话。"},
+{"op":"replace","path":"/hylotlDescription","value":"一小箱水， 看到水这样短缺，我有点想家了。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"科技站允许我和S.A.I.L交流并且使用科技!"},
+{"op":"replace","path":"/shortdescription","value":"科技站"},
+{"op":"replace","path":"/apexDescription","value":"科技站. 通过它我能启动科技并且和S.A.I.L交流."},
+{"op":"replace","path":"/avianDescription","value":"我能使用这个科技站开启科技并且和S.A.I.L交流."},
+{"op":"replace","path":"/floranDescription","value":"叶族能使用魔法并且和飞船S.A.I.L交流!"},
+{"op":"replace","path":"/glitchDescription","value":"信息. 这个科技站让我选择科技并且和S.A.I.L交流."},
+{"op":"replace","path":"/humanDescription","value":"科技站. 允许我和S.A.I.L沟通并且启用科技!"},
+{"op":"replace","path":"/hylotlDescription","value":"这个科技站允许我使用科技并且和S.A.I.L沟通."}]

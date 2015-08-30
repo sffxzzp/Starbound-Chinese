@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "别烧到脚！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "燃烧的煤"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "热煤。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "燃烧着的煤。他们看起来很热。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "啊！！！叶族讨厌火！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评估。危险！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不认为你可以从这些热煤上走过去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种热让人感到不愉快。"}]

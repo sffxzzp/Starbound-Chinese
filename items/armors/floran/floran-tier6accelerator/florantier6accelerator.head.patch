@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "叶族哨兵的头盔是由固体菲洛合金和敌人坚硬的皮肤制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哨兵头盔"}]

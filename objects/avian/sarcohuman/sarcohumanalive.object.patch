@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "翼族人相信有来世，他们试图把人类伙伴埋在里面一起等待复活。等一下…我觉得我听到了里面有东西在响！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人类石棺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个人形的石棺。等等…那是什么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些翼族人与途径星球的人类结下深厚的友谊，他们视图带人类去以太世界，这样就可以获彳―等等…我听到什么了么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻起来很新鲜！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评价。一个人坐在这石棺内。我可能获取到活化石了！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我刚才听到什么了吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "刚刚这个石棺移动了吗？"}]

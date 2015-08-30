@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个礼物！它被金色的缎带和蓝色的纸包裹起来！"},
+{"op":"replace","path":"/shortdescription","value":"蓝色礼物"},
+{"op":"replace","path":"/apexDescription","value":"一个礼物！给我的吗？"},
+{"op":"replace","path":"/avianDescription","value":"我不知道这个礼物是给谁的。"},
+{"op":"replace","path":"/floranDescription","value":"叶族想要礼物！打开全部的礼物！"},
+{"op":"replace","path":"/glitchDescription","value":"分析。礼物的里面想要避开我。"},
+{"op":"replace","path":"/humanDescription","value":"礼物！礼品！包装！Yeah！"},
+{"op":"replace","path":"/hylotlDescription","value":"一个令人愉快的礼物。"}]

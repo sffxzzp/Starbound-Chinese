@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个简装的床。"},
+{"op":"replace","path":"/shortdescription","value":"标准床"},
+{"op":"replace","path":"/apexDescription","value":"我们猿人害怕那些完全不同的虱子。"},
+{"op":"replace","path":"/avianDescription","value":"如此舒服真是在翼族人中难有的，我们的家具都是用石头和草堆做的。"},
+{"op":"replace","path":"/floranDescription","value":"真是个难受的寝具。不符合叶族皮毛的保养。"},
+{"op":"replace","path":"/glitchDescription","value":"舒服。一个给电池充电的好地方。"},
+{"op":"replace","path":"/humanDescription","value":"一个简易的床，没有一点真正吸引人的地方。"},
+{"op":"replace","path":"/hylotlDescription","value":"不知道一个人被种丑陋保卫时闭上眼是什么感受？"}]

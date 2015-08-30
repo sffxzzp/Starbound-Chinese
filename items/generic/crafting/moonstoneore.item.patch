@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "月石矿，仅在月亮上存在并且经常用于超光速引擎的制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月石矿"}]

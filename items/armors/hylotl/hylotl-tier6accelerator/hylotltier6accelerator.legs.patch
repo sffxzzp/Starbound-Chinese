@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "Euphos裤子是很多年轻鲛人下到一定深度看到的第一件东西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "透光裤子"}]

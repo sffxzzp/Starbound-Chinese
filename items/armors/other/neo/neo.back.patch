@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为了迎接伟大计划而设计。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尼奥圆盘"}]

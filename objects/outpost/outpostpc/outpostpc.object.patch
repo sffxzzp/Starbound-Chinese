@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"计算机。大概相当好."},
+{"op":"replace","path":"/shortdescription","value":"前哨PC"},
+{"op":"replace","path":"/apexDescription","value":"计算机."},
+{"op":"replace","path":"/avianDescription","value":"一个奇怪的电脑."},
+{"op":"replace","path":"/floranDescription","value":"叶族人听到液体冷却很棒。 叶族人往计算机上倒水。崩!"},
+{"op":"replace","path":"/glitchDescription","value":"声明。一个过时的计算机."},
+{"op":"replace","path":"/humanDescription","value":"一个不错的装备."},
+{"op":"replace","path":"/hylotlDescription","value":"其他物种对技术的依赖让我伤心。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个门. 也许适合用在飞船上."},
+{"op":"replace","path":"/shortdescription","value":"猿人飞船门"},
+{"op":"replace","path":"/apexDescription","value":"把门用在我们的飞船. 这不会是一件好玩的事."},
+{"op":"replace","path":"/avianDescription","value":"一扇门. 它无法打开."},
+{"op":"replace","path":"/floranDescription","value":"门无法打开!"},
+{"op":"replace","path":"/glitchDescription","value":"声明. 一扇门. 它似乎停用了."},
+{"op":"replace","path":"/humanDescription","value":"很酷的门. 真糟糕似乎停用了."},
+{"op":"replace","path":"/hylotlDescription","value":"基本的门. 他无法打开."}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "粗壮的金属条，虽然腐朽生锈了，但是仍然很结实。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金属栅栏"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这些栅栏都很牢固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "栅栏。"}]

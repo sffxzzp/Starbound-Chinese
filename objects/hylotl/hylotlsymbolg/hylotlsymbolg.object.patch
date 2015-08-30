@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/shortdescription","value":"绿色霓虹灯符号"},
+{"op":"replace","path":"/description","value":"一个带有亮绿色符号的金属睡莲叶子。"},
+{"op":"replace","path":"/apexDescription","value":"带符号的睡莲叶子，挺会玩的嘛！"},
+{"op":"replace","path":"/avianDescription","value":"看起来像是某个脚上沾了油漆的鲛人不小心一脚踩在了睡莲叶子上。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人看、看不懂。"},
+{"op":"replace","path":"/glitchDescription","value":"挖苦： 一个被装饰的睡莲叶子依然是睡莲叶子。"},
+{"op":"replace","path":"/humanDescription","value":"这比看上去的让人兴奋。"},
+{"op":"replace","path":"/hylotlDescription","value":"这些重要的鲛人符号的结合是如此天衣无缝，真令人惊叹。"}]

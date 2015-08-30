@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"用于快速维修的常见原始工具。"},
+{"op":"replace","path":"/shortdescription","value":"匠人工具"},
+{"op":"replace","path":"/apexDescription","value":"看起来这些工具是用来临时处理金属的。"},
+{"op":"replace","path":"/avianDescription","value":"用于金属成型的工具。"},
+{"op":"replace","path":"/floranDescription","value":"捏捏， 粉、粉碎工具、具。."},
+{"op":"replace","path":"/glitchDescription","value":"解说：电子人用这些工具进行维修， 当然，只是一些基本、粗略的维修。"},
+{"op":"replace","path":"/humanDescription","value":"简单的DIY工具。"},
+{"op":"replace","path":"/hylotlDescription","value":"但愿这不是电子人用来修复其它电子人的工具。"}]

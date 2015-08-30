@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/paneLayout/name/hint","value":"名字"},
+{"op":"replace","path":"/paneLayout/labelSpeciesRadio/value","value":"种族"},
+{"op":"replace","path":"/paneLayout/labelPortrait/value","value":"人类"},
+{"op":"replace","path":"/paneLayout/saveChar/caption","value":"确定"},
+{"op":"replace","path":"/paneLayout/cancel/caption","value":"取消"},
+{"op":"replace","path":"/paneLayout/mode/buttons/0","value":{"id":0,"image":"","text":"","selected":true,"position":[-17,0],"data":{"description":"死亡时丢失像素。"}}},
+{"op":"replace","path":"/paneLayout/mode/buttons/1","value":{"id":1,"image":"","text":"","position":[47,0],"data":{"description":"死亡时丢失像素并掉落所有矿物。"}}},
+{"op":"replace","path":"/paneLayout/mode/buttons/2","value":{"id":2,"image":"","text":"","position":[111,0],"data":{"description":"当你死亡后，你的角色会一直处于死亡状态！"}}},
+{"op":"replace","path":"/paneLayout/name/regex","value":".{0,24}"}]

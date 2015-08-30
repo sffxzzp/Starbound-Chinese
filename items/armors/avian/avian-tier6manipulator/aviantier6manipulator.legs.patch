@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "制造这些瑟蓝护胫的过程遗失在一个被遗忘的传说中，再也找不到了…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "乌鸦的爪子"}]

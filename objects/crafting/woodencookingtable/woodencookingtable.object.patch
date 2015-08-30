@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这个合成桌允许我准备和组合配料来做成有益健康的膳食!"},
+{"op":"replace","path":"/shortdescription","value":"^orange;木质烹饪桌^white;"},
+{"op":"replace","path":"/apexDescription","value":"这个桌子包含几乎所有菜的菜谱."},
+{"op":"replace","path":"/avianDescription","value":"几乎所有的翼族人的菜都能在这里做好."},
+{"op":"replace","path":"/floranDescription","value":"叶族人直接用手来准备食物,但是一张桌子会更有用."},
+{"op":"replace","path":"/glitchDescription","value":"启发,我们来创造食物吧!"},
+{"op":"replace","path":"/humanDescription","value":"一个厨师的桌子.有一大堆不同的烹饪工具..."},
+{"op":"replace","path":"/hylotlDescription","value":"准备食物是一门艺术,而这是画笔."}]

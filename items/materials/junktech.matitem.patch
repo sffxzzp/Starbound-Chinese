@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"没用的废铁，大多数是过时的科技残余。"},
+{"op":"replace","path":"/shortdescription","value":"垃圾科技"},
+{"op":"replace","path":"/florandescription","value":"乱七八糟。"},
+{"op":"replace","path":"/glitchdescription","value":"无视。一堆垃圾。"}]

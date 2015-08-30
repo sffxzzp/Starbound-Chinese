@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这是一位匿名的涂鸦艺术家，一定是这样，没错。"},
+{"op":"replace","path":"/shortdescription","value":"'你逃不掉' 涂鸦"},
+{"op":"replace","path":"/apexDescription","value":"很显然，你逃不掉, 这句警告猿人听的已经够多了。"},
+{"op":"replace","path":"/avianDescription","value":"某些人显然前景黯淡。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人认为这句话的意思是‘欢迎光光光临’"},
+{"op":"replace","path":"/glitchDescription","value":"异议：尽管涂鸦上的信息表达了这样的意思，但通过扫描我至少发现了四种逃脱的方法。"},
+{"op":"replace","path":"/humanDescription","value":"我接受这个挑战。"},
+{"op":"replace","path":"/hylotlDescription","value":"就像涂鸦的色彩一样，这信息表达了一种深深的绝望。"}]

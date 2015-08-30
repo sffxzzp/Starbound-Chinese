@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "此计数器对食品制备是理想的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨烹饪台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "烹饪台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个看起来有趣的柜子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族藏在柜子里永恒！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个柜子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "柜子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个原始的柜子。"}]

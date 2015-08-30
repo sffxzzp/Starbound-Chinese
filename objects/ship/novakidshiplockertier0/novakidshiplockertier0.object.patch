@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"为什么不放一些东西呢?"},
+{"op":"replace","path":"/shortdescription","value":"船舱"},
+{"op":"replace","path":"/apexDescription","value":"我不知道里面有什么秘密..."},
+{"op":"replace","path":"/avianDescription","value":"莫非里面有值钱的东西?"},
+{"op":"replace","path":"/floranDescription","value":"搜!搜索."},
+{"op":"replace","path":"/glitchDescription","value":"兴奋. 里面任何东西都很有趣?"},
+{"op":"replace","path":"/humanDescription","value":"飞船储物柜."},
+{"op":"replace","path":"/hylotlDescription","value":"也许里面会有有用的东西."}]

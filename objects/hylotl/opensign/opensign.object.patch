@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个标有 'open' 的霓虹灯标志。"},
+{"op":"replace","path":"/shortdescription","value":"Open标志"},
+{"op":"replace","path":"/apexDescription","value":"一个明亮的霓虹灯标志 'open' 。"},
+{"op":"replace","path":"/avianDescription","value":"一个'open' 标志。"},
+{"op":"replace","path":"/floranDescription","value":"是打开的?"},
+{"op":"replace","path":"/glitchDescription","value":"不在意：.一个'open' 标志。"},
+{"op":"replace","path":"/humanDescription","value":"标有 'open' 的霓虹灯标志。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个标志指示这地方是否开放。"}]

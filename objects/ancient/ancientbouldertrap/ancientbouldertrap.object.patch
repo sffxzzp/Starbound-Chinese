@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用沉重巨石砸向毫无防备入侵者的陷阱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代巨石陷阱"}]

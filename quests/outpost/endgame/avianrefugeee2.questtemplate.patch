@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;纸翅膀"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "我已经完成了我的单人飞行计划！^green;如果你有空，请^orange;使用这张蓝图^green;，在制作台上^orange;帮我做一对纸翅膀^white;。这样我就可以像天空中的月亮那样飞翔！"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "太感谢你了！虽然我拿到它们之后就知道，这些翅膀是不足以支持我飞行的。但只是它们很好看！"
+  }
+]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可以穿的巨大浆果。不要和贝雷帽混淆。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "浆果帽"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个木制的厕所…这一定很难清洁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木厕所"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木制的厕所…不太卫生。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个接住掉落物品的设备。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢在森林里便便。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。充满细菌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个木制的厕所…哎呀。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人不使用这样的设备。"}]

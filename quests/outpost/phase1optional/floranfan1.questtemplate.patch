@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^green;注意打扮"},
+{ "op" : "replace", "path" : "/text", "value" : "你喜欢我的衣衣衣服么？我特喜欢人类的衣服！^green;如果你能给我一件^orange;很酷的人类夹克^green;，我会给你一一一些好东西！"},
+{ "op" : "replace", "path" : "/completionText", "value" : "真真真棒！叶族人看起来真真真酷！这个给你！"}]

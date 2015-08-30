@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我不知道钟还有繁殖能力。（译注：座钟有时被称为grandfather clock）"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "座钟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人的钟都是自动设定的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的时间是从影子的方向里获得的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人只知道日出和日落。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "调查。这个钟似乎能精确到1毫秒之内。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个钟发出的声音既可能是不详的，也可能是令人舒服的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个声音对冥想而言再合适不过了。"}]

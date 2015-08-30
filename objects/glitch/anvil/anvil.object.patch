@@ -1,0 +1,10 @@
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"铁砧"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"一可制造闪亮亮的东西。"},
+{"op":"replace","path":"/description","value":"铁砧，用于使金属成型。"},
+{"op":"replace","path":"/shortdescription","value":"铁砧"},
+{"op":"replace","path":"/apexDescription","value":"铁砧，猿人从很久以前就再也没用它处理过金属。"},
+{"op":"replace","path":"/avianDescription","value":"一个有面的大铁板。"},
+{"op":"replace","path":"/floranDescription","value":"非常重，做陷陷陷阱非常有用。"},
+{"op":"replace","path":"/glitchDescription","value":"教学： 电子人用这种铁砧打造了很多做工精良的武器，他们甚至用这些铁砧造出了许多铁砧。"},
+{"op":"replace","path":"/humanDescription","value":"铁砧，人类早就不用这种东西了。"},
+{"op":"replace","path":"/hylotlDescription","value":"可能是用于金属加工的工具。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "沥青门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沥青门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "就是一扇门，用沥青做的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个普通的门，但是用沥青来做是一种壮举。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黏黏的很难打开。不好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "否决。一个沥青做的门随时会卡住。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇由坚硬的沥青制作的门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一连串的沥青形成一扇门。"}]

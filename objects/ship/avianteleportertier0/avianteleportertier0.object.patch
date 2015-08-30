@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"可靠的传送器, 我怎么能没有你? 翼族制造."},
+{"op":"replace","path":"/shortdescription","value":"传送器"},
+{"op":"replace","path":"/apexDescription","value":"感觉像是坐在光速行驶的过山车上."},
+{"op":"replace","path":"/avianDescription","value":"感觉像是在飞. It's off."},
+{"op":"replace","path":"/floranDescription","value":"叶族人在瞬移时很迷茫."},
+{"op":"replace","path":"/glitchDescription","value":"灌输. 我给自己设定在瞬移过程中睡眠."},
+{"op":"replace","path":"/humanDescription","value":"瞬移是一种巨大的拉伸"},
+{"op":"replace","path":"/hylotlDescription","value":"瞬移的感觉像是从山顶跳进大海."}]

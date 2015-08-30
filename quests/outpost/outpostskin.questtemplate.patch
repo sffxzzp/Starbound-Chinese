@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^orange;救命！我需要帮助！"},
+{ "op" : "replace", "path" : "/text", "value" : "我收到了一个来自附近月球采矿设施的求救信号，对此我很担心。如果你能证明你已经做好了准备，我将把^green;坐标和一个允许你在无氧环境下呼吸的生物植入芯片^white;给你，让你去那检查一下。^green;如果你能装备^orange;一套钢制盔甲^green;，我会把坐标给你。"},
+{ "op" : "replace", "path" : "/completionText", "value" : "你都装备好了！这样的话，拿着这个^green;坐标^white;以及这个^green;呼吸植入芯片^white;。祝你好运！"}]

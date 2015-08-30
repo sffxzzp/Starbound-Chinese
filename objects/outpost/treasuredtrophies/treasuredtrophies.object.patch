@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"我可以在这里卖掉我的一些战利品。我要看看他们的库存."},
+{"op":"replace","path":"/shortdescription","value":"珍贵的奖杯"},
+{"op":"replace","path":"/apexDescription","value":"一个伟大的地方以赚取一点利润."},
+{"op":"replace","path":"/avianDescription","value":"买便宜的来高价卖出!"},
+{"op":"replace","path":"/floranDescription","value":"叶族人在这里卖掉一些不喜欢的身体部位!"},
+{"op":"replace","path":"/glitchDescription","value":"声明。贸易站."},
+{"op":"replace","path":"/humanDescription","value":"是时候堆出一些脂肪了!"},
+{"op":"replace","path":"/hylotlDescription","value":"资本主义确实让人反感，但确是必备的."},
+{"op":"replace","path":"/novakidDescription","value":"来套现一些战利品的伟大的地方."}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"木刺，你可以用敌人的头颅来装饰它。!"},
+{"op":"replace","path":"/shortdescription","value":"木刺"},
+{"op":"replace","path":"/apexDescription","value":"一些灰色的刺。"},
+{"op":"replace","path":"/avianDescription","value":"看起来非常锋利。"},
+{"op":"replace","path":"/floranDescription","value":"锋、锋利的，尖、尖尖的钉、钉子。"},
+{"op":"replace","path":"/glitchDescription","value":"紧张：电子人把这些刺放在防御坑里。"},
+{"op":"replace","path":"/humanDescription","value":"看起来分成危险的刺。"},
+{"op":"replace","path":"/hylotlDescription","value":"一种野蛮的防御。"}]

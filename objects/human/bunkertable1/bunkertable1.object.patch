@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张简单的金属桌。"},
+{"op":"replace","path":"/shortdescription","value":"金属桌"},
+{"op":"replace","path":"/apexDescription","value":"一张简单的桌子。"},
+{"op":"replace","path":"/avianDescription","value":"一种原始的桌子。"},
+{"op":"replace","path":"/floranDescription","value":"可以用来切切切片的桌子。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述：桌子"},
+{"op":"replace","path":"/humanDescription","value":"这是我见过的第二种最普遍的桌子了"},
+{"op":"replace","path":"/hylotlDescription","value":"桌子，没什么好看的。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一桶有毒废物。可能是叶族的正式服装。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有毒废物"}]

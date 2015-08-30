@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个瑟蓝头盔，除了它的本职功能外，还能过滤完全充能的法杖发出的强光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "流浪者头盔"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "带有一点金属质感。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金属栏杆"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述。一小块金属。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "钢。"}]

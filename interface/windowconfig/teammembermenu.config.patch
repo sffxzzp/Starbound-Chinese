@@ -1,0 +1,5 @@
+[{"op":"replace","path":"/paneLayoutMember/windowtitle/title","value":" - 警告 - "},
+{"op":"replace","path":"/paneLayoutLeader/windowtitle/title","value":" - 警告 - "},
+{"op":"replace","path":"/paneLayoutLeader/beamToShip/caption","value":"传送到飞船"},
+{"op":"replace","path":"/paneLayoutLeader/makeLeader/caption","value":"提升为队长"},
+{"op":"replace","path":"/paneLayoutLeader/removeFromTeam/caption","value":"移除"}]

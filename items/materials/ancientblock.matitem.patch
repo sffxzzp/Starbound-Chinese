@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"这些砖块都肯定经受住了时间的考验。"},
+{"op":"replace","path":"/shortdescription","value":"古老的方块"},
+{"op":"replace","path":"/florandescription","value":"古老的方块。"},
+{"op":"replace","path":"/glitchdescription","value":"一个古老的方块"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个标准的雪人。"},
+{"op":"replace","path":"/shortdescription","value":"雪人"},
+{"op":"replace","path":"/apexDescription","value":"一个可爱的雪人。你今天咋样？"},
+{"op":"replace","path":"/avianDescription","value":"一个雪人。我嫉妒他的帽子。"},
+{"op":"replace","path":"/floranDescription","value":"叶族追杀雪人。雪人没注意。雪人崩溃。"},
+{"op":"replace","path":"/glitchDescription","value":"（悲伤）电子人身体有太多的棱角，我没法创造出一个电子雪人。"},
+{"op":"replace","path":"/humanDescription","value":"一个雪人！想踢飞它脑袋…看它飞翔…"},
+{"op":"replace","path":"/hylotlDescription","value":"这雪人有一天会融化，变回水回到它的源头。它有一个可爱的胡萝卜鼻子。"}]

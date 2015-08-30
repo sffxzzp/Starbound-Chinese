@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个水晶植物，这是真正的摇钱树。"},
+{"op":"replace","path":"/shortdescription","value":"水晶植物种子"},
+{"op":"replace","path":"/apexDescription","value":"种植属于自己的水晶，真方便。"},
+{"op":"replace","path":"/avianDescription","value":"一颗植物长出水晶，太神奇了。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人对这些闪亮亮的植物表示困惑。"},
+{"op":"replace","path":"/glitchDescription","value":"经济模式。过多的种植可能会损害经济。"},
+{"op":"replace","path":"/humanDescription","value":"小时候，我一直想要一颗摇钱树，这真是太完美了。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个植物在嫩芽上有闪闪发光的水晶。"}]

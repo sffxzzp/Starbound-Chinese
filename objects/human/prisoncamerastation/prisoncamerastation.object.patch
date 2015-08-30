@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一套监视器，由安全摄像头提供图像，当心后面有鬼哦。"},
+{"op":"replace","path":"/shortdescription","value":"安保摄像站"},
+{"op":"replace","path":"/apexDescription","value":"我确信我从其中一个屏幕里看到有人在角落里消失了。"},
+{"op":"replace","path":"/avianDescription","value":"我感觉自己像个偷窥狂。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人喜欢这个电视节目目目。"},
+{"op":"replace","path":"/glitchDescription","value":"检查：我确信其中一个摄像头在不停地巡视。"},
+{"op":"replace","path":"/humanDescription","value":"这些屏幕中的一个正在播放我边吃东西边看屏幕的囧样儿。"},
+{"op":"replace","path":"/hylotlDescription","value":"多好的入侵设备啊。"}]

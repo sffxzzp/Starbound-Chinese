@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "污浊的空气通过这个老通风口发出呼啸声。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的通风口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个满是灰尘的旧通风口。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个满是灰尘的旧通风口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个坚硬的旧通风口。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "强劲。一个通风口。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可靠的旧通风口。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个发霉的旧通风口。"}]

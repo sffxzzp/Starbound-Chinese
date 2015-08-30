@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这是个镶边的大猿人“大猿人”主打专辑。“雨林爱”。"},
+{"op":"replace","path":"/shortdescription","value":"大猿人唱片"},
+{"op":"replace","path":"/apexDescription","value":"这是所有猿人唯一允许有的唱片。有些人说这有潜意识上的信息。"},
+{"op":"replace","path":"/avianDescription","value":"一个奇怪的碟。"},
+{"op":"replace","path":"/floranDescription","value":"黑色圆圈。"},
+{"op":"replace","path":"/glitchDescription","value":"疑惑。一个不被了解的媒体形式。"},
+{"op":"replace","path":"/humanDescription","value":"这是…黑胶？了解。"},
+{"op":"replace","path":"/hylotlDescription","value":"这张碟片上有些凹槽。"}]

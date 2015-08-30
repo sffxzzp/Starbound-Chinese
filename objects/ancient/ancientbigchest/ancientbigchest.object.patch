@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这可怕的大箱子挂着个连眼睑都没有的珠子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代大箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这可怕的大箱子挂着个连眼睑都没有的珠子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这可怕的大箱子挂着个连眼睑都没有的珠子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这吓…吓人的箱…箱子让叶族人好怕怕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无法处理。装饰用的眼睛似乎在审判着我。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这可怕的大箱子挂着个连眼睑都没有的珠子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这可怕的大箱子挂着个连眼睑都没有的珠子。"}]

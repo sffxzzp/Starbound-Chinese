@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/subtitle","value":"中世纪烹饪"},
+{"op":"replace","path":"/description","value":"这个蒸煮罐煮过上百种菜肴，香飘四溢。"},
+{"op":"replace","path":"/shortdescription","value":"大型电子人蒸煮罐"},
+{"op":"replace","path":"/apexDescription","value":"一个巨大的蒸煮罐，闻上去很美味。."},
+{"op":"replace","path":"/avianDescription","value":"一个大加热罐，也许是用来做饭的。"},
+{"op":"replace","path":"/floranDescription","value":"流口水，美、美味的蒸煮罐，叶族人 想喝一、一些汤汤。 "},
+{"op":"replace","path":"/glitchDescription","value":"饥饿：这个罐子里仍然飘着我最爱吃的东西的香味。"},
+{"op":"replace","path":"/humanDescription","value":"一个大锅，但愿附近没有女巫。"},
+{"op":"replace","path":"/hylotlDescription","value":"充满了鲛人熟悉的味道。"}]

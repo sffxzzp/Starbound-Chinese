@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "冰盘。一把能射出冰的枪。Freeze！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冰盘"}]

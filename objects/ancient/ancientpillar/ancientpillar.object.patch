@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个被发现在星门附近的古代支柱，它能发光"},
+{"op":"replace","path":"/shortdescription","value":"古代支柱"},
+{"op":"replace","path":"/apexDescription","value":"一个发光的古代支柱让我敬畏。"},
+{"op":"replace","path":"/floranDescription","value":"闪闪闪亮的石头！叶族人不喜欢滚烫的岩石。"},
+{"op":"replace","path":"/glitchDescription","value":"分析。这个轻微的光芒是由一种我不认识的物质发出的。"},
+{"op":"replace","path":"/humanDescription","value":"这个好像古代迪斯科！"},
+{"op":"replace","path":"/hylotlDescription","value":"一个华丽发光的支柱"},
+{"op":"replace","path":"/novakidDescription","value":"这个内部发光的石头使我想起了家"}]

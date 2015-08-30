@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个标志，指明了在哪里排队付款结账。"},
+{"op":"replace","path":"/shortdescription","value":"结帐台标志"},
+{"op":"replace","path":"/apexDescription","value":"我不是个守规矩的猿。"},
+{"op":"replace","path":"/avianDescription","value":"这个标志指示了在商店内结帐要在哪里排队。"},
+{"op":"replace","path":"/floranDescription","value":"请排队？呸呸呸呸。."},
+{"op":"replace","path":"/glitchDescription","value":"烦恼：我不喜欢排长队。"},
+{"op":"replace","path":"/humanDescription","value":"在太空里还要排长队结帐，哈？"},
+{"op":"replace","path":"/hylotlDescription","value":"这个标志指出了在哪里付款结帐。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个基本的铁门."},
+{"op":"replace","path":"/shortdescription","value":"铁门"},
+{"op":"replace","path":"/apexDescription","value":"这个门是相对安全的."},
+{"op":"replace","path":"/avianDescription","value":"相当坚固的一个基本的大门."},
+{"op":"replace","path":"/floranDescription","value":"叶族人躲在门后.跳出.捅!"},
+{"op":"replace","path":"/glitchDescription","value":"批准,一个有用的，基本的大门."},
+{"op":"replace","path":"/humanDescription","value":"一个坚固的铁门."},
+{"op":"replace","path":"/hylotlDescription","value":"一个简单的铁门."}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个神秘的古城门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "整体门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个到某地的神秘大门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个关于神秘起源的门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族想知道哪种奇怪的生物造的门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "混乱。我不能跟踪门的来源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个奇怪的和神秘的大门有着神秘的雕刻。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来想是一个鲛人孩子制作的艺术和手工艺品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个奇怪的门不停的召唤我走过它。"}]

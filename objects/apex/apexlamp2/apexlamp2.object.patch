@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个有小圆点遮罩的高木质台灯。"},
+{"op":"replace","path":"/shortdescription","value":"标准立式台灯"},
+{"op":"replace","path":"/apexDescription","value":"标准样式。"},
+{"op":"replace","path":"/avianDescription","value":"一个高台灯。我想知道它怎么工作的？上面又没有水晶。"},
+{"op":"replace","path":"/floranDescription","value":"高台灯，光亮亮。"},
+{"op":"replace","path":"/glitchDescription","value":"舒服。有光就有安全感。"},
+{"op":"replace","path":"/humanDescription","value":"一个明亮的高台灯。"},
+{"op":"replace","path":"/hylotlDescription","value":"这个台灯可以点亮一个很大的房间。"}]

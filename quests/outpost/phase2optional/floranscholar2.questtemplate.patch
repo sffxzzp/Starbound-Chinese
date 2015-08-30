@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;造纸"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "如果你想要让我教你如何造纸，^green;首先你得带些^orange;未处理的木头^green;给我！"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "行了！现在你学会造纸了，这不难对吧！"
+  }
+]

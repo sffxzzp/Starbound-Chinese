@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "架子上满是翼族人的古董长矛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族枪架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "锋利的长矛。它们看起来被放在了一起。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "长矛是翼族守护者的首选武器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人收集锋锋锋利的棍棍棍子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无用。这里有三支长矛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一套翼族长矛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在水下，长矛是有用的战斗武器。"}]

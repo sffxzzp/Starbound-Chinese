@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "咖啡和热巧克力的温和混合。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "摩卡咖啡"}]

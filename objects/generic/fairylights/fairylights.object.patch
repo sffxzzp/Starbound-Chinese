@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一串小并闪烁的童话般的彩灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "橙色小彩灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些小灯非常漂亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "很难不喜欢这些漂亮的小灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪耀。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "快乐。这些闪烁的灯光能增添很多愉快的气氛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直很喜欢小彩灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种简单的美。"}]

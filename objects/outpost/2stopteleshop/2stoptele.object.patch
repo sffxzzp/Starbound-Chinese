@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个传送点有一个标准的示范和一个方便的返回点！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "二步电子商店传送器"}]

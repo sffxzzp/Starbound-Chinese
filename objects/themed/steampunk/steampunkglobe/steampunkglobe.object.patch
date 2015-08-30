@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个老旧的木雕地球仪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽朋克地球仪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个手工雕制的地球仪，我想知道它是否真实反应了该星球的情况？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个手工雕制的地球仪上面显示的内容是有价值的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想要把木头星球滚下山，把敌人压压压碎。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道这个地球仪的绘制是否精确？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道这个圆滑的木制地球仪所描绘的是哪个星球？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个地球仪的雕刻技法是真功夫。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "还真有人花时间雕这玩应儿。"}]

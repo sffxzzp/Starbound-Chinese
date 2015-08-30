@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我觉得我看见外星蛀虫了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木板"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。木头。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "易裂的木板。"}]

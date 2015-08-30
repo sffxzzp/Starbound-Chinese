@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"它看起来像一棵芦苇，但它实际上是一盏灯。"},
+{"op":"replace","path":"/shortdescription","value":"芦苇灯"},
+{"op":"replace","path":"/apexDescription","value":"它看起来像一棵芦苇，但它实际上是一盏灯。"},
+{"op":"replace","path":"/avianDescription","value":"它看起来像一棵芦苇，但它实际上是一盏灯。"},
+{"op":"replace","path":"/floranDescription","value":"它看起来像一棵芦苇，但它实际上是一盏灯。"},
+{"op":"replace","path":"/glitchDescription","value":"它看起来像一棵芦苇，但它实际上是一盏灯。"},
+{"op":"replace","path":"/humanDescription","value":"它看起来像一棵芦苇，但它实际上是一盏灯。"},
+{"op":"replace","path":"/hylotlDescription","value":"它看起来像一棵芦苇，但它实际上是一盏灯。"}]

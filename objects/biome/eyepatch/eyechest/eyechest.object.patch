@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"箱子用一只洞穿人心的眼睛封着，好想偷偷看看里面有什么。"},
+{"op":"replace","path":"/shortdescription","value":"眼球箱子"},
+{"op":"replace","path":"/apexDescription","value":"这箱子让我不敢看里面是啥。"},
+{"op":"replace","path":"/avianDescription","value":"希望这眼睛可以威慑小偷，它只为我工作。"},
+{"op":"replace","path":"/floranDescription","value":"叶族踢箱子的眼睛，它打开了。偷偷偷。"},
+{"op":"replace","path":"/glitchDescription","value":"（工程） 眼睛实际上是一个非常复杂的锁。幸运的是它坏了。"},
+{"op":"replace","path":"/humanDescription","value":"眼睛在看着我偷，对不起了兄弟。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个原始的放小偷手段。那些迷信的人不会去看里面有啥的。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个标志，上面显示这一种豆荚，好吃的鲛人美味。."},
+{"op":"replace","path":"/shortdescription","value":"绿色霓虹灯豆荚标志"},
+{"op":"replace","path":"/apexDescription","value":"我认为这是餐厅的标志，假如我饿极了的话会考虑去的。"},
+{"op":"replace","path":"/avianDescription","value":"鲛人的食物，多盛情的款待啊，我很高兴自备了午餐。."},
+{"op":"replace","path":"/floranDescription","value":"叶族人宁愿吃青蛙人也不吃青蛙人的食物。"},
+{"op":"replace","path":"/glitchDescription","value":"批判。鲛人的美食是一种…一旦习惯了就好的美味，实际上很少有人能接受这种设定。"},
+{"op":"replace","path":"/humanDescription","value":"如果鲛人身上有肉的话，我宁愿吃他们。"},
+{"op":"replace","path":"/hylotlDescription","value":"鲛人的美食在星界其他种族之中享有盛誉。."}]

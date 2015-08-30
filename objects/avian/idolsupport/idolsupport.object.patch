@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个支撑梁，好像雕刻的是一种可怕的鸟类。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雕刻支撑梁"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这似乎是一个起支撑作用的雕刻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个装饰性的支撑梁。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人不那那那么强强强壮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。这是一个支撑梁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我把它挪开会有东西掉下来吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "对细节的重视。"}]

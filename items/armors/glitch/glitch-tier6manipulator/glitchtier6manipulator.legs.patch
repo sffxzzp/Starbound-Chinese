@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "圣殿骑士是一个神秘的维护社会秩序的小团体。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圣殿骑士护胫"}]

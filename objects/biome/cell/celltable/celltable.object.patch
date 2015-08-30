@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张干净，明亮，而且鲜艳的桌子。"},
+{"op":"replace","path":"/shortdescription","value":"细胞桌"},
+{"op":"replace","path":"/apexDescription","value":"一张干净，明亮的桌子。对于小金刚来说有点太花哨了。"},
+{"op":"replace","path":"/avianDescription","value":"我能看到我的脸。它是桌子可不是镜子！"},
+{"op":"replace","path":"/floranDescription","value":"在有光泽的表面我看到漂亮的叶族！嘘！"},
+{"op":"replace","path":"/glitchDescription","value":"（厌恶）我从来没有在如此华丽的桌子上吃过饭。"},
+{"op":"replace","path":"/humanDescription","value":"像一个孩子的玩具。"},
+{"op":"replace","path":"/hylotlDescription","value":"这些颜色聚在一起很好看。"}]

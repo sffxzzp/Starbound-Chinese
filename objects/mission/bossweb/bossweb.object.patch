@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "令人毛骨悚然的网。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "死亡主宰网"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "毛骨悚然！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "毛骨悚然！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "毛骨悚然！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "毛骨悚然！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "毛骨悚然！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "毛骨悚然！"}]

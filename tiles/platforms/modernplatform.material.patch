@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "现代平台"},
+{ "op" : "replace", "path" : "/description", "value" : "现代材料制作，摸起来都是光滑的。"}]

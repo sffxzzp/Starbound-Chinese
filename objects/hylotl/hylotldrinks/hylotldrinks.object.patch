@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一台自动售货机，里面装满了鲛人爱喝的饮料。"},
+{"op":"replace","path":"/shortdescription","value":"鲛人自动售货机"},
+{"op":"replace","path":"/apexDescription","value":"全都是鲛人的软饮料。"},
+{"op":"replace","path":"/avianDescription","value":"这里的饮料对我来说口味有些过甜了。"},
+{"op":"replace","path":"/floranDescription","value":"甜腻腻的青蛙人饮料最讨厌了！"},
+{"op":"replace","path":"/glitchDescription","value":"感兴趣.：我不介意尝试一下异族的饮料。"},
+{"op":"replace","path":"/humanDescription","value":"这台机器卖软饮料，我很想知道暗礁可乐的口味如何？ "},
+{"op":"replace","path":"/hylotlDescription","value":"就我个人而言，我很喜欢暗礁可乐。"}]

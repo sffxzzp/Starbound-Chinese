@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "从这把弓上出去的每一支箭都威力十足，且有冰冻效果。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寒冰弓"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个不可思议的老消息。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古斑块"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也许这废墟是一条很有内涵的信息？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "想到这个废墟可能有多古老让我的羽毛不寒而栗。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族读不了这个。无聊！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。我无法解析该遗址的意义。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "吓人的符文是我喜欢的类型。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个古老的消息。符文像河流一样扭曲并流动。"}]

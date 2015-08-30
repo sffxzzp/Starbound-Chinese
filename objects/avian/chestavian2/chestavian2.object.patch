@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个潮湿的旧箱子，是用木头和铁做的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "旧箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个结实的箱子。里面有什么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种箱子没有装饰，但很结实，用来保护里面的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "让我我我们打开箱箱箱子！里里里面可能有吃的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。还等什么，打开它！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看到箱子真令人高兴。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "礼物在没开封的时候是最令人激动的。"}]

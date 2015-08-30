@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件耐钢内衬的夹克使它既时尚又坚硬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "革命的夹克"}]

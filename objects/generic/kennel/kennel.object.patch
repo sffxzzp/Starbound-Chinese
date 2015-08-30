@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个为可爱宠物狗设计的可爱的狗窝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "狗窝"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "对于一个猿族来说，这是一个豪华的房子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某种生物的小房子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族躲在屋子里直到生物回来，然后刺！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "快乐。这狗窝能够容纳一个可爱的机器狗。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个狗窝。现在我只需要一只狗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这简陋房子里有种潮湿的狗的气味。"}]

@@ -1,0 +1,7 @@
+[{"op":"replace","path":"/paneLayout/ok/caption","value":"接受"},
+{"op":"replace","path":"/paneLayout/remove/caption","value":"删除"},
+{"op":"replace","path":"/paneLayout/close/caption","value":"取消"},
+{"op":"replace","path":"/paneLayout/lblTitle/value","value":"新标签"},
+{"op":"replace","path":"/paneLayout/lblEnterName/value","value":"为这个位置起个名字。"},
+{"op":"replace","path":"/paneLayout/name/hint","value":"标签名"},
+{"op":"replace","path":"/paneLayout/name/regex","value":".{0,28}"}]

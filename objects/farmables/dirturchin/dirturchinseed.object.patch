@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"泥海胆，湿软而又食之无味。"},
+{"op":"replace","path":"/shortdescription","value":"泥海胆种子"},
+{"op":"replace","path":"/apexDescription","value":"一个廉价，简单，常见的蔬菜。"},
+{"op":"replace","path":"/avianDescription","value":"当没有什么更好吃的东西了，才会去吃泥海胆。"},
+{"op":"replace","path":"/floranDescription","value":"黏糊糊~~的，就像叶族人的婴儿。"},
+{"op":"replace","path":"/glitchDescription","value":"无趣模式。一个无聊，普通的植物。"},
+{"op":"replace","path":"/humanDescription","value":"据数据统计证明，93%的人类有泥海胆恐惧症。"},
+{"op":"replace","path":"/hylotlDescription","value":"为什么会有人吃这个？它索然无味，许多海底植物看起来和它很像，但味道好多了。"}]

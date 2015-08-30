@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我听说你头后面有一双眼睛，这真是荒谬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球胸甲"}]

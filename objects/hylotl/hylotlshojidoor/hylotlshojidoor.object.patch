@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个屏风做的门。"},
+{"op":"replace","path":"/shortdescription","value":"传统屏风门"},
+{"op":"replace","path":"/apexDescription","value":"一个简单的门，做它该做的事。"},
+{"op":"replace","path":"/avianDescription","value":"一个像样的门，透了很多光。"},
+{"op":"replace","path":"/floranDescription","value":"曾经，叶族人破坏过这、这样的门。"},
+{"op":"replace","path":"/glitchDescription","value":"挖苦： 如果你讨厌隐私，这扇门可以让你露个够。"},
+{"op":"replace","path":"/humanDescription","value":"一个脆弱的门，不能保住任何秘密。"},
+{"op":"replace","path":"/hylotlDescription","value":"这扇门的轮廓和结构可以使其平滑地打开。"}]

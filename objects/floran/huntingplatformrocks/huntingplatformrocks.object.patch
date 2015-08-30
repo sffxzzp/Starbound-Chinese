@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"岩石，可以滚吗？（译注：rock and roll有摇滚之意。这里双关。）"},
+{"op":"replace","path":"/shortdescription","value":"岩石"},
+{"op":"replace","path":"/apexDescription","value":"有箭头的岩石。"},
+{"op":"replace","path":"/avianDescription","value":"一块岩石。"},
+{"op":"replace","path":"/floranDescription","value":"去这条路可以刺刺刺。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。一块岩石。"},
+{"op":"replace","path":"/humanDescription","value":"让我们跟着这块岩石上的箭头指的方向走。"},
+{"op":"replace","path":"/hylotlDescription","value":"一块雕刻岩石。"}]

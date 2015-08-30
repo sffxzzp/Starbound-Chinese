@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个由肉做成的箱子."},
+{"op":"replace","path":"/shortdescription","value":"肉块箱子"},
+{"op":"replace","path":"/apexDescription","value":"一个很肮脏的箱子."},
+{"op":"replace","path":"/avianDescription","value":"这个箱子发出的声音让我脊背发凉."},
+{"op":"replace","path":"/floranDescription","value":"叶族人想吃掉这个箱子."},
+{"op":"replace","path":"/glitchDescription","value":"恶心. 一个肉，有规律跳动的箱子."},
+{"op":"replace","path":"/humanDescription","value":"一个很令人恶心的肉做的箱子."},
+{"op":"replace","path":"/hylotlDescription","value":"多么令人讨厌的箱子."}]

@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/blueprintUnlock","value":"^green;学会了制作：<ItemName>。"},
+{"op":"replace","path":"/blueprintAlreadyKnown","value":"已经学过如何制作<ItemName>。"}]

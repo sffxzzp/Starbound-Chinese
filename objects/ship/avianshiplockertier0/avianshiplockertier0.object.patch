@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"为什么不放一些东西呢？"},
+{"op":"replace","path":"/shortdescription","value":"船舱"},
+{"op":"replace","path":"/apexDescription","value":"翼族储物柜。"},
+{"op":"replace","path":"/avianDescription","value":"用来存储一些有用的东西，看起来坏了。"},
+{"op":"replace","path":"/floranDescription","value":"储.储…储物柜。"},
+{"op":"replace","path":"/glitchDescription","value":"冷淡。翼族储物柜。"},
+{"op":"replace","path":"/humanDescription","value":"翼族储物舱。"},
+{"op":"replace","path":"/hylotlDescription","value":"储物器。"}]

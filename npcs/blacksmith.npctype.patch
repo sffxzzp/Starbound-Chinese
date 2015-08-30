@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/scriptConfig/dialog/attack/glitch","value":{"default":["吝啬。你们年轻人总是惹麻烦。","厌世。又来了。","发脾气。不许嘲笑我！","粗鲁。他们没告诉过你，别惹铁匠吗？","阴沉。看起来我又要准备新武器了。","听天由命。叹息，更多的破坏。","热切。一个测试我打造的武器的好机会。","抱怨。看来我得给你上一课。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/attack/default/default/0","value":"噢，现在你要做些东西！"}]

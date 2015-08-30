@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏铜质吊灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜质吊灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏金属吊灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "五颜六色的吊灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "安全的灯，没有火，叶族人喜欢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无聊。一个灯具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个与你的脑袋连接的设备，然后…等等，不，只是一盏灯罢了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏无趣的吊灯。"}]

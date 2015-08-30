@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"烛光，真令人怀念啊。"},
+{"op":"replace","path":"/shortdescription","value":"蜡烛"},
+{"op":"replace","path":"/apexDescription","value":"一个小蜡烛。"},
+{"op":"replace","path":"/avianDescription","value":"翼族的祭祀们经常在烛光下工作。"},
+{"op":"replace","path":"/floranDescription","value":"呀啊啊啊， 把它拿走！"},
+{"op":"replace","path":"/glitchDescription","value":"说明：电子人还没学会制造电灯的技术。."},
+{"op":"replace","path":"/humanDescription","value":"漂亮的小蜡烛。"},
+{"op":"replace","path":"/hylotlDescription","value":"摇曳的烛光是如此美丽。"}]

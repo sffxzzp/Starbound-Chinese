@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这种显示屏显示的是任务清单。"},
+{"op":"replace","path":"/shortdescription","value":"小型USCM显示器"},
+{"op":"replace","path":"/apexDescription","value":"看起来这上面显示的是需要完成的任务清单，某些人要有的忙了。"},
+{"op":"replace","path":"/avianDescription","value":"井井有条的清单，其中一项是 '打扫厕所'。"},
+{"op":"replace","path":"/floranDescription","value":"这清清清单不是叶族人的菜菜菜。"},
+{"op":"replace","path":"/glitchDescription","value":"谨慎：列表的其中一项是 '修理机器人'."},
+{"op":"replace","path":"/humanDescription","value":"待办事项清单，即使与我无关，我都感到压力山大。"},
+{"op":"replace","path":"/hylotlDescription","value":"用整齐、详细的清单来确认要完成的任务，对于这样的提前规划我举双鳍赞成。"}]

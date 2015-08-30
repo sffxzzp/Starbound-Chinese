@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件由翼族制造的瑟蓝外套。华丽的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "乌鸦的护胸"}]

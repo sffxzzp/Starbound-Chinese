@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "流亡者胸甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "流亡胸甲"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "腐蚀性粒子喷雾枪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "腐蚀性的枪"}]

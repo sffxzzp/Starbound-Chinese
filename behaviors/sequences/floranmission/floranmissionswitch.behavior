@@ -1,0 +1,276 @@
+{
+  "name": "floranmissionswitch",
+  "description": "",
+  "scripts": [
+    "/scripts/actions/position.lua",
+    "/scripts/actions/entities.lua",
+    "/npcs/bmain.lua",
+    "/scripts/actions/time.lua",
+    "/scripts/actions/movement.lua"
+  ],
+  "parameters": {},
+  "root": {
+    "title": "sequence",
+    "type": "composite",
+    "name": "sequence",
+    "parameters": {},
+    "children": [
+      {
+        "title": "dynamic",
+        "type": "composite",
+        "name": "dynamic",
+        "parameters": {},
+        "children": [
+          {
+            "title": "cooldown",
+            "type": "decorator",
+            "name": "cooldown",
+            "parameters": {
+              "cooldown": 0.5
+            },
+            "child": {
+              "title": "sequence",
+              "type": "composite",
+              "name": "sequence",
+              "parameters": {
+                "type": "sliding",
+                "state": "off",
+                "fromEntity": "attackTarget",
+                "toEntity": "fleeTarget"
+              },
+              "children": [
+                {
+                  "title": "offsetPosition",
+                  "type": "action",
+                  "name": "offsetPosition",
+                  "parameters": {
+                    "offset": [
+                      -10,
+                      -13
+                    ],
+                    "position": "spawn"
+                  },
+                  "output": {
+                    "position": "firstplayer"
+                  }
+                },
+                {
+                  "title": "queryEntity",
+                  "type": "action",
+                  "name": "queryEntity",
+                  "parameters": {
+                    "entityTypes": [
+                      "player"
+                    ],
+                    "position": "firstplayer",
+                    "range": 8
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "runner",
+            "type": "action",
+            "name": "runner",
+            "parameters": {}
+          }
+        ]
+      },
+      {
+        "title": "say",
+        "type": "action",
+        "name": "say",
+        "parameters": {
+          "content": "嘿！说你呢！过来！"
+        }
+      },
+      {
+        "title": "timer",
+        "type": "action",
+        "name": "timer",
+        "parameters": {
+          "time": 1
+        }
+      },
+      {
+        "title": "dynamic",
+        "type": "composite",
+        "name": "dynamic",
+        "parameters": {},
+        "children": [
+          {
+            "title": "cooldown",
+            "type": "decorator",
+            "name": "cooldown",
+            "parameters": {
+              "cooldown": 0.5
+            },
+            "child": {
+              "title": "sequence",
+              "type": "composite",
+              "name": "sequence",
+              "parameters": {
+                "type": "sliding",
+                "state": "off",
+                "fromEntity": "attackTarget",
+                "toEntity": "fleeTarget"
+              },
+              "children": [
+                {
+                  "title": "offsetPosition",
+                  "type": "action",
+                  "name": "offsetPosition",
+                  "parameters": {
+                    "offset": [
+                      -10,
+                      3
+                    ],
+                    "position": "spawn"
+                  },
+                  "output": {
+                    "position": "secondplayer"
+                  }
+                },
+                {
+                  "title": "queryEntity",
+                  "type": "action",
+                  "name": "queryEntity",
+                  "parameters": {
+                    "entityTypes": [
+                      "player"
+                    ],
+                    "position": "secondplayer",
+                    "range": 4
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "runner",
+            "type": "action",
+            "name": "runner",
+            "parameters": {}
+          }
+        ]
+      },
+      {
+        "title": "say",
+        "type": "action",
+        "name": "say",
+        "parameters": {
+          "content": "这里有一个开关，我猜你还想走的远一些，嗯？"
+        }
+      },
+      {
+        "title": "timer",
+        "type": "action",
+        "name": "timer",
+        "parameters": {
+          "time": 2
+        }
+      },
+      {
+        "title": "findObject",
+        "type": "action",
+        "name": "findObject",
+        "parameters": {
+          "range": 5,
+          "name": "medievalswitchlever"
+        },
+        "output": {
+          "entity": "switch"
+        }
+      },
+      {
+        "title": "interactObject",
+        "type": "action",
+        "name": "interactObject",
+        "parameters": {
+          "entity": "switch"
+        }
+      },
+      {
+        "title": "say",
+        "type": "action",
+        "name": "say",
+        "parameters": {
+          "content": "你可以过去了-不要说我没警告过你！"
+        }
+      },
+      {
+        "title": "timer",
+        "type": "action",
+        "name": "timer",
+        "parameters": {
+          "time": 2
+        }
+      },
+      {
+        "title": "offsetPosition",
+        "type": "action",
+        "name": "offsetPosition",
+        "parameters": {
+          "offset": [
+            25,
+            18
+          ],
+          "position": "spawn"
+        },
+        "output": {
+          "position": "endposition"
+        }
+      },
+      {
+        "title": "dynamic",
+        "type": "composite",
+        "name": "dynamic",
+        "parameters": {},
+        "children": [
+          {
+            "title": "parallel",
+            "type": "composite",
+            "name": "parallel",
+            "parameters": {
+              "fail": 1
+            },
+            "children": [
+              {
+                "title": "moveToPosition",
+                "type": "action",
+                "name": "moveToPosition",
+                "parameters": {
+                  "position": "endposition"
+                },
+                "output": {
+                  "direction": "direction"
+                }
+              },
+              {
+                "title": "faceDirection",
+                "type": "action",
+                "name": "faceDirection",
+                "parameters": {
+                  "direction": "direction"
+                }
+              }
+            ]
+          },
+          {
+            "title": "runner",
+            "type": "action",
+            "name": "runner",
+            "parameters": {}
+          }
+        ]
+      },
+      {
+        "title": "suicide",
+        "type": "action",
+        "name": "suicide",
+        "parameters": {}
+      }
+    ]
+  }
+}

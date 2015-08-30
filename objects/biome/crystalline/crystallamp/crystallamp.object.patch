@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"到底是哪个在发光？水晶？还是灯管？"},
+{"op":"replace","path":"/shortdescription","value":"水晶灯"},
+{"op":"replace","path":"/apexDescription","value":"这是个迷人的灯。"},
+{"op":"replace","path":"/avianDescription","value":"水晶发出柔和的光。"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢水晶。水晶使火安全。"},
+{"op":"replace","path":"/glitchDescription","value":"（观察） 这光似乎是由未知的能量动力。"},
+{"op":"replace","path":"/humanDescription","value":"发光的水晶。就像魔法。也许我可以成为巫师！"},
+{"op":"replace","path":"/hylotlDescription","value":"水晶的光泽，镇静和温暖。"}]

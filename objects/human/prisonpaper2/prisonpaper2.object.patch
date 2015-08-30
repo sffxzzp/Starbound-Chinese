@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这张纸被撕坏了，有些字看不清了。"},
+{"op":"replace","path":"/shortdescription","value":"USCM撕裂的备忘录"},
+{"op":"replace","path":"/apexDescription","value":"我相信不管上面怎么说都非常重要。"},
+{"op":"replace","path":"/avianDescription","value":"我完全猜不出那些字是什么。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人认识这这这个！是叶族人捅捅捅过的猎物的图片。"},
+{"op":"replace","path":"/glitchDescription","value":"求解：这似乎是一份被迫写下的记录，目的在于指控某人偷了牛奶。"},
+{"op":"replace","path":"/humanDescription","value":"显然这是USCM的重要信息，现在已经没办法阅读了。"},
+{"op":"replace","path":"/hylotlDescription","value":"这张纸上面似乎不小心洒了一些液体。"}]

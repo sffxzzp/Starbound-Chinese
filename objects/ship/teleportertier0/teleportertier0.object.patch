@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"值得信赖的传送器, 没有你我该怎么办? "},
+{"op":"replace","path":"/shortdescription","value":"传送器"},
+{"op":"replace","path":"/apexDescription","value":"感觉就像是坐上光速行驶的过山车. 它是关闭的."},
+{"op":"replace","path":"/avianDescription","value":"感觉像是在飞. 如果它有电的话."},
+{"op":"replace","path":"/floranDescription","value":"叶族人在瞬移的时候很迷茫. 它已经死了."},
+{"op":"replace","path":"/glitchDescription","value":"教导. 我给自己设置瞬移过程中睡眠. 它没有开启."},
+{"op":"replace","path":"/humanDescription","value":"瞬移是一个巨大的拉伸. 太糟糕了, 它没有通电."},
+{"op":"replace","path":"/hylotlDescription","value":"瞬移的感觉像是从山顶跳进大海. 这个传送器是关闭的."}]

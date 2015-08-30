@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个木制橱柜，橱柜的门充斥着蚀刻装饰。"},
+{"op":"replace","path":"/shortdescription","value":"传统方橱柜"},
+{"op":"replace","path":"/apexDescription","value":"有人在这橱柜上乱写乱画吗，还是它本来就是这样子的?"},
+{"op":"replace","path":"/avianDescription","value":"如果你斜视的话，这些装饰还是挺好看的."},
+{"op":"replace","path":"/floranDescription","value":"叶族人想捅、捅柜子， 有、有人先到这里了。"},
+{"op":"replace","path":"/glitchDescription","value":"挑剔：这柜子上的装饰是小孩干的吗? 看起来好像是。"},
+{"op":"replace","path":"/humanDescription","value":"看起来好像是一个蹩脚的艺术家试图雕一些花纹在上面，好奇怪。"},
+{"op":"replace","path":"/hylotlDescription","value":"这些雕刻的深度和意义都无人能及。"}]

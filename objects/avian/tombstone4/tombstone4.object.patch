@@ -1,0 +1,7 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个墓碑已经破的无法修复了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破碎的墓碑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个损坏的墓碑。很旧了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "标准的翼族墓碑。数量众多而且都很旧了。这个已经坏了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这个墓碑快变成碎片了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个非常古老的墓碑。上面的字因为损坏已经看不见了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "死者应该得到比这更多的尊重。"}]

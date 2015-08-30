@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "选择在战场上的力量。先锋防弹衣挽救了许多人的生命。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "先锋防弹衣"}]

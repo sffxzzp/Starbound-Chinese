@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"铁锹、草耙和扫帚，任何辛苦的农活都可以干！"},
+{"op":"replace","path":"/shortdescription","value":"农具"},
+{"op":"replace","path":"/apexDescription","value":"为那些照料土地的人准备的工具。"},
+{"op":"replace","path":"/avianDescription","value":"一架子的工具，我只认识铁锹。"},
+{"op":"replace","path":"/floranDescription","value":"支配植物、物的工具。"},
+{"op":"replace","path":"/glitchDescription","value":"教学：许多电子人平民像农夫一样生活，这些工具是他们买来的。"},
+{"op":"replace","path":"/humanDescription","value":"农具，地球的农业主要依靠自动化。"},
+{"op":"replace","path":"/hylotlDescription","value":"鲛人没有这些工具。"}]

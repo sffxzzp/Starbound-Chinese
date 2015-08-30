@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "普鲁尼克斯。一把能剃掉任何东西的匕首。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "普鲁尼克斯"}]

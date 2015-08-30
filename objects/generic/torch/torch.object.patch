@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这火把闪着轻微的亮光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火把"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "野外生存必不可少的优秀工具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "火把是必不可少的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火把吓到了叶族，但叶族必须要使用火把。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。火把是不可或缺的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个照亮道路的火把。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "表面上看，这些都是非常有用的。"}]

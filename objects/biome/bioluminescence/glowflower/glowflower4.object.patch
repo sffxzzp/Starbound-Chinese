@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一丛可爱的花花"},
+{"op":"replace","path":"/shortdescription","value":"荧光花朵"},
+{"op":"replace","path":"/apexDescription","value":"一丛可爱的花花。"},
+{"op":"replace","path":"/avianDescription","value":"这些小花多么可爱啊！"},
+{"op":"replace","path":"/floranDescription","value":"叶族要把它戴在头上，就算我自己看不见。"},
+{"op":"replace","path":"/glitchDescription","value":"好奇：这些小花是怎么在这么恶劣的环境下存活下来的？"},
+{"op":"replace","path":"/humanDescription","value":"我很想移植一些到我的花园里，但是他们看起来太脆弱了，不好移植。"},
+{"op":"replace","path":"/hylotlDescription","value":"这些花在这片荒凉的星球上散发着微弱的光。"}]

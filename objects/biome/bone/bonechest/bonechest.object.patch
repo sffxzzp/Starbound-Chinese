@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个骸骨制成的箱子，但愿把它填满的不是骨头。"},
+{"op":"replace","path":"/shortdescription","value":"骸骨箱子"},
+{"op":"replace","path":"/apexDescription","value":"这箱子全是由骨头做的。"},
+{"op":"replace","path":"/avianDescription","value":"一个骸骨制成的箱子。"},
+{"op":"replace","path":"/floranDescription","value":"叶族对箱子印象深刻。易于被打破。"},
+{"op":"replace","path":"/glitchDescription","value":"（深思）这个箱子是由一整块的块骨头雕刻的。这生物要有多大？"},
+{"op":"replace","path":"/humanDescription","value":"我可以用它来存储我所有的五角星珠宝和黑色蜡烛！"},
+{"op":"replace","path":"/hylotlDescription","value":"不管怎么死的骨头做的箱子应该有一个更好的结局。"}]

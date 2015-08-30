@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "汽车驱动，以后我可以用这个给车子供能。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "汽车驱动"}]

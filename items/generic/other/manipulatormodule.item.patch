@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个模块允许S.A.I.L来升级我的物质枪！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "物质枪模块"}]

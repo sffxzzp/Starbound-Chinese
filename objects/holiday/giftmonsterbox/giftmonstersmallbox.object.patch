@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个上面有蝴蝶结的粉色节日礼盒。这东西有点怪。"},
+{"op":"replace","path":"/shortdescription","value":"不寻常的小礼盒"},
+{"op":"replace","path":"/apexDescription","value":"这是一个大礼盒。"},
+{"op":"replace","path":"/avianDescription","value":"一个漂亮的粉红色礼盒。"},
+{"op":"replace","path":"/floranDescription","value":"盒子！"},
+{"op":"replace","path":"/glitchDescription","value":"好奇。里面有东西么？"},
+{"op":"replace","path":"/humanDescription","value":"好大的一个礼盒！"},
+{"op":"replace","path":"/hylotlDescription","value":"一个完美的包装盒。"}]

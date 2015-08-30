@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"保险箱。"},
+{"op":"replace","path":"/shortdescription","value":"保险箱"},
+{"op":"replace","path":"/apexDescription","value":"保险箱。"},
+{"op":"replace","path":"/avianDescription","value":"保险箱。"},
+{"op":"replace","path":"/floranDescription","value":"保险箱。"},
+{"op":"replace","path":"/glitchDescription","value":"保险箱。"},
+{"op":"replace","path":"/humanDescription","value":"保险箱。"},
+{"op":"replace","path":"/hylotlDescription","value":"保险箱。."}]

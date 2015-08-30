@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在电子人军队中，士兵是最容易被消耗的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "士兵胸甲"}]

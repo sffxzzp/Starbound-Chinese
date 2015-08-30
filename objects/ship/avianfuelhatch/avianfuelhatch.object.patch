@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"接受一堆不同种类的燃料. 翼族设计."},
+{"op":"replace","path":"/shortdescription","value":"燃料舱"},
+{"op":"replace","path":"/apexDescription","value":"把燃料转换成自由."},
+{"op":"replace","path":"/avianDescription","value":"让我们加载它并且去摘星星!"},
+{"op":"replace","path":"/floranDescription","value":"我们!冲!"},
+{"op":"replace","path":"/glitchDescription","value":"兴奋. 充满了, 我们就可以去其他星球."},
+{"op":"replace","path":"/humanDescription","value":"燃料面板. 我们可以充满它并且去探索."},
+{"op":"replace","path":"/hylotlDescription","value":"燃料是支撑探索的根本."}]

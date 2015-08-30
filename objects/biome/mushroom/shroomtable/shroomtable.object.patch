@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个巨大的蘑菇，用来当做桌子简直完美。"},
+{"op":"replace","path":"/shortdescription","value":"蘑菇桌子"},
+{"op":"replace","path":"/apexDescription","value":"如果你饥肠辘辘，你可以吃这张桌子。"},
+{"op":"replace","path":"/avianDescription","value":"这张桌子没有任何价值。"},
+{"op":"replace","path":"/floranDescription","value":"叶族切肉的时候摇晃桌子。"},
+{"op":"replace","path":"/glitchDescription","value":"（生物） 这个巨大的蘑菇是由多种真菌经过多年杂交的产物。"},
+{"op":"replace","path":"/humanDescription","value":"在这里吃饭会有魔幻般的就餐感觉。"},
+{"op":"replace","path":"/hylotlDescription","value":"自然提供多少就会破坏多少。"}]

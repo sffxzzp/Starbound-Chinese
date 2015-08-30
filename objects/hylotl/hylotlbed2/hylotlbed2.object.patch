@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个古老的传说，如果你在这床上过夜，你会失去知觉。"},
+{"op":"replace","path":"/shortdescription","value":"舒适的传统床"},
+{"op":"replace","path":"/apexDescription","value":"这张床睡上去黏糊糊的..."},
+{"op":"replace","path":"/avianDescription","value":"一张普通的床。"},
+{"op":"replace","path":"/floranDescription","value":"青蛙人的床，讨厌。"},
+{"op":"replace","path":"/glitchDescription","value":"挑剔：鲛人似乎很喜欢夸大他们的手工艺制作能力。."},
+{"op":"replace","path":"/humanDescription","value":"据说鲛人只有在睡觉的时候才会停止抱怨，那说梦话的那些家伙呢？"},
+{"op":"replace","path":"/hylotlDescription","value":"一张精致的鲛人床， 值得其他种族学习。"}]

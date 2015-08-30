@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一堆雪。"},
+{"op":"replace","path":"/shortdescription","value":"雪堆"},
+{"op":"replace","path":"/apexDescription","value":"一堆雪。雪球大战！"},
+{"op":"replace","path":"/avianDescription","value":"一堆冰冷的雪。"},
+{"op":"replace","path":"/floranDescription","value":"叶族躲进雪中。弹出。刺雪人。"},
+{"op":"replace","path":"/glitchDescription","value":"（渴望）躺在雪中，雪天使将会是我的内部电路毁坏。"},
+{"op":"replace","path":"/humanDescription","value":"这雪乞求被踢。"},
+{"op":"replace","path":"/hylotlDescription","value":"冰冷而美丽的雪。也许我应该把它聚在一起。"}]

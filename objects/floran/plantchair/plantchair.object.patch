@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一把椅子。 看起来很不舒服。"},
+{"op":"replace","path":"/shortdescription","value":"监狱椅子"},
+{"op":"replace","path":"/apexDescription","value":"椅子"},
+{"op":"replace","path":"/avianDescription","value":"一把不舒服的椅子。"},
+{"op":"replace","path":"/floranDescription","value":"椅子"},
+{"op":"replace","path":"/glitchDescription","value":"脑洞。这把看起来人畜无害的椅子又会藏着什么黑暗的秘密呢？"},
+{"op":"replace","path":"/humanDescription","value":"一把不起眼的椅子。"},
+{"op":"replace","path":"/hylotlDescription","value":"一把劣质的椅子。"}]

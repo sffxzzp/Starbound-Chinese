@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些脚链是为了提醒年轻的叶族从太阳吸取力量而制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "萌芽短袜"}]

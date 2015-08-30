@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "传统的鲛人的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传统桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可用于研究的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个桌子看起来很少被使用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "没有骨头的桌子帮助叶族集中中。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "腻味。没人可以想象电子人城堡中有这样一个桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我爷爷以前也有这样一个桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "观赏性与实用性的良好平衡。"}]

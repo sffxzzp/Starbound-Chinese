@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/dpsTitleLabel/value","value":"每秒伤害(DPS)："},
+{"op":"replace","path":"/speedTitleLabel/value","value":"挥动速度："},
+{"op":"replace","path":"/damagePerShotTitleLabel/value","value":"每次挥动伤害："}]

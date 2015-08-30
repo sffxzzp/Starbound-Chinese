@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"用巨大尖牙装饰的柜子。"},
+{"op":"replace","path":"/shortdescription","value":"大型原始柜子"},
+{"op":"replace","path":"/apexDescription","value":"叶族柜子里放了什么？我可不想知道。"},
+{"op":"replace","path":"/avianDescription","value":"那些不是动物的牙齿就是尖尖的骨头。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人用尖牙装饰家具。越锋锋锋利的家越好。"},
+{"op":"replace","path":"/glitchDescription","value":"专心： 这个柜子上的牙齿非常锋利。"},
+{"op":"replace","path":"/humanDescription","value":"用很大的尖牙装饰的柜子。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个可怜生物的牙齿。"}]

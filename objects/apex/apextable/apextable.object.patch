@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"每个猿人都有这完全一样的餐桌。"},
+{"op":"replace","path":"/shortdescription","value":"普通桌子"},
+{"op":"replace","path":"/apexDescription","value":"每个猿人都在这样的桌子上吃晚餐。好吧…至少每个遵守条规的猿人"},
+{"op":"replace","path":"/avianDescription","value":"这桌子是用劣质木头做成的。"},
+{"op":"replace","path":"/floranDescription","value":"木头闻起来恶心。不是真的木头。"},
+{"op":"replace","path":"/glitchDescription","value":"压抑。完全没有乐趣的桌子。"},
+{"op":"replace","path":"/humanDescription","value":"一个压抑的桌子。"},
+{"op":"replace","path":"/hylotlDescription","value":"被压迫的双手做了这张桌子。"}]

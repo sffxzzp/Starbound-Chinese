@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一卷干草。"},
+{"op":"replace","path":"/shortdescription","value":"干草捆"},
+{"op":"replace","path":"/apexDescription","value":"捆的很好的干草。"},
+{"op":"replace","path":"/avianDescription","value":"翼族人不卷干草。"},
+{"op":"replace","path":"/floranDescription","value":"能滚的干草！"},
+{"op":"replace","path":"/glitchDescription","value":"确定：干草都卷起来了，准备出售。"},
+{"op":"replace","path":"/humanDescription","value":"一大捆干草。"},
+{"op":"replace","path":"/hylotlDescription","value":"干燥，被卷起来的植物。"}]

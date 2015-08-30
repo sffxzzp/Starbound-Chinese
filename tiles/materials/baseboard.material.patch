@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为你所有墙壁的底部加上一个经典的踢脚板！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "经典踢脚板"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述。一个踢脚板。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "多彩的踢脚板。"}]

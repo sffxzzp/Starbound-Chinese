@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "两个指头所指向的猿族身影的宏伟的画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宏伟大猿画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿，猿族的救世主吗？别逗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果翼神在里面的话这画就更好了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可以狩猎的猿族！有个浮动的大脑坐在里面！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这是用绘画的形式来寻找知识么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有什么东西看起来超出了这画―我不能把手指放上去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "猿族有他们自己关于知识起源的故事。"}]

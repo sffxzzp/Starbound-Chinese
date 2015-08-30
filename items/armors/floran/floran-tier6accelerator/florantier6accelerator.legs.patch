@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "叶族哨兵行军时听起来像是风暴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哨兵短裤"}]

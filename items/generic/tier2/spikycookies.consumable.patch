@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "就像普通饼干一样，只是边缘有些尖尖的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖饼干"}]

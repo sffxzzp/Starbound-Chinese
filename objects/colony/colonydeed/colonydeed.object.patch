@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "放进一个^white;至少有^orange;一扇门和^orange;灯的^orange;封闭式建筑^white;然后有人就会搬进来。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^yellow;殖民地契约"}]

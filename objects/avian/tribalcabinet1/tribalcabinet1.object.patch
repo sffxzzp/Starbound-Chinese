@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个翼族柜子的表面环绕着雕刻图案。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族柜子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个柜子。上面的装饰看起来是柜子的主人们自己做的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "家具装饰在折翼者中是最流行的爱好。这个柜子看起来忍受了这种爱好的折磨。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在装饰中看看看到了许多错错错误。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这上面的装饰似乎经过不止一人之手。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来一些人对装饰这个柜子充满了热情。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "装饰这个柜子似乎成了娱乐的源泉。"}]

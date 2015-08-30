@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^green;浅蓝色的点"},
+{ "op" : "replace", "path" : "/text", "value" : "我正打算开一个公共天文台！不过我仍然需要一些装饰让它看起来更像一个天文台。^green;你能帮我从电子人村庄找^orange;一个地球仪^white;来装饰它么？"},
+{ "op" : "replace", "path" : "/completionText", "value" : "啊，就是它！谢谢你。它在我的天文台里看起来很棒！给你这些像素和这个物质枪模块作为感谢。"}]

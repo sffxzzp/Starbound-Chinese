@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "球状、发出各种颜色光的植物纤维！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光纤维"}]

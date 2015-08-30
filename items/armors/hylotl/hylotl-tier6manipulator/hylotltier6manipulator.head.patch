@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "据说鲛人皇帝带上这个头盔后能在最深的海洋中看到不可思议的事情。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "无光头盔"}]

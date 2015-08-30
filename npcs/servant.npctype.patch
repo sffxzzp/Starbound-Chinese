@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":"我和你没什么可说的。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/human","value":["紧张。别和我说话！你会给我带来麻烦的！","羡慕。自由的生活，听起来很美。","好奇。找我的主人有什么事吗？","礼貌。我可以帮助你吗？","...","道歉。我很抱歉，但我们不允许和城堡的访客交谈。"]},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/apex","value":["紧张。别和我说话，你会给我带来麻烦的！","羡慕。自由的生活，听起来很美。","好奇。找我的主人有什么事吗？","礼貌。我可以帮助你吗？","...","道歉。我很抱歉，但我们不允许和城堡的访客交谈。"]},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/avian","value":["紧张。别和我说话，你会给我带来麻烦的！","羡慕。自由的生活，听起来很美。","好奇。找我的主人有什么事吗？","礼貌。我可以帮助你吗？","...","道歉。我很抱歉，但我们不允许和城堡的访客交谈。"]},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/floran","value":["紧张。别和我说话，你会给我带来麻烦的！","羡慕。自由的生活，听起来很美。","好奇。找我的主人有什么事吗？","礼貌。我可以帮助你吗？","...","道歉。我很抱歉，但我们不允许和城堡的访客交谈。"]},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/glitch","value":["紧张。别和我说话，你会给我带来麻烦的！","羡慕。自由的生活，听起来很美。","好奇。找我的主人有什么事吗？","礼貌。我可以帮助你吗？","...","道歉。我很抱歉，但我们不允许和城堡的访客交谈。"]},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/hylotl","value":["紧张。别和我说话，你会给我带来麻烦的！","羡慕。自由的生活，听起来很美。","好奇。找我的主人有什么事吗？","礼貌。我可以帮助你吗？","...","道歉。我很抱歉，但我们不允许和城堡的访客交谈。"]},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/default/0","value":"疑惑。你的感觉如何？"}]

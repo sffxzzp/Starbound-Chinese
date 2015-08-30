@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^green;X标记的位置"},
+{ "op" : "replace", "path" : "/text", "value" : "嗨，又见面了！你愿意参加另一个冒险么？翼人海盗总是在寻找宝藏，^green;如果你能找到一艘飞艇，我确信你能在那找到他们的^orange;藏宝图^green;。把那个带给我，我会给你一块新的空白科技驱动和一个物质枪模块。"},
+{ "op" : "replace", "path" : "/completionText", "value" : "哈！你找到了。没人知道有什么好东西藏在标记的地方。拿走这些吧！这是你应得的。"}]

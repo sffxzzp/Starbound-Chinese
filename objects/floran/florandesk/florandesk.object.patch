@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"叶族人也做书面工作吗？"},
+{"op":"replace","path":"/shortdescription","value":"原始桌子"},
+{"op":"replace","path":"/apexDescription","value":"一个叶族人的桌子。叶族人干什么需要用到桌子？"},
+{"op":"replace","path":"/avianDescription","value":"我从来没想过叶族人会在桌子上工作。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人在在桌桌子上计划下一次的打猎，桌桌子里没有骨头。 叶族人需要集中精神。"},
+{"op":"replace","path":"/glitchDescription","value":"无视：一个简陋的木头桌子。"},
+{"op":"replace","path":"/humanDescription","value":"这个桌子好像没有用任何骨头来制作，在叶族家具中真够稀奇的。"},
+{"op":"replace","path":"/hylotlDescription","value":"叶族家具没有骨头？别逗。"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鹅卵石砖"},
+{ "op" : "replace", "path" : "/description", "value" : "鹅卵石做的小砖块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。鹅卵石。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鹅卵石。"}]

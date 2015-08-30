@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;耕地时间"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "我能用这把锄头种各种农作物。^green;然我来把地耕好，然后^orange;种植并收获一些小麦。"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "美味的小麦！让我看看还有啥可以种！"
+  }
+]

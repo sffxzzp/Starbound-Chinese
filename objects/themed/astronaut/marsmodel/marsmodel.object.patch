@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "太阳系中红色的行星―火星的精细模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "火星是太阳系中的第四颗行星。直到地球毁灭后才被移走。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "火星玛尔斯，以古地球罗马神话中的战争之神命名。它也被称为“红色星球”。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火星有正在修建的陆地保护国学院的分校直到地球毁灭…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。火星是很多人的家。我想知道他们的感受。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "火星有几个殖民地和成千上万的人。由于地球毁灭而被疏散…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "当地球毁灭时火星正在进行地形改造…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "火星有一个星之子流浪者的殖民地。我想知道他们是否还在…"}]

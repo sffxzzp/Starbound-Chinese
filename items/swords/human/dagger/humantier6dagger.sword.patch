@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "双手指。像一把双手大剑，但更小。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "双手指"}]

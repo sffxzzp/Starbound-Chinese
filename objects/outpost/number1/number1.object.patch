@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"记号1。"},
+{"op":"replace","path":"/shortdescription","value":"1"},
+{"op":"replace","path":"/apexDescription","value":"一。"},
+{"op":"replace","path":"/avianDescription","value":"一。"},
+{"op":"replace","path":"/floranDescription","value":"尖尖的针。"},
+{"op":"replace","path":"/glitchDescription","value":"声明。一。"},
+{"op":"replace","path":"/humanDescription","value":"一。"},
+{"op":"replace","path":"/hylotlDescription","value":"一。"},
+{"op":"replace","path":"/novakidDescription","value":"一个一。"}]

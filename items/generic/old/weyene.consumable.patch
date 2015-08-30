@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "眼球菜酒被认为可以提高猎人的视力！迷信？没错。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "特温酒"}]

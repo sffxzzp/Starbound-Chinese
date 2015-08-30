@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;小丑和小偷"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "恶作剧又一次让我停下来！这次他们偷了我的小丑鼻子-毫无疑问他们正试图破坏我的表演！^green;你在这周围能帮我找一些^orange;圆的，小的，有颜色的^green;来代替它么？"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "一个橘子！真棒！我才发现原来的鼻子一直在我的口袋里。这个，这个给你。这个橙色的鼻子更好玩。"
+  }
+]

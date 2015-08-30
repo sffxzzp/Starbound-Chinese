@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "十字军的胸甲是由纯霓磷盐打造。它为额外长的十字军东征而包含三分之一的大脑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "十字军胸甲"}]

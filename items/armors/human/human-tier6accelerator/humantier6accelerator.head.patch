@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这坚硬头盔的护目镜是设计用于扩大穿戴者的视野。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "引导者头盔"}]

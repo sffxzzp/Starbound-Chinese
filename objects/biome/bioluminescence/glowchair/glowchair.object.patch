@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把发光的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这椅子长出来就是为了发光。无任何电路。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不喜欢这椅子发出的令人毛骨悚然的光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "植物灯是最好的。比起椅子来更好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这种有机的椅子有发光的节点。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不适合一个喜欢坐在黑暗中的人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "椅子顶部的三个亮光看起来真像一个闪烁的鲛人。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "罐头中的肉丸。不太像家里的味道，但我们是在太空啊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "肉丸"}]

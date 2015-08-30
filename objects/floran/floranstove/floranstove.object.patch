@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/subtitle","value":"原始的烹饪。"},
+{"op":"replace","path":"/description","value":"噢，晚餐吃什么？是我吗？"},
+{"op":"replace","path":"/shortdescription","value":"原始的炉子"},
+{"op":"replace","path":"/apexDescription","value":"一个炉子。挂在骨头上的壶被火焰熏黑了。 "},
+{"op":"replace","path":"/avianDescription","value":"炉子本身似乎是用骨头做的。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人做吃的，喜欢甜甜甜果汁。"},
+{"op":"replace","path":"/glitchDescription","value":"警惕。这个炉子看起来不是完全安全。扫描到了沙门氏菌..."},
+{"op":"replace","path":"/humanDescription","value":"只有上帝知道里面煮的是什么。"},
+{"op":"replace","path":"/hylotlDescription","value":"我宁愿不吃用这东西煮熟的食物。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精巧漂亮的螺旋桨。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "螺旋桨"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个巨大的螺旋桨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人也许没有翅膀，但螺旋桨可以让翼族的飞艇在空中飞。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "旋旋旋转的机器让飞飞飞船飞起来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这些螺旋桨必须高速旋转，以使整个飞船在空中飞行。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个螺旋桨的噪音很大"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "噪音很大，很讨人烦，但可以达到目的。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"为叛徒准备的桌子。"},
+{"op":"replace","path":"/shortdescription","value":"审讯桌"},
+{"op":"replace","path":"/apexDescription","value":"不知道多少同胞曾在这桌子上被鞭打过…"},
+{"op":"replace","path":"/avianDescription","value":"这种做法太反猿类了，这桌子应当被破坏掉。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人靠这样的设备来准备食物。"},
+{"op":"replace","path":"/glitchDescription","value":"恶心。电子人用这样的设备来从敌人身上榨取秘密。"},
+{"op":"replace","path":"/humanDescription","value":"虐待…一个很多很多年期已被人道主义从法律禁止的做法。"},
+{"op":"replace","path":"/hylotlDescription","value":"虐待在一个开明的社会是没有容身之地的。"}]

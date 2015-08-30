@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张舒适的椅子，看起来是要钉在地上。"},
+{"op":"replace","path":"/shortdescription","value":"标准的舒适椅子"},
+{"op":"replace","path":"/apexDescription","value":"这张椅子非常舒服。是你举报你的邻居的奖励。"},
+{"op":"replace","path":"/avianDescription","value":"这是填满了羽毛的么？"},
+{"op":"replace","path":"/floranDescription","value":"如---此的柔软---。"},
+{"op":"replace","path":"/glitchDescription","value":"舒服。比得上皇帝的王座。"},
+{"op":"replace","path":"/humanDescription","value":"哇塞，真是个非常舒服的椅子。很贵的样子。"},
+{"op":"replace","path":"/hylotlDescription","value":"像海底的沙子一般柔软~"}]

@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"竹子"},
+{"op":"replace","path":"/shortdescription","value":"竹子"},
+{"op":"replace","path":"/florandescription","value":"大棍子。"},
+{"op":"replace","path":"/glitchdescription","value":"声明。竹子。"}]

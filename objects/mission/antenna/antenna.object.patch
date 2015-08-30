@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"一个天线. 通常用于提高通信信号."},
+{"op":"replace","path":"/shortdescription","value":"天线"},
+{"op":"replace","path":"/apexDescription","value":"一根天线."},
+{"op":"replace","path":"/avianDescription","value":"一根增强信号的天线."},
+{"op":"replace","path":"/floranDescription","value":"叶族人能用这东西刺人!."},
+{"op":"replace","path":"/glitchDescription","value":"恼人,这种天线严重破坏了我的传感器."},
+{"op":"replace","path":"/humanDescription","value":"有没有人在那里？等等，我不想知道."},
+{"op":"replace","path":"/hylotlDescription","value":"一根天线."},
+{"op":"replace","path":"/novakidDescription","value":"一个吸收信号的天线."}]

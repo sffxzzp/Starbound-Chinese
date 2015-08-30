@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个有家的感觉的可爱木灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木落地灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个高大的木灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "木材和电力组成灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "甜蜜的灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "识别。一个简单的灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个不错的落地灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个迷人的灯。"}]

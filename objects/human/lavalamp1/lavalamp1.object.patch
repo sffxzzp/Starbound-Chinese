@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"你这迷人的灯光！我的眼睛都挪不开了。"},
+{"op":"replace","path":"/shortdescription","value":"熔岩灯"},
+{"op":"replace","path":"/apexDescription","value":"催眠的灯光。"},
+{"op":"replace","path":"/avianDescription","value":"这种灯不断地挑逗我去注视它。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人发现这盏灯很有趣，然后叶族人砸砸砸碎了它。"},
+{"op":"replace","path":"/glitchDescription","value":"分析：这盏灯里面的液体有剧毒。"},
+{"op":"replace","path":"/humanDescription","value":"让我想起了少年时代。"},
+{"op":"replace","path":"/hylotlDescription","value":"灯内液体的摇曳让我想起了家乡。"}]

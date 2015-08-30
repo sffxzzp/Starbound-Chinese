@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^orange;聚会时间"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "我想要了解关于这个聚会的一切。一个叶族聚会听起来很有趣。"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "我只是勉强逃脱出来。这个聚会长久以来都是嗜血的叶族猎手设置的陷阱。我发现了一个人造卫星，用它能连接到飞船的传送装置了。^green;接下来前哨站的叶族猎手将面临很多问题。"
+  }
+]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一只青蛙安静地坐着。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "青蛙雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个看起来很平静的青蛙。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种生物看起来深沉且有思想。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族认为叶族想刺它一下。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴趣。这雕像描绘了一种我所不知道的青蛙。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果有几个这样的人，我们可以一起唱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "母亲！哦。这是一只青蛙雕像。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"射蛋，满满的都是仁慈。"},
+{"op":"replace","path":"/shortdescription","value":"射蛋种子"},
+{"op":"replace","path":"/apexDescription","value":"射蛋使鸟类陷入生存困境。"},
+{"op":"replace","path":"/avianDescription","value":"射蛋是个什么东西。"},
+{"op":"replace","path":"/floranDescription","value":"看起来~~像个鸡蛋，但不会孵化~~"},
+{"op":"replace","path":"/glitchDescription","value":"好奇模式。鸟类很喜欢吃这些，吃货是不会在意它们跟鸡蛋一样的外观。"},
+{"op":"replace","path":"/humanDescription","value":"一个素鸡蛋。"},
+{"op":"replace","path":"/hylotlDescription","value":"对于那些不吃鸡蛋的人来说，这是一个可以接受的替代品。"}]

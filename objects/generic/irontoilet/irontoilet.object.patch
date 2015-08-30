@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用剑做的WC。风险。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁厕所"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这不是我见过的最有吸引力的厕所。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我无法想象这东西竟然非常受欢迎。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "尖的脑碗，叶族偷取这样的设计来创造自己的脑碗。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这个厕所对电子人来说是真正安全的。谁都需要它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个用剑做的厕所。我会做好几周恶梦的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果这些剑仍用于战斗的话，肯定会有人喜欢的。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个断头台，让我们在这里休息一下吧！"},
+{"op":"replace","path":"/shortdescription","value":"断头台"},
+{"op":"replace","path":"/apexDescription","value":"一种古老但很有效的刑罚。"},
+{"op":"replace","path":"/avianDescription","value":"没有拔毛可怕。"},
+{"op":"replace","path":"/floranDescription","value":"适合准备食物！"},
+{"op":"replace","path":"/glitchDescription","value":"悲痛： 我们的同胞最常接受的一种刑罚。"},
+{"op":"replace","path":"/humanDescription","value":"据说在被学姐之后还能活几秒。"},
+{"op":"replace","path":"/hylotlDescription","value":"野蛮的惩罚..."}]

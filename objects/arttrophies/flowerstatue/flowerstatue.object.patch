@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个花的雕塑，叶族人一定很喜欢。"},
+{"op":"replace","path":"/shortdescription","value":"大的花雕塑"},
+{"op":"replace","path":"/apexDescription","value":"一座宏伟的花雕像。"},
+{"op":"replace","path":"/avianDescription","value":"这是一朵非常大的花。"},
+{"op":"replace","path":"/floranDescription","value":"美丽的雕像。"},
+{"op":"replace","path":"/glitchDescription","value":"（幸福）我想坐在这座雕像边上。"},
+{"op":"replace","path":"/humanDescription","value":"这是一尊巨大的罂粟花雕像还是玫瑰花雕像？"},
+{"op":"replace","path":"/hylotlDescription","value":"一朵由岩石组成的大花。"}]

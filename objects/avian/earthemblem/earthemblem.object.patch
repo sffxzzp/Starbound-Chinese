@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个徽章象征着土的强大和柔韧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族土徽章"}]

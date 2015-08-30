@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为地球所有生命提供能源的黄矮星―太阳的精细模型。这个模型甚至也在放出光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "太阳模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "太阳。太阳系的核心。它属于在全部主序星中占比为7.6%的黄矮星。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "太阳系中心的恒星。它和我的家园星系里双星系统中的其中一颗恒星差不了多少。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "太太太阳。尽管地球毁灭了，但太太太阳依依依然光芒四射。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。何时我才能再次亲眼见到太阳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "家园星系的恒星，太阳。我永远不会忘记地球上的日落美景…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "太阳系中心的恒星，一个G类主序星。在公认的星际标准中，太阳的质量也被用作计算其他天体质量的标准计量单位。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "要是回到在学院里的那段日子，我可以整整凝视太阳几个小时不停歇。我会想念那段时光的。"}]

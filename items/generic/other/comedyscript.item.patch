@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有皱纹的、彩色的、写有糟糕笑话的纸。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "喜剧剧本"}]

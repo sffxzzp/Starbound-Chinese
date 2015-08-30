@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张漂亮的乡村长椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族长椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这种翼族长椅显示了对自然的感激。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张漂亮的小长椅。折翼者非常喜欢自己打造家具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "长椅闻闻闻起来有木头的香味，长势良好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "喜悦。一张手工长椅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来是手工做的。非常迷人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "虽然它的创造者缺乏技术，但这张长椅非常迷人。"}]

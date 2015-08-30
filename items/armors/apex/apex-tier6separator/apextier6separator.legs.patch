@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些帝合金靴子是为行走――在佩戴者的敌人身上打造的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "前线士兵的护胫"}]

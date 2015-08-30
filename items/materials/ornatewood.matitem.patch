@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"奢侈而华丽的木头。"},
+{"op":"replace","path":"/shortdescription","value":"华丽的木头"},
+{"op":"replace","path":"/florandescription","value":"叶族人喜欢高档的木头。"},
+{"op":"replace","path":"/glitchdescription","value":"声明。高档木材。"}]

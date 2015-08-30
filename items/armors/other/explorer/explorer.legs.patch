@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "探险家的腿部装甲。适合探索的盔甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "探险家腿甲"}]

@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^green;早期工作"},
+{ "op" : "replace", "path" : "/text", "value" : "嗨，陌生人！我是这个前哨站的科学家。我决定建造一个能让前哨站变得更好的装置。^green;我需要^orange;10块铜锭^green;来布置线路。^white;带给我这些我会给你奖励。"},
+{ "op" : "replace", "path" : "/completionText", "value" : "这边这边，你做得很好！这个给你。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个大的，紫色的好吃的水果糖！美味的！"},
+{"op":"replace","path":"/shortdescription","value":"大的紫色水果糖"},
+{"op":"replace","path":"/apexDescription","value":"一个好吃的紫色水果糖。"},
+{"op":"replace","path":"/avianDescription","value":"一个大的，紫色的水果糖。好吃。"},
+{"op":"replace","path":"/floranDescription","value":"叶族吃大的，紫色的好吃的水果糖！"},
+{"op":"replace","path":"/glitchDescription","value":"声明。一个好吃的紫色水果糖。"},
+{"op":"replace","path":"/humanDescription","value":"甜的！Yes！"},
+{"op":"replace","path":"/hylotlDescription","value":"这看起来很好吃。"}]

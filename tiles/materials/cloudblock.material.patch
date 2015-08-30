@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些固体云！你甚至可以在上面行走！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "云块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一个云块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不知道我可不可以尝一下？"}]

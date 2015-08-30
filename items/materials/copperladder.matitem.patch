@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"一个铜做的梯子。"},
+{"op":"replace","path":"/shortdescription","value":"铜制梯子"},
+{"op":"replace","path":"/florandescription","value":"梯子。"},
+{"op":"replace","path":"/glitchdescription","value":"陈述：一个铜制梯子。"}]

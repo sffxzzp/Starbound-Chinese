@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"一个紧凑的开关，轻轻按一下即可以控制开关。"},
+{"op":"replace","path":"/shortdescription","value":"墙上的小开关"},
+{"op":"replace","path":"/floranDescription","value":"开开开关！"},
+{"op":"replace","path":"/glitchDescription","value":"声明。一个小开关。"}]

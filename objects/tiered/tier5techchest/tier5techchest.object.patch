@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个遍布着明亮发光标记的箱子."},
+{"op":"replace","path":"/shortdescription","value":"霓磷盐科技箱"},
+{"op":"replace","path":"/apexDescription","value":"一个用来储存科技物品的箱子."},
+{"op":"replace","path":"/avianDescription","value":"一个坚实的高科技箱子,而且它在发光."},
+{"op":"replace","path":"/floranDescription","value":"发光的箱子装叶族人的东西西."},
+{"op":"replace","path":"/glitchDescription","value":"坚决。我会努力填补这个箱子."},
+{"op":"replace","path":"/humanDescription","value":"一个基本的，可靠的高科技的箱子."},
+{"op":"replace","path":"/hylotlDescription","value":"一个我能存储科技的箱子."}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "异域克星。一把能干掉任何外星人的长枪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "异域克星"}]

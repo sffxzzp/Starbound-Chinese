@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些耐钢裤子是为摩托车的骑手量身打造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "先驱者裤子"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有教育意义的！一个翼族肌肉解剖面具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族解剖学面具"}]

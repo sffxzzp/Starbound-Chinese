@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个漂亮的石头花喷泉。"},
+{"op":"replace","path":"/shortdescription","value":"植物喷泉"},
+{"op":"replace","path":"/apexDescription","value":"漂亮的喷泉。声音如此舒缓。"},
+{"op":"replace","path":"/avianDescription","value":"一个大的饮水池。"},
+{"op":"replace","path":"/floranDescription","value":"水带给叶族生命。"},
+{"op":"replace","path":"/glitchDescription","value":"（轻松）水让我冷静。"},
+{"op":"replace","path":"/humanDescription","value":"如果我有硬币我就把它扔进去。"},
+{"op":"replace","path":"/hylotlDescription","value":"有时，我会思念海洋"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个控制面板，看起来好像是用来操作灯光、门和报警器。"},
+{"op":"replace","path":"/shortdescription","value":"监狱控制面板"},
+{"op":"replace","path":"/apexDescription","value":"在监狱控制面板的操作侧感觉很奇怪。"},
+{"op":"replace","path":"/avianDescription","value":"如果，因为某些原因，我需要去学习如何管理一所监狱，我会去学怎么使用这个设备的。"},
+{"op":"replace","path":"/floranDescription","value":"机器对叶族人嘟嘟响，叶族人砸砸砸机器，敲按钮，把灯弄坏，又又又是那一套套套。"},
+{"op":"replace","path":"/glitchDescription","value":"理解：这台机器控制着监狱的一系列运作。"},
+{"op":"replace","path":"/humanDescription","value":"召集一帮囚犯然后释放他们，这样我就可以大喊 '越狱!'了"},
+{"op":"replace","path":"/hylotlDescription","value":"不干涉监狱的管理方法。"}]

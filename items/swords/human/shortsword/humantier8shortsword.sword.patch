@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "树种分裂者。一把可以分裂…树苗的很重的剑？太棒了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "树种分裂者"}]

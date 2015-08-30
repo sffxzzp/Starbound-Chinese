@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个失去动力的机器人！我想知道如果把开关打开会发生什么？"},
+{"op":"replace","path":"/shortdescription","value":"失去动力的机器人"},
+{"op":"replace","path":"/apexDescription","value":"一个失去动力的机器人。它看起来相当友好！"},
+{"op":"replace","path":"/avianDescription","value":"也许我可以把它激活，得到它的感激。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人要叫醒金属人！"},
+{"op":"replace","path":"/glitchDescription","value":"警报。在这个机器人的程序中检测到了怀有敌意的代码。"},
+{"op":"replace","path":"/humanDescription","value":"我以前见过的所有机器人都是友好的，我猜这个也一样！"},
+{"op":"replace","path":"/hylotlDescription","value":"即使这个机器人怀有敌意，我也会毫无疑问地使用外交手段来说服它！"}]

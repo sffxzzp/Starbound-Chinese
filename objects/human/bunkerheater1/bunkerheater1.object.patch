@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个空间加热器!"},
+{"op":"replace","path":"/shortdescription","value":"空间加热器"},
+{"op":"replace","path":"/apexDescription","value":"温暖、舒适的便携式加热器"},
+{"op":"replace","path":"/avianDescription","value":"能让羽毛变暖和，真是太完美了。"},
+{"op":"replace","path":"/floranDescription","value":"好热，不用火，叶族人喜欢。."},
+{"op":"replace","path":"/glitchDescription","value":"不关心： 一个小型加热器"},
+{"op":"replace","path":"/humanDescription","value":"空间加热器，这个名字听起来炫酷屌炸天，很有未来范儿。"},
+{"op":"replace","path":"/hylotlDescription","value":"这是一个实现便携式保温的聪明办法。"}]

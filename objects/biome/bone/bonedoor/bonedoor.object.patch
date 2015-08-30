@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一扇由骸骨制作而成的门，这扇门应该被装在哪？地狱？或是浴室？"},
+{"op":"replace","path":"/shortdescription","value":"骸骨门"},
+{"op":"replace","path":"/apexDescription","value":"一种不祥的骨门。我害怕传过去。"},
+{"op":"replace","path":"/avianDescription","value":"当然。穿过一个像这样的门必须对一些值得尊重的东西撒谎"},
+{"op":"replace","path":"/floranDescription","value":"叶族和门感到亲切。一脚把门踢开。"},
+{"op":"replace","path":"/glitchDescription","value":"（讽刺）我想这家伙死的时候是…打开门。是的。"},
+{"op":"replace","path":"/humanDescription","value":"触感好冷。 一股寒流从的我脊柱向上爬。 遥远的地方有狗在叫。 等等，这只是猿人在歌唱。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个邪恶的死亡之门。很恐怖。但是它有很好的铰链。"}]

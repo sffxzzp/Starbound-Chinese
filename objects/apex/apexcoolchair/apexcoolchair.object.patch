@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这是个酷炫狂拽吊炸天的椅子。"},
+{"op":"replace","path":"/shortdescription","value":"酷炫的椅子"},
+{"op":"replace","path":"/apexDescription","value":"有型。只有科技发展部才会有这样的家具。"},
+{"op":"replace","path":"/avianDescription","value":"这是鸡蛋吗？"},
+{"op":"replace","path":"/floranDescription","value":"柔软的皮。"},
+{"op":"replace","path":"/glitchDescription","value":"嫉妒。这只椅子真是非常带感。"},
+{"op":"replace","path":"/humanDescription","value":"这真是个帅气定测椅子。看来猿人还真是有一些品味的。"},
+{"op":"replace","path":"/hylotlDescription","value":"这只椅子如同剧本里写的一样。"}]

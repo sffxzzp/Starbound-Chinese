@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"水桶里有个洞。"},
+{"op":"replace","path":"/shortdescription","value":"电子人水桶"},
+{"op":"replace","path":"/apexDescription","value":"一个木制水桶。"},
+{"op":"replace","path":"/avianDescription","value":"我认为是用来盛水的。"},
+{"op":"replace","path":"/floranDescription","value":"有、有、有用的小水桶。"},
+{"op":"replace","path":"/glitchDescription","value":"教学：电子人用水桶从井里取水浇田。"},
+{"op":"replace","path":"/humanDescription","value":"你能在井里找到这种水桶。"},
+{"op":"replace","path":"/hylotlDescription","value":"电子人可以用手取水吗?没法想象在缺水的世界是如何生存的。"}]

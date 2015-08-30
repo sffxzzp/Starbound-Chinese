@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一顶简易帐篷。小心空间熊！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "简易帐篷"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个简易帐篷。足够好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个临时的房子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小温室。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "恼怒。没有太多空间。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我小时候喜欢露营。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不太愿意睡在帐篷里。"}]

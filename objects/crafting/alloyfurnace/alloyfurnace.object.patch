@@ -1,0 +1,10 @@
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"合金炉"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"冶炼矿石并制作坚固的合金！"},
+{"op":"replace","path":"/description","value":"有了这个炉子，我能制造钢铁和其他坚固的材料."},
+{"op":"replace","path":"/shortdescription","value":"^orange;合金炉^white;"},
+{"op":"replace","path":"/apexDescription","value":"一个合金炉，在这里我能熔制钢铁和其他材料."},
+{"op":"replace","path":"/avianDescription","value":"一个用来制作钢铁和合金的完美的炉子."},
+{"op":"replace","path":"/floranDescription","value":"熔炉嘶嘶嘶,吐,燃烧. 叶族人赞颂它."},
+{"op":"replace","path":"/glitchDescription","value":"手艺. 这个熔炉有完美的温度来制造钢铁和其他合金."},
+{"op":"replace","path":"/humanDescription","value":"一个合金炉，热到足以冶炼钢等材料."},
+{"op":"replace","path":"/hylotlDescription","value":"一个非常热的，气势雄伟的合金炉。我可以用这个制造更强的材料."}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "军团士兵的胸甲是由菲洛合金打造，据说不仅可以保存电子人的大脑，还可以保存电子人的灵魂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "军团士兵胸甲"}]

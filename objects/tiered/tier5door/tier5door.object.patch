@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个非常坚固的霓磷盐的门."},
+{"op":"replace","path":"/shortdescription","value":"霓磷盐门"},
+{"op":"replace","path":"/apexDescription","value":"这个门是非常安全的."},
+{"op":"replace","path":"/avianDescription","value":"一个非常坚固的门."},
+{"op":"replace","path":"/floranDescription","value":"叶族人躲在门后,跳出来,刺!"},
+{"op":"replace","path":"/glitchDescription","value":"批准,一个有用的门."},
+{"op":"replace","path":"/humanDescription","value":"一个坚固的霓磷盐门."},
+{"op":"replace","path":"/hylotlDescription","value":"一个坚固的霓磷盐门."}]

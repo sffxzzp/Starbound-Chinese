@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一坨很高的草丛，没准里面有龙虾！"},
+{"op":"replace","path":"/shortdescription","value":"高草丛"},
+{"op":"replace","path":"/apexDescription","value":"高草丛。它在微风中发出轻微的沙沙声。"},
+{"op":"replace","path":"/avianDescription","value":"又高又柔软的草"},
+{"op":"replace","path":"/floranDescription","value":"叶族藏在草丛后。跳出，呸！捅。"},
+{"op":"replace","path":"/glitchDescription","value":"（隐藏？）叶族经常将自己藏在草丛后伺机寻找猎物。"},
+{"op":"replace","path":"/humanDescription","value":"我想赤脚在这草上奔跑。"},
+{"op":"replace","path":"/hylotlDescription","value":"草……屠杀……叶族……闪现……这很漂亮。"}]

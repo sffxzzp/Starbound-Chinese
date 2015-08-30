@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":"我曾为观星者服务，直到开始发现我并不怎么赞同他们的观点。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/avian/default/0","value":"我曾为观星者服务，直到开始发现我并不怎么赞同他们的观点。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/avian/avian/0","value":"你在这里不用害怕观星者的愤怒，我的朋友。"}]

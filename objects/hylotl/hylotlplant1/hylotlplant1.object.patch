@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鲛人家园的鲛人植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人植物1"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "每个鲛人家园中的植物都是假的么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "假植物。很好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族刺这种冒名顶替的植物！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。这个塑料假植物里有一个真的植物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "让我想起了等候室。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种令人厌恶的塑性假植物。"}]

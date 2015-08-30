@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"有年头的厨柜。"},
+{"op":"replace","path":"/shortdescription","value":"电子人橱柜"},
+{"op":"replace","path":"/apexDescription","value":"看上去它的表面是用来准备食物的，木头里面已经渗入了不同的味道。"},
+{"op":"replace","path":"/avianDescription","value":"这个橱柜可以闻到许多不同的气味。"},
+{"op":"replace","path":"/floranDescription","value":"嗯嗯，这、这个橱柜上剁、剁过肉，叶族人能闻、闻出来。"},
+{"op":"replace","path":"/glitchDescription","value":"辨认：电子人的厨柜，木头上有许多不同的香味。"},
+{"op":"replace","path":"/humanDescription","value":"一个简陋的厨柜， 但愿没有食物的残渣混到菜里。"},
+{"op":"replace","path":"/hylotlDescription","value":"木头上有丰富的气味，这种气味在水里是罕见的。"}]

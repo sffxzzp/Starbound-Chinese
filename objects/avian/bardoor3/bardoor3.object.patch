@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种沉重的铁闸门砰的一声就关上了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型铁闸门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我厌倦了栅栏和链条。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇坚实的门，能够有效地阻挡入侵者。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "结结结实的金属门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀念。这种铁闸门让我想起了装配我的地方。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇铁闸门，好像回到了过去！非常真实。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不受欢迎。"}]

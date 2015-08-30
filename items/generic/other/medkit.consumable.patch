@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种治疗中度创伤的医疗包。使用它恢复60点生命。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "医疗包"}]

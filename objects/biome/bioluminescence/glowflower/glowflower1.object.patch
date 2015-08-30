@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个散发着荧光的箱子"},
+{"op":"replace","path":"/shortdescription","value":"发光的箱子"},
+{"op":"replace","path":"/apexDescription","value":"这个箱子好像是个生命体？"},
+{"op":"replace","path":"/avianDescription","value":"这个箱子是怎么制造的？生长？"},
+{"op":"replace","path":"/floranDescription","value":"非常神神神奇！叶族要把把把它种在地上！"},
+{"op":"replace","path":"/glitchDescription","value":"激动：这是一个被刻意种植出来，用于储存的箱子。"},
+{"op":"replace","path":"/humanDescription","value":"它之前是什么样的？"},
+{"op":"replace","path":"/hylotlDescription","value":"这个箱子看起来是纯天然的，真神奇！"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"在完全生锈的油桶里燃烧的一团火。"},
+{"op":"replace","path":"/shortdescription","value":"桶火"},
+{"op":"replace","path":"/apexDescription","value":"一个燃烧的油桶。我认为这不是官方监狱里面的取暖用具。"},
+{"op":"replace","path":"/avianDescription","value":"离它太近的话会烧焦我的羽毛。"},
+{"op":"replace","path":"/floranDescription","value":"燃烧的鼓让叶族人害害害怕，叶族人要保持距距距离。"},
+{"op":"replace","path":"/glitchDescription","value":"不爽：这看起来像在烧电子人。"},
+{"op":"replace","path":"/humanDescription","value":"啊，古老的临时燃烧桶，经典啊。"},
+{"op":"replace","path":"/hylotlDescription","value":"尽管外观很简陋，但在金属桶里点火给人某种启发。"}]

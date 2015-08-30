@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/paneLayout/windowtitle/title","value":"星界边境曲目表"},
+{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":"^#b9b5b2;音乐"},
+{"op":"replace","path":"/paneLayout/lblSong/value","value":"选择一首歌"},
+{"op":"replace","path":"/paneLayout/songs/children/list/schema/listTemplate/songName/value","value":"替换我"},
+{"op":"replace","path":"/paneLayout/group/hint","value":"独奏"},
+{"op":"replace","path":"/paneLayout/lblBand/value","value":"输入乐队名"},
+{"op":"replace","path":"/paneLayout/lblBandPlayback/value","value":"来合奏乐曲"},
+{"op":"replace","path":"/paneLayout/btnPlay/caption","value":"演奏"}]

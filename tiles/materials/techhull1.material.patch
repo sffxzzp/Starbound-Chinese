@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "线路隐藏在加固的电镀材料下。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "增强科技块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。用电镀来隐藏线路。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "撕开电镀，砍掉线路。"}]

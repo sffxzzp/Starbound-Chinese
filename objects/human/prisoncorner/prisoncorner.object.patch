@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这么漂亮的建筑和监狱的画风一点儿也不搭。"},
+{"op":"replace","path":"/shortdescription","value":"装饰支撑梁"},
+{"op":"replace","path":"/apexDescription","value":"人类囚犯至少还可以看看这个令人愉快的建筑"},
+{"op":"replace","path":"/avianDescription","value":"我不能肯定这个拱门给人的感觉是漂亮还是不祥。"},
+{"op":"replace","path":"/floranDescription","value":"带带带钉的拱门，叶族人喜欢设计。"},
+{"op":"replace","path":"/glitchDescription","value":"满意： 人类和电子人的建筑风格看起来有相似之处。"},
+{"op":"replace","path":"/humanDescription","value":"2020年颁布的刑法安慰法典规定，所有监狱必须进行装修，让犯人们开心。"},
+{"op":"replace","path":"/hylotlDescription","value":"人类似乎给予了犯人以尊重，我们鲛人也是如此。"}]

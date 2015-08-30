@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"出于某些原因，我总是想着会在这样的门后找到一些异常强大的生物。"},
+{"op":"replace","path":"/shortdescription","value":"古典门"},
+{"op":"replace","path":"/apexDescription","value":"门把手是用纯金做的，而木头上还有香蕉味。"},
+{"op":"replace","path":"/avianDescription","value":"这样一扇门只会对极少人开着。"},
+{"op":"replace","path":"/floranDescription","value":"猿人黄色水果的味道从木头上飘出来。"},
+{"op":"replace","path":"/glitchDescription","value":"愤怒。传感器认为这是个独一无二的门。电子人没用能力体验到这样的东西。"},
+{"op":"replace","path":"/humanDescription","value":"这扇门…有香蕉的味道？"},
+{"op":"replace","path":"/hylotlDescription","value":"香薰的木头，这是在鲛人工艺品种常见的做法。"}]

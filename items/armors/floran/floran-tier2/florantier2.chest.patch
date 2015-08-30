@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由骨头强化的钢加上猎物的皮毛组成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "秘骨胸甲"}]

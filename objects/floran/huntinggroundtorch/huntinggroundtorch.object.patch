@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个火炬。映出了想要吃掉你的野兽的影子。"},
+{"op":"replace","path":"/shortdescription","value":"猎场火炬"},
+{"op":"replace","path":"/apexDescription","value":"火炬。"},
+{"op":"replace","path":"/avianDescription","value":"火炬。"},
+{"op":"replace","path":"/floranDescription","value":"火炬。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。火炬。"},
+{"op":"replace","path":"/humanDescription","value":"火炬。"},
+{"op":"replace","path":"/hylotlDescription","value":"火炬。"}]

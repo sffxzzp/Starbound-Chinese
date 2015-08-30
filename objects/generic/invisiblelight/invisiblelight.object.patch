@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以照明，用于宇宙飞船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这里没什么好看的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这里没什么好看的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这里没什么好看的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "这里没什么好看的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这里没什么好看的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这里没什么好看的。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"实际上，这些路标上面没有任何关于它们所指向的地方的说明。"},
+{"op":"replace","path":"/shortdescription","value":"十字路标"},
+{"op":"replace","path":"/apexDescription","value":"一个路标，但上面什么说明都没有"},
+{"op":"replace","path":"/avianDescription","value":"看起来指明了方向，但是关于所指方向的内容却没有说明。"},
+{"op":"replace","path":"/floranDescription","value":"路、路、路标让叶族人迷惑、惑。"},
+{"op":"replace","path":"/glitchDescription","value":"教学：许多电子人平民不会读写，这就解释了出现这种无字路标的原因。"},
+{"op":"replace","path":"/humanDescription","value":"我不知道一个空白路标会有多大用处。"},
+{"op":"replace","path":"/hylotlDescription","value":"我不确定这种路标的意义。"}]

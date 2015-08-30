@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一个根。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "根"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某种树的根。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一个根。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "根。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个不起眼的根。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "是的。这是一个根。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "根。"}]

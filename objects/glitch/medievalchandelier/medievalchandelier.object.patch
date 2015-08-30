@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"如果这是电子游戏的话，吊灯一定会掉下来摔个粉碎，并且会蹦出什么人来。"},
+{"op":"replace","path":"/shortdescription","value":"电子人枝形吊灯"},
+{"op":"replace","path":"/apexDescription","value":"一个金属吊灯， 适合照亮大房子。"},
+{"op":"replace","path":"/avianDescription","value":"把灯吊在天花板上，可以让光线笼罩整个房间。."},
+{"op":"replace","path":"/floranDescription","value":"吊起来的火让叶族人很紧张、张。"},
+{"op":"replace","path":"/glitchDescription","value":"识别：电子人吊灯， 是电子人城堡里为数不多的热源之一。"},
+{"op":"replace","path":"/humanDescription","value":"金属吊灯，投下了长长的影子。"},
+{"op":"replace","path":"/hylotlDescription","value":"这个吊灯使周围的空间都沐浴在橙色的光线之中。"}]

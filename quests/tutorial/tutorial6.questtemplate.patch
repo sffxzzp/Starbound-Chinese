@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^yellow;教程 VI: 工作使用的工具"},
+{ "op" : "replace", "path" : "/text", "value" : "如果我想在这生存下去，我需要更好的装备。^green;我可以用^orange;熔炉^green;冶炼一些^orange;铁矿石^green;来获得^orange;铁锭^white;。在地底更深处我能更容易找到这种矿石。"},
+{ "op" : "replace", "path" : "/completionText", "value" : "干的漂亮！我需要一大堆^orange;铁锭^white;来打造更好的部件，但在此之前我需要一些^green;能够用来制作它们的东西。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这菜让你充满愉快和温暖的感觉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "特色炒饭"}]

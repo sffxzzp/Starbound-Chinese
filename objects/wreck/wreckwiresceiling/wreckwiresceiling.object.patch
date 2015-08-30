@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "旧线路，四分五裂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "悬挂的破旧线路"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "断了的线。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "损坏的铜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "破旧的铜藤蔓。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这些线不能够承载的电流。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "电线被撕开。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有人故意破坏这些电线么？"}]

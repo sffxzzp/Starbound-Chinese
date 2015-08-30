@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个画的很拙劣的骷髅头，看起来笑的很开心。"},
+{"op":"replace","path":"/shortdescription","value":"涂鸦"},
+{"op":"replace","path":"/apexDescription","value":"看起来像是人类的头骨。"},
+{"op":"replace","path":"/avianDescription","value":"如果这是一种警告的话，未免也太欢乐了。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人喜欢这个艺术家，叶族人能看明白。"},
+{"op":"replace","path":"/glitchDescription","value":"描述：画工拙劣的骷髅头"},
+{"op":"replace","path":"/humanDescription","value":"又一位引人注目的街头艺术家要诞生了。"},
+{"op":"replace","path":"/hylotlDescription","value":"这名艺术家显然没什么才能。"}]

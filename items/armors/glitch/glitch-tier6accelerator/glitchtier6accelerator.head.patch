@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "军团士兵是有积极思想的帝国骑士精英。他们的头盔反映未来的时尚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "军团士兵头盔"}]

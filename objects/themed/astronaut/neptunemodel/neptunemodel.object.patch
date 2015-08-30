@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "太阳系中最靠外侧的行星―海王星的精细模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海王星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是海王星。它上面的大黑斑类似于那更知名的木星大红斑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "海王星尼普顿，以古地球罗马神话中的海洋之神命名；而它最大的卫星则是以一个更低等的海神命名。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "海王星太阳系系系里第二大的冰巨星。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。就在几年前，一艘电子人运输飞船因为系统故障而在海王星上坠毁。船上的人全都遇难了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "海王星是我的家园星系-太阳系中最偏远的行星。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "海王星有一个大黑斑和一个小黑斑。如果它还有第三个黑斑的话那就完美了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "海王星附近经常发生一些奇怪的飞船消失事件。因而产生了关于一个至今还将飞船藏身于海王星云层之中的大海盗的种种传说。"}]

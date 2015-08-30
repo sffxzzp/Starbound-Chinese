@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"叶族人的狩猎长椅。有许多用途。"},
+{"op":"replace","path":"/shortdescription","value":"狩猎长椅"},
+{"op":"replace","path":"/apexDescription","value":"有多少被杀死的猎物在这里被叶族人瓜分？"},
+{"op":"replace","path":"/avianDescription","value":"结实的叶族人长椅。"},
+{"op":"replace","path":"/floranDescription","value":"狩猎长椅。坐坐坐在这里切割、刺刺刺。"},
+{"op":"replace","path":"/glitchDescription","value":"研究。各种迹象表明，这个长椅上沾着超过三千种不同物种的血迹。"},
+{"op":"replace","path":"/humanDescription","value":"酷，一个长椅。看起来很血腥。"},
+{"op":"replace","path":"/hylotlDescription","value":"叶族人在狩猎期间坐在这种长椅上休息。"}]

@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/areYouSure/value","value":"您确定要删除\n这个人物？"},
+{"op":"replace","path":"/delete/caption","value":"删除"},
+{"op":"replace","path":"/cancel/caption","value":"取消"}]

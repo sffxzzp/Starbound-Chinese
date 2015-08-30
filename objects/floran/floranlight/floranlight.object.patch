@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"植物的荚子里发出绿色的光。"},
+{"op":"replace","path":"/shortdescription","value":"叶族灯"},
+{"op":"replace","path":"/apexDescription","value":"一个诡异的叶族灯。"},
+{"op":"replace","path":"/avianDescription","value":"我想知道叶族人是怎么控制植物灯生长的地方的。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人的灯吸吸吸收太阳岛能量，然后再慢慢慢慢施放出来。"},
+{"op":"replace","path":"/glitchDescription","value":"检查： 这些灯的生长好像被严格的控制了起来。"},
+{"op":"replace","path":"/humanDescription","value":"绿色的光让我有点不舒服。"},
+{"op":"replace","path":"/hylotlDescription","value":"这些灯除了自然之外没有别的特点。"}]

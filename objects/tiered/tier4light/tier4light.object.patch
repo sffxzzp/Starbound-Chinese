@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个发光的耐钢灯."},
+{"op":"replace","path":"/shortdescription","value":"耐钢灯"},
+{"op":"replace","path":"/apexDescription","value":"一个制作精良的光源."},
+{"op":"replace","path":"/avianDescription","value":"即使在最黑暗的房间里这个灯也能照亮。."},
+{"op":"replace","path":"/floranDescription","value":"对于叶族人来说灯很安全."},
+{"op":"replace","path":"/glitchDescription","value":"声明,一个强大的灯"},
+{"op":"replace","path":"/humanDescription","value":"整齐，坚固的灯."},
+{"op":"replace","path":"/hylotlDescription","value":"一个有用的光源."}]

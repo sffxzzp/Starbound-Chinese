@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "带有猿族宣言并带有烟丝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猎人夹克"}]

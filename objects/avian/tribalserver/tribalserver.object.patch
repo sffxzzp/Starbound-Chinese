@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种翼族服务器一定包含了大量的数据。要是我有U盘就好了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族服务器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来似乎是某种服务器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族的水晶收集数据并将其存储在这些机器中。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人从服服服务器里偷偷偷知识。非常有用。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不知所措。存储的数据量非常巨大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像一个服务器"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这里有如此多的数据。要是我能把它导出就好了。"}]

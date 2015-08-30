@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"木桶，但愿里面没藏着海盗。"},
+{"op":"replace","path":"/shortdescription","value":"小木桶"},
+{"op":"replace","path":"/apexDescription","value":"一个木桶，里面有东西吗？"},
+{"op":"replace","path":"/avianDescription","value":"一个木制容器，外面用铁圈加固。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人要把东西西西放在里里面，然后让桶滚起来。"},
+{"op":"replace","path":"/glitchDescription","value":"观察：一个木桶，里面装着一些廉价的物品。"},
+{"op":"replace","path":"/humanDescription","value":"木桶，适合储存食物和材料。"},
+{"op":"replace","path":"/hylotlDescription","value":"用来装货的木桶。"}]

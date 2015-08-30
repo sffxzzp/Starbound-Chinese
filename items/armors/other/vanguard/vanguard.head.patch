@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这霓磷盐头盔通常由先锋者―人类的装甲部队佩戴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "先锋头盔"}]

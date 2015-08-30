@@ -1,0 +1,7 @@
+[{"op":"replace","path":"/shortdescription","value":"浴缸"},
+{"op":"replace","path":"/apexDescription","value":"一个可爱的小浴缸. 对于猿人来说太小了."},
+{"op":"replace","path":"/avianDescription","value":"带淋浴器的浴缸. 就像水流抚过翼族的后背."},
+{"op":"replace","path":"/floranDescription","value":"大水桶用来储储储存血液是再好不过的了"},
+{"op":"replace","path":"/glitchDescription","value":"得意. 电子人是不需要洗淋浴的"},
+{"op":"replace","path":"/humanDescription","value":"舒服的热水澡. 医生的处方正是这个. 唯一遗憾的是没有蜡烛和恩雅 ."},
+{"op":"replace","path":"/hylotlDescription","value":"人类洗澡用的水槽.我们鲛人只要游泳就行了."}]

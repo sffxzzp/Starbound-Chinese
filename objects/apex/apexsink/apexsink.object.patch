@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"别忘了洗手！"},
+{"op":"replace","path":"/shortdescription","value":"浴室洗脸盆"},
+{"op":"replace","path":"/apexDescription","value":"一个无暇的洗脸盆。不干净的屋子是科学发展部无法忍受的。"},
+{"op":"replace","path":"/avianDescription","value":"一个饮水机…可能是自动饮水机？"},
+{"op":"replace","path":"/floranDescription","value":"清甜有营养的水。"},
+{"op":"replace","path":"/glitchDescription","value":"扫描。水纯度13%。看起来里面有一种人造的元素。"},
+{"op":"replace","path":"/humanDescription","value":"我应当时常洗手。"},
+{"op":"replace","path":"/hylotlDescription","value":"这种水不适合游泳。"}]

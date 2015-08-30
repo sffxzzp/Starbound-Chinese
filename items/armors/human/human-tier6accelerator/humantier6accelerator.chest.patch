@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件铠甲内的电路可以调节呼吸频率并帮助穿戴者稳定瞄准。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "引导者护胸"}]

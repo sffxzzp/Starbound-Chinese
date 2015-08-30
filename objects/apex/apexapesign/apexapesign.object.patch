@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"大猿人是无所不知的！"},
+{"op":"replace","path":"/shortdescription","value":"大猿人海报"},
+{"op":"replace","path":"/apexDescription","value":"大猿人…即使现在我也感觉正在被注视着。"},
+{"op":"replace","path":"/avianDescription","value":"通过羽毛！那些占星师们会称之为亵渎。"},
+{"op":"replace","path":"/floranDescription","value":"不知道那只猴子有多大？可能我们可以找到他，把他变成一顿大餐。 "},
+{"op":"replace","path":"/glitchDescription","value":"好奇。我真想测试一下它的生命形式，看看它长什么样。"},
+{"op":"replace","path":"/humanDescription","value":"真不知道猿人是怎么忍受这些的。"},
+{"op":"replace","path":"/hylotlDescription","value":"在望向外面之前，应先注视自身。"}]

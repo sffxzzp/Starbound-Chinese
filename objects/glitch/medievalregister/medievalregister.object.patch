@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"咔-嚓！"},
+{"op":"replace","path":"/shortdescription","value":"收银机"},
+{"op":"replace","path":"/apexDescription","value":"一个可爱的小型收银机。"},
+{"op":"replace","path":"/avianDescription","value":"这个小型设备上有数字。"},
+{"op":"replace","path":"/floranDescription","value":"小机器让叶族人很困、困惑。"},
+{"op":"replace","path":"/glitchDescription","value":"困惑： 电子人没有货币， 难道电子人已经开始流通像素了么?"},
+{"op":"replace","path":"/humanDescription","value":"一台老式的收银机。."},
+{"op":"replace","path":"/hylotlDescription","value":"用来计算和存储的机器。"}]

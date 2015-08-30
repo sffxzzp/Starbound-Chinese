@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个金色的球。这些是受欢迎的节日饰品。"},
+{"op":"replace","path":"/shortdescription","value":"金球节日饰品"},
+{"op":"replace","path":"/apexDescription","value":"闪闪发光的金色球。漂亮的。"},
+{"op":"replace","path":"/avianDescription","value":"一个宏伟的金球。"},
+{"op":"replace","path":"/floranDescription","value":"叶族踢闪光球！"},
+{"op":"replace","path":"/glitchDescription","value":"开心。一个可爱的装饰。"},
+{"op":"replace","path":"/humanDescription","value":"要小心，别把这个小玩意儿弄碎了。"},
+{"op":"replace","path":"/hylotlDescription","value":"这个闪闪发光的球有些让人昏昏欲睡。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个坚固的悬挂书架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "悬挂书架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个书架挂在墙上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有空间意识的书柜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "墙上的小书架。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。墙上的书柜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个漂亮的木制书架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个书架挂在墙上以节省空间。"}]

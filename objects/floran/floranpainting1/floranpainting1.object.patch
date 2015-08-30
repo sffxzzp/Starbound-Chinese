@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这幅画好像在讲怎样制造火源。"},
+{"op":"replace","path":"/shortdescription","value":"原始的烟画"},
+{"op":"replace","path":"/apexDescription","value":"这些是说明吗？"},
+{"op":"replace","path":"/avianDescription","value":"那是火吗？"},
+{"op":"replace","path":"/floranDescription","value":"年轻的叶族人按照这个学习点火，很多叶族人被烧焦了。"},
+{"op":"replace","path":"/glitchDescription","value":"解释：这个好像是在解释怎样制造火。"},
+{"op":"replace","path":"/humanDescription","value":"一个富有教育意义的火源制作说明。"},
+{"op":"replace","path":"/hylotlDescription","value":"叶族人教熊孩子们点火也许是让鲛人最高兴的事情了。"}]

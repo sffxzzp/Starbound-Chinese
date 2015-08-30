@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"一堆尘封的史册，全都是些关于龙和骑士的传说。"},
+{"op":"replace","path":"/shortdescription","value":"书堆"},
+{"op":"replace","path":"/florandescription","value":"叶族人会尝试读完这些书。"},
+{"op":"replace","path":"/glitchdescription","value":"学习。一堆非常有趣的巨著。"}]

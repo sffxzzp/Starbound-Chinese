@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "合成器的护胸从太阳获取了如此多的力量，以至于开始发烫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "合成器护胸"}]

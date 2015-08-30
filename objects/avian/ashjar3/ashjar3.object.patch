@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个密友形状的罐子。看起来很生气，好像可以打碎。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "密友罐子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这罐子看起来很熟悉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我以前从来没见过这样的罐子，也许这是某人的幽默留下的产物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "我想知道这这这个生物味味味道如何。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "说谎。我从来没见过这样的生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嘿，这看起来像一个..."},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "奇怪的生物。"}]

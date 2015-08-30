@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一小坨发着光的菌类"},
+{"op":"replace","path":"/shortdescription","value":"荧光蘑菇"},
+{"op":"replace","path":"/apexDescription","value":"很小的发光蘑菇。"},
+{"op":"replace","path":"/avianDescription","value":"这些发光的蘑菇如此美丽！"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢小发光蘑菇……它帮助叶族在黑暗里看物。"},
+{"op":"replace","path":"/glitchDescription","value":"（好奇）这些发光蘑菇发出非常柔和自然的光。"},
+{"op":"replace","path":"/humanDescription","value":"这些蘑菇放出绿色的光。我不应该去尝试吃他们。"},
+{"op":"replace","path":"/hylotlDescription","value":"这些小蘑菇的微弱光芒在地下是一种美丽的景观。"}]

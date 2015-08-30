@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/destinations/0","value":{"name":"Outpost","planetName":"幸存者集结点","warpAction":"InstanceWorld:outpost","icon":"outpost"}},
+{"op":"replace","path":"/destinations/1","value":{"name":"Ark","planetName":"神秘废墟","warpAction":"InstanceWorld:monolith","icon":"ark"}}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"交战!"},
+{"op":"replace","path":"/shortdescription","value":"船长椅"},
+{"op":"replace","path":"/apexDescription","value":"时髦的船长椅。"},
+{"op":"replace","path":"/avianDescription","value":"船长椅, 是为了能够舒服地进行星际旅行而设计出来的。"},
+{"op":"replace","path":"/floranDescription","value":"为了宇宇宇宙飞船，叶族人偷偷偷了椅子。"},
+{"op":"replace","path":"/glitchDescription","value":"羡慕：异常舒服的船长椅"},
+{"op":"replace","path":"/humanDescription","value":"在我孩提时代，曾经梦想着有朝一日能够坐在这样一把椅子上，我的野心是不是太低了?"},
+{"op":"replace","path":"/hylotlDescription","value":"船长椅, 为了满足最大舒适度而精心设计。"}]

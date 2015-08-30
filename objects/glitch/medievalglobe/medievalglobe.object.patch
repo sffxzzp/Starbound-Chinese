@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"电子人所居住的星球的模型。"},
+{"op":"replace","path":"/shortdescription","value":"电子人星球仪"},
+{"op":"replace","path":"/apexDescription","value":"一个星球仪，与飞船上的数据不符。"},
+{"op":"replace","path":"/avianDescription","value":"这上面似乎标注了陆地。"},
+{"op":"replace","path":"/floranDescription","value":"大铁人的世界很大。"},
+{"op":"replace","path":"/glitchDescription","value":"确定：电子人星球仪，很不准确，电子人的制图技术还不到家。"},
+{"op":"replace","path":"/humanDescription","value":"没有一个星球的情况符合这个星球仪的描述。"},
+{"op":"replace","path":"/hylotlDescription","value":"根据飞船的数据，这个星球仪完全不靠谱。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个用来开启采矿钻的收获功能的控制台."},
+{"op":"replace","path":"/shortdescription","value":"采矿钻控制台"},
+{"op":"replace","path":"/apexDescription","value":"这是我见过第二大-不,最大的采矿机!"},
+{"op":"replace","path":"/avianDescription","value":"这是我所见过的第二大的采矿机!"},
+{"op":"replace","path":"/floranDescription","value":"这是我所见过的第二大的采矿机!"},
+{"op":"replace","path":"/glitchDescription","value":"这是我所见过的第二大的采矿机!"},
+{"op":"replace","path":"/humanDescription","value":"这是我所见过的第二大的采矿机!"},
+{"op":"replace","path":"/hylotlDescription","value":"这是我所见过的第二大的采矿机!"}]

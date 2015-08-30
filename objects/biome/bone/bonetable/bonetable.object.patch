@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个令人毛骨悚然的桌子，看起来应该是用来献祭的。但真的很适合野餐~"},
+{"op":"replace","path":"/shortdescription","value":"骸骨桌子"},
+{"op":"replace","path":"/apexDescription","value":"这个骨头桌子没有足够放脚的空间。"},
+{"op":"replace","path":"/avianDescription","value":"这让我想起了祭坛，艹，我宁愿忘记它。"},
+{"op":"replace","path":"/floranDescription","value":"叶族渴望在桌子上切肉。 这桌子看起来很好。."},
+{"op":"replace","path":"/glitchDescription","value":"（调查）这桌子表面有刀痕。 看撒谎那个区很残忍。"},
+{"op":"replace","path":"/humanDescription","value":"酷！令人毛骨悚然的桌子。正是我一直想要的。"},
+{"op":"replace","path":"/hylotlDescription","value":"一张由死亡诞生的桌子。毫无疑问，肉已经消失了"}]

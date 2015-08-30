@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"好想把这个当作大衣穿身上然后宣布我是天朝的国王。"},
+{"op":"replace","path":"/shortdescription","value":"黑色的长皮"},
+{"op":"replace","path":"/apexDescription","value":"这块毛皮挂在两块锋利的骨头上."},
+{"op":"replace","path":"/avianDescription","value":"叶族人可以把这个当窗帘来用。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人用捕猎得来的骨头头头挂皮毛。"},
+{"op":"replace","path":"/glitchDescription","value":"分析：这些骨头和皮毛应该是属于同一个生物的。"},
+{"op":"replace","path":"/humanDescription","value":"为了得到奖品而去打猎，我不认同。"},
+{"op":"replace","path":"/hylotlDescription","value":"干了这些的叶族人会得到报应的。"}]

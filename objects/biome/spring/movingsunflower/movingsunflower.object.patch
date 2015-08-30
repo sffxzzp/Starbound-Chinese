@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一盆向日葵，它只盯着太阳看。"},
+{"op":"replace","path":"/shortdescription","value":"一盆向日葵"},
+{"op":"replace","path":"/apexDescription","value":"这盆大向日葵看起来迷失了。"},
+{"op":"replace","path":"/avianDescription","value":"我想帮助这盆向日葵找到太阳。"},
+{"op":"replace","path":"/floranDescription","value":"太阳花。"},
+{"op":"replace","path":"/glitchDescription","value":"（担忧）这花是在找什么东西还是什么人。"},
+{"op":"replace","path":"/humanDescription","value":"一朵大向日葵。显然，它正在寻找太阳。"},
+{"op":"replace","path":"/hylotlDescription","value":"一朵大黄花。当我触摸它时它会动。"}]

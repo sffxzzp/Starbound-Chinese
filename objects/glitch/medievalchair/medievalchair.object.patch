@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张电子人的椅子，坐在上面很快会让你的菊花不保。"},
+{"op":"replace","path":"/shortdescription","value":"电子人的椅子"},
+{"op":"replace","path":"/apexDescription","value":"一张坚硬的木制餐厅椅。"},
+{"op":"replace","path":"/avianDescription","value":"一张坐上去让人不爽的木制椅子，很质朴。"},
+{"op":"replace","path":"/floranDescription","value":"尖尖的座、座位可以当好武器。"},
+{"op":"replace","path":"/glitchDescription","value":"观察：一张常见的餐厅椅，典型的电子人款式。"},
+{"op":"replace","path":"/humanDescription","value":"一张电子人的椅子，很硬很不爽。"},
+{"op":"replace","path":"/hylotlDescription","value":"电子人看起来喜欢这种尖尖的家具。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这本书里面都是图片..."},
+{"op":"replace","path":"/shortdescription","value":"电子人法典"},
+{"op":"replace","path":"/apexDescription","value":"一本书，里面都是电子人的肖像。"},
+{"op":"replace","path":"/avianDescription","value":"这本书里有许多电子人的照片。"},
+{"op":"replace","path":"/floranDescription","value":"这里、里面都是图片片，大铁人的图片片。"},
+{"op":"replace","path":"/glitchDescription","value":"细阅：一张犯了各种罪行的电子人罪犯的清单， 事实上有大部分都是因为拥有了自我意识。"},
+{"op":"replace","path":"/humanDescription","value":"看上去是某种登记簿， 有大量电子人的照片。"},
+{"op":"replace","path":"/hylotlDescription","value":"一本很重要的书，没一页都有不同的电子人半身肖像。"}]

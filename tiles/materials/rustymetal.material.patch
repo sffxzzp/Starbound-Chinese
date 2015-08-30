@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这老旧的金属表面布满了铁锈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生锈的金属"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警报。这种金属让我不舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "生锈了。"}]

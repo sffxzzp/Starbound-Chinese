@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这个梳妆台蒙上了很多灰尘，看起来不是很结实。"},
+{"op":"replace","path":"/shortdescription","value":"电子人梳妆台"},
+{"op":"replace","path":"/apexDescription","value":"一个简单的梳妆台，我很好奇电子人为啥要穿衣服。"},
+{"op":"replace","path":"/avianDescription","value":"既可以储物又可以当桌子用。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人嗅、嗅大铁人的家具，叶族人吸了一鼻、鼻子灰、灰尘。"},
+{"op":"replace","path":"/glitchDescription","value":"观察： 电子人的梳妆台，电子人五金打造的低温差家具，是电子人试穿衣服时的首选。"},
+{"op":"replace","path":"/humanDescription","value":"一个木制梳妆台，我还以为电子人不需要打扮呢。"},
+{"op":"replace","path":"/hylotlDescription","value":"可能是装衣服的储物单元，我很好奇，衣服是电子人强制性文化的一部分吗?"}]

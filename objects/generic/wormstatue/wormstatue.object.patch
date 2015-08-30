@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个蠕虫的雕像。但是钩子在哪儿？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石虫雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个蠕动的虫子。嗯，如果这不是一个雕像。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一种看起来美味可口蠕虫的雕像。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢吃虫子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "科学。一种较小的斑脑虫的雕像。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "蠕虫那么大，你可以使用它来钓鲸鱼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "问候，我的石头虫子朋友。"}]

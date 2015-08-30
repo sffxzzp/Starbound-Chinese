@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个可爱的小摊卖美丽的布料和服装装饰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族服装摊位"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可以买色彩明亮的衣服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者喜欢明亮色彩的衣服，可以风中凌乱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人很容容容易被明亮颜色的衣服吸吸吸引。在叶族人的丛林中是无法生生生存的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安全感。我没有关于时尚的知识。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多鲜艳的衣服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这衣服很漂亮。这样的颜色在水下会失去活力。"}]

@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":"这确实不算什么，但我会尽我所能来保持这个地方的设备持续运行。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/apex/default/0","value":"这确实不算什么，但我会尽我所能来保持这个地方的设备持续运行。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/apex/apex/0","value":"看来我们都幸运地躲过了大猿的暴政。"}]

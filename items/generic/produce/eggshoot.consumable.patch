@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "射蛋，纹理看起来半熟了，打破后能看到蛋黄。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "射蛋"}]

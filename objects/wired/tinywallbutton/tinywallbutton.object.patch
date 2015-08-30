@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"一个简单的按钮，按下去就能激活。"},
+{"op":"replace","path":"/shortdescription","value":"墙上的小按钮"},
+{"op":"replace","path":"/floranDescription","value":"叶族就爱按按钮！"},
+{"op":"replace","path":"/glitchDescription","value":"诱惑。一个按钮，正等着我们来按呢。"}]

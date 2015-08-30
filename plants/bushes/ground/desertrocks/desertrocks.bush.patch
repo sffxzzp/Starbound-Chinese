@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "沙岩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙岩。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "砂质岩石。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。沙岩。"}]

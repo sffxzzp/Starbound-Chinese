@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"看到这个标志我有一种不祥的预感。"},
+{"op":"replace","path":"/shortdescription","value":"有毒标志"},
+{"op":"replace","path":"/apexDescription","value":"有毒。"},
+{"op":"replace","path":"/avianDescription","value":"有毒。"},
+{"op":"replace","path":"/floranDescription","value":"上面说、说...好、好吃！"},
+{"op":"replace","path":"/glitchDescription","value":"担忧：前方有毒。"},
+{"op":"replace","path":"/humanDescription","value":"太酷了！有毒。"},
+{"op":"replace","path":"/hylotlDescription","value":"有毒。"}]

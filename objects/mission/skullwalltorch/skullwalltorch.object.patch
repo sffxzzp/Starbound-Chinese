@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个由旧骨头制成的邪恶火炬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "头骨墙火炬"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "火炬提供了温暖和光明。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族寺庙只用自然光线照耀。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火焰让叶族紧张。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述事实。火炬。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个古老的火炬。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人不点燃火把。在海洋之下，空气太宝贵了不能浪费。"}]

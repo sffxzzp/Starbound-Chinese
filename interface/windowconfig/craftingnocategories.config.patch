@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/paneLayout/windowtitle/title","value":" 制作"},
+{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":" 创造各种美好的事物！"},
+{"op":"replace","path":"/paneLayout/lblSchematics/value","value":"蓝图"},
+{"op":"replace","path":"/paneLayout/lblProducttitle/value","value":"产品"},
+{"op":"replace","path":"/paneLayout/btnCraft/caption","value":"制作"},
+{"op":"replace","path":"/paneLayout/lblProduct/value","value":"可用材料"},
+{"op":"replace","path":"/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value","value":"替换我"},
+{"op":"replace","path":"/tooltip/itemList/schema/listTemplate/itemName/value","value":"金胡子"}]

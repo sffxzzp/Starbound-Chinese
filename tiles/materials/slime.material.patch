@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "厚厚的黏液，让人忍不住想戳它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黏液块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "由于。粗俗的，黏糊糊的物块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黏糊糊的！"}]

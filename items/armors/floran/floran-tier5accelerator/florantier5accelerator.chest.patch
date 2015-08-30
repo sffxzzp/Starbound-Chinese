@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "叶族吞噬一个死去智者的大脑可以获取他们的智慧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "智者胸甲"}]

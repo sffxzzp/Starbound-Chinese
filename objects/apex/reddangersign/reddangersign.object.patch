@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"上面说“危险！”不能更直白的一个信号。"},
+{"op":"replace","path":"/shortdescription","value":"红色危险标志"},
+{"op":"replace","path":"/apexDescription","value":"猿人的生活很少没有危险。"},
+{"op":"replace","path":"/avianDescription","value":"猿人都会把危险标记得这么明显么？"},
+{"op":"replace","path":"/floranDescription","value":"叶族人很危险。"},
+{"op":"replace","path":"/glitchDescription","value":"讽刺。显然没有什么好担心的。"},
+{"op":"replace","path":"/humanDescription","value":"小危险伤不到任何人。"},
+{"op":"replace","path":"/hylotlDescription","value":"我们要小心地过去。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "圣殿骑士的头盔能够容纳死去的圣殿骑士大脑，所以他们可能活下去。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圣殿骑士头盔"}]

@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/description","value":"按住上方向键起跳能让你像火箭一样，请小心摔落伤害！消耗80点能量。"},
+{"op":"replace","path":"/shortdescription","value":"火箭跳"}]

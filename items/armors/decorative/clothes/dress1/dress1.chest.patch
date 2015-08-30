@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "每个女孩都需要装饰皮带。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉红上衣"}]

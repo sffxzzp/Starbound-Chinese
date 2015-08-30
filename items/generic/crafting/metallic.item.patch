@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "金属涂层的木头，像是材料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金属涂层木头"}]

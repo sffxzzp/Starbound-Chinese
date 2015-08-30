@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张水晶制成的桌子，比放在它上面的食物还要完美。"},
+{"op":"replace","path":"/shortdescription","value":"水晶桌子"},
+{"op":"replace","path":"/apexDescription","value":"一个水晶做的桌子。漂亮。"},
+{"op":"replace","path":"/avianDescription","value":"漂亮的水晶桌子"},
+{"op":"replace","path":"/floranDescription","value":"叶族在水晶上切，不会留下痕迹。"},
+{"op":"replace","path":"/glitchDescription","value":"（渴望） 我可以去吃饭了。"},
+{"op":"replace","path":"/humanDescription","value":"做在这张桌子旁边会给我一种魔幻般感觉。"},
+{"op":"replace","path":"/hylotlDescription","value":"这张桌子的表面闪闪发光，像一个平静的湖。"}]

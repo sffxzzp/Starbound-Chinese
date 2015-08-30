@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这是个大猿人的半身像。荣耀的猿人领袖。"},
+{"op":"replace","path":"/shortdescription","value":"大猿人半身像"},
+{"op":"replace","path":"/apexDescription","value":"大猿人…他的图片到处都是，但我却不曾见过他。"},
+{"op":"replace","path":"/avianDescription","value":"一个廉价的石头半身像。它看起来是机器做的。"},
+{"op":"replace","path":"/floranDescription","value":"愚蠢的石头脸。"},
+{"op":"replace","path":"/glitchDescription","value":"厌恶的。我的传感器告诉我里面有个设备。"},
+{"op":"replace","path":"/humanDescription","value":"大猿人。不知道是不是真实大小的？"},
+{"op":"replace","path":"/hylotlDescription","value":"那只猴子自己，如果真的是他的话。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个神秘的灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代灯条"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些灯似乎不用电。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些灯发出柔和的辉光."},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "紫色好，但绿色更好！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我看不到这些古老灯的电源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些灯不是属于古代遗迹，就是夜总会。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道什么能量驱动这些古代的灯？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这灯就像一个太阳一样发亮。"}]

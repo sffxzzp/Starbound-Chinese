@@ -1,0 +1,11 @@
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"泰拉市场"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"食物、农业和宠物用品"},
+{"op":"replace","path":"/description","value":"为你的种植和改变地形的需求提供帮助!"},
+{"op":"replace","path":"/shortdescription","value":"泰拉市场"},
+{"op":"replace","path":"/apexDescription","value":"一个农家店。愉快."},
+{"op":"replace","path":"/avianDescription","value":"用来买种子的最好的地方."},
+{"op":"replace","path":"/floranDescription","value":"叶族人在在商店制作漂亮的花园!"},
+{"op":"replace","path":"/glitchDescription","value":"声明. 一个大地商店."},
+{"op":"replace","path":"/humanDescription","value":"恐怖商店?我已经开始颤抖了!诶等等.大地商店.好吧.（Terra大地和Terror恐怖相近）"},
+{"op":"replace","path":"/hylotlDescription","value":"又一个想货币化我们生态系统的商店."},
+{"op":"replace","path":"/novakidDescription","value":"“我一直想退休后到一个老农庄去."}]

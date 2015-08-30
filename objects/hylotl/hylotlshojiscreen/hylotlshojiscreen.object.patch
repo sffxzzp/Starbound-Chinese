@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个为处于现代的鲛人准备的屏风，在遇到变化的时候可以躲起来。"},
+{"op":"replace","path":"/shortdescription","value":"传统屏风"},
+{"op":"replace","path":"/apexDescription","value":"一个屏风，猿人是绝不会允许这样做的。"},
+{"op":"replace","path":"/avianDescription","value":"这个屏风看起来风一吹就会塌掉。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人用屏、屏幕去抓东西，鲜血四、四溅。"},
+{"op":"replace","path":"/glitchDescription","value":"挖苦： 你可以看穿整个屏风， 毫无意义。"},
+{"op":"replace","path":"/humanDescription","value":"你千万别藏在这后面， 人们会从外面看到你的轮廓的。"},
+{"op":"replace","path":"/hylotlDescription","value":"质朴、完美、美丽，这屏风一样不缺！"}]

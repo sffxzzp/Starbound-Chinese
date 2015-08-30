@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个神秘女士的很有名的画像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彼女の鲛姬課外研习筆記"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个经典画像。多么美丽。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "哇，她一定很棒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族想偷画并在黑市上出售。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。这伪造的技术简直超绝。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "她看起来很熟悉，然而…并不认识。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "为什么会有人想让这生物的丑恶面孔流传下去？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是一个奇怪的贵妇。"}]

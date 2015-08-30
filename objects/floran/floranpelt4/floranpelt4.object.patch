@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这毛皮看上去和地球上的一种白虎非常相似。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "条纹大毛皮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有着美丽图案的毛皮。我敢打赌这来源于一个令人看起来赏心悦目的生物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些有着黑白条纹野兽的毛皮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "拥有罕见图案和颜色的毛皮。对于叶族来说很有价值。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。毛皮表现出寒冷的环境。似乎没什么能够抑制叶族的杀戮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这让我想起了白虎。他们几个世纪前就灭绝了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "猎杀这么一个美丽的生物。这是野蛮的。"}]

@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"薄砾石"},
+{"op":"replace","path":"/shortdescription","value":"砾石"},
+{"op":"replace","path":"/florandescription","value":"小石头。"},
+{"op":"replace","path":"/glitchdescription","value":"声明。砾石。"}]

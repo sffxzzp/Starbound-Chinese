@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个以未来复古主义样式制造的小柜子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "复古柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个几乎能装任何东西的时尚柜子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如此简单的柜子并没有什么吸引力。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "弯曲的柜子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。这个柜子看起来很实用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有着独特曲线的柜子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很欣赏这个柜子上的优雅曲线。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个便于取放杂物的地方。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一种合成的冷杉树。"},
+{"op":"replace","path":"/shortdescription","value":"人造树"},
+{"op":"replace","path":"/apexDescription","value":"它是一颗合成树。需要更多的灯光和装饰。"},
+{"op":"replace","path":"/avianDescription","value":"这棵树看起来非常真实。"},
+{"op":"replace","path":"/floranDescription","value":"不是闪闪发光的树。只是树。"},
+{"op":"replace","path":"/glitchDescription","value":"失望。这种合成树缺乏装饰。"},
+{"op":"replace","path":"/humanDescription","value":"这让人感到耻辱，它是合成的——我还记得真正的圣诞树的味道。"},
+{"op":"replace","path":"/hylotlDescription","value":"排除它的失真这一点，这是一个很漂亮的树。"}]

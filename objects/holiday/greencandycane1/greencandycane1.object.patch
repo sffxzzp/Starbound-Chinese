@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"绿色棒棒糖装饰品。"},
+{"op":"replace","path":"/shortdescription","value":"绿棒糖"},
+{"op":"replace","path":"/apexDescription","value":"我想要吃它。这是真的吗？"},
+{"op":"replace","path":"/avianDescription","value":"看起来很好吃！"},
+{"op":"replace","path":"/floranDescription","value":"太甜-甜。"},
+{"op":"replace","path":"/glitchDescription","value":"饥饿。我打赌这糖果是薄荷口味的。"},
+{"op":"replace","path":"/humanDescription","value":"它看起来像一个真正的糖果。我应该试着吃一下吗？"},
+{"op":"replace","path":"/hylotlDescription","value":"以糖果作为装饰？我从来没有听说过这样的事。"}]

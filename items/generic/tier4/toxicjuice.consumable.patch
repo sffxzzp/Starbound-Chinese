@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如果你挤压毒果你会得到什么？没错，你猜对了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒果汁"}]

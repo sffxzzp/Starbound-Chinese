@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^green;一小步"},
+{ "op" : "replace", "path" : "/text", "value" : "在这不朽的夜晚，你好！你看起来像是一个渴望冒险的人，你愿意为我去冒险么？^green;如果你能在翼人陵墓里找一个^orange;月亮徽章^green;给我，我会给你这块空白科技驱动和一个物质枪模块做为回报！"},
+{ "op" : "replace", "path" : "/completionText", "value" : "太美了！它保存得也非常完美！"}]

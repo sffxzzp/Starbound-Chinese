@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/subtitle","value":"微波烹饪。"},
+{"op":"replace","path":"/description","value":"微波炉。用来在当你足够饿的时候核弹化你的食物."},
+{"op":"replace","path":"/shortdescription","value":"前哨微波炉"},
+{"op":"replace","path":"/apexDescription","value":"一个奇怪的烘箱."},
+{"op":"replace","path":"/avianDescription","value":"一件奇怪的烹饪设备."},
+{"op":"replace","path":"/floranDescription","value":"叶族人在微波炉里烘干宠物,叶族人要提供新的安全准则."},
+{"op":"replace","path":"/glitchDescription","value":"有趣。看来有人在这里最后做了个熟比萨饼."},
+{"op":"replace","path":"/humanDescription","value":"微波炉。我得来一些夹克土豆."},
+{"op":"replace","path":"/hylotlDescription","value":"一个奇怪的旋转烤炉."}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个无赖的胸甲是简单而朴实的，反映了他们的社会地位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "无赖胸甲"}]

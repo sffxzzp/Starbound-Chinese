@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"正中靶心！"},
+{"op":"replace","path":"/shortdescription","value":"靶子"},
+{"op":"replace","path":"/apexDescription","value":"用于射箭练习的靶子。."},
+{"op":"replace","path":"/avianDescription","value":"一个木板上画着圆环套圆环。但意义何在?"},
+{"op":"replace","path":"/floranDescription","value":"奇、奇怪的大铁人绘画。."},
+{"op":"replace","path":"/glitchDescription","value":"教学：电子人用靶子练习高超的箭术。"},
+{"op":"replace","path":"/humanDescription","value":"居然没有一支箭命中靶子，我表示震惊。"},
+{"op":"replace","path":"/hylotlDescription","value":"某种游戏，对吧？"}]

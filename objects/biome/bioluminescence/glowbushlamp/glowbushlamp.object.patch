@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个散发着柔和光芒的灌木"},
+{"op":"replace","path":"/shortdescription","value":"荧光灌木丛"},
+{"op":"replace","path":"/apexDescription","value":"一个可爱的发光灌木！晚上出门更方便了！"},
+{"op":"replace","path":"/avianDescription","value":"它发出的光芒能照亮整个房间。"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢荧光光光灌木！"},
+{"op":"replace","path":"/glitchDescription","value":"分析： 自然形成的植物体，散发着柔和的生物光。"},
+{"op":"replace","path":"/humanDescription","value":"这种光看着光的时候很舒服。"},
+{"op":"replace","path":"/hylotlDescription","value":"这个自然生物等实在太让我惊奇了！"}]

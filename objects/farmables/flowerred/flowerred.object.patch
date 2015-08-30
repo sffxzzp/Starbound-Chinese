@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一片红色的花瓣，用来制造染料。"},
+{"op":"replace","path":"/shortdescription","value":"红色的花"},
+{"op":"replace","path":"/apexDescription","value":"漂亮的红色的花。"},
+{"op":"replace","path":"/avianDescription","value":"这花...是红色的。"},
+{"op":"replace","path":"/floranDescription","value":"红色的花像叶族人的愤怒。"},
+{"op":"replace","path":"/glitchDescription","value":"声明模式。有人说电子人不能看红色，看，他们撒谎。"},
+{"op":"replace","path":"/humanDescription","value":"这...随便什么花都是红的。"},
+{"op":"replace","path":"/hylotlDescription","value":"充满活力，丰富又美丽。"}]

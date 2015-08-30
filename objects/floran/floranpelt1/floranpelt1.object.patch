@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这个毛皮肯定来自一个巨大的生物。"},
+{"op":"replace","path":"/shortdescription","value":"棕色的毛皮"},
+{"op":"replace","path":"/apexDescription","value":"一张很厚的毛皮，可能是用来隔热的。"},
+{"op":"replace","path":"/avianDescription","value":"这么厚的毛皮可以做一个很好的披肩，叶族人好像把它们挂墙上。"},
+{"op":"replace","path":"/floranDescription","value":"叶族的人村庄总是很冷，叶族人用毛皮来保暖，堵住墙上的缝隙。"},
+{"op":"replace","path":"/glitchDescription","value":"分析：这个皮的主人可能已经超过200岁了。"},
+{"op":"replace","path":"/humanDescription","value":"好大一块皮，叶族人会捕杀这么大的动物吗？"},
+{"op":"replace","path":"/hylotlDescription","value":"这个皮毛一定让曾经长着它的生物很暖和。"}]

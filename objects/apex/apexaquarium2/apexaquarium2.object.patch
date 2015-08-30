@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个空的水族箱。怪孤单的。"},
+{"op":"replace","path":"/shortdescription","value":"空的木质水族箱"},
+{"op":"replace","path":"/apexDescription","value":"一个猿人每三年才会更新一次他的鱼。"},
+{"op":"replace","path":"/avianDescription","value":"鱼儿逃离了网。"},
+{"op":"replace","path":"/floranDescription","value":"有人先到一步了。"},
+{"op":"replace","path":"/glitchDescription","value":"冷漠。空的容器。"},
+{"op":"replace","path":"/humanDescription","value":"我想知道那些鱼身上发生了神马。"},
+{"op":"replace","path":"/hylotlDescription","value":"家的记忆冲刷在我心中。"}]

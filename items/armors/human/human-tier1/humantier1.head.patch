@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个侦察者耳机功能多样且带有太阳镜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "侦察员耳机"}]

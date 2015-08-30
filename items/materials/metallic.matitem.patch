@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"这看起来好高科技！"},
+{"op":"replace","path":"/shortdescription","value":"高科技块"},
+{"op":"replace","path":"/florandescription","value":"神奇的电脑物块。"},
+{"op":"replace","path":"/glitchdescription","value":"分析。制作这物块的技术对我来说暂时是未知的。"}]

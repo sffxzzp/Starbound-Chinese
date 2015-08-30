@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"翼族制造的传送器! 可惜它无法运行."},
+{"op":"replace","path":"/shortdescription","value":"无法使用的传送器"},
+{"op":"replace","path":"/apexDescription","value":"看起来这个传送器被硬编码为特定的人使用."},
+{"op":"replace","path":"/avianDescription","value":"这像是我飞船上的传送器, 但是它看起来被锁定了."},
+{"op":"replace","path":"/floranDescription","value":"传送点不为叶族人工作."},
+{"op":"replace","path":"/glitchDescription","value":"分析. 这个传送点无法给任何非预设用户使用."},
+{"op":"replace","path":"/humanDescription","value":"该死的, 这个传送点看起来不会为我工作. 我不知道它会导致什么."},
+{"op":"replace","path":"/hylotlDescription","value":"锁定. 看起来并不能随时使用这个传送器."}]

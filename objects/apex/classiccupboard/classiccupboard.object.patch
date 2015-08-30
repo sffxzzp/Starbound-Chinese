@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这一定是个高等储物柜。"},
+{"op":"replace","path":"/shortdescription","value":"古典橱柜"},
+{"op":"replace","path":"/apexDescription","value":"一个看起来很贵的橱柜，可能是用来藏科技发展部的秘密的。"},
+{"op":"replace","path":"/avianDescription","value":"一个这么富丽堂皇的橱柜很有可能会藏着等价的东西。"},
+{"op":"replace","path":"/floranDescription","value":"让我们看看里面。"},
+{"op":"replace","path":"/glitchDescription","value":"希冀可能里面有些很有用的。"},
+{"op":"replace","path":"/humanDescription","value":"让我们看看里面有什么。"},
+{"op":"replace","path":"/hylotlDescription","value":"在这奢侈的门后藏着什么？"}]

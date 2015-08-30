@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"一个承重梁。"},
+{"op":"replace","path":"/shortdescription","value":"承重梁"},
+{"op":"replace","path":"/florandescription","value":"梁。"},
+{"op":"replace","path":"/glitchdescription","value":"声明。一个承重梁。"}]

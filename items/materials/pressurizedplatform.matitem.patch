@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/description","value":"高压平台会在有高压潜在风险的环境中被使用。"},
+{"op":"replace","path":"/shortdescription","value":"高压平台"},
+{"op":"replace","path":"/glitchdescription","value":"描述：高压平台。"}]

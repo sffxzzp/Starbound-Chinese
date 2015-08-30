@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这看起来像一个古老的控制面板。似乎还在工作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "控制台还在工作，我不知道是谁造的这个。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "来源古老的控制台。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族按按钮。让事情发生！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。作为一台古老的控制台，它应用的技术是十分先进的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个做出来经得起时间的考验的控制台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个控制台看起来非常古老，但仍能工作。"}]

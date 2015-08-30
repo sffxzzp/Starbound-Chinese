@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这把展示用斧头看起来很锋利。"},
+{"op":"replace","path":"/shortdescription","value":"展示用斧头"},
+{"op":"replace","path":"/apexDescription","value":"一对装饰用斧头。看起来还可以使用。"},
+{"op":"replace","path":"/avianDescription","value":"看起来很凶残的斧头，刃看起来很锋利。"},
+{"op":"replace","path":"/floranDescription","value":"逗、逗比大铁人把斧子挂在墙上。"},
+{"op":"replace","path":"/glitchDescription","value":"观察：.对于电子人来说，锋利的斧子是一件艺术品。"},
+{"op":"replace","path":"/humanDescription","value":"两把锋利的短斧。"},
+{"op":"replace","path":"/hylotlDescription","value":"鲛人从他们的武器中看到了艺术价值。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个非常欢迎的标志."},
+{"op":"replace","path":"/shortdescription","value":"肉块标志"},
+{"op":"replace","path":"/apexDescription","value":"欢迎来到肉块. 好，很好."},
+{"op":"replace","path":"/avianDescription","value":"多么惊人的欢快的标志."},
+{"op":"replace","path":"/floranDescription","value":"叶族人认为这个说说说, 你可以吃掉所有的."},
+{"op":"replace","path":"/glitchDescription","value":"愉悦的. 有些人明显的让我感觉到在家."},
+{"op":"replace","path":"/humanDescription","value":"你们是谁放弃所有希望而进入?"},
+{"op":"replace","path":"/hylotlDescription","value":"多么粗制滥造的标志！"}]

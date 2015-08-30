@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个铜做的架子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜质墙架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个墙架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个简单的墙架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "无聊的架子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无聊。墙架。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个墙架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个用来展示古玩的蓝色墙架。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "翼族人的水晶科技造出来的漂亮的灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯不用电也能发出明亮的光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "水晶灯永远不会熄灭。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这灯光让叶族人想起了红色的夕夕夕阳。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。 这灯有自己的能源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "从这些灯里发出的光让人感到不祥。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人也应该学会这种水晶技术，把它用于水下。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "清道夫的胸甲是可靠的，没有不必要的装饰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "清道夫胸甲"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇沉重的黄金门，表面镶嵌着巨大的珠宝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金翼族门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇精美的石刻门，上面镶嵌着红宝石。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门发出水晶共振的嗡嗡声。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "翼族人的门让叶族人耳朵痛A。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "研究。这扇门蕴含着一种能量源。这超出了我的认知范围。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇门上的水晶是温暖的。在我的手指触碰下发出轻轻的嗡鸣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门上的水晶发出的嗡鸣好像散发着能量。这种技术即使是鲛人也搞不清楚是怎么回事。"}]

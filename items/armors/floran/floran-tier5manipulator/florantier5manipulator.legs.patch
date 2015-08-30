@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "据说太阳本身不能站在食人魔与他的晚餐之间。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "食人魔裤子"}]

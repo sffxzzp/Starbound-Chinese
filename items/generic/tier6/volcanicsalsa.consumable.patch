@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以带走热量的、由水果和蔬菜做出来的辣调味汁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火山辣调味汁"}]

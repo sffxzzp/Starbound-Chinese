@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个木制水槽…我已经很长时间没有洗手了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制水槽"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "厨房水槽。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "水槽。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打开手柄，水就出来了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "识别。水槽。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个漂亮的水槽。我想知道水是不是新鲜的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "水！"}]

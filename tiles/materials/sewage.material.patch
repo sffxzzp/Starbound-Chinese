@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "令人作呕的污物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "污物块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。汙物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "又臭又乱。"}]

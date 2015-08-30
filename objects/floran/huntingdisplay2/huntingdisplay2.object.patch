@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个空的饰板。这里原来是什么？"},
+{"op":"replace","path":"/shortdescription","value":"空饰板"},
+{"op":"replace","path":"/apexDescription","value":"也许这个饰板在等待一颗被收割的头颅。"},
+{"op":"replace","path":"/avianDescription","value":"一块等待着战利品的饰板。"},
+{"op":"replace","path":"/floranDescription","value":"以前，叶族人曾经用狩猎战利品饰板杀死过猎物。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。一块饰板。"},
+{"op":"replace","path":"/humanDescription","value":"他们应该把Po（译注：功夫熊猫？）的脑袋挂在这里。"},
+{"op":"replace","path":"/hylotlDescription","value":"我可不敢想象有一天我的大好头颅会挂在这里。"}]

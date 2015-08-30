@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个可爱的普通Virorb玩偶。"},
+{"op":"replace","path":"/shortdescription","value":"Virorb绒毛玩具"},
+{"op":"replace","path":"/apexDescription","value":"如果把它贴在我的头上，它会吸收我的生命吗？"},
+{"op":"replace","path":"/avianDescription","value":"尽管它们的绒毛玩具很开爱，但和野外的一样危险。"},
+{"op":"replace","path":"/floranDescription","value":"烦人的生、生物。"},
+{"op":"replace","path":"/glitchDescription","value":"担忧：如果把它贴在我的头上，它会吸收我的生命吗？"},
+{"op":"replace","path":"/humanDescription","value":"从来没想到Virorb会这么可耐！"},
+{"op":"replace","path":"/hylotlDescription","value":"作为危险的生物，它们还蛮可爱的。"}]

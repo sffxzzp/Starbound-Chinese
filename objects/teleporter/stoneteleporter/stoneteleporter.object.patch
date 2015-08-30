@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这会让我从任何地方传送过来！\n^red;打碎的时候会被摧毁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石制传送门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个传送门的电子部分被精心的隐藏在雅致地石头下。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个传送门的电子部分被精心的隐藏在雅致地石头下。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个传送门的电子部分被精心的隐藏在雅致地石头下。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "这个传送门的电子部分被精心的隐藏在雅致地石头下。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个传送门的电子部分被精心的隐藏在雅致地石头下。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个传送门的电子部分被精心的隐藏在雅致地石头下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个传送门的电子部分被精心的隐藏在雅致地石头下。"}]

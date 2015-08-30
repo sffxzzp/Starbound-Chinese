@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这条纹帽只剩下眼睛可以看见。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叛逆的面具"}]

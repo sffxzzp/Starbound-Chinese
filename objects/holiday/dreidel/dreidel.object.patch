@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个四面旋转的陀螺。每个边上都有奇怪的符号。"},
+{"op":"replace","path":"/shortdescription","value":"陀螺"},
+{"op":"replace","path":"/apexDescription","value":"一个可爱的陀螺。"},
+{"op":"replace","path":"/avianDescription","value":"这旋转的玩具很有趣。"},
+{"op":"replace","path":"/floranDescription","value":"可旋转的玩具！"},
+{"op":"replace","path":"/glitchDescription","value":"欢乐。一个旋转的陀螺。"},
+{"op":"replace","path":"/humanDescription","value":"酷，陀螺！"},
+{"op":"replace","path":"/hylotlDescription","value":"这粗糙的陀螺却使我充满了欢乐。"}]

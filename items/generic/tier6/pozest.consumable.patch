@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在酒鬼电子人中很流行的一种鸡尾酒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "魔酒"}]

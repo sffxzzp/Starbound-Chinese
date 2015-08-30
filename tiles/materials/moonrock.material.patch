@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "结实、有砂砾的月岩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月岩"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这块石头来自月亮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人曾经认为月球是奶酪做的，而不是岩石。"}]

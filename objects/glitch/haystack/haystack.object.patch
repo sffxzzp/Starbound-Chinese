@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这些干草是喂马的...但是马呢？"},
+{"op":"replace","path":"/shortdescription","value":"干草垛"},
+{"op":"replace","path":"/apexDescription","value":"一捆干草，电子人打算拿它做什么？"},
+{"op":"replace","path":"/avianDescription","value":"捆成垛的干草。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人可以用大干草块搭大城、城堡。"},
+{"op":"replace","path":"/glitchDescription","value":"观察：干草打包便于存储。"},
+{"op":"replace","path":"/humanDescription","value":"我相信这就是干草垛。"},
+{"op":"replace","path":"/hylotlDescription","value":"表面干燥的植物，做成了立方体。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个画着贝壳的蓝色霓虹灯广告牌。"},
+{"op":"replace","path":"/shortdescription","value":"蓝色贝壳标志"},
+{"op":"replace","path":"/apexDescription","value":"看起来鲛人除了睡莲叶子还有其它感兴趣的东西。"},
+{"op":"replace","path":"/avianDescription","value":"这个标志有轻微的嗡嗡声。"},
+{"op":"replace","path":"/floranDescription","value":"嗡嗡响的标、标志吵到叶族人了。"},
+{"op":"replace","path":"/glitchDescription","value":"迷惑：为什么箭头会指向贝壳？"},
+{"op":"replace","path":"/humanDescription","value":"这标志想告诉我们什么？ 买贝壳？收集贝壳？."},
+{"op":"replace","path":"/hylotlDescription","value":"我记得以前有很多鲛人收集贝壳，很疯狂。"}]

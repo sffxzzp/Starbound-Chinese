@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个水晶的箱子，这个箱子本身比它装的东西还要贵重。"},
+{"op":"replace","path":"/shortdescription","value":"水晶箱子"},
+{"op":"replace","path":"/apexDescription","value":"一个惊人的水晶箱。这是一个值得寻找。"},
+{"op":"replace","path":"/avianDescription","value":"无论任何东西在这箱子里肯定会令人印象深刻。."},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢闪闪发光的箱子。"},
+{"op":"replace","path":"/glitchDescription","value":"……分析……这个箱子曾经用来存放土豆。"},
+{"op":"replace","path":"/humanDescription","value":"我敢打赌，这个箱子里有最好的财宝。"},
+{"op":"replace","path":"/hylotlDescription","value":"美丽的箱子。闪耀就像海洋。"}]

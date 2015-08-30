@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一架子...很钝的剑。"},
+{"op":"replace","path":"/shortdescription","value":"电子人武器架"},
+{"op":"replace","path":"/apexDescription","value":"这些剑的剑刃随着时间的推移已经有些钝了。"},
+{"op":"replace","path":"/avianDescription","value":"钝剑。"},
+{"op":"replace","path":"/floranDescription","value":"不锋、锋利的宝、宝剑。"},
+{"op":"replace","path":"/glitchDescription","value":"推理：这些剑已经钝了，看起来已经被人遗忘了，电子人骑士们宁愿自己去亲手锻造佩剑。"},
+{"op":"replace","path":"/humanDescription","value":"连奶酪都切不动。"},
+{"op":"replace","path":"/hylotlDescription","value":"钝剑，这些可怜的东西。"}]

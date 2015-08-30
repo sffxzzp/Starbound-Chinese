@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个巨大的荧光菌类，在天黑的时候简直完美。"},
+{"op":"replace","path":"/shortdescription","value":"比尔的蘑菇桌子"},
+{"op":"replace","path":"/apexDescription","value":"若你饥肠辘辘可以吃这个桌子。"},
+{"op":"replace","path":"/avianDescription","value":"这桌子很不错，很符合我的口味。"},
+{"op":"replace","path":"/floranDescription","value":"叶族在切肉的时候摇晃桌子。"},
+{"op":"replace","path":"/glitchDescription","value":"（生物学） 这个巨大的蘑菇是由多种真菌经过多年杂交的产物。"},
+{"op":"replace","path":"/humanDescription","value":"在这里吃饭会有魔幻般的感觉。"},
+{"op":"replace","path":"/hylotlDescription","value":"自然提供多少就会破坏多少。"}]

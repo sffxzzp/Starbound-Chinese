@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个栅栏。也许你可以踩着它在上面走。"},
+{"op":"replace","path":"/shortdescription","value":"栅栏"},
+{"op":"replace","path":"/apexDescription","value":"栅栏"},
+{"op":"replace","path":"/avianDescription","value":"栅栏"},
+{"op":"replace","path":"/floranDescription","value":"安安安全。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。栅栏。"},
+{"op":"replace","path":"/humanDescription","value":"栅栏"},
+{"op":"replace","path":"/hylotlDescription","value":"栅栏"}]

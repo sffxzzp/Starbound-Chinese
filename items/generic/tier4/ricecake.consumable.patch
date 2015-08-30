@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由大米和海藻形成的简单的零食。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "年糕"}]

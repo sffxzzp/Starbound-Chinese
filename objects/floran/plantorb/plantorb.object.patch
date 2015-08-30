@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"发光球。看起来好像有放射性，但实际上没有。真是太好了。"},
+{"op":"replace","path":"/shortdescription","value":"发光球"},
+{"op":"replace","path":"/apexDescription","value":"这种植物发出一种令人不舒服的绿光。"},
+{"op":"replace","path":"/avianDescription","value":"一种发光植物。"},
+{"op":"replace","path":"/floranDescription","value":"没有刺刺刺，就没有光。"},
+{"op":"replace","path":"/glitchDescription","value":"赞赏。令人惊叹的自然光源。"},
+{"op":"replace","path":"/humanDescription","value":"我想知道如果我踢它一脚，它还会亮吗？"},
+{"op":"replace","path":"/hylotlDescription","value":"羡慕嫉妒恨。"}]

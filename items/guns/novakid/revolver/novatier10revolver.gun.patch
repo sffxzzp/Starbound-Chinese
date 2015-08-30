@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "每把枪都有它自己的旋律。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "坏小子"}]

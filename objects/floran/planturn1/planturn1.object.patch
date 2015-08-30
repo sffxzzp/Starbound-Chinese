@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个瓮。很容易被摧毁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瓮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个瓮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个瓮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打碎所有的瓮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "哲学。瓮是半满还是半空？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个瓮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个瓮。"}]

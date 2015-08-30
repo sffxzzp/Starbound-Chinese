@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个以未来复古主义样式制造的梳妆台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "复古梳妆台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个永恒的经典。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种式样的梳妆台永远不会过时。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "任何种类的梳梳梳妆台都是有用的。我不在乎它们长什么样。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "提问。这是某人对未来家具的设想吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "当一个梳妆台是如此不时髦时，它便是时髦的了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "时尚潮流的脆弱性在这个梳妆台的设计上体现的淋漓尽致。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个没有我所熟悉的梳妆台的世界。"}]

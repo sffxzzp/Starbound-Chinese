@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个旨在阻止入侵者的水晶陷阱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族水晶陷阱"}]

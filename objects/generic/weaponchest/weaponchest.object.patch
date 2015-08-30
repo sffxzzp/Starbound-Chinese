@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "武器箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "武器箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "武器箱。也许会有好东西在里面？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些武器箱非常坚固，为了保护里面的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "让让让我们打开箱箱箱子！里里里面也许有能用来刺的武器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。不能再浪费时间了，打开它！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "武器箱，看起来真是赏心悦目。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "礼物最激动人心的时候就是还在包装里的时候。"}]

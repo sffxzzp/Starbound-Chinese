@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一片蓝色的花瓣，用于制造染料。"},
+{"op":"replace","path":"/shortdescription","value":"蓝色的花"},
+{"op":"replace","path":"/apexDescription","value":"一朵蓝色的花。"},
+{"op":"replace","path":"/avianDescription","value":"漂亮的蓝色的花。"},
+{"op":"replace","path":"/floranDescription","value":"漂亮。"},
+{"op":"replace","path":"/glitchDescription","value":"声明模式。一朵蓝色的花。"},
+{"op":"replace","path":"/humanDescription","value":"一朵绿色的花，呃不等等，是蓝色的。"},
+{"op":"replace","path":"/hylotlDescription","value":"一朵令人愉快的蓝色花朵。"}]

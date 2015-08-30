@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张蘑菇床，绝对能给你个诡异的梦。"},
+{"op":"replace","path":"/shortdescription","value":"蘑菇床"},
+{"op":"replace","path":"/apexDescription","value":"这张床是性感弹性的。"},
+{"op":"replace","path":"/avianDescription","value":"这床老是晃动它的“茎”。我感到恶心。"},
+{"op":"replace","path":"/floranDescription","value":"叶族滚床，摔了。"},
+{"op":"replace","path":"/glitchDescription","value":"……检测……. 这张蘑菇床会发出些许迷幻孢子。"},
+{"op":"replace","path":"/humanDescription","value":"单身的时候特别赞，因为床上没有“蘑菇”。Yeah。我“觉醒”了。"},
+{"op":"replace","path":"/hylotlDescription","value":"这张床老是在晃就和在船里一样。淡定。"}]

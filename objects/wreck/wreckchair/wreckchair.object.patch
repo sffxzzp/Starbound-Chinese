@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个脏兮兮的椅子。昆虫从织物的洞上飞进飞出。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "昆虫在这把椅子上安了家。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这把椅子全是污秽。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "充满了飞虫。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这把椅子受到了浸染。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "覆盖着泥土并且充满了虫子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个恶心的，老椅子。"}]

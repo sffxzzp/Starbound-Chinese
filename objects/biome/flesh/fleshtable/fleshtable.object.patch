@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张肉做的桌子。贝爷：“看起来非常可口！”."},
+{"op":"replace","path":"/shortdescription","value":"血肉桌子"},
+{"op":"replace","path":"/apexDescription","value":"谁会选择在这里吃饭？"},
+{"op":"replace","path":"/avianDescription","value":"多么不寻常的桌子"},
+{"op":"replace","path":"/floranDescription","value":"叶族意外的刺中了桌子。"},
+{"op":"replace","path":"/glitchDescription","value":"（厌恶）有人真会坐在这里吃饭。"},
+{"op":"replace","path":"/humanDescription","value":"我古尔德这是我看到的最不寻常的东西"},
+{"op":"replace","path":"/hylotlDescription","value":"哦，艹。这是真的？"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"霍啊啊啊啊啊啊。"},
+{"op":"replace","path":"/shortdescription","value":"等离子碟"},
+{"op":"replace","path":"/apexDescription","value":"非常猿人的器械。用来做实验还是折磨，谁知道呢？"},
+{"op":"replace","path":"/avianDescription","value":"这是电吗？翼人通过水晶共振来支撑我们的科技。"},
+{"op":"replace","path":"/floranDescription","value":"关着的闪电。对叶族人没有威胁。"},
+{"op":"replace","path":"/glitchDescription","value":"测量。这个设备掌控着几百万伏的电。"},
+{"op":"replace","path":"/humanDescription","value":"一个等离子碟。不知道是拿来干嘛的？"},
+{"op":"replace","path":"/hylotlDescription","value":"这样一个设备很有可能有些见不得光的目的。"}]

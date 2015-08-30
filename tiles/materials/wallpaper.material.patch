@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些经典壁纸，给我们中的经典青蛙用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "经典壁纸"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嘲讽。卑劣的鲛人格调。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这壁纸让叶族人想起鱼人。"}]

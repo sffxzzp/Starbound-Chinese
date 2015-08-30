@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"这种合金看上去耐用到难以置信。"},
+{"op":"replace","path":"/shortdescription","value":"月球基地块"},
+{"op":"replace","path":"/florandescription","value":"坚硬的方块。"},
+{"op":"replace","path":"/glitchdescription","value":"陈述：耐用的合金。"}]

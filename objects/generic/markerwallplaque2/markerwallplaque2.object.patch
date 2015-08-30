@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "简单且优雅，这样的铭牌使这里成为一个一流的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "抛光石铭牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以使用这个标记来标记属于我的物品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个方便告诉人们这就是我的标志。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族种植标记来说远离这里！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个方便表明所有权的铭牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有了它，我的房子就可以成为一个家。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人的住处一般是独一无二的，但这种铭牌会让它变得绝对独一无二。"}]

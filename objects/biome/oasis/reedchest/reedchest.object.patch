@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个用芦苇编制的箱子"},
+{"op":"replace","path":"/shortdescription","value":"芦苇箱子"},
+{"op":"replace","path":"/apexDescription","value":"我欣赏这里的创造力。"},
+{"op":"replace","path":"/avianDescription","value":"一个适合驻巢的箱子。它让我的羽毛蓬松。"},
+{"op":"replace","path":"/floranDescription","value":"叶族熟悉这这种类型的箱子。"},
+{"op":"replace","path":"/glitchDescription","value":"分析。这些芦苇的坚韧性让他们能够利用一个柔软的材料做个箱子。"},
+{"op":"replace","path":"/humanDescription","value":"这上面有一些很赞的编织工艺。"},
+{"op":"replace","path":"/hylotlDescription","value":"对于鲛人来说芦苇拥有丰富的供应。"}]

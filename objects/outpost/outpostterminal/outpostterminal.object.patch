@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个终端,可能有用."},
+{"op":"replace","path":"/shortdescription","value":"前哨终端"},
+{"op":"replace","path":"/apexDescription","value":"某种终端."},
+{"op":"replace","path":"/avianDescription","value":"一个终端."},
+{"op":"replace","path":"/floranDescription","value":"哔!哔!砸碎!"},
+{"op":"replace","path":"/glitchDescription","value":"声明,一个终端."},
+{"op":"replace","path":"/humanDescription","value":"一个终端."},
+{"op":"replace","path":"/hylotlDescription","value":"一个基础终端."}]

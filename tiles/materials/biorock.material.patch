@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这块石头用发光生物发光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光的石头"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这块石头是发光的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢发光的奇怪石头。"}]

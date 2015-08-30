@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看哪！太阳的力量，在枪中！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "阳超新星"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "尖刺上的头骨。叶族的最爱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖刺上的头骨"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人曾经采用类似的方法来恐吓我们。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "尖刺上的头骨。让我想起了观星者。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "骨头人你好。叶族想你了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这是个鲛人头骨。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不寒而栗。一个尖刺上的头骨。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族陶醉于死亡。他们应该被根除。"}]

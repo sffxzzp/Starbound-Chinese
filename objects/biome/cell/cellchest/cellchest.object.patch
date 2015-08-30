@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个酷酷的箱子，上面有个圆形的锁"},
+{"op":"replace","path":"/shortdescription","value":"细胞箱"},
+{"op":"replace","path":"/apexDescription","value":"它具有金属外观，但实际上它是有机材料。"},
+{"op":"replace","path":"/avianDescription","value":"这箱子看起来干净整洁。"},
+{"op":"replace","path":"/floranDescription","value":"它很明亮，但是它看上去很傻，没法引起叶族兴趣。"},
+{"op":"replace","path":"/glitchDescription","value":"（紧张）这箱子从某些方面看像电子人。"},
+{"op":"replace","path":"/humanDescription","value":"我想象这箱子包含科学仪器。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个简单，但非常有效的设计。"}]

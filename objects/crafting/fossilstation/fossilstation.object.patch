@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/description","value":"这个装置能够识别和恢复化石。它会把化石输出在一个准备被砸开的容器内."},
+{"op":"replace","path":"/shortdescription","value":"^orange;化石处理站^white;"}]

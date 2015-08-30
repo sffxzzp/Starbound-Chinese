@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我甚至不打算告诉你这玩应看起来像什么。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "医疗屏幕"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某种长尾生物？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人正在研究其他物种的复制。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "零零零食还没长熟。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "泄气。我不理解这屏幕上显示的东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "为什么翼族人要研究这些东西？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来像一个鲛人儿童。"}]

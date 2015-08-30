@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"我可不想掉在这些东西上面..."},
+{"op":"replace","path":"/shortdescription","value":"骨刺."},
+{"op":"replace","path":"/apexDescription","value":"一个用骨头做成的锋利的刺."},
+{"op":"replace","path":"/avianDescription","value":"这个骨头看起来就像剃刀一样锋利."},
+{"op":"replace","path":"/floranDescription","value":"锋利的,尖尖的."},
+{"op":"replace","path":"/glitchDescription","value":"谨慎. 锋利的骨头有可能刺穿电子人的外壳."},
+{"op":"replace","path":"/humanDescription","value":"我最好不要去碰这些东西."},
+{"op":"replace","path":"/hylotlDescription","value":"我会很感激的避开这些."}]

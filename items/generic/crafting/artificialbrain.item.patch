@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个增强的大脑，适合移植。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人工大脑"}]

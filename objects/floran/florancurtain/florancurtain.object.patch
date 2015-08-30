@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个窗帘，或者是一片还没吃完的半干的肉？我无法确定。"},
+{"op":"replace","path":"/shortdescription","value":"原始窗帘"},
+{"op":"replace","path":"/apexDescription","value":"这个窗帘看起来没啥用处。"},
+{"op":"replace","path":"/avianDescription","value":"窗帘上还有很多洞。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人用用用肉遮住太太阳，当太太太阳太太热的时候。"},
+{"op":"replace","path":"/glitchDescription","value":"卧槽：这个窗帘是用肉做的。"},
+{"op":"replace","path":"/humanDescription","value":"我不确定那是窗帘还是些什么肉挂在上面。"},
+{"op":"replace","path":"/hylotlDescription","value":"我不想碰这个...窗帘。"}]

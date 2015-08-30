@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"可怜的假人，我叫它死掉的佛雷德。!"},
+{"op":"replace","path":"/shortdescription","value":"假人靶子"},
+{"op":"replace","path":"/apexDescription","value":"一个充满稻草的假人，用来做战斗训练。"},
+{"op":"replace","path":"/avianDescription","value":"一个稻草人，这吓不倒我！"},
+{"op":"replace","path":"/floranDescription","value":"大铁人做的稻、稻草人。 我们还、还缺一头狮子。."},
+{"op":"replace","path":"/glitchDescription","value":"鉴定：一个训练用假人，电子人的骑士在上半年每天都要练习剑术。"},
+{"op":"replace","path":"/humanDescription","value":"看起来像是某种训练用假人，也许是练习剑术用的。"},
+{"op":"replace","path":"/hylotlDescription","value":"填满稻草的人，也许电子人用这个进行战斗训练吧。"}]

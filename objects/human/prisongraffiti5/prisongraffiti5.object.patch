@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"涂鸦，作者似乎有些不爽。"},
+{"op":"replace","path":"/shortdescription","value":"涂鸦"},
+{"op":"replace","path":"/apexDescription","value":"我想知道涂鸦里面说的是谁。"},
+{"op":"replace","path":"/avianDescription","value":"可怜的作者。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人认为这上面写的是‘我要滚了，再见。’"},
+{"op":"replace","path":"/glitchDescription","value":"沉思：也许作者应该关心一下他们的愿望是什么。"},
+{"op":"replace","path":"/humanDescription","value":"看起来像从恐怖电影里出来的东西。"},
+{"op":"replace","path":"/hylotlDescription","value":"在这个世界上你永远不要指望任何人。"}]

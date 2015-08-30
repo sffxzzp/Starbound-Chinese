@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这次USCM又代表什么? 哦- 联合体殖民军。"},
+{"op":"replace","path":"/shortdescription","value":"USCM标志"},
+{"op":"replace","path":"/apexDescription","value":"USCM的改进标志, 人类的军事。"},
+{"op":"replace","path":"/avianDescription","value":"这块区域显然曾经有人类的军队存在。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人要捅捅捅拿着逗逗逗比枪的逗逗逗比人类。"},
+{"op":"replace","path":"/glitchDescription","value":"深思：人类的军事战术中涉及了很多虚张声势的战法"},
+{"op":"replace","path":"/humanDescription","value":"联合! 体制! 殖民军! 我们是强大的! 我们是艰苦的! 我们的战斗是有意义的! 液... 我可不想再这样唱歌了。"},
+{"op":"replace","path":"/hylotlDescription","value":"人类的军事力量显然让他们有了一些存在感。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一间室外厕所，出来吧，翔兽！"},
+{"op":"replace","path":"/shortdescription","value":"室外厕所"},
+{"op":"replace","path":"/apexDescription","value":"室外厕所，我想我得方便一下。"},
+{"op":"replace","path":"/avianDescription","value":"一间破旧的厕所。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人喜欢臭、臭臭的小房子。"},
+{"op":"replace","path":"/glitchDescription","value":"抗拒：这个建筑里面的细菌不可计数。"},
+{"op":"replace","path":"/humanDescription","value":"以前在音乐祭的时候可以找到这样的厕所。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个长的很奇怪的厕所。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个来自异域的箱子。"},
+{"op":"replace","path":"/shortdescription","value":"异域的箱子"},
+{"op":"replace","path":"/apexDescription","value":"我觉得如果我把东西放到这个箱子里的话，这混蛋会把东西吞掉的！"},
+{"op":"replace","path":"/avianDescription","value":"一个异域的箱子！看起来非常可靠！"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢把东东东西，放到这个箱箱箱子里！"},
+{"op":"replace","path":"/glitchDescription","value":"分析： 我把东西放进它嘴里的时候，感觉就像在它胃里藏东西一样，呃……真恶心……"},
+{"op":"replace","path":"/humanDescription","value":"我是不是的说点什么口令才能打开它？"},
+{"op":"replace","path":"/hylotlDescription","value":"一个很奇怪，但是很可靠的箱子。"}]

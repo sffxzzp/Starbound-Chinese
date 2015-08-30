@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "节日的本质，以最纯粹的形式！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "假日精神"}]

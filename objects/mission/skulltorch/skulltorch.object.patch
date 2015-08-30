@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"从这个气势汹汹的火炬里投射出深深的影子."},
+{"op":"replace","path":"/shortdescription","value":"骷髅火炬支架"},
+{"op":"replace","path":"/apexDescription","value":"火炬提供温暖以及光."},
+{"op":"replace","path":"/avianDescription","value":"翼族人的寺庙只用自然光点亮."},
+{"op":"replace","path":"/floranDescription","value":"火焰让叶族人紧张!."},
+{"op":"replace","path":"/glitchDescription","value":"说明明显。一个火炬."},
+{"op":"replace","path":"/humanDescription","value":"一个古老的火炬."},
+{"op":"replace","path":"/hylotlDescription","value":"鲛人从不点火炬，在海里，空气太宝贵了."}]

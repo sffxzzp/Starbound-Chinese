@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个廉价的木门。"},
+{"op":"replace","path":"/shortdescription","value":"电子人村庄门。"},
+{"op":"replace","path":"/apexDescription","value":"一个简陋的木门。"},
+{"op":"replace","path":"/avianDescription","value":"一个简陋的带铁把手的门。"},
+{"op":"replace","path":"/floranDescription","value":"简、简陋的大铁人房门。"},
+{"op":"replace","path":"/glitchDescription","value":"鉴定：在电子人的村庄里你会上百次地看到这种简陋的门。"},
+{"op":"replace","path":"/humanDescription","value":"一个原始的木门。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个简陋的电子人房门。"}]

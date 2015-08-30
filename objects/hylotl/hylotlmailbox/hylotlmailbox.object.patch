@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个蓝色的邮筒。"},
+{"op":"replace","path":"/shortdescription","value":"邮筒"},
+{"op":"replace","path":"/apexDescription","value":"是一个邮筒。"},
+{"op":"replace","path":"/avianDescription","value":"用来发信的箱子。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人不写信。"},
+{"op":"replace","path":"/glitchDescription","value":"冷漠：用来发送邮件的容器。"},
+{"op":"replace","path":"/humanDescription","value":"是一个邮筒。"},
+{"op":"replace","path":"/hylotlDescription","value":"只是一个邮筒。"}]

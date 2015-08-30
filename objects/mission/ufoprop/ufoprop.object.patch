@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个捣毁的UFO."},
+{"op":"replace","path":"/shortdescription","value":"UFO道具"},
+{"op":"replace","path":"/apexDescription","value":"这似乎是一个失去功用的飞碟."},
+{"op":"replace","path":"/avianDescription","value":"以前用来在天上航行的机器."},
+{"op":"replace","path":"/floranDescription","value":"某种小小的铁东西."},
+{"op":"replace","path":"/glitchDescription","value":"细心。非正常的飞机."},
+{"op":"replace","path":"/humanDescription","value":"一个看起来非常复古的飞碟."},
+{"op":"replace","path":"/hylotlDescription","value":"一个微小乘客使用的破碎的載具."}]

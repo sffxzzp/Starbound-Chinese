@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "奇怪的有机织物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奇怪的网"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来原来是有机物。什么制作了这种物质？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这看起来很粘。我不想让它进入我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻起来像猎物！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这种流体物质是由有机物产生的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这东西闻起来比看起来更糟。是什么做的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族不开心，也许？比那更加严重…"}]

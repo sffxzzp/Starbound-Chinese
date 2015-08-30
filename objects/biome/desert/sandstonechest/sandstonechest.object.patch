@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个用打磨粗糙的砂岩制作的箱子。"},
+{"op":"replace","path":"/shortdescription","value":"砂岩箱子"},
+{"op":"replace","path":"/apexDescription","value":"砂岩箱子。"},
+{"op":"replace","path":"/avianDescription","value":"一个粗糙的砂岩箱子。"},
+{"op":"replace","path":"/floranDescription","value":"砂岩箱子。"},
+{"op":"replace","path":"/glitchDescription","value":"（观察）一个用砂岩做的箱子。"},
+{"op":"replace","path":"/humanDescription","value":"这个箱子可能来自沙堡。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个做工粗糙的箱子。"}]

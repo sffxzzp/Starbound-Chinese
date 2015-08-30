@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"召唤你自己的警卫！"},
+{"op":"replace","path":"/shortdescription","value":"警卫生产机"},
+{"op":"replace","path":"/apexDescription","value":"我可以用这个来让我获得更多的保护而免受科学发展部的干扰。"},
+{"op":"replace","path":"/avianDescription","value":"有一个警卫，翼神才不敢动我。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人能够保护自己！但是更多的警卫会让自己不痛！"},
+{"op":"replace","path":"/glitchDescription","value":"内容。人多力量大。"},
+{"op":"replace","path":"/humanDescription","value":"我一直想要一个随从。"},
+{"op":"replace","path":"/hylotlDescription","value":"警卫可以帮我传播和平。"}]

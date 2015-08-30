@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "发射在毒液中浸泡过的箭矢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒弓"}]

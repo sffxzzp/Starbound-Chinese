@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个台灯。在任何叶族监狱里都是最有用处的道具之一。"},
+{"op":"replace","path":"/shortdescription","value":"植物台灯"},
+{"op":"replace","path":"/apexDescription","value":"这台灯看起来与周围格格不入。"},
+{"op":"replace","path":"/avianDescription","value":"我无法想象他们在这里用台灯干什么。"},
+{"op":"replace","path":"/floranDescription","value":"台灯是用来砸砸砸犯人的。"},
+{"op":"replace","path":"/glitchDescription","value":"困惑。一个台灯。"},
+{"op":"replace","path":"/humanDescription","value":"这台灯放在我的桌子上会让人心情愉快。"},
+{"op":"replace","path":"/hylotlDescription","value":"我绝不会把这种怪物放在我的书桌上的。"}]

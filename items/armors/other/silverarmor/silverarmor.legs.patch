@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "白银胫甲。闪亮的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "白银胫甲"}]

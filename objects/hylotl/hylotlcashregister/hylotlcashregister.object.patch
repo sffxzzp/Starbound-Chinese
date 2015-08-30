@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"咔 - 嚓！"},
+{"op":"replace","path":"/shortdescription","value":"收银机"},
+{"op":"replace","path":"/apexDescription","value":"在交易的时候用来计算的设备。"},
+{"op":"replace","path":"/avianDescription","value":"在卖东西的时候使用的设备。"},
+{"op":"replace","path":"/floranDescription","value":"咔 - 嚓！"},
+{"op":"replace","path":"/glitchDescription","value":"好奇：我想知道这个设施是用在哪个方面的，金融?"},
+{"op":"replace","path":"/humanDescription","value":"看起来是个收银机。"},
+{"op":"replace","path":"/hylotlDescription","value":"是一个收银机。"}]

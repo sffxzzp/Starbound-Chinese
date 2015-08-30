@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"一种先进的翼族人造材料。上面印有标识。"},
+{"op":"replace","path":"/shortdescription","value":"翼族科技块"},
+{"op":"replace","path":"/florandescription","value":"叶族人不会阅读这个。"},
+{"op":"replace","path":"/glitchdescription","value":"解码。我不知道这些符号代表什么。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/subtitle", "value" : "烧火做饭。"},
+{ "op" : "replace", "path" : "/description", "value" : "噼噼啪啪，山核桃烟的气味是令人愉快的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "仿古炉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可爱的小炉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "接爱在这样的小炉上煮东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石炉煮肉好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "信息。热砖传热良好，可以快速均匀烹饪。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可爱的烤箱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此魅力。"}]

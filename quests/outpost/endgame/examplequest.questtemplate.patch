@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^#9be3d6;任务测试"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+     "任务文本。"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "任务完成文本。"
+  }
+]

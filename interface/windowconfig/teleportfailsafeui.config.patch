@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/cannotTeleportText","value":"无法传送："},
+{"op":"replace","path":"/gui/messages/children/list/schema/listTemplate/message/value","value":"替换我"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "据说叶族萨满可以说出太阳神的神喻。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "萨满面具"}]

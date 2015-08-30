@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这将在佩戴者附近创造可以呼吸的空气。遗憾的是它不会在液体中工作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空气产生器"}]

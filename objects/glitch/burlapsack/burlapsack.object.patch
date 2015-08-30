@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个普通的粗麻袋"},
+{"op":"replace","path":"/shortdescription","value":"粗麻袋"},
+{"op":"replace","path":"/apexDescription","value":"一个袋子。"},
+{"op":"replace","path":"/avianDescription","value":"一个袋子。"},
+{"op":"replace","path":"/floranDescription","value":"麻麻麻袋!!!"},
+{"op":"replace","path":"/glitchDescription","value":"一个电子人的袋子，里面可能装满了面粉。"},
+{"op":"replace","path":"/humanDescription","value":"一条麻袋。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个帆布袋。"}]

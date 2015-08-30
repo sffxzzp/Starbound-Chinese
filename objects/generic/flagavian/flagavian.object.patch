@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "翼族旗帜。用翅膀装饰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族旗帜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "翼族旗帜反映出他们渴望回到天空。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我们的国旗是一个希望有一天我们可以再次飞翔的象征。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族认为这意味着天使！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个引人注目的翼族旗帜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "翼族旗帜有一种精神光环。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "作为他们的旗帜，翼族坚守过去。"}]

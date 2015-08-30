@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "完全成熟的珍珠豆最适合这丰盛的饭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珍珠豆意式烩饭"}]

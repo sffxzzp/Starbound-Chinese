@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "香蕉和胡萝卜切成块随机放进碗里，这是猿族最爱吃的零食。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "抽奖"}]

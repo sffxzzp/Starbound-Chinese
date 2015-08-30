@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这个标志标示附近有和医药有关的东西。"},
+{"op":"replace","path":"/shortdescription","value":"医疗处标志"},
+{"op":"replace","path":"/apexDescription","value":"猿人有全宇宙最强大的医疗技术但是对生活的期望却最低。"},
+{"op":"replace","path":"/avianDescription","value":"猿人那里也有治愈系牧师吗？"},
+{"op":"replace","path":"/floranDescription","value":"吃掉死掉的食物不会坏肚子吧？"},
+{"op":"replace","path":"/glitchDescription","value":"兴奋。一个学习猿人生理的机会。"},
+{"op":"replace","path":"/humanDescription","value":"看起来像是医院的标志。"},
+{"op":"replace","path":"/hylotlDescription","value":"灵感上一个治愈处要到了。"}]

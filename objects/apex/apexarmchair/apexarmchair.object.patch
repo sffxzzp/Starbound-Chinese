@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这个的装饰是香蕉。"},
+{"op":"replace","path":"/shortdescription","value":"标准单人沙发"},
+{"op":"replace","path":"/apexDescription","value":"猿人的时尚从这张椅子的产生开始进步，可惜猿人的自由没有。"},
+{"op":"replace","path":"/avianDescription","value":"真是个舒服的椅子呀。这是个猿人的巢么。"},
+{"op":"replace","path":"/floranDescription","value":"难以忍受。"},
+{"op":"replace","path":"/glitchDescription","value":"有点恶心。这些椅子瞎了我的钛合金狗眼。"},
+{"op":"replace","path":"/humanDescription","value":"令人抑郁的沙发。挺舒服的，倒是！"},
+{"op":"replace","path":"/hylotlDescription","value":"如此粗鄙的东西…会对思想造成什么冲击？"}]

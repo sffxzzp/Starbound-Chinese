@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"Numi的广告标志,，一个著名的鲛人儿童卡通吉祥物。"},
+{"op":"replace","path":"/shortdescription","value":"Numi标志"},
+{"op":"replace","path":"/apexDescription","value":"Numi是啥?某个卡通角色？"},
+{"op":"replace","path":"/avianDescription","value":"Numi?看起来它的形象介于鲛人和熊之间，寒..."},
+{"op":"replace","path":"/floranDescription","value":"只是一个愚蠢的青蛙人卡通。"},
+{"op":"replace","path":"/glitchDescription","value":"中立：这是一个儿童卡通广告。"},
+{"op":"replace","path":"/humanDescription","value":"Numi看起来好像是鲛人的儿童卡通吉祥物。"},
+{"op":"replace","path":"/hylotlDescription","value":"啊，无处不在的Numi让我厌倦。"}]

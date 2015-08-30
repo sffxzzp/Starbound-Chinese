@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "将日耀石矿蒸馏为最纯粹的形式。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "精炼日耀石"}]

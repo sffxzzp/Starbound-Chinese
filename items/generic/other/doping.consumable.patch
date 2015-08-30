@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这不是一个真的急救包。至少当你绝对且肯定需要100%治愈的时候。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "兴奋剂包"}]

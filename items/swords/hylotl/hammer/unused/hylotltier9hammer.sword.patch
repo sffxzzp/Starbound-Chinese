@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "螃蟹裂解机。一个设计来击倒敌人巨大螃蟹的锤子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "螃蟹裂解机"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"为什么不放一些东西呢?"},
+{"op":"replace","path":"/shortdescription","value":"船舱"},
+{"op":"replace","path":"/apexDescription","value":"电子人的储物单位."},
+{"op":"replace","path":"/avianDescription","value":"飞船上的储物柜."},
+{"op":"replace","path":"/floranDescription","value":"电子人把宝贝放在这里面."},
+{"op":"replace","path":"/glitchDescription","value":"电子人储物单位, 废料组合在一起."},
+{"op":"replace","path":"/humanDescription","value":"把贵重物品存放在好的位置."},
+{"op":"replace","path":"/hylotlDescription","value":"老师给我上了重要的一课. 永远不要忘记保存重要的物品."}]

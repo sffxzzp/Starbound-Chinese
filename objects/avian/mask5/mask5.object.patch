@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这货看起来...很博学。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "装饰用智者面具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来像电子人的面具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种面具是对电子人的警告。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人让电子人更挫挫挫了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "忧虑。这面具上的形象看上去像一个电子人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我认为这上面的形象是电子人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个电子人面具不是很准确。"}]

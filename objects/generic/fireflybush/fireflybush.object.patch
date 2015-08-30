@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "发光的小虫子似乎生活在这灌木中。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "萤火虫灌木"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "美丽的萤火虫轮和舞蹈。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些生物使我渴望翱翔。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族伴着这些水果吃这些发光的小虫子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "奇迹。这样美丽、空灵的生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "萤火虫。我希望我有一罐…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然可以让我们都流下眼泪。"}]

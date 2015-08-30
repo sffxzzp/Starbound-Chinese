@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一坨绿色的艹"},
+{"op":"replace","path":"/shortdescription","value":"绿色的草丛"},
+{"op":"replace","path":"/apexDescription","value":"多彩的灌木"},
+{"op":"replace","path":"/avianDescription","value":"多彩的灌木"},
+{"op":"replace","path":"/floranDescription","value":"多彩的灌木"},
+{"op":"replace","path":"/glitchDescription","value":"（描述）多彩的灌木"},
+{"op":"replace","path":"/humanDescription","value":"多彩的灌木"},
+{"op":"replace","path":"/hylotlDescription","value":"多彩的灌木"}]

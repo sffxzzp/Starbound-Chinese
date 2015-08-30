@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"简单的带条纹的碗。"},
+{"op":"replace","path":"/shortdescription","value":"传统的碗"},
+{"op":"replace","path":"/apexDescription","value":"带条纹的碗。"},
+{"op":"replace","path":"/avianDescription","value":"一个原始的条纹碗。"},
+{"op":"replace","path":"/floranDescription","value":"碗。"},
+{"op":"replace","path":"/glitchDescription","value":"漠不关心：一个碗。"},
+{"op":"replace","path":"/humanDescription","value":"是一个碗。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个漂亮的手工上漆的碗。"}]

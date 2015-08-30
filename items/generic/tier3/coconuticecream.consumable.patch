@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "你被困在一个热带岛屿的时候适合吃这个。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "椰子冰淇淋"}]

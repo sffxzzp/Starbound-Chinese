@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/description","value":"按“F”生成一个护盾，降低你收到的伤害。持续时间10秒。消耗250点能量。"},
+{"op":"replace","path":"/shortdescription","value":"盾"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "礁采集者带上他们的鲁宾头盔可以花几个小时在珊瑚中寻找珍贵的材料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礁石头盔"}]

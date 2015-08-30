@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "从这些槽释放出的气体能增加你的跑步速度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "速度提高器"}]

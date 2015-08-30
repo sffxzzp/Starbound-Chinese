@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"上面没有任何东西。每个频道都只会放大猿人的图片。"},
+{"op":"replace","path":"/shortdescription","value":"大猿人电视"},
+{"op":"replace","path":"/apexDescription","value":"大猿人不曾在大猿人电视上出现过。"},
+{"op":"replace","path":"/avianDescription","value":"看起来这个设备做不了什么。"},
+{"op":"replace","path":"/floranDescription","value":"没用的机器。"},
+{"op":"replace","path":"/glitchDescription","value":"探究。这个设备在接收上千不同的广播，但是他们都看起来都一样。 "},
+{"op":"replace","path":"/humanDescription","value":"它的眼睛刚刚动了么？"},
+{"op":"replace","path":"/hylotlDescription","value":"这唯一的大猿人图片看起来是假的。"}]

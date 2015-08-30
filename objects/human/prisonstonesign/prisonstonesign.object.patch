@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"USCM, 哈？我可不想成为他们的囚犯。"},
+{"op":"replace","path":"/shortdescription","value":"USCM流放地标志"},
+{"op":"replace","path":"/apexDescription","value":"赤裸裸的展示了USCM的权威。"},
+{"op":"replace","path":"/avianDescription","value":"那些来到这儿的人永远都不会忘记这里。"},
+{"op":"replace","path":"/floranDescription","value":"有字字字母的石头，叶族人用骨头砸砸砸。"},
+{"op":"replace","path":"/glitchDescription","value":"困惑：分析表明这块石头是从一个被诅咒的远古墓地拿回来的。"},
+{"op":"replace","path":"/humanDescription","value":"这个标志的某些东西让我不寒而栗，也许那是血迹吧。"},
+{"op":"replace","path":"/hylotlDescription","value":"USCM, 又跳出来刷存在感了。"}]

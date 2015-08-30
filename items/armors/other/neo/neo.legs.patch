@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "终极腿甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尼奥腿甲"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张坚实的石头床，上面有一堆干草。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族的床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张铺满了干草的石头床。看起来不是很舒服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张守护者用的床。守护者们保卫着翼族神圣的土地。他们是虔诚的狂战士。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "翼族鸟人睡睡睡在干草窝里。叶族人用类类类似的草垫睡觉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。这张床的设计对人体工程学考虑不周。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张石头床。上面的干草提供了些安慰。石头摸起来很凉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "要在石头上睡觉，你必须要硬如磐石。战士用的床。"}]

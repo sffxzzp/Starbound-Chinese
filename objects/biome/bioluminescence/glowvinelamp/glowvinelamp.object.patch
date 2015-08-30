@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一条看起来很危险的藤蔓散发着柔和的光"},
+{"op":"replace","path":"/shortdescription","value":"火焰藤灯"},
+{"op":"replace","path":"/apexDescription","value":"一串发光的葡萄。晚上的效果最好"},
+{"op":"replace","path":"/avianDescription","value":"这串发光的葡萄可以照亮任何房间。"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢藤♂条！"},
+{"op":"replace","path":"/glitchDescription","value":"分析：这棵葡萄藤在发出令人愉♂悦的光。"},
+{"op":"replace","path":"/humanDescription","value":"多么美丽的自然光啊。"},
+{"op":"replace","path":"/hylotlDescription","value":"这棵发光的葡萄非常漂亮。"}]

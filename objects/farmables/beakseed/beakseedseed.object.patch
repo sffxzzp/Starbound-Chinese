@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"长出脆脆的鸟喙果，鼻孔部位是最好吃的。"},
+{"op":"replace","path":"/shortdescription","value":"鸟喙果种子"},
+{"op":"replace","path":"/apexDescription","value":"这鸟喙果虽然异常的嘎嘣脆，并不是完全有趣的。"},
+{"op":"replace","path":"/avianDescription","value":"有一个古老的都市传说，是关于翼族人在宴会上吃鸟喙果...."},
+{"op":"replace","path":"/floranDescription","value":"鸟喙果脆脆的~~，不会像其他嘴巴那样黏糊糊~~~"},
+{"op":"replace","path":"/glitchDescription","value":"哲学模式。是鸟喙果看起来像鸟嘴，还是鸟嘴看起来像鸟喙果？"},
+{"op":"replace","path":"/humanDescription","value":"这东西看起来像一个翼族人的脸，这有点令人不安。(H7N9)"},
+{"op":"replace","path":"/hylotlDescription","value":"鸟喙果出奇的美味，人们只能假设鸟嘴都不及其可口。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个由沥青做的计算机控制台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沥青控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "只要控制台能用，谁管它用什么做的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "现在需要找到一个不用碰到它就能操作它的方法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人按下按钮。让事事事情发生！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。看起来沥青在科技中的应用比电子人以前估计的要更为重要。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个用沥青做的控制台。多么巧妙。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然物质的应用潜能再一次被推到它的极限上。"}]

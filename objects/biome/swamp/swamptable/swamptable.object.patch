@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个粗制滥造的木桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沼泽桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个由根制作的非常粗糙的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌子是由沼泽地的树根制作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "简易的沼沼泽桌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一张由大树根制作的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个利用沼泽柳树的根制作的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粗糙，但能用。"}]

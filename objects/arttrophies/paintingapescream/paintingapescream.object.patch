@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个关于尖叫猿族的令人困惑的画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "吼猴画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是另一种科学发展部的伪装么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这就是不知道翼神的感觉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族从每个猎物身上都能看到这种脸！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。这个猿族绘画令人不安。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这绝对不是原画。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个猿族应该更加冷静。"}]

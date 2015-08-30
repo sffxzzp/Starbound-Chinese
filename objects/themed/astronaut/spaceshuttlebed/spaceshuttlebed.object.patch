@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这张床是以一个旧式地球宇宙飞船的模样设计的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "航天飞机床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "若是驾驶这种飞船去旅行，我可不会有安全感。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "人类历史的一角。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "人人人类以前经常使用这种东西飞来飞去。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "骄傲。人类的进步可真大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "回望过去并牢记我们的根，那是极好的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人也有属于自己的、用于早期太空旅行的古董飞船。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哈，看这儿。一个古老的杰作。"}]

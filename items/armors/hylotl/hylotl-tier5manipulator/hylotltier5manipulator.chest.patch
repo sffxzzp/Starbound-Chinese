@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个礁采集者的鲁宾夹克被软化来保护珊瑚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礁石夹克"}]

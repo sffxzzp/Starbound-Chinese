@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个摇摇晃晃的酒吧高脚凳。"},
+{"op":"replace","path":"/shortdescription","value":"酒吧高脚凳"},
+{"op":"replace","path":"/apexDescription","value":"只是一个酒吧高脚凳。"},
+{"op":"replace","path":"/avianDescription","value":"酒吧高脚凳，我可以坐在上面。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人把持不住了， 叶族人掉下来了， 好害羞。"},
+{"op":"replace","path":"/glitchDescription","value":"挑剔： 高脚凳上的金属该擦擦亮了。"},
+{"op":"replace","path":"/humanDescription","value":"经典的酒吧凳又回来了。"},
+{"op":"replace","path":"/hylotlDescription","value":"在城市酒吧里常见的高脚凳。"}]

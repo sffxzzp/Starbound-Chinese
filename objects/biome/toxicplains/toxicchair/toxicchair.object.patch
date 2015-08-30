@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张用藤蔓编制的椅子，那上面的刺看起来有毒。"},
+{"op":"replace","path":"/shortdescription","value":"毒素椅子"},
+{"op":"replace","path":"/apexDescription","value":"这椅子给我一种不舒服的湿软感"},
+{"op":"replace","path":"/avianDescription","value":"当坐上这个椅子我的羽毛感到了刺痛"},
+{"op":"replace","path":"/floranDescription","value":"椅子让我想起了我族的故乡。叶族就绪。"},
+{"op":"replace","path":"/glitchDescription","value":"检测……这椅子上的刺有毒，毒素从至少43中物种中提取。"},
+{"op":"replace","path":"/humanDescription","value":"这是我们对椅子的另一种称呼--哦，这上面有刺。"},
+{"op":"replace","path":"/hylotlDescription","value":"这是对自然多么奇妙的改造. 额，当然上面有刺"}]

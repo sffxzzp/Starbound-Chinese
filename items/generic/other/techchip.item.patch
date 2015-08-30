@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个科技芯片。我可以用几个来组成一个科技驱动！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技芯片"}]

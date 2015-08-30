@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张布满尖刺的桌子，别站在上面。"},
+{"op":"replace","path":"/shortdescription","value":"毒素桌子"},
+{"op":"replace","path":"/apexDescription","value":"这桌子柔软湿润，也给人带来一种不安感"},
+{"op":"replace","path":"/avianDescription","value":"坐在这里让人感到非常的不安。"},
+{"op":"replace","path":"/floranDescription","value":"叶族不使用桌子切肉。叶族会切桌子。"},
+{"op":"replace","path":"/glitchDescription","value":"……警告…… 尖刺是十分锐利。"},
+{"op":"replace","path":"/humanDescription","value":"这桌子看起来会被一碗饭的重量压垮。"},
+{"op":"replace","path":"/hylotlDescription","value":"这让我想起了美丽的睡莲叶子。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个用木头和骨头做的长凳。看起来...很好吃的样子？"},
+{"op":"replace","path":"/shortdescription","value":"简陋的长凳"},
+{"op":"replace","path":"/apexDescription","value":"细小的骨头也许能让木头更牢固的结合在一起。"},
+{"op":"replace","path":"/avianDescription","value":"这木头我从没见过，看起来好像还活着一样。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人能用用木头和骨头制作任何东西，叶族人是树木的神明。."},
+{"op":"replace","path":"/glitchDescription","value":"盯————：这长凳的制作技术好像在叶族之上。"},
+{"op":"replace","path":"/humanDescription","value":"这木头很结实，好像还在生长一样。"},
+{"op":"replace","path":"/hylotlDescription","value":"我坐在这上面思考鲛人的人生"}]

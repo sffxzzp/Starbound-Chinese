@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这台机器能玩一款名叫 '魔幻竞技格斗'的游戏"},
+{"op":"replace","path":"/shortdescription","value":"蓝色街机"},
+{"op":"replace","path":"/apexDescription","value":"魔幻竞技格斗出人意料的...和平。"},
+{"op":"replace","path":"/avianDescription","value":"魔幻竞技格斗出乎意料地让人感到放松。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人认为这游戏叫、叫疯狂竞技格斗，让人兴奋，才怪。"},
+{"op":"replace","path":"/glitchDescription","value":"评论：如果满分10分的话，我给魔幻竞技格斗打4分。"},
+{"op":"replace","path":"/humanDescription","value":"你往往从游戏标题看不出什么来，魔幻竞技格斗尤其如此。"},
+{"op":"replace","path":"/hylotlDescription","value":"核心向游戏，魔幻竞技格斗是一个关于成长的故事。"}]

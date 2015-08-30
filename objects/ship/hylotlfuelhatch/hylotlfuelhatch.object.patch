@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"能接受许多不同种类的燃料. 鲛人制造."},
+{"op":"replace","path":"/shortdescription","value":"燃料舱"},
+{"op":"replace","path":"/apexDescription","value":"把燃料转换为自由."},
+{"op":"replace","path":"/avianDescription","value":"让我们填满它并且去摘星星!"},
+{"op":"replace","path":"/floranDescription","value":"我们!冲!"},
+{"op":"replace","path":"/glitchDescription","value":"兴奋. 只要装满了我们就能访问其他星球."},
+{"op":"replace","path":"/humanDescription","value":"燃料面板. 我们能填充它进行探索."},
+{"op":"replace","path":"/hylotlDescription","value":"燃料是探索必不可缺的."}]

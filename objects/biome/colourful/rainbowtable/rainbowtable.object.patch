@@ -1,0 +1,7 @@
+[{"op":"replace","path":"/description","value":"彩虹制作的桌子，在上面吃饭感到很愉悦~"},
+{"op":"replace","path":"/shortdescription","value":"彩虹桌子"},
+{"op":"replace","path":"/avianDescription","value":"一张惊人的彩虹桌子"},
+{"op":"replace","path":"/floranDescription","value":"叶族不喜欢漂亮的桌子有血污。"},
+{"op":"replace","path":"/glitchDescription","value":"（渴望）坐在这张桌子旁吃饭会使我心情好了很多。"},
+{"op":"replace","path":"/humanDescription","value":"我迫不及待的想在这里吃饭了。"},
+{"op":"replace","path":"/hylotlDescription","value":"一张完美漂亮的桌子。"}]

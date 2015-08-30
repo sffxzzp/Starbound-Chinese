@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/paneLayout/windowtitle/title","value":" 厨房柜台"},
+{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":" 做一些好吃的东西。"},
+{"op":"replace","path":"/paneLayout/lblSchematics/value","value":"菜单"},
+{"op":"replace","path":"/paneLayout/lblProducttitle/value","value":"碟子"},
+{"op":"replace","path":"/paneLayout/btnCraft/caption","value":"准备"},
+{"op":"replace","path":"/paneLayout/lblProduct/value","value":"成分可用"},
+{"op":"replace","path":"/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value","value":"替换我"},
+{"op":"replace","path":"/tooltip/itemList/schema/listTemplate/itemName/value","value":"金胡子"}]

@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"一个天然的石头平台。"},
+{"op":"replace","path":"/shortdescription","value":"石平台"},
+{"op":"replace","path":"/florandescription","value":"站在石头上。"},
+{"op":"replace","path":"/glitchdescription","value":"描述：一个天然的石头平台。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我想知道里面是不是有翼族的纳尼亚..."},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族人壁橱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "壁橱的上面有块水晶，这是干什么用的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在壁橱上面的水晶是用来当锁头的。尽管它看起来已经破损了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "壁壁壁橱里有叶族人要的东西吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。由于水晶上面有小裂缝，水晶已经停止运转了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个壁橱坏了吗？水晶上有个裂缝。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "壁橱上面的水晶已经受损失效了。"}]

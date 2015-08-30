@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/description","value":"在输入点之间放置电线. ^green;用 [T] 键快速选择."},
+{"op":"replace","path":"/shortdescription","value":"连线模式"}]

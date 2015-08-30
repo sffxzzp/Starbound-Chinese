@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一台冰箱。希望充满了美味，可口的美食."},
+{"op":"replace","path":"/shortdescription","value":"前哨冰箱"},
+{"op":"replace","path":"/apexDescription","value":"一台冰箱。让我们希望有里面的食物."},
+{"op":"replace","path":"/avianDescription","value":"我想知道什么在冰箱里?"},
+{"op":"replace","path":"/floranDescription","value":"冷!"},
+{"op":"replace","path":"/glitchDescription","value":"警报。这种冰箱的气味不卫生."},
+{"op":"replace","path":"/humanDescription","value":"一台冰箱。不知道是否有鸡蛋在这里?"},
+{"op":"replace","path":"/hylotlDescription","value":"一种食品冷却装置."}]

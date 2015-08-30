@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个黏糊糊的肉质箱子，用来存放东西。"},
+{"op":"replace","path":"/shortdescription","value":"血肉箱子"},
+{"op":"replace","path":"/apexDescription","value":"这种反自然的箱子是对小偷最好的威慑。"},
+{"op":"replace","path":"/avianDescription","value":"我不确认我想打开它"},
+{"op":"replace","path":"/floranDescription","value":"叶族刺，箱子开。"},
+{"op":"replace","path":"/glitchDescription","value":"（远离）多么恶心的箱子。"},
+{"op":"replace","path":"/humanDescription","value":"毛线。好吧，让我们打开它。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个令人作呕的箱子。"}]

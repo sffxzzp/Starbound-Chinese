@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"多么华丽的彩虹椅子啊！"},
+{"op":"replace","path":"/shortdescription","value":"彩虹椅子"},
+{"op":"replace","path":"/apexDescription","value":"这把椅子令人振奋。"},
+{"op":"replace","path":"/avianDescription","value":"华丽多彩的椅子。"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢漂亮椅子。"},
+{"op":"replace","path":"/glitchDescription","value":"（心情） 这把椅子让我的生活充满了快乐。"},
+{"op":"replace","path":"/humanDescription","value":"多棒的椅子！"},
+{"op":"replace","path":"/hylotlDescription","value":"坐在这里可以把鲛人的坏心情驱散。"}]

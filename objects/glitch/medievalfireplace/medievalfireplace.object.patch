@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/subtitle","value":"中世纪壁炉"},
+{"op":"replace","path":"/description","value":"能听到火焰噼啪作响让我感觉很爽。"},
+{"op":"replace","path":"/shortdescription","value":"电子人壁炉"},
+{"op":"replace","path":"/apexDescription","value":"一个石制壁炉，这是在冰冷城堡里取暖的好办法。"},
+{"op":"replace","path":"/avianDescription","value":"一个石头结构的建筑，里面有火，看来是用来取暖的。"},
+{"op":"replace","path":"/floranDescription","value":"嘶嘶嘶，叶族人宁愿挨冻也不挨、挨着火。 "},
+{"op":"replace","path":"/glitchDescription","value":"深思：在我拥有自主意识之前，我曾经在这样的壁炉前度过了许多个 夜晚，我的世界实在是太小了。"},
+{"op":"replace","path":"/humanDescription","value":"一团暖和的壁火，要是有一包棉花糖该多好。"},
+{"op":"replace","path":"/hylotlDescription","value":"在鲛人的城市里，温度是经过仔细控制的，火烘烤我的皮肤让我觉得很舒爽。"}]

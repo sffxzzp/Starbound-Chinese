@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我想知道在这个星球上他们卖什么水果。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族水果摊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有多种选择的多汁水果。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种水果翼族人很少品尝。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人的食物太太太可怕了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "垂涎。如果我能够产生唾液，我会垂涎三尺的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我很想尝尝这些水果。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这里的食物很丰富味道很好。"}]

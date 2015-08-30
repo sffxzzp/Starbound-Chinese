@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小飞虫看起来生活在这个灌木中。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蝴蝶灌木"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "充满了虫子的灌木。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我发现了个bug。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族爱所有微小而不好刺的活着的生物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "科学。当受到威胁时，这些可爱的虫子足以杀死一个完全成熟的猿族。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以抓住一些放进罐子里。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "可爱的小虫子。"}]

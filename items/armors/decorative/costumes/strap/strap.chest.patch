@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "热感应体带。可能是时尚？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "体带胸甲"}]

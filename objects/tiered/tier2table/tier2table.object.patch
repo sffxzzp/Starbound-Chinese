@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个基本的钢桌."},
+{"op":"replace","path":"/shortdescription","value":"钢桌"},
+{"op":"replace","path":"/apexDescription","value":"这个钢桌尽职尽责."},
+{"op":"replace","path":"/avianDescription","value":"坚硬的钢桌."},
+{"op":"replace","path":"/floranDescription","value":"对叶族人来说这一个用来切肉的足够坚硬的桌子."},
+{"op":"replace","path":"/glitchDescription","value":"赞同,一个做得不错的钢桌."},
+{"op":"replace","path":"/humanDescription","value":"一个很棒的钢桌."},
+{"op":"replace","path":"/hylotlDescription","value":"对于基本的钢桌来说,这个做得不错."}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"水晶灌木！闪闪发光！"},
+{"op":"replace","path":"/shortdescription","value":"水晶质地的灌木"},
+{"op":"replace","path":"/apexDescription","value":"漂亮的水晶灌木。"},
+{"op":"replace","path":"/avianDescription","value":"闪闪发光的水晶灌木。"},
+{"op":"replace","path":"/floranDescription","value":"发光的灌木！"},
+{"op":"replace","path":"/glitchDescription","value":"（精明）这灌木可以在黑市买个不错的价格。"},
+{"op":"replace","path":"/humanDescription","value":"哦，完美。"},
+{"op":"replace","path":"/hylotlDescription","value":"这个水晶灌木让我想起了珊瑚。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "末日领主被大多数电子人认为是一个童话，但这个头盔是真的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "末日领主头盔"}]

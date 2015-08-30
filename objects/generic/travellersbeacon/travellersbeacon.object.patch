@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个霍比特旅行者用于记录地质信息的机器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "旅行者仪表"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个记录了地质数据的粗制滥造的装置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个设备能将翼神的话传达给星星么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发亮并移动的数据。无聊。一点都不犀利。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "通知。这个设备用于测量当地空气水平。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种劣质机器显然是记录有关这个星球的信息。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是一个非常丑的机器。多么令人失望。"}]

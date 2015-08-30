@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "草生长在这些岩石周围。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "长草的岩石"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "分析。潮湿，长草的石头。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族喜欢长草的石头。"}]

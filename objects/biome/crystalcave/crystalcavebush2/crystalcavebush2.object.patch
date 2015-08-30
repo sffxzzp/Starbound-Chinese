@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一颗水晶树。 好闪亮！"},
+{"op":"replace","path":"/shortdescription","value":"水晶树"},
+{"op":"replace","path":"/apexDescription","value":"一棵美丽的水晶树."},
+{"op":"replace","path":"/avianDescription","value":"一棵由闪亮水晶制成的树."},
+{"op":"replace","path":"/floranDescription","value":"闪闪闪亮的树."},
+{"op":"replace","path":"/glitchDescription","value":"精明！ 这棵树在黑市上肯定很值钱"},
+{"op":"replace","path":"/humanDescription","value":"哦，真美"},
+{"op":"replace","path":"/hylotlDescription","value":"这个水晶树让我想起了珊瑚"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个夹子里嵌着的水晶散发着一种黯淡的光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族水晶灯"}]

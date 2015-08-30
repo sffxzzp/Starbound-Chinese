@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"噢，这家商店卖武器！"},
+{"op":"replace","path":"/shortdescription","value":"武器店招牌"},
+{"op":"replace","path":"/apexDescription","value":"一个木制招牌，看起来属于一家电子人武器店。"},
+{"op":"replace","path":"/avianDescription","value":"一个木制招牌，上面画了一把剑。"},
+{"op":"replace","path":"/floranDescription","value":"附近有卖剑的商、商店?"},
+{"op":"replace","path":"/glitchDescription","value":"判断：电子人武器店的招牌，武器店的生意并不好，因为电子人宁愿自己打造武器。"},
+{"op":"replace","path":"/humanDescription","value":"看起来是武器店外面挂的招牌。"},
+{"op":"replace","path":"/hylotlDescription","value":"这个招牌表面这是一家武器店。"}]

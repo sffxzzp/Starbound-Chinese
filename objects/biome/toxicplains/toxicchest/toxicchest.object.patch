@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个有着舌头的箱子，没准会舔你一下。"},
+{"op":"replace","path":"/shortdescription","value":"毒素箱子"},
+{"op":"replace","path":"/apexDescription","value":"奇怪，一个舌头从箱子里伸了出来"},
+{"op":"replace","path":"/avianDescription","value":"这是箱子还是生物？我倒更希望是前者。"},
+{"op":"replace","path":"/floranDescription","value":"箱子向叶族伸舌头，叶族向箱子伸出他的矛。"},
+{"op":"replace","path":"/glitchDescription","value":"……生物…… 这个箱子的舌头是由几种不同的植物组成的。"},
+{"op":"replace","path":"/humanDescription","value":"想象一下箱子追上并开始亲吻你，而你无法挣脱它，那当你真被追上时就自求多福吧勇者。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个奇形怪状的箱子，它就像一种长舌两栖动物"}]

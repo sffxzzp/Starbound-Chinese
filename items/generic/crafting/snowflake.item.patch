@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个保存完好的雪花。有人说世界上没有两个一模一样的雪花。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雪花"}]

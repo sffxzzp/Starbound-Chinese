@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "先驱者的耐钢头盔是为了建立通讯而打造，这个已经坏了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "先驱者头盔"}]

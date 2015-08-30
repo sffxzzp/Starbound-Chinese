@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个鲛人的雕像，鱼一样的面容。"},
+{"op":"replace","path":"/shortdescription","value":"鲛人的砂岩雕像"},
+{"op":"replace","path":"/apexDescription","value":"一座鲛人雕像。艺术家完美把握住了鲛人的冷笑。"},
+{"op":"replace","path":"/avianDescription","value":"一个石头鲛人。她不以为然地注视着我。"},
+{"op":"replace","path":"/floranDescription","value":"粘糊糊的鱼雕像。"},
+{"op":"replace","path":"/glitchDescription","value":"（挑剔）很显然鲛人的生活缺乏时尚感。"},
+{"op":"replace","path":"/humanDescription","value":"一个暴躁的鲛人。雕刻的很精确。"},
+{"op":"replace","path":"/hylotlDescription","value":"一座莉莉仙雕像，她是鲛人的传奇公主。"}]

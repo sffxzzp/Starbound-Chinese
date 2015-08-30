@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+    "^orange;机械的测试"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "我有了武器试验场的坐标。如果我能帮上忙，就能得到些什么..."
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "你摧毁了我的机器！给赞！Mk II将会变得更好。来这里，给你^green;热保护植入芯片^white;，这能帮你解决麻烦。"
+  }
+]

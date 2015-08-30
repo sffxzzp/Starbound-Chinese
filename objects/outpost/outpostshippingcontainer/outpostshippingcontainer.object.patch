@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个集装箱。可能不包含飞船."},
+{"op":"replace","path":"/shortdescription","value":"前哨海运集装箱"},
+{"op":"replace","path":"/apexDescription","value":"一个大容器."},
+{"op":"replace","path":"/avianDescription","value":"大型海运集装箱."},
+{"op":"replace","path":"/floranDescription","value":"叶族人有一次把一个活着的怪兽送给了鲛人!真有意思!"},
+{"op":"replace","path":"/glitchDescription","value":"声明.一个集装箱."},
+{"op":"replace","path":"/humanDescription","value":"一个集装箱."},
+{"op":"replace","path":"/hylotlDescription","value":"一个用来海运的集装箱."}]

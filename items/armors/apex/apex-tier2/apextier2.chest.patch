@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上半身铠甲，它以分段钢板组成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叛逆的护胸"}]

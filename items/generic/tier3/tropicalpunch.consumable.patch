@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "热带鸡尾酒，喝完就像被揍了一拳一样晕晕的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "热带风情"}]

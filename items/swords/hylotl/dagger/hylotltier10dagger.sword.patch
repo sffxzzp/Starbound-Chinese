@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "树根切割机。一把能够直捅叶族心脏的匕首。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "树根切割机"}]

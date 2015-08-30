@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用这把枪解决怪物可以提取它的大脑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大脑提取器"}]

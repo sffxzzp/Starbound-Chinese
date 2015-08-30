@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"水晶椅子，具有帝王风范！（逼格超高）"},
+{"op":"replace","path":"/shortdescription","value":"水晶椅子"},
+{"op":"replace","path":"/apexDescription","value":"帝王才拥有的水晶椅子"},
+{"op":"replace","path":"/avianDescription","value":"这把水晶椅子异常诱人。"},
+{"op":"replace","path":"/floranDescription","value":"叶族可以使用椅子碾碎生物。"},
+{"op":"replace","path":"/glitchDescription","value":"（宝石学）。尽管这些宝石很想，但是其中之一确实是赝品。"},
+{"op":"replace","path":"/humanDescription","value":"这椅子看上去很值钱。"},
+{"op":"replace","path":"/hylotlDescription","value":"美丽的气泡椅"}]

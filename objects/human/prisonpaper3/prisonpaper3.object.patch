@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"'囚犯#2162针对那些不能好好进行改造的囚犯的研究。"},
+{"op":"replace","path":"/shortdescription","value":"事件备忘录"},
+{"op":"replace","path":"/apexDescription","value":"看起来这些囚犯被允许接受一些教育, 这是科学进展部明令禁止的。"},
+{"op":"replace","path":"/avianDescription","value":"能看到囚犯努力改造是极好的。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人读书少，叶族人不理理理解这这这种事。"},
+{"op":"replace","path":"/glitchDescription","value":"乐观：在关押犯人的同时让他们学习一技之长，这种概念我觉得很积极。"},
+{"op":"replace","path":"/humanDescription","value":"假如进监狱可以接受教育，那还要学校干什么。"},
+{"op":"replace","path":"/hylotlDescription","value":"鼓励囚犯学习是所有文明都应该做的事。"}]

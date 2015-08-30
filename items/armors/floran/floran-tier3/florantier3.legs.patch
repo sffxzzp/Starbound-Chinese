@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "据说穿上游牧民族盔甲可以闻到死亡鲜花和腐烂树叶的味道。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "游牧裤子"}]

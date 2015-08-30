@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个叶族人的雕像。它看起来好像活的一样..."},
+{"op":"replace","path":"/shortdescription","value":"叶族雕像"},
+{"op":"replace","path":"/apexDescription","value":"叶族人用来展示他们卓越的投掷长矛的技艺。"},
+{"op":"replace","path":"/avianDescription","value":"叶族人干得最好的一件事就是杀人。"},
+{"op":"replace","path":"/floranDescription","value":"这个雕雕雕像是我。长得一点都不像。"},
+{"op":"replace","path":"/glitchDescription","value":"分析。这矛最近好像被用来刺穿了一个生物。"},
+{"op":"replace","path":"/humanDescription","value":"我把它放在我的飞船上展示。"},
+{"op":"replace","path":"/hylotlDescription","value":"即使是一个叶族人的雕像都让我浑身不舒服。"}]

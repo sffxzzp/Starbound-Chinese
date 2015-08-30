@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"浴室水槽,把你的手弄湿!"},
+{"op":"replace","path":"/shortdescription","value":"浴室水槽"},
+{"op":"replace","path":"/apexDescription","value":"一个基本的水槽."},
+{"op":"replace","path":"/avianDescription","value":"一个水槽."},
+{"op":"replace","path":"/floranDescription","value":"水水槽."},
+{"op":"replace","path":"/glitchDescription","value":"声明.一个水槽."},
+{"op":"replace","path":"/humanDescription","value":"一个水槽."},
+{"op":"replace","path":"/hylotlDescription","value":"太小了不能游进去."}]

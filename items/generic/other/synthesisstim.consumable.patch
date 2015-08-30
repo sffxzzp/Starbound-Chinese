@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种全是树种的兴奋剂，对恢复生命有好处。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "合成兴奋剂"}]

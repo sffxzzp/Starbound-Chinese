@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"电影 '半机器人启示录'的剧照。"},
+{"op":"replace","path":"/shortdescription","value":"动作片海报"},
+{"op":"replace","path":"/apexDescription","value":"看起来又是一部科幻的高达类电影。"},
+{"op":"replace","path":"/avianDescription","value":"看起来好像是一部关于巨大机甲的电影。"},
+{"op":"replace","path":"/floranDescription","value":"不需要又大又笨重的机器人，小刀就够了。"},
+{"op":"replace","path":"/glitchDescription","value":"感兴趣：这部电影中的机器人看起来很给力。"},
+{"op":"replace","path":"/humanDescription","value":"高达类电影，太棒了。"},
+{"op":"replace","path":"/hylotlDescription","value":"另一部类似于高达的动作片。"}]

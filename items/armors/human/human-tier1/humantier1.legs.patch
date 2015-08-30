@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "保护铁纤维织成的织物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "侦察者护胫"}]

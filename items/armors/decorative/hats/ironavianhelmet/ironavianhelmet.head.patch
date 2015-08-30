@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "就像翼族一样。哇唔！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族铁头盔"}]

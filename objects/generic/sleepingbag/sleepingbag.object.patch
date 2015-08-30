@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一个睡袋。这并不是最舒服的，但确实不错。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "睡袋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿族叛军在无数个夜晚中睡在这里面。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在这些羽毛上睡会感觉不舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不喜欢睡在袋子里。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讽刺。哦，多么美妙。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个睡袋。紧要关头可以保护不受天气侵扰。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这玩意儿能在水下用么？"}]

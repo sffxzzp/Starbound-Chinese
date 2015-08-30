@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它看起来像一个古老的远程终端。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的终端"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个无用的破旧控制台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个控制台。它不工作了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "控制台是坏的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "接口。失败。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它不工作了。一半的按钮丢失。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它坏了。"}]

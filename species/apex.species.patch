@@ -1,0 +1,10 @@
+[{"op":"replace","path":"/charGenTextLabels/0","value":"皮毛颜色"},
+{"op":"replace","path":"/charGenTextLabels/1","value":"发型"},
+{"op":"replace","path":"/charGenTextLabels/2","value":"上衣"},
+{"op":"replace","path":"/charGenTextLabels/3","value":"裤子"},
+{"op":"replace","path":"/charGenTextLabels/4","value":"皮肤颜色"},
+{"op":"replace","path":"/charGenTextLabels/5","value":"胡子风格"},
+{"op":"replace","path":"/charGenTextLabels/6","value":"上衣颜色"},
+{"op":"replace","path":"/charGenTextLabels/7","value":"裤子颜色"},
+{"op":"replace","path":"/charGenTextLabels/8","value":"猿族"},
+{"op":"replace","path":"/charGenTextLabels/9","value":"人物性格"}]

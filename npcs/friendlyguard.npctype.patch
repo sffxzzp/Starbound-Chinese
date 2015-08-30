@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/dialog/hail/default/default","value": ["见到你真好！"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/avian/default","value": ["以克鲁西斯之名，我要保护这片土地！","这工作也不算太坏…至少，这里没有观星者。","你好，朋友！通过我的祝福，克鲁西斯也许会保佑你平安。","克鲁西斯保佑你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/apex/default","value": ["你好呀。冒险归来啦？","在你的冒险旅途中收集过芯片吗？","这片区域很安全，不要担心。","不要担心，这里都在我的控制之下。"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/floran/default","value": ["叶族人想想想要打架…","叶族人准备让这里安安安全！","叶族人这身衣服就是是是战斗的！","别担心，叶族人会捅捅捅入侵者者者的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/glitch/default","value": ["屈从。我天生就做保护工作。","骄傲。对于保护像你一样的东西我很有经验。","警觉。我要确保该区安全不受恐怖袭击。","询问。我什么时候才能下班？"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/human/default","value": ["我没偷懒，我发誓！","伙计，看看我，干着全职保安，上班的时候还不能睡觉。","我不得不确保该区域没有敌对势力。小菜一碟。","我喜欢保安工作。给了我大量时间思考哲学。"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/hylotl/default","value": ["为保护他人的性命而活是一件高雅的事情，你不觉得吗？","你好呀！有我在这里保护你，你可以在这里安静地生活。 ","安静地呆在这里吧，因为这片区域有我来保卫。","嘿！如果有机会，你应该观赏一下我是如何优雅地将敌人打败的。"]}]

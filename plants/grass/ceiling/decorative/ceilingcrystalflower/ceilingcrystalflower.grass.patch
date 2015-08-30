@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "水晶花。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶花。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发光的花。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。水晶花。"}]

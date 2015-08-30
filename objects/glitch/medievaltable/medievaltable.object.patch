@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"拥有悠久历史的餐桌。"},
+{"op":"replace","path":"/shortdescription","value":"电子人桌子"},
+{"op":"replace","path":"/apexDescription","value":"一张很常见的桌子，一块粗糙腐烂的木头。"},
+{"op":"replace","path":"/avianDescription","value":"质量很差的桌子。"},
+{"op":"replace","path":"/floranDescription","value":"桌子有蛀虫，啊呜！"},
+{"op":"replace","path":"/glitchDescription","value":"审视：一张做工非常粗糙的桌子，可能是一个农民造的。"},
+{"op":"replace","path":"/humanDescription","value":"桌子的质量很差。"},
+{"op":"replace","path":"/hylotlDescription","value":"这张桌子还可以抢救一下。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张长板凳，适合放在户外。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "户外长板凳"}]

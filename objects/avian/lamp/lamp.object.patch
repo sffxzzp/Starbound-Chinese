@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "里面附着一种令人作呕的甜蜜气味。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这灯散发出腐朽而又令人恶心的气味。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "以前在神庙里的时候，充斥着水果的气味。但现在只能从灯里闻到死亡的气息了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻闻闻起来让人讨讨讨厌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "鉴定。里面有腐烂的水果。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "闻起来有腐烂水果的气味。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这灯散发着令人不愉快的气味。"}]

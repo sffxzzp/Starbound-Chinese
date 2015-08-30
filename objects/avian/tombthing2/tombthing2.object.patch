@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个翼族雕刻棺材，上面描绘着天空。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族雕刻棺材"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这棺材上的装饰可能描绘的是翼族人的来世。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的亲属在他们的亲人死后才对这样的棺材进行装饰，这上面雕刻的是天空。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人讨厌烂在这这这样一个坟墓里。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。为这个棺材做装饰的人的手似乎很不稳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "他们试图让这个棺材的色调明亮一些。结果似乎是徒劳的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来一些人似乎是用这种雕刻来纪念死者。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个陷阱喷出火焰来阻止入侵者。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代火焰陷阱"}]

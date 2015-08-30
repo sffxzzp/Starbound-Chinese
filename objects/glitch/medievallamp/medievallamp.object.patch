@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一盏油灯，点点温暖。"},
+{"op":"replace","path":"/shortdescription","value":"中世纪的灯"},
+{"op":"replace","path":"/apexDescription","value":"一盏小铁灯。."},
+{"op":"replace","path":"/avianDescription","value":"一盏铁制灯，可以挂在吊钩上。"},
+{"op":"replace","path":"/floranDescription","value":"关在笼子里的火，叶族人最喜欢了！"},
+{"op":"replace","path":"/glitchDescription","value":"教学： 这种灯用来挂在地牢单间外墙的钩子上，这样看守可以腾出双手。"},
+{"op":"replace","path":"/humanDescription","value":"一盏小铁灯，顶部的环可以挂在钩子上。"},
+{"op":"replace","path":"/hylotlDescription","value":"便携灯，可以自挂东南枝。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这个枝形吊灯是用精铁制成的。它看起来很贵。"},
+{"op":"replace","path":"/shortdescription","value":"复古大吊灯"},
+{"op":"replace","path":"/apexDescription","value":"一个漂亮的古典吊灯。"},
+{"op":"replace","path":"/avianDescription","value":"非常迷人的一组灯。"},
+{"op":"replace","path":"/floranDescription","value":"即使叶族人都能从中看到古典的味道。"},
+{"op":"replace","path":"/glitchDescription","value":"钦佩。这些看起来很像电子人的吊灯，但是更高级。"},
+{"op":"replace","path":"/humanDescription","value":"一个电吊灯。非常漂亮。"},
+{"op":"replace","path":"/hylotlDescription","value":"可能猿人比我想象的要高雅些。"}]

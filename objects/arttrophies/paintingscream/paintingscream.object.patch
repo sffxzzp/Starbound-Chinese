@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个令人难忘的尖叫人物画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖叫的画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "无声的尖叫…我的族人可以理解。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这就是不知道翼神的感觉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族在每个猎物的脸上都能看到这种情感！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。这个身影正不安且恐惧。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道尖叫的人正在看什么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这幅画如果平静一点也许会更好。"}]

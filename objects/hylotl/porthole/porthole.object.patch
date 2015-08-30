@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个圆形窗口。"},
+{"op":"replace","path":"/shortdescription","value":"舷窗"},
+{"op":"replace","path":"/apexDescription","value":"一个舷窗。"},
+{"op":"replace","path":"/avianDescription","value":"这是一个舷窗。"},
+{"op":"replace","path":"/floranDescription","value":"圆形的窗子。"},
+{"op":"replace","path":"/glitchDescription","value":"冷漠：一个舷窗。"},
+{"op":"replace","path":"/humanDescription","value":"这是一个舷窗。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个圆形舷窗。"}]

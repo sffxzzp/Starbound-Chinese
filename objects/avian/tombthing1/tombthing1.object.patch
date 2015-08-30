@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个普通的翼族石棺，上面沾满了灰尘。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族石棺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个没有装饰的石棺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "为那些买不起大理石棺的人准备的棺材。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人认为死者应应应该变成花花花肥。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "博学。电子人收集尸体作为备件。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在一个令人沮丧的地方长眠。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "身体理应得到最好的待遇。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个鸟人的雕塑，看来它是飞不成了。"},
+{"op":"replace","path":"/shortdescription","value":"鸟人的砂岩雕像"},
+{"op":"replace","path":"/apexDescription","value":"一个相貌奇特的翼族人。他看起来很高贵。"},
+{"op":"replace","path":"/avianDescription","value":"这个翼人是坠地者的领袖，他鼓励我们展开我们的翅膀。"},
+{"op":"replace","path":"/floranDescription","value":"愚蠢有斑点的石头鸟人。"},
+{"op":"replace","path":"/glitchDescription","value":"（研究）这个翼族人有很大的历史研究价值。"},
+{"op":"replace","path":"/humanDescription","value":"这翼族人看起来很冷酷。我敢打赌没人可以打过他。"},
+{"op":"replace","path":"/hylotlDescription","value":"翼族人滑稽的相貌被捕捉的很好。"}]

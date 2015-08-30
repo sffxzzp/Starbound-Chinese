@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "翼神说，“要有镀铁的腰带”"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幼体的腰带"}]

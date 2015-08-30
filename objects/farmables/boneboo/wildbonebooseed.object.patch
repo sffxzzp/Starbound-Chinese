@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"骨竹，很好的钙质来源。"},
+{"op":"replace","path":"/shortdescription","value":"骨竹种子"},
+{"op":"replace","path":"/apexDescription","value":"一个特别不寻常的植物，松脆的骨，咬起来咔嘣脆。"},
+{"op":"replace","path":"/avianDescription","value":"骨竹不是翼族人的口味。"},
+{"op":"replace","path":"/floranDescription","value":"脆脆哒~有嚼劲~~肉肉的食物~~~"},
+{"op":"replace","path":"/glitchDescription","value":"无私模式。这种植物显然看起来像体内解剖，电子人都没有这样的地方。"},
+{"op":"replace","path":"/humanDescription","value":"这种植物可能不适合素食主义者。"},
+{"op":"replace","path":"/hylotlDescription","value":"鲛人的很多素食餐都是通过骨竹做的。"}]

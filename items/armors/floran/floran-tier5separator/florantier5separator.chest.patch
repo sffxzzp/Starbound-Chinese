@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "叶族采集者的维奥合金胸甲是许多科学家看到的最后一件物品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "采集者胸甲"}]

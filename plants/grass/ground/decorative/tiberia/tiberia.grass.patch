@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个自然产生的奇怪植株。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奇怪的植株。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不能确定这是什么。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个自然形成的未知形式。"}]

@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/title","value":"^green;第一次收获"},
+{"op":"replace","path":"/text","value":"现在，我已经有了一个锄头和一个水壶，我可以开始种田了！我应该^green;开垦一些土地并浇水^white;。然后^orange;收获5个小麦和5个珍珠豆^white;。"},
+{"op":"replace","path":"/completionText","value":"终于，一份耕耘一份收获！我应该看看我还能够种些什么。"}]

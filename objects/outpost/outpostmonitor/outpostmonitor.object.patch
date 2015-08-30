@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个显示器.但是什么显示器显示这个显示器?"},
+{"op":"replace","path":"/shortdescription","value":"前哨显示器"},
+{"op":"replace","path":"/apexDescription","value":"监视器。我看不懂它在这里说什么."},
+{"op":"replace","path":"/avianDescription","value":"嗯，这个好经典！最好不要重复它说的东西."},
+{"op":"replace","path":"/floranDescription","value":"叶族人认为这上面在说,哈罗米吻脸植物.不寒而栗."},
+{"op":"replace","path":"/glitchDescription","value":"有趣。该显示器显示的歌词是淫秽的翼族人民歌."},
+{"op":"replace","path":"/humanDescription","value":"我不明白它说什么，但它让我傻笑."},
+{"op":"replace","path":"/hylotlDescription","value":"另一种语言."}]

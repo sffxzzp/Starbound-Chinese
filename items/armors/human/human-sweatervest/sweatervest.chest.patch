@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件漂亮的毛衣背心。商务休闲装。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工作衬衫"}]

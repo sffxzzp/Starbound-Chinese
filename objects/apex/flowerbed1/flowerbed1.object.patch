@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个漂亮的花圃。小心蜜蜂！"},
+{"op":"replace","path":"/shortdescription","value":"花圃"},
+{"op":"replace","path":"/apexDescription","value":"一个被悉心照顾的花圃。少有的一个猿人娱乐。"},
+{"op":"replace","path":"/avianDescription","value":"一种病态甜的味道飘在空中。"},
+{"op":"replace","path":"/floranDescription","value":"叶族藏在花里。跳出来，给猴子一个惊喜！猴子不开心。"},
+{"op":"replace","path":"/glitchDescription","value":"敬佩。一个培养的相当好的花圃。"},
+{"op":"replace","path":"/humanDescription","value":"我从没有做园艺的天赋。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个粗鲁，幼稚的花圃。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个自动售货机是空的，我猜是船员们喜欢苏打水。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的自动售货机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个旧的自动售货机。任何食品在里面会变得难以下咽。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某种分发舱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "里面有种腐烂食物的气味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一些类型的食物分发舱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像一个古老的自动售货机。闻起来不像有什么我可以吃的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "令人作呕的气味来自于腐败的食物。"}]

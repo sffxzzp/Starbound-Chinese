@@ -1,0 +1,10 @@
+[{"op":"replace","path":"/charGenTextLabels/0","value":"模式"},
+{"op":"replace","path":"/charGenTextLabels/1","value":"颜色1"},
+{"op":"replace","path":"/charGenTextLabels/2","value":"颜色2"},
+{"op":"replace","path":"/charGenTextLabels/3","value":"喙的颜色"},
+{"op":"replace","path":"/charGenTextLabels/4","value":"帽子"},
+{"op":"replace","path":"/charGenTextLabels/5","value":"帽子颜色"},
+{"op":"replace","path":"/charGenTextLabels/6","value":"上衣"},
+{"op":"replace","path":"/charGenTextLabels/7","value":"上衣颜色"},
+{"op":"replace","path":"/charGenTextLabels/8","value":"企鹅"},
+{"op":"replace","path":"/charGenTextLabels/9","value":"人物性格"}]

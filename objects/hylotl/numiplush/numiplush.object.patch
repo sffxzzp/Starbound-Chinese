@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"名字叫Numi的绒毛玩具， 和鲛人的儿童卡通吉祥物的名字一样。"},
+{"op":"replace","path":"/shortdescription","value":"Numi玩偶"},
+{"op":"replace","path":"/apexDescription","value":"一个鲛人的绒毛玩具，很可爱， 但我还是无视吧。"},
+{"op":"replace","path":"/avianDescription","value":"我不知道我为啥会要一个鲛人玩偶。"},
+{"op":"replace","path":"/floranDescription","value":"哼，青蛙人玩偶。"},
+{"op":"replace","path":"/glitchDescription","value":"吸引：真可耐..."},
+{"op":"replace","path":"/humanDescription","value":"Numi玩偶， 儿童卡通形象。我想，我会无视的。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个可耐的绒毛玩具。但无处不在的Numi玩偶让我有些烦了。"}]

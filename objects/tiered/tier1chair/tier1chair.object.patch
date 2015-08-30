@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个简单的铁椅子."},
+{"op":"replace","path":"/shortdescription","value":"铁椅子"},
+{"op":"replace","path":"/apexDescription","value":"这不是最舒服的椅子，但我很高兴."},
+{"op":"replace","path":"/avianDescription","value":"一个用来坐的足够体面的地方."},
+{"op":"replace","path":"/floranDescription","value":"叶族人坐在椅子上想着打猎."},
+{"op":"replace","path":"/glitchDescription","value":"放松这把椅子对于电子人来说是非常舒适的."},
+{"op":"replace","path":"/humanDescription","value":"一个硬的椅子,让我想起在学校的日子."},
+{"op":"replace","path":"/hylotlDescription","value":"鲛人不习惯奢侈的东西，但我很满意."}]

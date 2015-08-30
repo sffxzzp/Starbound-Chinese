@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"人类夫妻的肖像画。"},
+{"op":"replace","path":"/shortdescription","value":"肖像画"},
+{"op":"replace","path":"/apexDescription","value":"他们看起来是…人类？"},
+{"op":"replace","path":"/avianDescription","value":"一个奇怪的画"},
+{"op":"replace","path":"/floranDescription","value":"这样严肃的人类。"},
+{"op":"replace","path":"/glitchDescription","value":"推演。也许这就是在人类在被宇宙熟知以前的人性。"},
+{"op":"replace","path":"/humanDescription","value":"一个非常旧的人类画。"},
+{"op":"replace","path":"/hylotlDescription","value":"捕捉情感的杰作。"}]

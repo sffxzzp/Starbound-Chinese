@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"其中一个镣铐姿势不对。"},
+{"op":"replace","path":"/shortdescription","value":"墙上的镣铐"},
+{"op":"replace","path":"/apexDescription","value":"其中一个镣铐晃的很开心呢。"},
+{"op":"replace","path":"/avianDescription","value":"有一个镣铐看起来很假。"},
+{"op":"replace","path":"/floranDescription","value":"嘶嘶嘶，狡猾的链子。"},
+{"op":"replace","path":"/glitchDescription","value":"扫描： 有一个镣铐不是铁做的。"},
+{"op":"replace","path":"/humanDescription","value":"其中一个镣铐的位置比另一个稍微低一些。"},
+{"op":"replace","path":"/hylotlDescription","value":"其中一个镣铐的位置比另一个稍微高一些。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"闪亮的装甲在架子上展示着， 唔... 斧子看起来松了。."},
+{"op":"replace","path":"/shortdescription","value":"电子人展示用盔甲"},
+{"op":"replace","path":"/apexDescription","value":"一套漂亮的盔甲，斧头看起来松了。"},
+{"op":"replace","path":"/avianDescription","value":"看起来是电子人的战斗用盔甲，斧子看起来好奇怪。"},
+{"op":"replace","path":"/floranDescription","value":"大铁人穿大铁甲，叶族人在这里闻、闻到了不、不寻常的东、东西。 "},
+{"op":"replace","path":"/glitchDescription","value":"教学：这种盔甲纯粹是为了装饰，真正的电子人战斗盔甲比着要简陋，尽管我不敢断定这究竟是不是盔甲。"},
+{"op":"replace","path":"/humanDescription","value":"一套引人注目的盔甲。如果在电影里，这把斧头一定有机关。"},
+{"op":"replace","path":"/hylotlDescription","value":"这盔甲好像从来没被穿过。这把斧头根本不像武器。"}]

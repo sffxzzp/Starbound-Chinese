@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;起飞"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "你愿意学做一个纸飞机么？我能做最好的！^green;去和^orange;叶族学者^green;，谈谈，他会教你怎么造纸。^white;带些纸过来，我会教你怎么做！"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "你要我教你如何造纸？我会那个！但你需要带些原料过来。你准备好了再来找我"
+  }
+]

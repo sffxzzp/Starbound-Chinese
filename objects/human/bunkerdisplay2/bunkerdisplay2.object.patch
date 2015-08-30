@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"充斥着代表预算统计的饼状图的屏幕"},
+{"op":"replace","path":"/shortdescription","value":"统计显示器"},
+{"op":"replace","path":"/apexDescription","value":"饼状图。 看起来不是很好吃的样子。"},
+{"op":"replace","path":"/avianDescription","value":"这种类型的图表看起来像鸟嘴。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人认识这个个个生物。 这种生物吃水果, 会变得强强强壮。叶族人要杀了它。"},
+{"op":"replace","path":"/glitchDescription","value":"嘲笑：迷人的饼状图，列出了驻军的开支。"},
+{"op":"replace","path":"/humanDescription","value":"哦, 信息图。遗憾的是这些内容不是互联网上那些有趣的东西。"},
+{"op":"replace","path":"/hylotlDescription","value":"这玩意儿对于人类的意义就是提醒他们留心开支。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"有一本标题为《如何回到过去傻瓜教程》的书"},
+{"op":"replace","path":"/shortdescription","value":"金属书柜"},
+{"op":"replace","path":"/apexDescription","value":"一个书柜, 塞满了有趣的书。 Miniknog会把它们都烧了的"},
+{"op":"replace","path":"/avianDescription","value":"大量的科学书籍。 看起来没有多少宗教经文"},
+{"op":"replace","path":"/floranDescription","value":"叶族人喜欢带图片片片的图书书书。揍他。"},
+{"op":"replace","path":"/glitchDescription","value":"确认： 这些书有的已经有百年历史了， 只要轻轻一碰它们就会散架"},
+{"op":"replace","path":"/humanDescription","value":"有许多熟悉的书，甚至还有战争与和平的复制本。当然，这书还没被读过。"},
+{"op":"replace","path":"/hylotlDescription","value":"书籍丰富了人类的历史。 这本书讲述了一个打扮的像蝙蝠一样的男人与犯罪做斗争的历史"}]

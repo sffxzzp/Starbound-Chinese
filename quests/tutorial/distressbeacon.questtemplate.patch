@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^orange;初次接触"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "你飞船的引擎还不足以带你穿越Alpha星区。^green;制作一个 ^orange;遇险信标^green;，然后你将有可能联系上一艘大些的船。^white;在做这件事情前，你一定要为接下来发生的一切做好准备！"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "做得漂亮。我建议你在放好它前做好准备。你永远不知道谁将收到你的信号。"
+  }
+]

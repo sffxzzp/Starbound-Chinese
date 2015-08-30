@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "旧地球人造卫星的精细模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人造卫星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一颗曾由人类使用的轨道卫星。挺巧妙的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道人类以前拿这东西做什么。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪亮的人类太空玩具。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊艳。人类的科技总是能成为我的灵感来源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一颗旧卫星，它已经不能继续使用了，但看上去还是很酷。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "人类始终着迷于通信的证明。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "带着鲜亮外壳的宇宙垃圾。"}]

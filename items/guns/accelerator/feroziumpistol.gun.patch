@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "手枪的最高水准"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "菲洛合金手枪"}]

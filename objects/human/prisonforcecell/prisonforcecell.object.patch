@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"某种用于单独拘禁的装置, 是吧?"},
+{"op":"replace","path":"/shortdescription","value":"单人束缚装置"},
+{"op":"replace","path":"/apexDescription","value":"这个装置看起来比其它东西要安全。"},
+{"op":"replace","path":"/avianDescription","value":"被困在那么小的空间里让人感觉生不如死，即使这玩意儿有一面是着地的。"},
+{"op":"replace","path":"/floranDescription","value":"愚愚愚蠢的装置别想关住叶族人，叶族人会逃出出出去的！"},
+{"op":"replace","path":"/glitchDescription","value":"小心： 这个拘禁间里的立场，会使人无力化。"},
+{"op":"replace","path":"/humanDescription","value":"这个小单间是用来对付最危险的罪犯的，杀手、窃贼、乱穿马路的人..."},
+{"op":"replace","path":"/hylotlDescription","value":"一种很野蛮的囚禁室."}]

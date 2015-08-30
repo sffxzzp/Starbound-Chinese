@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是用鲁宾强化的腿部装甲，使其坚固却仍然灵活。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "间谍的裤子"}]

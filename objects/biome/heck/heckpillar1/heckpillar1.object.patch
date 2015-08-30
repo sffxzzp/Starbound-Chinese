@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个破损的柱子."},
+{"op":"replace","path":"/shortdescription","value":"肉块柱"},
+{"op":"replace","path":"/apexDescription","value":"一个规则的柱子."},
+{"op":"replace","path":"/avianDescription","value":"一个柱子."},
+{"op":"replace","path":"/floranDescription","value":"石石石头."},
+{"op":"replace","path":"/glitchDescription","value":"声明. 一个柱子."},
+{"op":"replace","path":"/humanDescription","value":"不错的柱子."},
+{"op":"replace","path":"/hylotlDescription","value":"一个雕刻拙劣的柱子"}]

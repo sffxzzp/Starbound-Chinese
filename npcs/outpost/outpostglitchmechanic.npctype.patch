@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":"自夸。我们电子人已经熟悉修理比你们在这里所见到的物品更复杂的东西。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/default/0","value":"自夸。我们电子人已经熟悉修理比你们在这里所见到的物品更复杂的东西。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/glitch/glitch/0","value":"友好。你待会应该和我一起去打点油。"}]

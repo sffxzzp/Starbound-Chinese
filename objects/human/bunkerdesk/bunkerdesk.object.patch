@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"带有内置监视器的办公桌。 看起来好像有人曾在这里写一些编码。"},
+{"op":"replace","path":"/shortdescription","value":"金属办公桌"},
+{"op":"replace","path":"/apexDescription","value":"这张办公桌有一个内置监视器。"},
+{"op":"replace","path":"/avianDescription","value":"这个监视器让办公桌看起来好像长了一双眼睛"},
+{"op":"replace","path":"/floranDescription","value":"带屏屏屏幕的桌子子子. 叶族人不需要这个个个。"},
+{"op":"replace","path":"/glitchDescription","value":"嘲讽：内置的电子产品的品质经常比他们那些可以独立的同袍们要低劣。当然，在出故障的时候要另当别论。"},
+{"op":"replace","path":"/humanDescription","value":"哦, 这个监视器显示着古老的Geocities页面。它被定格在了屏幕上。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个只能融合技术制作的舒适设备。"}]

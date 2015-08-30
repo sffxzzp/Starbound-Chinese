@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "海将军只恐怕致命伤，霓磷盐矿为他们的心脏提供保护。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海护胸"}]

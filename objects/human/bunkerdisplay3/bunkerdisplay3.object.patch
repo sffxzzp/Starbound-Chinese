@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"显示了中央的圆形房间，还有几条分支走廊"},
+{"op":"replace","path":"/shortdescription","value":"地图显示器"},
+{"op":"replace","path":"/apexDescription","value":"看起来像某种数字地图。"},
+{"op":"replace","path":"/avianDescription","value":"也许是这个区域的布局?"},
+{"op":"replace","path":"/floranDescription","value":"弯弯曲曲的线条条条对叶族人没有意意意义。"},
+{"op":"replace","path":"/glitchDescription","value":"强调：这看上去好像描画了我们所处区域的布局。"},
+{"op":"replace","path":"/humanDescription","value":"一种基本的地图显示器。"},
+{"op":"replace","path":"/hylotlDescription","value":"走廊和房间在地图上被标示了出来。"}]

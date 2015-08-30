@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"交战!"},
+{"op":"replace","path":"/shortdescription","value":"电子人船长椅"},
+{"op":"replace","path":"/apexDescription","value":"自由啊......"},
+{"op":"replace","path":"/avianDescription","value":"保佑我的喙, 这船长椅可真是舒服."},
+{"op":"replace","path":"/floranDescription","value":"闻起来像猿人的屁股."},
+{"op":"replace","path":"/glitchDescription","value":"期待. 接下来去哪儿?"},
+{"op":"replace","path":"/humanDescription","value":"一个很酷的椅子."},
+{"op":"replace","path":"/hylotlDescription","value":"优雅."}]

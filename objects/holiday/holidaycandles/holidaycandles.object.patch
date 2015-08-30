@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一套蜡烛。"},
+{"op":"replace","path":"/shortdescription","value":"节日蜡烛"},
+{"op":"replace","path":"/apexDescription","value":"这是一套蜡烛。"},
+{"op":"replace","path":"/avianDescription","value":"它们是漂亮的蜡烛。"},
+{"op":"replace","path":"/floranDescription","value":"蜡烛~！"},
+{"op":"replace","path":"/glitchDescription","value":"喜庆。它们是很好的蜡烛。"},
+{"op":"replace","path":"/humanDescription","value":"漂亮的蜡烛。"},
+{"op":"replace","path":"/hylotlDescription","value":"他们是相当普通的蜡烛。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个坚不可摧的帝合金门."},
+{"op":"replace","path":"/shortdescription","value":"帝合金门"},
+{"op":"replace","path":"/apexDescription","value":"这个门是绝对安全的."},
+{"op":"replace","path":"/avianDescription","value":"一个绝对坚固的门."},
+{"op":"replace","path":"/floranDescription","value":"叶族人藏在门后,跳出来,刺!"},
+{"op":"replace","path":"/glitchDescription","value":"赞同.一个无瑕的门."},
+{"op":"replace","path":"/humanDescription","value":"一个坚不可摧的帝合金门."},
+{"op":"replace","path":"/hylotlDescription","value":"一个固实的帝合金门."}]

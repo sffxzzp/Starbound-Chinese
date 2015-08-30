@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一只用花瓣做成的箱子。"},
+{"op":"replace","path":"/shortdescription","value":"巨型花瓣的箱子"},
+{"op":"replace","path":"/apexDescription","value":"你能很容易拿走这个箱子。"},
+{"op":"replace","path":"/avianDescription","value":"花瓣的箱子。容易打开。"},
+{"op":"replace","path":"/floranDescription","value":"叶族可以改造箱子，让它可以吃掉小偷。"},
+{"op":"replace","path":"/glitchDescription","value":"分析。打开这个箱子释放看不见的花粉粉尘。其长期影响是未知的."},
+{"op":"replace","path":"/humanDescription","value":"可爱美艳的箱子。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个美丽自然的箱子。"}]

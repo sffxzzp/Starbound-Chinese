@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个收藏女巫与龙的故事的书柜。"},
+{"op":"replace","path":"/shortdescription","value":"电子人书柜"},
+{"op":"replace","path":"/apexDescription","value":"一个漂亮的装饰书柜。"},
+{"op":"replace","path":"/avianDescription","value":"电子人书籍的摇篮。"},
+{"op":"replace","path":"/floranDescription","value":"大铁人读这么多书?"},
+{"op":"replace","path":"/glitchDescription","value":"检查：.电子人没有生产多少书，我想知道这里是否有其它种族的书籍。"},
+{"op":"replace","path":"/humanDescription","value":"我想知道电子人是如何读书的。"},
+{"op":"replace","path":"/hylotlDescription","value":"也许多读书会让电子人进化成人类。"}]

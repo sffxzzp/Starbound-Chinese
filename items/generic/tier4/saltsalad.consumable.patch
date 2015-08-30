@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "珊瑚果、礁荚和珍珠豆做的一个咸咸的，脆脆的色拉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "咸沙拉"}]

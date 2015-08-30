@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"为什么不放一些东西呢?"},
+{"op":"replace","path":"/shortdescription","value":"船舱"},
+{"op":"replace","path":"/apexDescription","value":"柜子. 很容易打开!"},
+{"op":"replace","path":"/avianDescription","value":"鲛人没有认真地设计它的安全性."},
+{"op":"replace","path":"/floranDescription","value":"叶族人挣扎的打开储物柜, 最后管理它."},
+{"op":"replace","path":"/glitchDescription","value":"严重. 就算是叶族人也能打开这个储物柜."},
+{"op":"replace","path":"/humanDescription","value":"我不知道为什么鲛人不给它上锁. 所有人都能打开它."},
+{"op":"replace","path":"/hylotlDescription","value":"一个安全的储物柜. 只有最狡猾的盗贼能打开它."}]

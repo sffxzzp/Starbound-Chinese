@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "潜在的有毒植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有毒的植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族早餐喝毒药。然后死了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。有毒的植物。"}]

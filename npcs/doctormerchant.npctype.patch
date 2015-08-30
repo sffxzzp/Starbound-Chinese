@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/scriptConfig/dialog/merchant/end","value":{"default":{"default":["需要补给药剂，一定找我。"]},"apex":{"default":["需要补给药剂，一定找我。","保重！","有麻烦，再找我。"]},"avian":{"default":["切记，有疗效的是药剂，不是克鲁西斯。","随时欢迎！","亲，感谢您的支持"]},"floran":{"default":["你健康，我渴望。","你不死，我希望。","你没病，我愿望。"]},"glitch":{"default":["声明，声明。下次再来。","关心，关心。在外多多保重。","渴望，渴望。祝你快快受伤。"]},"human":{"default":["记住，我游走星际仅仅流过一次血。","拜拜！","照顾好自己，也别太好，好到用不着医疗包。"]},"hylotl":{"default":["延续健康，延续生命，延续支付。","记住，别让你的物品太干燥。","不管你要还是不要，我就在这里。"]}}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/apex","value":{"default":["卖药！居家旅行杀人灭口必备良药！","产品物美价廉，呵护无微不至。","你的健康跟我的钱包一样重要。","让科学发展部收拾了？来点药吧。","带上医疗包，切记切记。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/avian","value":{"default":["克鲁西斯救不了你，我的药能。","信仰还是科学？科学更科学。来点药吧。","通过世俗方式接受救助不丢人。","翼族出品良药，助你恢复健康！","带上我的货，不管走到哪，都是那么安心。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/floran","value":{"default":["叶族人为为为为虚弱的太太太太轰人提供医疗品！","纯植物提取，药效确切！","叶族人的药最好，一般人我不告诉他。","你好，我好，大家好。","卖药卖药，刺刺刺刺伤特效药！"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/glitch","value":{"default":["声明，声明。买药吧，款款适合你。","关心，关心。困境中，健康最重要.","科学，科学。治疗伤口可以提高你的生存几率百分之四十。","愉快，愉快。请买点儿药吧！","骄傲，骄傲。吃了我的药，任何物种都有效。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/human","value":{"default":["急救剂！看这里！","拒绝医保，拥抱医疗包。","您的满意，我的心意。","让科学治愈你，请买我的药品。","有了便携医疗包，妈妈不再担心我的死亡。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/hylotl","value":{"default":["用了我的药，伤口愈合像鲨鱼一样快！","身体是革命的本钱！卖药找我！","我的药，给你无微不至的关照。.","专利产品，我的药剂通过你愈合的伤口传播和平。","鲛人出品，必属精品。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/start/default/default/0","value":"一定要随身带上急救品！"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"我想知道这里面会不会有一条通往另一个世界的捷径。"},
+{"op":"replace","path":"/shortdescription","value":"电子人柜子"},
+{"op":"replace","path":"/apexDescription","value":"一个精致的木柜子，真迷人。"},
+{"op":"replace","path":"/avianDescription","value":"一个高的木柜子。能塞很多东西。"},
+{"op":"replace","path":"/floranDescription","value":"高高的木盒子，叶族人可以藏进去。"},
+{"op":"replace","path":"/glitchDescription","value":"观察：一个木制柜子，看起来属于一个平民。."},
+{"op":"replace","path":"/humanDescription","value":"一个宽敞的柜子，不会被错认成厕所的。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个引人注意的柜子，木制的，有复杂的花纹。"}]

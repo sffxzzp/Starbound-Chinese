@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张水晶床，你可以在这上面做一个富有的梦。"},
+{"op":"replace","path":"/shortdescription","value":"水晶床"},
+{"op":"replace","path":"/apexDescription","value":"一张漂亮的水晶床，我在这里睡觉很快乐。"},
+{"op":"replace","path":"/avianDescription","value":"一张闪耀到令人眩晕的床。"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢尖锐的水晶床。"},
+{"op":"replace","path":"/glitchDescription","value":"（宝石学）这些水晶小而普通，没有很高的价值。"},
+{"op":"replace","path":"/humanDescription","value":"我打赌这是宇宙里最值钱的东西了。"},
+{"op":"replace","path":"/hylotlDescription","value":"这张床是让人联想到水下的自然珊瑚。"}]

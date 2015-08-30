@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^yellow;教程 IV: 食物大战"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "为了保持健康的同时增加我的战斗力，我需要烹饪一些食物。通过使用^orange;猎弓^green;或者^orange;狩猎长矛^green;杀死怪物来获得一些^orange;异域生肉^green;，然后使用^orange;篝火^green;烹饪出^orange;异域熟肉^white;。"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "真美味!我确信一旦我找到更好的材料，我能烹饪出更美味的食物。或许我应该制作一把^green;锄头^white;，再找些^orange;种子^white;，我能种出..."
+  }
+]

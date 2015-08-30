@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个遍布着明亮发光标记的箱子."},
+{"op":"replace","path":"/shortdescription","value":"菲洛合金科技箱"},
+{"op":"replace","path":"/apexDescription","value":"一个箱子!我想知道里面有什么?"},
+{"op":"replace","path":"/avianDescription","value":"一个令人兴奋的箱子."},
+{"op":"replace","path":"/floranDescription","value":"叶族人喜欢财宝."},
+{"op":"replace","path":"/glitchDescription","value":"声明.一个箱子."},
+{"op":"replace","path":"/humanDescription","value":"很酷的箱子!"},
+{"op":"replace","path":"/hylotlDescription","value":"一个箱子.愉悦."}]

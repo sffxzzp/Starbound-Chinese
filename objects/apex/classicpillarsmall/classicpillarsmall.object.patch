@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"用来展示最精湛的物品，或支撑最小型的房子用的。"},
+{"op":"replace","path":"/shortdescription","value":"小墩子"},
+{"op":"replace","path":"/apexDescription","value":"这个墩子本身就是一种艺术。"},
+{"op":"replace","path":"/avianDescription","value":"战胜了翼族人的石工。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人欣赏有如此水准的石头工艺品。"},
+{"op":"replace","path":"/glitchDescription","value":"欣赏。 和电子人石匠等水准的产物。"},
+{"op":"replace","path":"/humanDescription","value":"为了展示珍贵的物件而造的。"},
+{"op":"replace","path":"/hylotlDescription","value":"高等的石头工艺。猿人会挺多技术呀。"}]

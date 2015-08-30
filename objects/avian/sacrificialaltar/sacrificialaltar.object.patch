@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一座祭坛，沾满了腐朽的血液和羽毛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "祭坛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在这祭坛上究竟发生了什么黑暗的故事？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在翼族人中献祭是一种很常见的行为。这就是为什么有那么多人宁愿成为一名折翼者了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "尝尝尝起来好像是血。叶族人想舔一舔。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。祭坛上溅的好像是翼族人的血。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "鲜血和羽毛。好黑暗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "谁会选择信一个要求他的信徒牺牲自己的生命的神呢？"}]

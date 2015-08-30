@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "光滑墓砖"},
+{ "op" : "replace", "path" : "/description", "value" : "完美抛光过的老旧墓砖。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。布满灰尘的砖块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "布满灰尘的砖块。"}]

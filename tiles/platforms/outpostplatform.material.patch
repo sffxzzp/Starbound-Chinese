@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨站平台"},
+{ "op" : "replace", "path" : "/description", "value" : "为前哨站设计的标准平台。"}]

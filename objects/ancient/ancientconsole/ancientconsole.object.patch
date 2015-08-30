@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"看起来像个星门的控制面板，好像还能用"},
+{"op":"replace","path":"/shortdescription","value":"古代控制台"},
+{"op":"replace","path":"/apexDescription","value":"星门的控制面板"},
+{"op":"replace","path":"/avianDescription","value":"星门的控制面板"},
+{"op":"replace","path":"/floranDescription","value":"控制制制...."},
+{"op":"replace","path":"/glitchDescription","value":"声明：星门的控制面板"},
+{"op":"replace","path":"/humanDescription","value":"星门的控制面板"},
+{"op":"replace","path":"/hylotlDescription","value":"控制面板"},
+{"op":"replace","path":"/novakidDescription","value":"让我们来看看，如果我不能通过我的方法撬开这个的话..."}]

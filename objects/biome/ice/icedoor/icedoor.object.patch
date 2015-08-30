@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一扇冰做的门，不要一直抓着把手不放！"},
+{"op":"replace","path":"/shortdescription","value":"寒冰门"},
+{"op":"replace","path":"/apexDescription","value":"一扇冰做的门，我能看到我的倒影。"},
+{"op":"replace","path":"/avianDescription","value":"站在这扇门太久使我颤抖。"},
+{"op":"replace","path":"/floranDescription","value":"叶族没看到门，直直的向它跑去。"},
+{"op":"replace","path":"/glitchDescription","value":"……分析…… 冰是分层的，因此很难打破这个门。"},
+{"op":"replace","path":"/humanDescription","value":"一个冻住的门。摸上去好冷。"},
+{"op":"replace","path":"/hylotlDescription","value":"这冰冷的门是制作的很好。"}]

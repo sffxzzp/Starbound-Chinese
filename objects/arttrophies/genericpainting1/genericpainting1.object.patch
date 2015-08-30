@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "人类之子啊，你让我感到饥饿！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "绘画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是相当抽象的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是什么生物？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族很困惑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "编目。艺术可能意义重大。捕获快照。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多么抽象。好吃，但抽象。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊…我明白了。"}]

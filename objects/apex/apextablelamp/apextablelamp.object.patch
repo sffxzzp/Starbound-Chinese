@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这个奇怪的灯发出淡淡的绿光。"},
+{"op":"replace","path":"/shortdescription","value":"绿色灯柱舱"},
+{"op":"replace","path":"/apexDescription","value":"我小时候，这些灯是由科技发展部分发出来的。它们在很多猿人的家都有。"},
+{"op":"replace","path":"/avianDescription","value":"这个设备发着不自然的绿光。"},
+{"op":"replace","path":"/floranDescription","value":"绿光让叶族回忆起了家乡。"},
+{"op":"replace","path":"/glitchDescription","value":"测试。这个物体看起来会从附近的有机生命形式上搜集生物特征信息。"},
+{"op":"replace","path":"/humanDescription","value":"一个灯不应该有这个设备这么重。"},
+{"op":"replace","path":"/hylotlDescription","value":"我相信这个设备的真实目的并不是照明。"}]

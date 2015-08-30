@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这台机器可以玩 '尖叫的时装代理商'。"},
+{"op":"replace","path":"/shortdescription","value":"紫色街机"},
+{"op":"replace","path":"/apexDescription","value":"尖叫的时装代理商，游戏里的这些东西我曾经看过...我没办法无视它们。"},
+{"op":"replace","path":"/avianDescription","value":"尖叫的时装代理商，我认为是恐怖类型的游戏。"},
+{"op":"replace","path":"/floranDescription","value":"为什么叶族人在这游戏里不能捅、捅? 不好玩。"},
+{"op":"replace","path":"/glitchDescription","value":"恐惧：游戏里的一些东西非常让人不安，10分我给6分。"},
+{"op":"replace","path":"/humanDescription","value":"现实中的时装代理商会像游戏里的一样恐怖吗? '时装代理商'究竟指的是什么意思?"},
+{"op":"replace","path":"/hylotlDescription","value":"据说这游戏是根据真实的故事改编的。."}]

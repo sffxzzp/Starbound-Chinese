@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个有着友好脸的大冰块，它是一个不会融化的奇迹。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冰块面具"}]

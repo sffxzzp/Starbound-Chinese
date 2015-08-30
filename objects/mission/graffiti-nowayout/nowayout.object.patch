@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"一个涂鸦警告。"},
+{"op":"replace","path":"/shortdescription","value":"无路可走"},
+{"op":"replace","path":"/apexDescription","value":"唔，我该不该信这图上写的呢？"},
+{"op":"replace","path":"/avianDescription","value":"如果这不是骗人的怎么办？"},
+{"op":"replace","path":"/floranDescription","value":"叶族就知道道道。"},
+{"op":"replace","path":"/glitchDescription","value":"担忧。如果这涂鸦是真的我就有麻烦了。"},
+{"op":"replace","path":"/humanDescription","value":"谁会信墙上写的字啊？"},
+{"op":"replace","path":"/hylotlDescription","value":"我不太相信这墙上写的东西。"},
+{"op":"replace","path":"/novakidDescription","value":"唔，这是真的吗？"}]

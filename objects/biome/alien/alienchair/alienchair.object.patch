@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张来自异域的椅子，它看起来是活着的！."},
+{"op":"replace","path":"/shortdescription","value":"异域的椅子"},
+{"op":"replace","path":"/apexDescription","value":"这张椅子看起来并不可靠。"},
+{"op":"replace","path":"/avianDescription","value":"坐在这上面的时候，我觉得羽毛都在颤抖！"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢！喜欢植物的椅子！"},
+{"op":"replace","path":"/glitchDescription","value":"焦虑： 这个椅子的材质是来自异域的植物的话，我会应为惊恐而跌落在地。"},
+{"op":"replace","path":"/humanDescription","value":"额...一张正在蠕动的椅子，与其让我坐在上面还不如杀了我！"},
+{"op":"replace","path":"/hylotlDescription","value":"一株看起来像椅子植物？或者是一张看起来像植物的椅子？"}]

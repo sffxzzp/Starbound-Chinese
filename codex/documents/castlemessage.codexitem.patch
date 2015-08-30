@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/title","value":"阅读材料"},
+{"op":"replace","path":"/description","value":"一条致所有电子人守卫的通知"},
+{"op":"replace","path":"/shortdescription","value":"致守卫的通知"}]

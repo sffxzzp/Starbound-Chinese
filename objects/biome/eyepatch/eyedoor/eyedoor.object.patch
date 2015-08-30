@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"那扇门正盯着我，别分神！"},
+{"op":"replace","path":"/shortdescription","value":"眼球门"},
+{"op":"replace","path":"/apexDescription","value":"这看穿一切的门使我不敢进入。"},
+{"op":"replace","path":"/avianDescription","value":"这眼睛散发只恶意。多么大的一个恐怖谎言？"},
+{"op":"replace","path":"/floranDescription","value":"叶族认为门看着叶族很高兴。叶族有领域感知。"},
+{"op":"replace","path":"/glitchDescription","value":"（困惑）门需要如此多的眼睛？只用两个会死啊？"},
+{"op":"replace","path":"/humanDescription","value":"这门看起来不是很热情。我想这是某种双关语。"},
+{"op":"replace","path":"/hylotlDescription","value":"着被眼睛盖住的门过于戏剧化。 鲛人喜欢赤裸裸的美来传达重要性。"}]

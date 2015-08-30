@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个看起来超可爱的神经虫玩偶。"},
+{"op":"replace","path":"/shortdescription","value":"神经虫玩偶"},
+{"op":"replace","path":"/apexDescription","value":"我不确定这东西是否可耐..."},
+{"op":"replace","path":"/avianDescription","value":"神经虫可耐的令人发指。"},
+{"op":"replace","path":"/floranDescription","value":"神经虫可爱的让叶族人烦恼。"},
+{"op":"replace","path":"/glitchDescription","value":"苦恼： 我不喜欢神经虫，即使是绒毛玩具形态的。"},
+{"op":"replace","path":"/humanDescription","value":"即使是绒毛玩具形态，神经虫也有点吓人。"},
+{"op":"replace","path":"/hylotlDescription","value":"神经虫是一种看起来很有趣的生物。我不确定自己是否该收集一个它的绒毛玩具。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个重要的猿人的半身像。"},
+{"op":"replace","path":"/shortdescription","value":"男性猿人半身像"},
+{"op":"replace","path":"/apexDescription","value":"我在想有多少家庭是被这个人毁灭的。"},
+{"op":"replace","path":"/avianDescription","value":"专业的雕塑。"},
+{"op":"replace","path":"/floranDescription","value":"一个会磕破牙齿的石头餐。"},
+{"op":"replace","path":"/glitchDescription","value":"思乡。让我想起了我们的王的塑像。"},
+{"op":"replace","path":"/humanDescription","value":"这个人看起来很重要的样子。"},
+{"op":"replace","path":"/hylotlDescription","value":"普通石头用机器做出来的。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "枪兵的胸甲是能够吸收冲击来保持不被冲垮队形。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "枪兵胸甲"}]

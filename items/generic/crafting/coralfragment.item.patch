@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它散发出一种宜人的温暖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "暗烬珊瑚碎片"}]

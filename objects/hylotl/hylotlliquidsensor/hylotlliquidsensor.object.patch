@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "不要用你的手指！这个可靠的鲛人传感器可感到液体的存在。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人液体传感器"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个里面有个雪人的水晶球，节日快乐！"},
+{"op":"replace","path":"/shortdescription","value":"雪人水晶球"},
+{"op":"replace","path":"/apexDescription","value":"一个里面有雪人的水晶球。很可爱。"},
+{"op":"replace","path":"/avianDescription","value":"冻结时刻，一个雪人被埋葬于此。"},
+{"op":"replace","path":"/floranDescription","value":"叶族想踢碎水晶球。"},
+{"op":"replace","path":"/glitchDescription","value":"……阅读……据我观察，“中国制造”被印在地部。 这有何用意？"},
+{"op":"replace","path":"/humanDescription","value":"哦，水晶球。 没多大用但是可以拿来摇一摇！"},
+{"op":"replace","path":"/hylotlDescription","value":"这让我想起了一个鱼缸。就算是模型雪人也不应该被囚禁。"}]

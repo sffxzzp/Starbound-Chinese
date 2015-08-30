@@ -1,0 +1,4 @@
+[{"op":"replace","path":"/description","value":"咳。腐坏的土块。"},
+{"op":"replace","path":"/shortdescription","value":"腐土块"},
+{"op":"replace","path":"/florandescription","value":"腐坏的土块。"},
+{"op":"replace","path":"/glitchdescription","value":"声明。腐土块。"}]

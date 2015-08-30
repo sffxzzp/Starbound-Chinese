@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这里有几张纸的音乐。"},
+{"op":"replace","path":"/shortdescription","value":"普通钢琴"},
+{"op":"replace","path":"/apexDescription","value":"所有的猿人必须会弹。但是只能演奏被允许的曲子。每架钢琴里都藏了一个麦克风。"},
+{"op":"replace","path":"/avianDescription","value":"这些按键创造出了美妙的声音。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人通过皮肤和骨头来做音乐，是打鼓的大师。而不通过愚昧的乐器。"},
+{"op":"replace","path":"/glitchDescription","value":"发现。这些机器背后的数学相比起来真是简单。"},
+{"op":"replace","path":"/humanDescription","value":"一架钢琴…我可以弹奏筷子。"},
+{"op":"replace","path":"/hylotlDescription","value":"啊音乐。这种力量甚至可以点亮我们最阴暗时期。"}]

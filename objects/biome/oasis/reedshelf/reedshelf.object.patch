@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个芦苇置物架，用来放一些物资和战利品。"},
+{"op":"replace","path":"/shortdescription","value":"芦苇置物架"},
+{"op":"replace","path":"/apexDescription","value":"由木头和骨头做的架子。"},
+{"op":"replace","path":"/avianDescription","value":"架子本身就像一个奖杯。没有必要去装饰它。"},
+{"op":"replace","path":"/floranDescription","value":"叶族为了奖杯制作置物架，但奖杯还是太大了。所以叶族就将它作为奖杯。"},
+{"op":"replace","path":"/glitchDescription","value":"……识别…… 这骨头看起来是某种大型生物的肋骨。"},
+{"op":"replace","path":"/humanDescription","value":"这置物架是空的。叶族会缺少打猎的猎物么？"},
+{"op":"replace","path":"/hylotlDescription","value":"至少这个架子是空的。"}]

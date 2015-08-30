@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"大家来玩跳舞机！"},
+{"op":"replace","path":"/shortdescription","value":"跳舞机"},
+{"op":"replace","path":"/apexDescription","value":"箭头移动的太快了！ 这游戏太棒了！"},
+{"op":"replace","path":"/avianDescription","value":"这游戏对手残的玩家不是太友好。"},
+{"op":"replace","path":"/floranDescription","value":"愚蠢的箭头移动的太快了！！叶族人好伤心！"},
+{"op":"replace","path":"/glitchDescription","value":"满意：一旦你熟悉了游戏，就很容易上手，满分10分的话，我给9分。"},
+{"op":"replace","path":"/humanDescription","value":"在宇宙中能看到跳舞机真是太好了， 怀念啊。"},
+{"op":"replace","path":"/hylotlDescription","value":"要想掌握舞蹈的艺术的确有些难度。"}]

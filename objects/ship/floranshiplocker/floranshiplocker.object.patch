@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"为什么不放一些东西呢?"},
+{"op":"replace","path":"/shortdescription","value":"船舱"},
+{"op":"replace","path":"/apexDescription","value":"储物系统. 绝对不是叶族制造的."},
+{"op":"replace","path":"/avianDescription","value":"存储. 我不相信叶族能做出这个."},
+{"op":"replace","path":"/floranDescription","value":"叶族存放许多有用的东西. 探索宇宙!"},
+{"op":"replace","path":"/glitchDescription","value":"好奇. 叶族人是怎么获得这种技术?"},
+{"op":"replace","path":"/humanDescription","value":"许多高科技出现在这艘飞船上似乎并不是叶族制造的."},
+{"op":"replace","path":"/hylotlDescription","value":"也许击败叶族的关键在于他们是如何利用其他种族开发的技术."}]

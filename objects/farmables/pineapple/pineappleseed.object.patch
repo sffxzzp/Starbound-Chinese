@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"菠萝，确保你吃之前已经把它切开了。"},
+{"op":"replace","path":"/shortdescription","value":"菠萝种子"},
+{"op":"replace","path":"/apexDescription","value":"菠萝加香蕉，肯定很好吃喔。"},
+{"op":"replace","path":"/avianDescription","value":"叶子看起来像羽毛一样，但它们一点都不柔软。"},
+{"op":"replace","path":"/floranDescription","value":"菠萝看起来像叶族人的头。"},
+{"op":"replace","path":"/glitchDescription","value":"嘚瑟模式。电子人已经知道使用菠萝作为目标实践。"},
+{"op":"replace","path":"/humanDescription","value":"菠萝，完美的甜点，或喝鸡尾酒。"},
+{"op":"replace","path":"/hylotlDescription","value":"太甜，你永远不会在海底找到菠萝。"}]

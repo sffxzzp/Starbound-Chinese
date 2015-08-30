@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"画的也许是太阳的岩画？"},
+{"op":"replace","path":"/shortdescription","value":"太阳岩画"},
+{"op":"replace","path":"/apexDescription","value":"看上去像是太阳，但怎么有个眼睛？那些是光线吗？"},
+{"op":"replace","path":"/avianDescription","value":"这些真的是太阳的话吗？我不敢确定。"},
+{"op":"replace","path":"/floranDescription","value":"…"},
+{"op":"replace","path":"/glitchDescription","value":"恐惧。这看上去应该是个太阳，也许我认错了…"},
+{"op":"replace","path":"/humanDescription","value":"噢不…这样的画是怎么到这里的？！"},
+{"op":"replace","path":"/hylotlDescription","value":"这画的是什么啊，为啥我总觉得那么恐怖？"}]

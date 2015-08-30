@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上半身的多层装甲，以鲁宾层分隔开来。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "间谍的夹克"}]

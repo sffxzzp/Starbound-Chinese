@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个全息的古老神话场景。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代全息图"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这描绘了一个独眼的星球摧毁者。令人不安。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张图片有一个摧毁世界的可能媲美神的生物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这张关于屠戮怪物的图片令人印象深刻！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。这幅生物摧毁星球的壁画令人不安。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来有点像预言！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个全息图显示了一个多肢生物正在毁灭星球。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个鱿鱼样的东西不怎么漂亮…"}]

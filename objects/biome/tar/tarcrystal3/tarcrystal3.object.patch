@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块结晶的沥青的碎片"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沥青碎片3"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "真亮，就像看着面黑色的镜子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我更喜欢固态的沥青。更养眼，对羽毛也安全。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "非常，黑的晶晶晶体。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。它是怎么从那可怕而粘稠的状态转变过来的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "以沥青的标准看，真是漂亮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "结晶态的沥青是最美丽的沥青。"}]

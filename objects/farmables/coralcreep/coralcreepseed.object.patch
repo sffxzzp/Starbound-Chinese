@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"珊瑚果的果实看起来像一个海洋生物。"},
+{"op":"replace","path":"/shortdescription","value":"珊瑚果种子"},
+{"op":"replace","path":"/apexDescription","value":"珊瑚虫，即使外表像虫，实际上还是一个水果。"},
+{"op":"replace","path":"/avianDescription","value":"一种有海鲜味道的水果，确实让人毛骨悚然。"},
+{"op":"replace","path":"/floranDescription","value":"一个植物外表看上去像个生物，聪明。"},
+{"op":"replace","path":"/glitchDescription","value":"怀疑模式。看起来像是一个海底生物，怎么能说这是一种水果？"},
+{"op":"replace","path":"/humanDescription","value":"一个外观和味道都像龙虾的水果。"},
+{"op":"replace","path":"/hylotlDescription","value":"美味的珊瑚果，一个真正的美味，每个人都应该尝试一下。"}]

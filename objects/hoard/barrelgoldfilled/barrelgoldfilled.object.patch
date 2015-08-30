@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个充满了宝藏的桶（可能无法获得）"},
+{"op":"replace","path":"/shortdescription","value":"宝藏桶"},
+{"op":"replace","path":"/apexDescription","value":"一个木制桶.有宝藏在里面!"},
+{"op":"replace","path":"/avianDescription","value":"一个装满了宝藏的桶.可能还有更糟糕的东西."},
+{"op":"replace","path":"/floranDescription","value":"叶族人喜欢一锅闪闪亮亮的东西!"},
+{"op":"replace","path":"/glitchDescription","value":"有趣,这些宝藏好像是用来展览的."},
+{"op":"replace","path":"/humanDescription","value":"装满了宝藏的桶,好象有一桶金子."},
+{"op":"replace","path":"/hylotlDescription","value":"这是一个装满了宝藏的不体面的容器."}]

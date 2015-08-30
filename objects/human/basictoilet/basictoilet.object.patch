@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"厕所！谢天谢地！"},
+{"op":"replace","path":"/shortdescription","value":"老旧的厕所"},
+{"op":"replace","path":"/apexDescription","value":"一个小小的厕所。看起来完全不卫生。"},
+{"op":"replace","path":"/avianDescription","value":"用来排泄的地方。"},
+{"op":"replace","path":"/floranDescription","value":"亮亮亮闪闪的 光光光滑的 脑子碗。"},
+{"op":"replace","path":"/glitchDescription","value":"冷漠： 厕所。"},
+{"op":"replace","path":"/humanDescription","value":"厕所。总是那么受人欢迎。"},
+{"op":"replace","path":"/hylotlDescription","value":"简陋的厕所。"}]

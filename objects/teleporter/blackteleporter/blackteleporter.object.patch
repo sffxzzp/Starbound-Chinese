@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这会让我从任何地方传送过来！\n^red;打碎的时候会被摧毁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "执行传送门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这优雅的传送门会在传送过程中擦亮你的鞋子并掀起你的西装。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这优雅的传送门会在传送过程中擦亮你的鞋子并掀起你的西装。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这优雅的传送门会在传送过程中擦亮你的鞋子并掀起你的西装。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "这优雅的传送门会在传送过程中擦亮你的鞋子并掀起你的西装。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这优雅的传送门会在传送过程中擦亮你的鞋子并掀起你的西装。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这优雅的传送门会在传送过程中擦亮你的鞋子并掀起你的西装。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这优雅的传送门会在传送过程中擦亮你的鞋子并掀起你的西装。"}]

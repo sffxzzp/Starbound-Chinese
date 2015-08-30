@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"别这么做！"},
+{"op":"replace","path":"/shortdescription","value":"禁止进入标示"},
+{"op":"replace","path":"/apexDescription","value":"回家的时候，这些标志处处可见。"},
+{"op":"replace","path":"/avianDescription","value":"这些标示不知道是什么人授权写的？"},
+{"op":"replace","path":"/floranDescription","value":"叶族想进就进。傻逼警示。"},
+{"op":"replace","path":"/glitchDescription","value":"叛逆。我才不听你的话呢~"},
+{"op":"replace","path":"/humanDescription","value":"谢谢你的建议！"},
+{"op":"replace","path":"/hylotlDescription","value":"是要小心的时候了，我觉得。"}]

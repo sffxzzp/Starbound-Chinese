@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"可以用来研发新科技来为冒险服务。"},
+{"op":"replace","path":"/shortdescription","value":"科技控制台"},
+{"op":"replace","path":"/apexDescription","value":"这个控制台能让我研发新科技"},
+{"op":"replace","path":"/avianDescription","value":"神秘的黑科技，我能在这里研发科技。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人按下下下按钮,，造魔法的东西西西。"},
+{"op":"replace","path":"/glitchDescription","value":"高兴：可以让我研发新科技的控制台。"},
+{"op":"replace","path":"/humanDescription","value":"但我第一次用它来研发新科技的时候，效果出乎我的意料。当然，除了把我的背包炸毁了之外，各方面都很完美。."},
+{"op":"replace","path":"/hylotlDescription","value":"能方便地研发新科技，令人印象深刻。"}]

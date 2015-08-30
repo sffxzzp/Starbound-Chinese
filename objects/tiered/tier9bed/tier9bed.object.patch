@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个崇高的鲁宾床。虽然有点高低不平."},
+{"op":"replace","path":"/shortdescription","value":"鲁宾床"},
+{"op":"replace","path":"/apexDescription","value":"一个非常非常舒服的床,就是看起来有点可怕."},
+{"op":"replace","path":"/avianDescription","value":"这是个极其舒适的地方来让我的羽毛休息."},
+{"op":"replace","path":"/floranDescription","value":"叶族在很棒的床上睡觉."},
+{"op":"replace","path":"/glitchDescription","value":"骄傲.我自己的特别好的床."},
+{"op":"replace","path":"/humanDescription","value":"一个棒极了的床,我应该能够很容易的在上面休息,只要它不给我带来噩梦."},
+{"op":"replace","path":"/hylotlDescription","value":"很好的制作质量,我很喜欢,但我不确定它的外表."}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"无论你是穿着休闲裤、无边帽还是马裤都可以喝。"},
+{"op":"replace","path":"/shortdescription","value":"猿人饮料"},
+{"op":"replace","path":"/apexDescription","value":"科学发展部禁止了所有的酒精饮料，但却好像不会封禁这个。"},
+{"op":"replace","path":"/avianDescription","value":"一个猿人饮料？翼族不太能承受酒精。"},
+{"op":"replace","path":"/floranDescription","value":"嘶嘶，恶心的猿人液体。"},
+{"op":"replace","path":"/glitchDescription","value":"大胆。我从里到外都是防水的。"},
+{"op":"replace","path":"/humanDescription","value":"一瓶饮料…我觉得我可以干掉一瓶。"},
+{"op":"replace","path":"/hylotlDescription","value":"鲛人喝茶，酒很少喝。"}]

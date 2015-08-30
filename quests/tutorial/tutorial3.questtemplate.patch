@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" :"^yellow;教程 III: 为自己做好准备"},
+{ "op" : "replace", "path" : "/text", "value" : "^orange;植物纤维^white;能够用来制作^orange;绷带^white;来给自己疗伤。我需要^green;砍下一些藤蔓来获得^orange;植物纤维，^green;然后徒手将它们制成^orange;绷带^white;。安全总比遗憾好。"},
+{ "op" : "replace", "path" : "/completionText", "value" : "还不太算坏。我能用^orange;植物纤维^white;制作各种各样的东西，小到^orange;绳子^white;大到^orange;布^white;。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一张蘑菇椅子，也许只是棵羊肠菌？"},
+{"op":"replace","path":"/shortdescription","value":"蘑菇椅子"},
+{"op":"replace","path":"/apexDescription","value":"这张椅子坐上去很怪异，有海绵的感觉！"},
+{"op":"replace","path":"/avianDescription","value":"这椅背和我的羽毛，摩擦，摩擦。"},
+{"op":"replace","path":"/floranDescription","value":"叶族挤椅。"},
+{"op":"replace","path":"/glitchDescription","value":"（思考） 用多长时间蘑菇才能长成这样？"},
+{"op":"replace","path":"/humanDescription","value":"我打赌无论谁坐在这里都会很有趣。Yeah，我就是这样想的。"},
+{"op":"replace","path":"/hylotlDescription","value":"椅子有海绵的感觉。"}]

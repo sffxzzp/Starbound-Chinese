@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这台自动点唱机看起来只能点播由一支名叫‘黑人乔恩乐队’的乐队演奏的歌曲。"},
+{"op":"replace","path":"/shortdescription","value":"自动点唱机"},
+{"op":"replace","path":"/apexDescription","value":"令人愉快的音乐盒子， 虽然里面只有一支曲子。"},
+{"op":"replace","path":"/avianDescription","value":"这台自动点唱机可以照亮黑暗的灵魂。"},
+{"op":"replace","path":"/floranDescription","value":"盒子向叶族人发出噪音音音，叶族人也发出噪音音音还回去。"},
+{"op":"replace","path":"/glitchDescription","value":"抖腿： 音乐对我的电路的影响是如此之大，我总想跳舞，有些把持不住了。"},
+{"op":"replace","path":"/humanDescription","value":"哦，少年，这是我最喜欢的专辑! 星界刚刚获得了新的时尚风潮。"},
+{"op":"replace","path":"/hylotlDescription","value":"与我们大鲛人相比，人类的音乐缺乏细微的音色变化。"}]

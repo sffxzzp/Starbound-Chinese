@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "黑色墓砖"},
+{ "op" : "replace", "path" : "/description", "value" : "摸起来很冷的黑砖，这些砖块似乎把房间里的热量都吸走了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。布满灰尘的砖块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "布满灰尘的砖块。"}]

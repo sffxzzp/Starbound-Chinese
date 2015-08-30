@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^orange;做好准备"},
+{"op": "replace","path": "/text","value": "如果你对探索宇宙这件事儿十分严肃，你需要更好的装备。告诉你，^green;如果你给我带一个^orange;木制工作台^white;，我会把它升级到^orange;铁制工作台^white;并^green;告诉你如何自己制作一个^white;！到传送者商店并用他们的传送器让你变的更快。"},
+{"op": "replace","path": "/completionText","value": "太棒了！这里是铁制工作台—现在你可以自己制作了！如果你感兴趣的话，我有另外一个任务你可能帮的上忙。"}]

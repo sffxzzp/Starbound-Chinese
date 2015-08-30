@@ -1,0 +1,10 @@
+[{"op":"replace","path":"/description","value":"这里销售假冒的飞船许可证."},
+{"op":"replace","path":"/shortdescription","value":"企鹅湾"},
+{"op":"replace","path":"/apexDescription","value":"可疑的鸟及其黑市商品."},
+{"op":"replace","path":"/avianDescription","value":"唉，企鹅给大家这样一个坏名声."},
+{"op":"replace","path":"/floranDescription","value":"黏糊糊的脆脆的企鹅有好东西可卖!"},
+{"op":"replace","path":"/glitchDescription","value":"有趣。这些微小的企鹅是走私者."},
+{"op":"replace","path":"/humanDescription","value":"我觉得我正在演一个警匪片."},
+{"op":"replace","path":"/hylotlDescription","value":"粗鲁，犯罪鸟."},
+{"op":"replace","path":"/novakidDescription","value":"粗暴的鸟卖一些狡猾的齿轮,真是适合我的地方."},
+{"op":"replace","path":"/chatOptions","value":["让你自己在这里变的更加有用吧，然后我们可以谈谈。","多帮帮前哨站周围的人，那样我也会帮你。","我会给好人一些好东西，你还不够好。"]}]

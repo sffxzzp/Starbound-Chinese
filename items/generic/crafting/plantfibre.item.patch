@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一组植物纤维。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "植物纤维"}]

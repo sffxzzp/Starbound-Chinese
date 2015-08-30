@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这鳞片覆盖的裤子在靠近脚的地方有爪子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泻湖裤子"}]

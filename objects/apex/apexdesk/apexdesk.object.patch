@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"每张桌子都有一个咖啡杯和台灯融在了桌面上。"},
+{"op":"replace","path":"/shortdescription","value":"标准桌子"},
+{"op":"replace","path":"/apexDescription","value":"那个咖啡杯和台灯只是摆来看的。它们被固定在了桌面。"},
+{"op":"replace","path":"/avianDescription","value":"一个奇怪的桌子…在上面的物件都是定死的。"},
+{"op":"replace","path":"/floranDescription","value":"为什么猿人把东西黏在桌子上？"},
+{"op":"replace","path":"/glitchDescription","value":"好笑和疑惑。东西被融在了桌面上。拿不下来。"},
+{"op":"replace","path":"/humanDescription","value":"这…被子和台灯都被黏在了桌子上。这只是做摆设的么？"},
+{"op":"replace","path":"/hylotlDescription","value":"一套假的东西融在了桌子上。什么鬼？"}]

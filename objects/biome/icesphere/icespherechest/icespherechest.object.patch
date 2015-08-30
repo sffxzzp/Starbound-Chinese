@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个冻上了的球形箱子，用来放财宝或冰制品非常完美。"},
+{"op":"replace","path":"/shortdescription","value":"冰球箱子"},
+{"op":"replace","path":"/apexDescription","value":"一个冻上了的球形箱子。我们看看里面有啥。"},
+{"op":"replace","path":"/avianDescription","value":"光滑的，冰冷的，诱人的箱子。"},
+{"op":"replace","path":"/floranDescription","value":"叶族颤抖的打开箱子。"},
+{"op":"replace","path":"/glitchDescription","value":"……分析…… 这个冰具有特殊的性质，它不会很快融化。"},
+{"op":"replace","path":"/humanDescription","value":"这箱子看起来像一座冰屋。也许里面有北极熊。"},
+{"op":"replace","path":"/hylotlDescription","value":"圆形冻上的箱子，杰作。"}]

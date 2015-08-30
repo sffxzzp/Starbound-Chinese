@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这只是一个支撑梁。"},
+{"op":"replace","path":"/shortdescription","value":"金属支撑梁"},
+{"op":"replace","path":"/apexDescription","value":"一个支撑梁。"},
+{"op":"replace","path":"/avianDescription","value":"一个金属支撑物。"},
+{"op":"replace","path":"/floranDescription","value":"支支支撑。"},
+{"op":"replace","path":"/glitchDescription","value":"毫不掩饰的冷漠：一个支撑梁。"},
+{"op":"replace","path":"/humanDescription","value":"金属梁。"},
+{"op":"replace","path":"/hylotlDescription","value":"金属支撑梁。"}]

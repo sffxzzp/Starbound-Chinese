@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "叶族监狱的床。坚硬且多灰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叶族监狱床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个粗糙的监狱床。使我想起家的感觉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个监狱床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不喜欢这个。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。这张床上面爬满了虫子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我感觉睡在这里更糟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我以前从来没睡过比这更糟的床。"}]

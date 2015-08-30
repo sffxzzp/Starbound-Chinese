@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个垃圾桶，里面装的是垃圾，真的！"},
+{"op":"replace","path":"/shortdescription","value":"垃圾桶"},
+{"op":"replace","path":"/apexDescription","value":"垃圾桶。"},
+{"op":"replace","path":"/avianDescription","value":"垃圾桶。"},
+{"op":"replace","path":"/floranDescription","value":"拉、垃圾!"},
+{"op":"replace","path":"/glitchDescription","value":"陈述： 一个电子人伙计...或者说是一个垃圾桶。."},
+{"op":"replace","path":"/humanDescription","value":"垃圾桶。"},
+{"op":"replace","path":"/hylotlDescription","value":"垃圾桶。"}]

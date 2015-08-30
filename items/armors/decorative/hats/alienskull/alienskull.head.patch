@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个神秘的外星头骨，你可以穿。令人毛骨悚然的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "外星人颅骨"}]

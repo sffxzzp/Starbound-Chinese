@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"感觉好像站在舞台上一样!"},
+{"op":"replace","path":"/shortdescription","value":"小型照明灯"},
+{"op":"replace","path":"/apexDescription","value":"科学进展部就用这样的聚光灯来强迫人们说话，刺眼的光线，而更可怕的是..."},
+{"op":"replace","path":"/avianDescription","value":"一个烦人的，刺眼的灯。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人感觉自己成了焦点。"},
+{"op":"replace","path":"/glitchDescription","value":"鬼鬼祟祟：通过对聚光灯的模式分析可知，在它周围的盲区可以很轻松的溜掉。"},
+{"op":"replace","path":"/humanDescription","value":"我想成为大家关注的焦点。"},
+{"op":"replace","path":"/hylotlDescription","value":"一盏明亮的、打动人心的照明灯。"}]

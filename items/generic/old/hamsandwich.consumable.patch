@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "想到把火腿夹在两片面包之间的是一个天才。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火腿三明治"}]

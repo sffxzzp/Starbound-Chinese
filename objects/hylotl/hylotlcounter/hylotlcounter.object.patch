@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"长得像鲛人的奇怪计数器。"},
+{"op":"replace","path":"/shortdescription","value":"鲛人计数器"},
+{"op":"replace","path":"/apexDescription","value":"这东西看样子是鲛人照着自己的长相做的。"},
+{"op":"replace","path":"/avianDescription","value":"这个计数器镶嵌着像鲛人眼睛一样的宝石。"},
+{"op":"replace","path":"/floranDescription","value":"青蛙人造的家具长的像、像青蛙人。"},
+{"op":"replace","path":"/glitchDescription","value":"被逗乐：这个家具看起来长得很像鲛人。"},
+{"op":"replace","path":"/humanDescription","value":"鲛人似乎喜欢参考自己的长相做家具。."},
+{"op":"replace","path":"/hylotlDescription","value":"我们大鲛人对自己的长相很自豪，也很享受这种创造自我的艺术过程。"}]

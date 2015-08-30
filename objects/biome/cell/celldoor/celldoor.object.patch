@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个用细胞成的障碍？哦，这是个门。"},
+{"op":"replace","path":"/shortdescription","value":"细胞门"},
+{"op":"replace","path":"/apexDescription","value":"不是很安全的门。如果我足够瘦我都可以挤到另一边。"},
+{"op":"replace","path":"/avianDescription","value":"它看起来有点脆弱。"},
+{"op":"replace","path":"/floranDescription","value":"愚蠢纠结的门。"},
+{"op":"replace","path":"/glitchDescription","value":"（挑剔）它很好看，但是很脆弱，我可以把它撕成两半。"},
+{"op":"replace","path":"/humanDescription","value":"看这门让我有点头晕。"},
+{"op":"replace","path":"/hylotlDescription","value":"门在打开合关闭时会扭曲。 很有创意。"}]

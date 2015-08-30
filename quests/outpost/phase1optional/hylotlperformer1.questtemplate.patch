@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;有趣的纸"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "天啊！这几周我一直在这策划一个在前哨站表演的喜剧，但是我的^orange;剧本^white;不见了。^green;它一定在这里的某个地方...^orange;你能帮我找到它吗？"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "什么！？它在垃圾箱里？一定是有人捣乱偷了我的剧本然后把它扔了。谢谢你，这些像素是给你的！"
+  }
+]

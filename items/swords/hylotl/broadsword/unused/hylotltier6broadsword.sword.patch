@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "斗鱼。一把去除内脏的大剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "斗鱼"}]

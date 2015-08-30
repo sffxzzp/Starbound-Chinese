@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "10000像素压缩成一个立体像素。40%像素会在压缩过程中丢失。可以提炼出6000像素。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "10k 立体像素"}]

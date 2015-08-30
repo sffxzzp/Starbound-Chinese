@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "冻土块"},
+{ "op" : "replace", "path" : "/description", "value" : "一块冻土块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。冻土，冷得像冰。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "冻土。摸起来很光滑。"}]

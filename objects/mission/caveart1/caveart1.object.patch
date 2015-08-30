@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"描绘了一些动物的岩画。"},
+{"op":"replace","path":"/shortdescription","value":"动物岩画"},
+{"op":"replace","path":"/apexDescription","value":"粗糙地画着一些动物。"},
+{"op":"replace","path":"/avianDescription","value":"这些糟糕的画可能像繁星一样古老。"},
+{"op":"replace","path":"/floranDescription","value":"由以前叶叶叶叶族画的哦。"},
+{"op":"replace","path":"/glitchDescription","value":"观察。这似乎画的是一些有机生命体。"},
+{"op":"replace","path":"/humanDescription","value":"为什么这些岩画看起来都一个样？都那么原始！"},
+{"op":"replace","path":"/hylotlDescription","value":"切，这些画都还没有鲛人艺术精美呢。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这是干啥的？"},
+{"op":"replace","path":"/shortdescription","value":"操纵杆开关"},
+{"op":"replace","path":"/apexDescription","value":"嗯，一个操纵杆。"},
+{"op":"replace","path":"/avianDescription","value":"一种开关。"},
+{"op":"replace","path":"/floranDescription","value":"拉、拉、拉，叶族人是作死的小行家。"},
+{"op":"replace","path":"/glitchDescription","value":"检查： 一个机械操纵杆，.显然不是标准的电子人科技。"},
+{"op":"replace","path":"/humanDescription","value":"一个大号红色操纵杆！"},
+{"op":"replace","path":"/hylotlDescription","value":"红颜色让它看起来更诱人。"}]

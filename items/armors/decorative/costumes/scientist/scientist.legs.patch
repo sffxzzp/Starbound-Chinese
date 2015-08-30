@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "让怪物黏者穿戴者不放。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科学家外衣"}]

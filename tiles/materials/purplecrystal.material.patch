@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "光似乎在通过水晶内部时会被扭曲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紫水晶块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。漂亮的紫色水晶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "美丽的水晶。"}]

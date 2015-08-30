@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有什么比一张床还要好？答案是两张床！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小木屋双层床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "上面这层床是用来搜索接近中的敌人的吗？不明觉厉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多么美好的发明！我一定要让更多人知道这个！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不喜欢在那么高的地方睡睡睡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。我希望这东西不会再被使用的时候塌掉。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个双层床是一个美丽的发明。我很高兴它挺过了时间的考验。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这件家具展现了惊人的创造力，但这一切都被它粗糙的被褥给毁了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "伦家、嗯哼，人家喜欢睡在顶层的床上，那样便离漫天的小星星更近一些。"}]

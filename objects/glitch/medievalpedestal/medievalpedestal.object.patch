@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个基座，用来展示一些花哨的东西。"},
+{"op":"replace","path":"/shortdescription","value":"电子人基座"},
+{"op":"replace","path":"/apexDescription","value":"用来展示好吃的东西的基座。"},
+{"op":"replace","path":"/avianDescription","value":"看起来像某种桌子。"},
+{"op":"replace","path":"/floranDescription","value":"小木桌。"},
+{"op":"replace","path":"/glitchDescription","value":"鉴定：这个基座用于展示电子人的文物。"},
+{"op":"replace","path":"/humanDescription","value":"看起来是一个展示用基座。"},
+{"op":"replace","path":"/hylotlDescription","value":"用于展示电子人引以为豪的东西的地方。"}]

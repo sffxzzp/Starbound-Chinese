@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张典型的翼族风格的石头桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张石头桌子。装饰着图案和雕刻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "神庙的守卫们在这张桌子上吃饭。上面的雕刻表达了对克鲁西斯的慷慨的感激。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "画着鸟人的桌子。桌面有食物的污污污迹。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "检查。桌子上沾了各种食物的污迹。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张石头桌子，根据它的磨损痕迹来判断，这是一张餐桌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "桌子上的雕刻很精美，但令人伤心的是它没有被好好保养。"}]

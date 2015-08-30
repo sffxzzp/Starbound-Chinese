@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一堆骨头，很适合用来敲碎。"},
+{"op":"replace","path":"/shortdescription","value":"骸骨堆"},
+{"op":"replace","path":"/apexDescription","value":"这些骨头就是要被打碎。"},
+{"op":"replace","path":"/avianDescription","value":"尘归尘，土归土。"},
+{"op":"replace","path":"/floranDescription","value":"叶族粉碎骨头。一整天。"},
+{"op":"replace","path":"/glitchDescription","value":"（研究）一个反弹球可能会把这个骨堆变成粉末。"},
+{"op":"replace","path":"/humanDescription","value":"如果他们已经死了，粉碎这些骨头没有任何用。"},
+{"op":"replace","path":"/hylotlDescription","value":"粉碎的骨头是恶心。我担心我可能不小心踢到它，因为我走过去了。不可避免。"}]

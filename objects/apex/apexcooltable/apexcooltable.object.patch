@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"这绝壁是个帅气的桌子。"},
+{"op":"replace","path":"/shortdescription","value":"酷酷的桌子"},
+{"op":"replace","path":"/apexDescription","value":"一个基础的实验桌。"},
+{"op":"replace","path":"/avianDescription","value":"炼金术士的混合台。"},
+{"op":"replace","path":"/floranDescription","value":"一个用以实验的桌子。"},
+{"op":"replace","path":"/glitchDescription","value":"讽刺。一个很有趣的发现。"},
+{"op":"replace","path":"/humanDescription","value":"看着像个实验桌。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个科学用途的桌子。"}]

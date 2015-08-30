@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/title", "value" : "^orange;大爆炸"},
+{ "op" : "replace", "path" : "/text", "value" : "我不记得我怎么会在这...我的飞船受损了...我需要^green;修复飞船的推进器和船体。"},
+{ "op" : "replace", "path" : "/completionText", "value" : "Yeehaw，旧女孩变得更棒了。接下来我需要修复超光速驱动。"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个骸骨王座，所有的皇室都需要一把。"},
+{"op":"replace","path":"/shortdescription","value":"骸骨王座"},
+{"op":"replace","path":"/apexDescription","value":"我想象一个暴虐的霸主坐在这里。也许大猿人很喜欢。"},
+{"op":"replace","path":"/avianDescription","value":"我希望在鸟圣庙里看到这个。一个非常阴森的鸟圣庙。"},
+{"op":"replace","path":"/floranDescription","value":"叶族喜欢骸骨王座。叶族坐下，思考骨头。"},
+{"op":"replace","path":"/glitchDescription","value":"……分析……这骨头来自一个早已死去的生物。它可能已灭绝。"},
+{"op":"replace","path":"/humanDescription","value":"一个令人毛骨悚然的椅子。异常的舒适。我可以坐在这里给恶魔下命令。"},
+{"op":"replace","path":"/hylotlDescription","value":"由死亡制作的粗糙椅子，好恐怖。"}]

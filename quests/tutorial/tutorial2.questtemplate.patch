@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^yellow;教程 II: 手艺课"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "应该制作一个^orange;木制合成桌^white;了！传送到星球上后，^green;使用物质枪砍树^white;来获得^orange;木头^white;。接着按下^green;[C]^white;来打开自己的制作菜单，看看哪些是需要制作的。"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "太棒了，我能使用^orange;木制合成桌^white;来制作很多空手不能制作的东西。"
+  }
+]

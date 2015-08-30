@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/destinations/0","value":{"name":"传送到星球","planetName":"current orbited world","warpAction":"OrbitedWorld","icon":"beamdown"}}]

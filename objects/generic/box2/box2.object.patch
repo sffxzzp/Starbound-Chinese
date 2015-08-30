@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个安全的木箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "安全的木箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木制的盒子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用木头做了个箱子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个通过剥树的肉做成的盒子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "鉴定。箱子。木制的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个木箱。"}]

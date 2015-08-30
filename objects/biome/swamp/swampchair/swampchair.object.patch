@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用叶子和根做成的小椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沼泽椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我觉得这应该是用来做的。看起来也不太舒适。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "普通的椅子。没必要奢侈浪费。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "椅子闻闻起来像沼沼泽，叶族人喜喜欢"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "发抖。坐在这感觉好奇怪。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我猜这应该可以坐。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "做工不精啊。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "加速型轨道"},
+{ "op" : "replace", "path" : "/description", "value" : "一发就能加快速度哦。"}]

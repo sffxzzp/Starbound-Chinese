@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/description","value":"<一个'非门'开关。能够反转电路的输入。>"},
+{"op":"replace","path":"/shortdescription","value":"非门"}]

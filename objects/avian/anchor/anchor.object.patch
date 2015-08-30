@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个沉重的金属锚。液。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "锚"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一块很重的铁块，也许是锚。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族飞船上的锚。具有讽刺意味的是，许多折翼者在云端的飞船上讨生活。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "铁钩，很沉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "说明。电子人的大帆船上用这样的锚。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个巨大的锚。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊，一个锚，我曾经在鲛人的社会中听过这些东西的传闻。"}]

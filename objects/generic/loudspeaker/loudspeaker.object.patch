@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一组喇叭，人们通过它大声说话。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "扬声器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "扬声器。猿族经常在他们的家园中看到这样的东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "来自这个装置的一个爆裂声。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一种发声机器？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "测试。这个设备能够在多个频率上接收信号。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一组扬声器。他们可能很大声。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "突出声音的设备。"}]

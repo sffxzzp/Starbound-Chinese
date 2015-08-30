@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个铜块有一个独特的齿轮状印记。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜齿轮块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。这物块上齿轮样的印记吸引了我。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "齿轮和齿轮。"}]

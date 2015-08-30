@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "轻轻地闪烁着的华丽的灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "华丽灯笼"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个非常简单灯的充满异国情调的设计。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "摸起来好烫。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的火焰。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这灯笼是精心制作的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "相当漂亮的油灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "最好的手艺，可靠的光源。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "保护你的身体不受毒水伤害。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "抗毒剂"}]

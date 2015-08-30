@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个假的公主。完美的诱饵。"},
+{"op":"replace","path":"/shortdescription","value":"假公主"},
+{"op":"replace","path":"/apexDescription","value":"这个假公主可以当诱饵来用。"},
+{"op":"replace","path":"/avianDescription","value":"一个狡猾的诱饵机关。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人要利用公主戳戳戳怪兽！"},
+{"op":"replace","path":"/glitchDescription","value":"骄傲. 诱饵，真是一个聪明的计划。"},
+{"op":"replace","path":"/humanDescription","value":"这个诱饵将帮助我把可怕的怪物引出来。"},
+{"op":"replace","path":"/hylotlDescription","value":"也许把怪物引诱到我这里来是不明智的，但我还是想这么做。"}]

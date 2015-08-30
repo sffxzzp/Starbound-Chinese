@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由珊瑚果制作的一种温和的辣咖喱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珊瑚果咖喱"}]

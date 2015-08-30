@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个坏掉的锚。"},
+{"op":"replace","path":"/shortdescription","value":"坏掉的锚"},
+{"op":"replace","path":"/apexDescription","value":"一个坏掉的锚。"},
+{"op":"replace","path":"/avianDescription","value":"这锚看起来坏了。"},
+{"op":"replace","path":"/floranDescription","value":"它坏了。"},
+{"op":"replace","path":"/glitchDescription","value":"可怕。这锚被铁锈覆盖了。电子人的敌人。"},
+{"op":"replace","path":"/humanDescription","value":"这锚从哪儿来的？"},
+{"op":"replace","path":"/hylotlDescription","value":"这锚从海平面崩下并砸中了鲛人的城市。"}]

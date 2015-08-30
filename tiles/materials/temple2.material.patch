@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "寺砖"},
+{ "op" : "replace", "path" : "/description", "value" : "这些砖看起来很古老。表面上刻画了复杂到我翻译机都无法分析的字。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这些石头上的雕刻相当粗糙。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢石头的表面。"}]

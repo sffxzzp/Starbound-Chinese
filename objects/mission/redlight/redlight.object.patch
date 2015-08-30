@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个昏暗的红灯."},
+{"op":"replace","path":"/shortdescription","value":"红灯"},
+{"op":"replace","path":"/apexDescription","value":"这些灯通常用于船舰上."},
+{"op":"replace","path":"/avianDescription","value":"一个灯."},
+{"op":"replace","path":"/floranDescription","value":"红灯!红色的!"},
+{"op":"replace","path":"/glitchDescription","value":"分析。此灯在低功耗下产生光."},
+{"op":"replace","path":"/humanDescription","value":"忧郁的红灯."},
+{"op":"replace","path":"/hylotlDescription","value":"一个说的过去的灯."}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可摧毁水晶。到让它破碎的时间了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "可摧毁水晶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我必须打碎这水晶！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "打碎这水晶将令人满意。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可以粉碎的闪亮亮！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。打碎这个水晶将会产生巨大的财富。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "时间使一些水晶混乱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "蓝水晶。漂亮的。我希望我不要打碎他们！"}]

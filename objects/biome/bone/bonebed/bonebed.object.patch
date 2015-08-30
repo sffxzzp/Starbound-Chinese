@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个棺材，在死者间非常流行。"},
+{"op":"replace","path":"/shortdescription","value":"骸骨床"},
+{"op":"replace","path":"/apexDescription","value":"这床看起来小而幽闭。它有一个盖子！"},
+{"op":"replace","path":"/avianDescription","value":"在这床上睡觉会非常赞。"},
+{"op":"replace","path":"/floranDescription","value":"叶族用床来招待客人人人，客人人人去睡睡睡觉。再也不醒来。"},
+{"op":"replace","path":"/glitchDescription","value":"颤栗，床的样式是根据棺材制作的。"},
+{"op":"replace","path":"/humanDescription","value":"也许宇宙吸血鬼会用这床。真有宇宙吸血鬼？希望如此！"},
+{"op":"replace","path":"/hylotlDescription","value":"这床有些东西会让我感到恐怖。"}]

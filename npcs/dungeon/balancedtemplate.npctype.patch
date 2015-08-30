@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["我正在攻击你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/reattack/default/default","value": ["我又在攻击你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/killedTarget/default/default","value": ["我杀死了你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/lostTarget/default/default","value": ["我找不到你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/outOfSight/default/default","value": ["我看不见你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/cheerOn/default/default","value": ["我正在激励我的友军！"]},
+{"op": "replace","path": "/scriptConfig/dialog/cantReach/default/default","value": ["我到不了你那里！"]}]

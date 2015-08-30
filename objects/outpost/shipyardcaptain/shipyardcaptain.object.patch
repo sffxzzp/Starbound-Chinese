@@ -1,0 +1,10 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可疑的船长。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船厂船长"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可疑的鸟类和他们的黑市货物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "呃，企鹅给我们所有人这样一个糟糕的名字。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "带着商品出售的粘糊松脆的企鹅！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "娱乐。这些小企鹅是走私犯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我觉得我正在一个黑帮电影中。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粗野的，犯罪的鸟类。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "吵闹的鸟类卖不可靠的齿轮。正是我要来的地方。"},
+{ "op" : "replace", "path" : "/chatOptions", "value" : ["老子会密切关注这帮小崽子们。如果你瞧见啥想要的,可以去跟老子的商人们聊聊。","如果老子没有管管这帮傻蛋，他们会自己蠢死的！","你看起来像个懂船的人。如果你需要啥，可以去跟老子的商人们聊聊。","想打听像老子这样的纯爷们为什么要管着一帮哼唧哼唧的小畜生？别问老子！滚边琢磨去！"]}]

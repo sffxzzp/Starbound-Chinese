@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/description","value":"用来挖掘化石.其它东西都会毁坏. 这个工具的耐久很低."},
+{"op":"replace","path":"/shortdescription","value":"化石提取器"}]

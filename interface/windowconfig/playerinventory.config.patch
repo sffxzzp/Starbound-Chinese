@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/subtitle","value":"^#b9b5b2;背包界面 ^green;[I]"},
+{"op":"replace","path":"/paneLayout/SendToTrashBtn/value","value":"移除"},
+{"op":"replace","path":"/paneLayout/labelback/value","value":"背部"},
+{"op":"replace","path":"/paneLayout/labelappearance/value","value":"外观"},
+{"op":"replace","path":"/paneLayout/labelarmor/value","value":"装甲"},
+{"op":"replace","path":"/paneLayout/labelstats/value","value":"状态"},
+{"op":"replace","path":"/paneLayout/labelpets/value","value":"宠物栏"},
+{"op":"replace","path":"/paneLayout/labeltech/value","value":"科技栏"}]

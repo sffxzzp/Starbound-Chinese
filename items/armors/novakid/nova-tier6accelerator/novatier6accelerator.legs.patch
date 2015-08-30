@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "赌徒的裤子。多余的卡片不包括在内。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "赌徒裤"}]

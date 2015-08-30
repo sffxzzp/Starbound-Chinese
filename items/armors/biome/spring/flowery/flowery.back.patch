@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如果我能把这些腾蔓像额外武器一样控制就好了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花藤"}]

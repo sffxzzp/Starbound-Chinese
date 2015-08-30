@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个浴室小便池,有时候很有用."},
+{"op":"replace","path":"/shortdescription","value":"浴室小便池"},
+{"op":"replace","path":"/apexDescription","value":"我...应该坐在上面吗..?"},
+{"op":"replace","path":"/avianDescription","value":"我不确定这是什么."},
+{"op":"replace","path":"/floranDescription","value":"叶族人喜欢坐坐位."},
+{"op":"replace","path":"/glitchDescription","value":"声明.一个小便池."},
+{"op":"replace","path":"/humanDescription","value":"小便池."},
+{"op":"replace","path":"/hylotlDescription","value":"一个基本的小便池."}]

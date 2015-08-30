@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"哎哟我去，这箱子粘乎乎的，希望里面的东西还能用..."},
+{"op":"replace","path":"/shortdescription","value":"长满苔藓的小宝箱"},
+{"op":"replace","path":"/apexDescription","value":"好像这箱子本身就是有机物啊。"},
+{"op":"replace","path":"/avianDescription","value":"这箱子是做出来的，还是长出来的？"},
+{"op":"replace","path":"/floranDescription","value":"很特特特别的叶族人，叶族人的绿手指，从地地地上种出来的宝箱箱箱。"},
+{"op":"replace","path":"/glitchDescription","value":"印象深刻： 这些植物一定是有着强烈的信念才长成宝箱的。"},
+{"op":"replace","path":"/humanDescription","value":"这箱子是植物长出来的吗？"},
+{"op":"replace","path":"/hylotlDescription","value":"叶族人好像已经控制了大自然去生长他们所要求的东西。"}]

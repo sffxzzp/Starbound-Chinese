@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"在越狱的时候，这些铁镣铐可能会给你带来麻烦。"},
+{"op":"replace","path":"/shortdescription","value":"墙上的镣铐"},
+{"op":"replace","path":"/apexDescription","value":"一套镣铐，这让我想起了故乡。"},
+{"op":"replace","path":"/avianDescription","value":"一套铁镣铐，占星师们在向克鲁西斯献祭之前，会把祭品用这样的镣铐铐起来。."},
+{"op":"replace","path":"/floranDescription","value":"在烹饪之前，叶族人用、用铁手、手铐困住猎物。"},
+{"op":"replace","path":"/glitchDescription","value":"讽刺：电子人地牢的镣铐， 对于它们我能想出很多玩法。"},
+{"op":"replace","path":"/humanDescription","value":"一套镣铐，谢天谢地，没人被锁在这儿。"},
+{"op":"replace","path":"/hylotlDescription","value":"电子人的监狱制度看起来相当野蛮。"}]

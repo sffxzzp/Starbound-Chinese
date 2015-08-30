@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"充满了诱人的操作杆，但我还是不要管它了。"},
+{"op":"replace","path":"/shortdescription","value":"标准控制台"},
+{"op":"replace","path":"/apexDescription","value":"一个命令控制台，不清楚是干什么的。"},
+{"op":"replace","path":"/avianDescription","value":"乱摆弄的话好像很危险。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人拉下操作杆，听到了远远远处的爆爆爆炸声。我什么都没干。"},
+{"op":"replace","path":"/glitchDescription","value":"观察：控制台的操作杆越多, 胡来的时候就越危险。"},
+{"op":"replace","path":"/humanDescription","value":"我想这个可能是用来打开舱门的。或者是让什么东西爆炸的。反正，这玩意儿肯定是用来做什么事情的"},
+{"op":"replace","path":"/hylotlDescription","value":"千万... 不要... 拉... 操作杆..."}]

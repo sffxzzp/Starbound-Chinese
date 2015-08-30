@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["我曾经在科学发展部当过技术猿。这是真事。","你说我穿这套还像个猿人吗？","我的外套可以通过银河服务器信息让我无线更新。","我用这套装备和计算机直接交互"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["这套衣服让我可以和计算机网络直接交互。真是件酷炫的东西。","穿这件数码套装真的很吃力！","穿着这件衣服我可以通过思维与计算机交互！","我正用这件衣服和计算机无线交互！"]}]

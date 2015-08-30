@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "星核碎片矿石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "星核碎片"}]

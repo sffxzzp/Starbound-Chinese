@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"下水道仪表，没人知道上面的数据是什么意思。"},
+{"op":"replace","path":"/shortdescription","value":"下水道仪表"},
+{"op":"replace","path":"/apexDescription","value":"一个神秘的仪表。"},
+{"op":"replace","path":"/avianDescription","value":"仪表上面显示着‘十单位污水’。"},
+{"op":"replace","path":"/floranDescription","value":"时钟什么的，叶族才不关心呢。"},
+{"op":"replace","path":"/glitchDescription","value":"泄气：设置这个仪表的目的未知。"},
+{"op":"replace","path":"/humanDescription","value":"这看起来很科学。"},
+{"op":"replace","path":"/hylotlDescription","value":"一个不起眼的监测设备。"}]

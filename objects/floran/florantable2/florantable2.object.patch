@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个用来切肉的木制工作台。"},
+{"op":"replace","path":"/shortdescription","value":"原始的工作台"},
+{"op":"replace","path":"/apexDescription","value":"这个桌子的表面看起来被刀刃划过。"},
+{"op":"replace","path":"/avianDescription","value":"这个桌子的表面有血迹。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人在这里切肉。和其他叶族人分分分享。"},
+{"op":"replace","path":"/glitchDescription","value":"讽刺。叶族人不可能用这张桌子做什么可怕的事。"},
+{"op":"replace","path":"/humanDescription","value":"从桌子的表面状态来看，这好像是屠夫的桌子。"},
+{"op":"replace","path":"/hylotlDescription","value":"叶族人好像用这张桌子准备肉食。"}]

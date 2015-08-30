@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个用骨头雕刻的小凳子。"},
+{"op":"replace","path":"/shortdescription","value":"骨凳"},
+{"op":"replace","path":"/apexDescription","value":"把骨头做成了凳子。"},
+{"op":"replace","path":"/avianDescription","value":"一个用骨头做成的凳子。"},
+{"op":"replace","path":"/floranDescription","value":"叶族人坐坐在战利品的骨骨头上。"},
+{"op":"replace","path":"/glitchDescription","value":"嘲讽模式开启：这个肯定是给叶族熊孩子用的。"},
+{"op":"replace","path":"/humanDescription","value":"这个凳子被打磨的闪闪发光，对屁股有好处。"},
+{"op":"replace","path":"/hylotlDescription","value":"在别的生物的骸骨上休息的都是些什么怪物？简直无法直视！"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/paneLayout/windowtitle/title","value":" 商人"},
+{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":" 金钱使世界运转！"},
+{"op":"replace","path":"/paneLayout/lblSchematics/value","value":"货物"},
+{"op":"replace","path":"/paneLayout/lblProducttitle/value","value":"产品详情"},
+{"op":"replace","path":"/paneLayout/btnCraft/caption","value":"购买"},
+{"op":"replace","path":"/paneLayout/lblProduct/value","value":"可以负担"},
+{"op":"replace","path":"/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value","value":"替换我"},
+{"op":"replace","path":"/tooltip/itemList/schema/listTemplate/itemName/value","value":"金胡子"}]

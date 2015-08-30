@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个桶，里面装满了...果汁，嗯，果汁。"},
+{"op":"replace","path":"/shortdescription","value":"果汁桶"},
+{"op":"replace","path":"/apexDescription","value":"一个桶，里面闻起来好像果汁，可惜不是香蕉果汁。"},
+{"op":"replace","path":"/avianDescription","value":"一个闻起来很香甜的桶，里面充满了液体。"},
+{"op":"replace","path":"/floranDescription","value":"嗅、嗅，桶里面闻、闻着像恶、恶心、心的果汁。 "},
+{"op":"replace","path":"/glitchDescription","value":"观察：这种果汁桶一般出现在电子人的旅馆里。"},
+{"op":"replace","path":"/humanDescription","value":"一个桶，里面只有果汁，好桑心。"},
+{"op":"replace","path":"/hylotlDescription","value":"里面的液体闻起来好棒。"}]

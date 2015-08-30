@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "钢平台"},
+{ "op" : "replace", "path" : "/description", "value" : "牢固的钢平台。"}]

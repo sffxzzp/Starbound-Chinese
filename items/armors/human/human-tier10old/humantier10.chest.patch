@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件夹克通常是由那些知道宇宙中最秘密的事情的人穿着。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "普遍主义科技夹克"}]

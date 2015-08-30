@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个坚固的密封门。"},
+{"op":"replace","path":"/shortdescription","value":"密封门"},
+{"op":"replace","path":"/apexDescription","value":"一个巨大的密封门，很坚固。"},
+{"op":"replace","path":"/avianDescription","value":"一个大的可怕的金属门。"},
+{"op":"replace","path":"/floranDescription","value":"青蛙人造了结实的门把叶族人档在外面，他们害怕叶族人。"},
+{"op":"replace","path":"/glitchDescription","value":"挖苦：门把手在哪儿呢?"},
+{"op":"replace","path":"/humanDescription","value":"这违背了叶族人的传统审美观。"},
+{"op":"replace","path":"/hylotlDescription","value":"这扇密封门的安全系数是最高的。"}]

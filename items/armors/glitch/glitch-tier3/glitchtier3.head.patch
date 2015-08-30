@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "镀钛合金的电子人骑士用荣誉（和锋利的剑）战斗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骑士头盔"}]

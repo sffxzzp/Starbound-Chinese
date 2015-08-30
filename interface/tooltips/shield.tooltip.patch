@@ -1,0 +1,2 @@
+[{"op":"replace","path":"/healthLabel/value","value":"盾牌生命值："},
+{"op":"replace","path":"/healthTitleLabel/value","value":"盾牌生命值："}]

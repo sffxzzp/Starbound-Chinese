@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用花瓣和叶子做成的砖块。香香的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花瓣块"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "反思。如果这样的有机材料能被做成合成结构，那么反过来做是不是也可行呢？"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "对叶族人来说这这这就像是用皮皮皮肤做成的砖块。"}]

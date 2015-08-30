@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "不祥的字符脉冲...它们是什么意思？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "字符屏幕"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些字符。我不能解读它们。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "只有观星者才能真正解读它们。我认出了献祭这个字符。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的图片。叶族人不认认认识。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "翻译。翻译失败。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些字符。我的翻译器无法读取。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "古代字符。我的翻译器无法破译。"}]

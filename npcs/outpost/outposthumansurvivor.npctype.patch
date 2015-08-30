@@ -1,0 +1,3 @@
+[{"op":"replace","path":"/scriptConfig/dialog/converse/default/default/0","value":"当它四分五裂的时候我只能勉强从地球逃脱。很幸运地找到了这个地方。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/human/default/0","value":"当它四分五裂的时候我只能勉强从地球逃脱。很幸运地找到了这个地方。"},
+{"op":"replace","path":"/scriptConfig/dialog/converse/human/human/0","value":"全人类都散布在宇宙中。USCM怎么能允许这些发生在我们身上。"}]

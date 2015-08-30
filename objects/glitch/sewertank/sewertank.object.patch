@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"装满了未知物质的罐子，可能致命。"},
+{"op":"replace","path":"/shortdescription","value":"污水罐"},
+{"op":"replace","path":"/apexDescription","value":"一个大型罐子，里面有什么？"},
+{"op":"replace","path":"/avianDescription","value":"我确定，里面有敲击声。"},
+{"op":"replace","path":"/floranDescription","value":"大饮料罐让叶族人很迷、迷惑。"},
+{"op":"replace","path":"/glitchDescription","value":"警报：.热能检测表明，罐子里面有生物。"},
+{"op":"replace","path":"/humanDescription","value":"我敢打赌，在这里面有恐怖的生物，太刺激了。"},
+{"op":"replace","path":"/hylotlDescription","value":"里面有什么东西漂浮着，不停地在敲打着内壁。"}]

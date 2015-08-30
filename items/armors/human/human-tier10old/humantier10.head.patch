@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个帝合金头盔包含一个变声器。可能包括呼吸困难的副作用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "普遍主义头盔"}]

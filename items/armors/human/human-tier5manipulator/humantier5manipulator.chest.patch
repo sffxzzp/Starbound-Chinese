@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "开拓者的鲁宾胸甲为冒险打造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者胸甲"}]

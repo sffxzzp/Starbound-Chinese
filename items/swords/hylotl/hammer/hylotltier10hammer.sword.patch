@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "植物重锤者。一个能够粉碎任何叶族人的锤子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "植物重锤者"}]

@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个古老的死亡警告标志。"},
+{"op":"replace","path":"/shortdescription","value":"古老警告标志"},
+{"op":"replace","path":"/apexDescription","value":"似乎是一个通用的危险标记。"},
+{"op":"replace","path":"/avianDescription","value":"翼族的头骨没有牙齿，所以这标志肯定不适用于我。"},
+{"op":"replace","path":"/floranDescription","value":"激动人心的叶叶叶族标志！"},
+{"op":"replace","path":"/glitchDescription","value":"分析。这标志是个警告。"},
+{"op":"replace","path":"/humanDescription","value":"一个狰狞的骷髅头，肯定是个好兆头。"},
+{"op":"replace","path":"/hylotlDescription","value":"画得特别难看的标志，用来警告别人。"}]

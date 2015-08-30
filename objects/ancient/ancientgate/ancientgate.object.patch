@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"一个神秘的古代星门"},
+{"op":"replace","path":"/shortdescription","value":"古代星门"},
+{"op":"replace","path":"/apexDescription","value":"一个通往未知地方的神秘星门"},
+{"op":"replace","path":"/avianDescription","value":"一个起源神秘的星门"},
+{"op":"replace","path":"/floranDescription","value":"叶族人想知道是什么奇奇怪的生物制作的门"},
+{"op":"replace","path":"/glitchDescription","value":"混乱! 我无法追踪这个星门的起源."},
+{"op":"replace","path":"/humanDescription","value":"一个奇怪而神秘的，有着谜一样雕刻的星门"},
+{"op":"replace","path":"/hylotlDescription","value":"看起来就像是一个要加入工艺和艺术制作的鲛人宝宝"},
+{"op":"replace","path":"/novakidDescription","value":"这个奇怪的门开始祈求我穿过它"}]

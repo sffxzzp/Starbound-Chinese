@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"要机智地使用压力板。"},
+{"op":"replace","path":"/shortdescription","value":"压力板"},
+{"op":"replace","path":"/apexDescription","value":"某种压力板。"},
+{"op":"replace","path":"/avianDescription","value":"踩上去会怎样？"},
+{"op":"replace","path":"/floranDescription","value":"地板上有按钮，叶族人该、该跳上去吗？"},
+{"op":"replace","path":"/glitchDescription","value":"困惑：我认为这不是电子人做的。"},
+{"op":"replace","path":"/humanDescription","value":"一个巨大的压力板。"},
+{"op":"replace","path":"/hylotlDescription","value":"这是用来激活什么的？"}]

@@ -1,0 +1,11 @@
+[
+  { "op" : "replace", "path" : "/title", "value" : 
+	"^green;一个观众"
+  },
+  { "op" : "replace", "path" : "/text", "value" : 
+    "我最近进行了一场演出，但是只有一个人来观看！^green;你能^orange;找到我唯一的观众^green;，然后问问他对我演出的看法？"
+  },
+  { "op" : "replace", "path" : "/completionText", "value" : 
+    "那个表演？太糟糕了！我为了避免他在如此差的演出后而感到尴尬，特地处理了他的剧本，但又有人帮他找了出来...你还是和他说表演的不错，免得他难过。"
+  }
+]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "花！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "白色的花"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个漂亮的白色的花。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这朵花的气味很香。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "花闻起来很香。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。纯白色的花瓣。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看起来像一个杂草丛生的雏菊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "白色在鲛人的颜色中是和平的意思。"}]

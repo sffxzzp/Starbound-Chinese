@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "恶心，厚实，有毒的废弃物。真好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒废弃块"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "恶心。这个废弃物有毒，而且还发光。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "发…发臭的东西。"}]

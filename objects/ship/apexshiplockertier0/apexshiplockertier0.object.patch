@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"为什么不放一些东东进去？"},
+{"op":"replace","path":"/shortdescription","value":"船舱"},
+{"op":"replace","path":"/apexDescription","value":"飞船上的储物系统. 它目前没有任何功能"},
+{"op":"replace","path":"/avianDescription","value":"能存放许多物品的装置. 它看起来和我们的运作方式不一样. 现在没有启动."},
+{"op":"replace","path":"/floranDescription","value":"储.储……储物柜. 现在没有启动."},
+{"op":"replace","path":"/glitchDescription","value":"很明显. 这是猿人的储物系统. 现在没有启动."},
+{"op":"replace","path":"/humanDescription","value":"储物装置, 看起来这东西的运作方式和我们的不一样. 现在没有启动."},
+{"op":"replace","path":"/hylotlDescription","value":"真是优雅的储物方式. 现在没有通电."}]

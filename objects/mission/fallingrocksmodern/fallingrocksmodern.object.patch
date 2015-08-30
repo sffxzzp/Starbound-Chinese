@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"落石"},
+{"op":"replace","path":"/shortdescription","value":"落石标志"},
+{"op":"replace","path":"/avianDescription","value":"零。"},
+{"op":"replace","path":"/floranDescription","value":"圆圈。"},
+{"op":"replace","path":"/glitchDescription","value":"声明。零。"},
+{"op":"replace","path":"/humanDescription","value":"零。"},
+{"op":"replace","path":"/hylotlDescription","value":"没什么。"},
+{"op":"replace","path":"/novakidDescription","value":"一个零。"}]

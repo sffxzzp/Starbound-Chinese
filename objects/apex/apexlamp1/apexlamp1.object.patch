@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一个有小圆点遮罩的矮木质台灯。"},
+{"op":"replace","path":"/shortdescription","value":"标准台灯"},
+{"op":"replace","path":"/apexDescription","value":"一个标准的猿人台灯。"},
+{"op":"replace","path":"/avianDescription","value":"猿人喜欢小圆点吗？"},
+{"op":"replace","path":"/floranDescription","value":"垃圾斑点台灯！"},
+{"op":"replace","path":"/glitchDescription","value":"雀跃。电子人喜欢灯光。"},
+{"op":"replace","path":"/humanDescription","value":"一个老台灯。"},
+{"op":"replace","path":"/hylotlDescription","value":"这台灯发着单调的光线。"}]

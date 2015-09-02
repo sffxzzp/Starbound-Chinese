@@ -1,4 +1,4 @@
-[{"op":"replace","path":"/description","value":".吃、捅和树叶（捏他Eats, Shoots and Leaves）"},
+[{"op":"replace","path":"/description","value":"吃、捅和树叶（捏他Eats, Shoots and Leaves）"},
 {"op":"replace","path":"/shortdescription","value":"树叶"},
 {"op":"replace","path":"/apexDescription","value":"一些树叶。"},
 {"op":"replace","path":"/avianDescription","value":"树叶。"},

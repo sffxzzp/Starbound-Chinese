@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "软的、毛茸茸的！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蓬松的领"}]
+[{ "op" : "replace", "path" : "/description", "value" : "松软的好吃的！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "西多士"}]

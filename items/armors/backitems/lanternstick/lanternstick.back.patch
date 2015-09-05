@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一根棒子上的的灯笼。明亮的。把它穿在你的背上！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "提灯"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "背灯"}]

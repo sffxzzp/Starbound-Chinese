@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个古老的巨大书架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "图书馆巨型书架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我会为自己拥有一个这样的大书架而感到骄傲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个好的图书馆书架是充满了故事的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这只只只是另一个书架罢了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。书架让我想起了看《电子人国王与城堡》时的美好回忆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些都是鲛人的诗集么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是一个装有重要内容的书架。"}]

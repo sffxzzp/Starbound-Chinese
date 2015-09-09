@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "小型防水灯"},
+{ "op" : "replace", "path" : "/description", "value" : "一盏超小的墙灯。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这灯没有获得充足的供电。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏闪烁不定的电灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这灯光让我头晕！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这电灯是人造的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这灯在闪烁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏供电量不足的灯。"}]

@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":"大猿人的通告都是通过这些喇叭广播的。"},
-{"op":"replace","path":"/shortdescription","value":"大猿人对讲机"},
+{"op":"replace","path":"/shortdescription","value":"大猿人广播"},
 {"op":"replace","path":"/apexDescription","value":"小时候，对讲机的滋滋声令我充满恐惧。那种有消息的声音。我父母应该就是这样被叫去科学发展部，再也没有回了的吧？"},
 {"op":"replace","path":"/avianDescription","value":"一个单调低沉的嗡嗡声从这个设备里传出来。"},
 {"op":"replace","path":"/floranDescription","value":"这可能是猿人的汽车餐厅。叶族人更喜欢吃猿人，多毛的。嘿哈哈哈哈哈。"},

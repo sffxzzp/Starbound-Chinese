@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个被损坏的古老书架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的图书馆超大型书架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大部分的书籍都丢了，书架也损坏了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个书架没有被好好的照看。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "凌――乱的破旧书架。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个蓬乱的书架。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这里发生了什么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个图书馆没有维护到应当的标准。"}]

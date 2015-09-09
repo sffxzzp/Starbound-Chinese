@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":"这台酷酷的电脑正在发出许多‘哔啵啵哔’的噪声。"},
-{"op":"replace","path":"/shortdescription","value":"风骚的电脑"},
+{"op":"replace","path":"/shortdescription","value":"酷炫的电脑"},
 {"op":"replace","path":"/apexDescription","value":"这是一个相当强劲的电脑。猿人市民是接触不到电脑的。"},
 {"op":"replace","path":"/avianDescription","value":"这台电脑的屏幕有这么多种颜色。"},
 {"op":"replace","path":"/floranDescription","value":"叶族人依靠剽窃科技来存货。"},

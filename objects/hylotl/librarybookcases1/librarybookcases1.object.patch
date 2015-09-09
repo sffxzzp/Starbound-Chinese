@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个老书架，老图书馆书架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "图书馆小型书架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一个相当奇特的旧书架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个华丽的鲛人书架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人早就把书架砸啊啊掉了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。这种书架在电子人城堡里没有。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "奇特的书架上有奇特的书。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个传统的鲛人书架。"}]

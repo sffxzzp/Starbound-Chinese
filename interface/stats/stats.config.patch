@@ -1,12 +1,6 @@
 [{"op":"replace","path":"/maxHealth/label","value":"最大生命值"},
-{"op":"replace","path":"/maxHealth/description","value":"-todo-"},
-{"op":"replace","path":"/healthRegen/label","value":"生命值自动恢复率"},
-{"op":"replace","path":"/healthRegen/description","value":"-todo-"},
+{"op":"replace","path":"/healthRegen/label","value":"生命自动恢复率"},
 {"op":"replace","path":"/maxEnergy/label","value":"最大能量值"},
-{"op":"replace","path":"/maxEnergy/description","value":"-todo-"},
-{"op":"replace","path":"/energyRegen/label","value":"能量值自动恢复率"},
-{"op":"replace","path":"/energyRegen/description","value":"-todo-"},
+{"op":"replace","path":"/energyRegen/label","value":"能量自动恢复率"},
 {"op":"replace","path":"/protection/label","value":"护甲"},
-{"op":"replace","path":"/protection/description","value":"-todo-"},
-{"op":"replace","path":"/powerMultiplier/label","value":"武器伤害"},
-{"op":"replace","path":"/powerMultiplier/description","value":"-todo-"}]
+{"op":"replace","path":"/powerMultiplier/label","value":"武器伤害"}]

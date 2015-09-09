@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "血正不断地从这里滴下。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "滴血的源头"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "呃…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "呃…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "恶恶恶心"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。呃…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "呃…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "呃…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "呃…"}]

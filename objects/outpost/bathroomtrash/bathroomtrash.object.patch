@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/description","value":"垃圾。纯粹的垃圾。要问我是不是？当然是。"},
-{"op":"replace","path":"/shortdescription","value":"浴室垃圾"},
+{"op":"replace","path":"/shortdescription","value":"浴室垃圾桶"},
 {"op":"replace","path":"/apexDescription","value":"垃圾日！"},
 {"op":"replace","path":"/avianDescription","value":"垃圾。"},
 {"op":"replace","path":"/floranDescription","value":"多么垃圾。"},

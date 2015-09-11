@@ -1,11 +1,11 @@
 {
   "name" : "Chinese",
-  "version" : "Beta v. Spirited Giraffe",
+  "version" : "Beta v. Pleased Giraffe - Update 4",
   "path" : ".",
   "dependencies" : [],
   "metadata" : {
     "author" : "Tieba Localiztion Group",
-    "version" : "104_150904_05",
+    "version" : "104_150909_06",
     "description" : "Just a simple Simplified Chinese localization mod of Starbound.",
     "supporturl" : "http://starboundcn.com/"
   }

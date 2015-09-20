@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一整块金块。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "金块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个金块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个金块。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的金子。"}]

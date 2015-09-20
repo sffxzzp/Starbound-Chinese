@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "看起来像船舶零件的收藏。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这是一堆船舶零件。我能发现一些翼族船舶的碎片。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "船舶零件。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一堆船舶碎片。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一堆船舶碎片。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是一堆船舶碎片。看起来是在战斗中被破坏而产生的碎片。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这是一个船舶零件的收藏。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "吵闹的鸟类打捞船舶零件。正是我要来的地方。"}]

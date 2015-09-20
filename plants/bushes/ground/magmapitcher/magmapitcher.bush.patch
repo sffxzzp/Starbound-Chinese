@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "充满岩浆的尖锥。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "充满岩浆的尖锥。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "燃烧的液体。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。岩浆尖锥。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。岩浆尖锥。"}]

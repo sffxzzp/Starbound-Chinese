@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "垂直下水管"},
 { "op" : "replace", "path" : "/description", "value" : "垂直下水管。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。垂直下水管。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。垂直下水管。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "站着的管道。"}]

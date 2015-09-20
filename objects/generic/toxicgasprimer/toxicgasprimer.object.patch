@@ -2,6 +2,6 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "树根"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "某种树根。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "树根。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个不显眼的树根。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个不显眼的树根。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "没错。一个树根。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "树根。"}]

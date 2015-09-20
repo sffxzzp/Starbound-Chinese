@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "这是一个意味着毁灭的古代符文。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个类似我们自己符文的古代符文。这个意味着毁灭。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "古代符文…这个意味着毁灭。不能吃…"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个意味着毁灭的羊驼符文。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个意味着毁灭的羊驼符文。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是一个意味着毁灭的古老符文。看起来很眼熟…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个从比鲛人还古老的种族中传递下来的意味着毁灭的符文。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个意味着毁灭的古代符文。真该死！"}]

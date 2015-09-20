@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "原木块。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "原木块"},
-{ "op" : "replace", "path" : "/glitchdescription", "value" : "声明。一些原木墙。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "陈述。一些原木墙。"},
 { "op" : "replace", "path" : "/florandescription", "value" : "叶族欣赏原木墙。"}]

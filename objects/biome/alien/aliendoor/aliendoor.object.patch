@@ -3,6 +3,6 @@
 {"op":"replace","path":"/apexDescription","value":"一个来自异域的门，可能是从外星监狱里拆下来的。"},
 {"op":"replace","path":"/avianDescription","value":"如果我轻柔的抚摸（爱抚）它，它便会打开。"},
 {"op":"replace","path":"/floranDescription","value":"叶族喜欢！植植植物的门！"},
-{"op":"replace","path":"/glitchDescription","value":"声明：这是一个来自异域的门！"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。这是一个来自异域的门！"},
 {"op":"replace","path":"/humanDescription","value":"这个门看起来就像一个陷阱！"},
 {"op":"replace","path":"/hylotlDescription","value":"这是一扇真正的门？或者仅仅只是一株看起来像门的植物？"}]

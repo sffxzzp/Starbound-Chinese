@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "沙地灌木。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "沙地灌木。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "全是沙。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。沙地灌木。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。沙地灌木。"}]

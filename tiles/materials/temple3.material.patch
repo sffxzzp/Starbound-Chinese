@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "小寺砖"},
 { "op" : "replace", "path" : "/description", "value" : "很脏但是制作精良的砖块。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。肮脏的砖块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。肮脏的砖块。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "肮脏的砖块。"}]

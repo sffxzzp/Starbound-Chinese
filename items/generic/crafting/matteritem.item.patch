@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个物质块。很重要的一种东西。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "物质块"},
-{ "op" : "replace", "path" : "/glitchdescription", "value" : "声明。一个物质块。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "陈述。一个物质块。"},
 { "op" : "replace", "path" : "/florandescription", "value" : "物质块！"}]

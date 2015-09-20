@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一种传统的屏板。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "拉窗屏板"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一块板。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一块板。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "板子。"}]

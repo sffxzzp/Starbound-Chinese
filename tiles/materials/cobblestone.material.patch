@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "鹅卵石"},
 { "op" : "replace", "path" : "/description", "value" : "坚硬的石头，摸起来很光滑。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。鹅卵石。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。鹅卵石。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "鹅卵石。"}]

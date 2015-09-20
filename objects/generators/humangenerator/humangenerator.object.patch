@@ -3,7 +3,7 @@
 {"op":"replace","path":"/apexDescription","value":"一个护罩发生器"},
 {"op":"replace","path":"/avianDescription","value":"这会产生一个护罩."},
 {"op":"replace","path":"/floranDescription","value":"护护护罩！"},
-{"op":"replace","path":"/glitchDescription","value":"声明。护罩发生器。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。护罩发生器。"},
 {"op":"replace","path":"/humanDescription","value":"这将保证我的安全！"},
 {"op":"replace","path":"/hylotlDescription","value":"一个粗简的保护装置。"},
 {"op":"replace","path":"/novakidDescription","value":"总之，谁需要一个护罩？"}]

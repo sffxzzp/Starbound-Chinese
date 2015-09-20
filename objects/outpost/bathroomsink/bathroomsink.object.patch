@@ -3,6 +3,6 @@
 {"op":"replace","path":"/apexDescription","value":"一个基本的洗脸池。"},
 {"op":"replace","path":"/avianDescription","value":"一个洗脸池。"},
 {"op":"replace","path":"/floranDescription","value":"洗洗洗脸池。"},
-{"op":"replace","path":"/glitchDescription","value":"声明。一个洗脸池。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。一个洗脸池。"},
 {"op":"replace","path":"/humanDescription","value":"一个洗脸池。"},
 {"op":"replace","path":"/hylotlDescription","value":"太小了不能进去游。"}]

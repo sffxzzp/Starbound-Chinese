@@ -3,6 +3,6 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "叶族旗帜没你想象的那么嗜血。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "叶族旗帜挺漂亮的。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族 叶族 叶族 耶！用旗杆刺！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。叶族旗帜有种简单的美。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。叶族旗帜有种简单的美。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "叶族的一朵花。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个可怕物种的恐怖的叶族象征。"}]

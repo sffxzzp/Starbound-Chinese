@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一块古老的砖。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "古砖块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个古老的方块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个古老的方块。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "砖。"}]

@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个非常华丽的墙。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "华丽的墙"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个华丽的墙。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个华丽的墙。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "墙漂亮到让人想要打碎它。"}]

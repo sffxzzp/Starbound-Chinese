@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "雪"},
 { "op" : "replace", "path" : "/description", "value" : "柔软、蓬松的雪。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。雪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。雪。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "雪一样的。"}]

@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "绿叶植物。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "绿叶植物。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族躲在这里。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。绿叶植物。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。绿叶植物。"}]

@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "岩浆花。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "岩浆花。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "炎热的火一般的花。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。岩浆花。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。岩浆花。"}]

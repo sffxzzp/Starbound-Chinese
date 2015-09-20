@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一整个物块都是由铂金做成的。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "铂金块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。帕金块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。帕金块。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的铂金块。"}]

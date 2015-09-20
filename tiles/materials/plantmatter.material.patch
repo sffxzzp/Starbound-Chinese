@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "用植物物质制成的物块。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "植物物质块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。植物物质。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。植物物质。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对植物块感到亲切感。"}]

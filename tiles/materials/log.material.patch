@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "原木块"},
 { "op" : "replace", "path" : "/description", "value" : "一块用于建造简单建筑的原木。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。原木。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。原木。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "比较坚硬而无法粉碎的墙。"}]

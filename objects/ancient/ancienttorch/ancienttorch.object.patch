@@ -3,6 +3,6 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个古老的火把。奇怪的是它还亮着。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个古老的火把。什么力量能让它在这么长时间内发光？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "一个很古老的仍在燃烧的火炬。危险。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个古老的火炬，它在很长很长的一段时间内一直燃烧着。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个古老的火炬，它在很长很长的一段时间内一直燃烧着。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个古老的火炬。我不知道这已经点燃了多久。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个古老的火炬。它的年龄未知并且能源持久。"}]

@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "柳条块"},
 { "op" : "replace", "path" : "/description", "value" : "一条编织粗糙的柳条。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。柳条。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。柳条。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人做了一个柳条人。"}]

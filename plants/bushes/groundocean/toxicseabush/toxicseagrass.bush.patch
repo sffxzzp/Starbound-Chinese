@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "剧毒海草。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "有毒海草"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "黏黏黏滑的杂草。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。海灌木。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。海灌木。"}]

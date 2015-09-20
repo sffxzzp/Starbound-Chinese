@@ -3,6 +3,6 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "灯。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "灯。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "明亮的灯。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。灯。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "灯。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "灯。"}]

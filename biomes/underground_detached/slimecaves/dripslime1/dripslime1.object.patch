@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "粘液正不断地从这里滴下。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "不断滴下的粘液"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不喜欢这些不停滴下的粘粘粘液。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。这似乎是些不停滴下的粘液。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。这似乎是些不停滴下的粘液。"}]

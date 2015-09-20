@@ -5,7 +5,7 @@
 {"op":"replace","path":"/apexDescription","value":"一个商店,我很确信会买我需要的物品."},
 {"op":"replace","path":"/avianDescription","value":"一个方便的商店,我希望他们卖我所需要的物品."},
 {"op":"replace","path":"/floranDescription","value":"叶族人需要得到商品和服务以换取信用点或用来捅别人."},
-{"op":"replace","path":"/glitchDescription","value":"声明。某种类型的商人。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。某种类型的商人。"},
 {"op":"replace","path":"/humanDescription","value":"我希望他们有闪闪的东西。"},
 {"op":"replace","path":"/hylotlDescription","value":"一家商店。我想知道它卖不卖睡莲叶子。"},
 {"op":"replace","path":"/novakidDescription","value":"我要去买一些枪支，弹药，也许偷偷摸摸来一瓶自动番茄汁."}]

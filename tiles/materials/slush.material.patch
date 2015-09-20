@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "雪泥"},
 { "op" : "replace", "path" : "/description", "value" : "冰雪融化形成了厚厚的雪泥。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。融化的冰。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。融化的冰。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "半融的雪。"}]

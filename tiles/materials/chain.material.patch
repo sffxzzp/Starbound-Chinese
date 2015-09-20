@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "钢链条，这不是用来玩的！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "钢链条"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。链条。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。链条。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用链条抓猎物。"}]

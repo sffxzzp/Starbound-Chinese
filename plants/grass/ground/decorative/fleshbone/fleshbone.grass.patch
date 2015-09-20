@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一些未知的生物的骨头。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "骨头。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "可能是叶族杀的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个死了很久生物的骨头。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个死了很久生物的骨头。"}]

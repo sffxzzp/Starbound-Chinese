@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "粗糙，不登大雅之堂的石灰石。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "石灰石"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。白垩石灰石。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。白垩石灰石。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "岩石。"}]

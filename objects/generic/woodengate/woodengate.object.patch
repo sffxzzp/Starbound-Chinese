@@ -3,6 +3,6 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个小木制门。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个门。很容易跳过去。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "小门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。这是一个门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。这是一个门。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个好的花园栅栏门。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个小木门。"}]

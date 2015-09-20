@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个令人讨厌的杂草。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "杂草。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族想爱所有植物一样爱杂草。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。可笑的杂草。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。可笑的杂草。"}]

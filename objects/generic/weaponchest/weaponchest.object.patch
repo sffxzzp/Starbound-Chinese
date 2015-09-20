@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "武器箱。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个结实耐用的储存武器的箱子。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "武器箱"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "武器箱。也许会有好东西在里面？"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这些武器箱非常坚固，为了保护里面的东西。"},

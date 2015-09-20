@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "坚硬的石砖，很适合用来建造一座城堡。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "重石砖"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。石砖。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。石砖。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "石头。"}]

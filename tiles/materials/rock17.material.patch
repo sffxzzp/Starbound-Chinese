@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "粗糙，未经提炼的石头。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "岩块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。岩石。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。岩石。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "岩石。"}]

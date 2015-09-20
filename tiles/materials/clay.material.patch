@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "干燥多灰的黏土。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "黏土"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。粘土。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。粘土。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "粘土。"}]

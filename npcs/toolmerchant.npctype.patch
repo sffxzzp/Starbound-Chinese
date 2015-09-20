@@ -9,6 +9,6 @@
 {"op":"replace","path":"/scriptConfig/dialog/merchant/end/apex","value":{"default":["如果还有什么需要的东西请找我！","如果想买更多的东西，你知道在哪里可以找到我。","慢走。"]}},
 {"op":"replace","path":"/scriptConfig/dialog/merchant/end/avian","value":{"default":["欢迎下次再来！","如果以后还想买东西，我就在这里。","保重。"]}},
 {"op":"replace","path":"/scriptConfig/dialog/merchant/end/floran","value":{"default":["叶族人希望你不会死！","叶族人想赚更多的钱钱，欢迎下次光光光临！","别被捅捅捅了，生生生意伙伴！"]}},
-{"op":"replace","path":"/scriptConfig/dialog/merchant/end/glitch","value":{"default":["声明。以后想买东西的话找我。","关心。照顾好自己。","投机。别忘了按时存钱。"]}},
+{"op":"replace","path":"/scriptConfig/dialog/merchant/end/glitch","value":{"default":["陈述。以后想买东西的话找我。","关心。照顾好自己。","投机。别忘了按时存钱。"]}},
 {"op":"replace","path":"/scriptConfig/dialog/merchant/end/human","value":{"default":["一路顺风，伙计。","如果你还活着的话，别忘了回来看看！","祝你成功，我的伙计。"]}},
 {"op":"replace","path":"/scriptConfig/dialog/merchant/end/hylotl","value":{"default":["我相信你会再次光顾的。","赚到了！","挖掘的时候别丢了钱包！"]}}]

@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "自然的尖刺。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "自然的尖刺。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "尖尖的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。自然的尖刺。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。自然的尖刺。"}]

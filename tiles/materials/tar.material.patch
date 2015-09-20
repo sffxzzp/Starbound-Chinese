@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "厚厚的臭沥青。我让我想起了我妈妈的自制果冻了。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "沥青"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。沥青厚得像鲛人做的饭。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。沥青厚得像鲛人做的饭。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "炖肉？沥青。"}]

@@ -3,6 +3,6 @@
 {"op":"replace","path":"/apexDescription","value":"当你该走的时候你就得走。"},
 {"op":"replace","path":"/avianDescription","value":"一个浴室隔间。"},
 {"op":"replace","path":"/floranDescription","value":"叶族人藏在隔隔间里，突然跳出来！"},
-{"op":"replace","path":"/glitchDescription","value":"声明。一个浴室隔间。"},
+{"op":"replace","path":"/glitchDescription","value":"陈述。一个浴室隔间。"},
 {"op":"replace","path":"/humanDescription","value":"藏进去然后玩手机游戏是个很好的选择。"},
 {"op":"replace","path":"/hylotlDescription","value":"一个粗糙的浴室隔间。"}]

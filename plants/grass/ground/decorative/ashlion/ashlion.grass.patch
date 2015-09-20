@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "灰狮。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "灰狮。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "花如火。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。灰狮。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。灰狮。"}]

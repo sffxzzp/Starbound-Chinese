@@ -1,4 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "钢块"},
 { "op" : "replace", "path" : "/description", "value" : "一个纯钢块。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一个钢块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个钢块。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "钢。"}]

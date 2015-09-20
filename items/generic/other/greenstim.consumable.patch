@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个充满绿色液体兴奋剂。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个充满绿色液体的兴奋剂。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "绿色兴奋剂"}]

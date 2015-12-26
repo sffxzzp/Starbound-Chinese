@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "从纳米存储器里召唤一艘绿色的帆船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "绿色帆船控制器"}]

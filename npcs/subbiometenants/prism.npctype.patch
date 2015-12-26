@@ -1,0 +1,5 @@
+[{"op" : "replace","path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value" : "窗户销售员"},
+{"op" : "replace","path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value" : "出售窗户材料"},
+{"op" : "replace","path" : "/scriptConfig/dialog/merchant/start/default/default","value" : ["请完善你的房子！我需要一些优雅的窗户。","让光线照进来吧！你需要做几扇窗户！","家里有窗户的人过的更幸福，这是真的！","我去弄一些窗户的材料，今天就造一个明亮的家！"]},
+{"op" : "replace","path" : "/scriptConfig/dialog/merchant/welcome/default/default","value" : ["你来了！你想买一些造窗户的材料么？","太棒了，现在我们来看看造窗户的材料？","你想在我这里买点玻璃做窗户么？"]},
+{"op" : "replace","path" : "/scriptConfig/dialog/merchant/end/default/default","value" : ["如果你需要制作更多的窗户，你知道在哪能找到我~","让太阳照进来吧~我很快就回来！","希望你能喜欢窗户！","等会儿让我们再造一些吧！"]}]

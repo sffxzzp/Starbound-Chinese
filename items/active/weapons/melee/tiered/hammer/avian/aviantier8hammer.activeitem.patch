@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "孵化大师。一个像蛋一样的锤子。一只小鸡快要出来了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "孵化大师"}]

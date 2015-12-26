@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "苍鹭印象。一把适合于快速突刺的矛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "苍鹭印象"}]

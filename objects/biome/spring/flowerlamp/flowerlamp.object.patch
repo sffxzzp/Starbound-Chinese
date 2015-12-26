@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一盏蓝色的花灯。"},
-{"op":"replace","path":"/shortdescription","value":"花灯"},
-{"op":"replace","path":"/apexDescription","value":"令人愉快的光。"},
-{"op":"replace","path":"/avianDescription","value":"这灯光营造了一种轻松的氛围。"},
-{"op":"replace","path":"/floranDescription","value":"花就是灯。"},
-{"op":"replace","path":"/glitchDescription","value":"（舒适）电子人喜欢花和灯光。"},
-{"op":"replace","path":"/humanDescription","value":"在花里的灯，设计独特啊！"},
-{"op":"replace","path":"/hylotlDescription","value":"一个用蓝色花朵做的灯？？"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一盏蓝色花灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏优美宜人的灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这盏灯创造一个令人放松的气氛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "花花花朵是灯灯灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "轻松。电子人享受这花与灯的结合。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏置于花朵中的灯，太巧秒了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏用蓝色花朵制成的灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盏漂亮的小灯。我喜欢它。"}]

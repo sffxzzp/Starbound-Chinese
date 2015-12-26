@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一小坨发着光的菌♂类"},
-{"op":"replace","path":"/shortdescription","value":"荧光蘑♂菇"},
-{"op":"replace","path":"/apexDescription","value":"漂亮的小发光蘑♂菇。"},
-{"op":"replace","path":"/avianDescription","value":"这些发光蘑♂菇可真漂亮！"},
-{"op":"replace","path":"/floranDescription","value":"叶族喜欢发光蘑♂菇！它们可以帮叶族看清黑暗！"},
-{"op":"replace","path":"/glitchDescription","value":"感兴趣：这些蘑菇散发着令人愉♂悦的自然光。"},
-{"op":"replace","path":"/humanDescription","value":"这些蘑♂菇散发着放♂射♂性的光，也许我们不该吃它。"},
-{"op":"replace","path":"/hylotlDescription","value":"这些发光的蘑♂菇在地下很受欢迎。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这是一条发光的藤蔓！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光藤"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "发光的枝蔓。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些藤蔓从某些方面来看还是蛮漂亮的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发光的绿色藤藤藤蔓。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。我希望这些发光藤蔓在每个洞穴内生长。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "令人毛骨悚然的发光藤蔓。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些藤蔓好像浮海的海藻，它发出淡淡的光芒令人振奋。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你可以用这些藤蔓做出种种有用的东西。"}]

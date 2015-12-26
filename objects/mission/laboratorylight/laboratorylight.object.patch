@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个光亮的红色墙灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "实验室灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个科技发展部设计的灯甚至可以在电力不足时工作。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这灯亮得令人发晕。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "光线让让让叶族人想要战斗。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这是个非常大的红灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这灯发出使人感到紧迫的红光。这有点不舒服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这灯的用途。。。"}]

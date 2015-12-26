@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个险恶的光从蜂巢发出。"},
-{"op":"replace","path":"/shortdescription","value":"蜂巢"},
-{"op":"replace","path":"/apexDescription","value":"这个灯让我感到不舒服。"},
-{"op":"replace","path":"/avianDescription","value":"这个灯发出一些病态的灯光。"},
-{"op":"replace","path":"/floranDescription","value":"如果叶族人看这个灯会让眼睛受伤。"},
-{"op":"replace","path":"/glitchDescription","value":"分析。这个灯似乎是由某种有机液体提供能源的。"},
-{"op":"replace","path":"/humanDescription","value":"我脖子后面的头发都竖起来了！"},
-{"op":"replace","path":"/hylotlDescription","value":"一个多么美妙而又简单的灯。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一种不祥的光由蜂巢发出。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小蜂巢灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这光令我感到不安。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这光某方面有病。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族眼睛疼，如果叶族看看看着这光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这光是由某种有机液体提供能量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这令我脖子后的汗毛都竖起来了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这根本是可爱的光芒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这光有什么能量在内？我不喜欢它。"}]

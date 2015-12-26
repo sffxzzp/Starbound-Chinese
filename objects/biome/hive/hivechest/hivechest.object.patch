@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个由肉做成的箱子。"},
-{"op":"replace","path":"/shortdescription","value":"蜂巢箱"},
-{"op":"replace","path":"/apexDescription","value":"一个很肮脏的箱子。"},
-{"op":"replace","path":"/avianDescription","value":"这个箱子发出的声音让我脊背发凉。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人想吃掉这个箱子。"},
-{"op":"replace","path":"/glitchDescription","value":"恶心。一个肉肉的，有规律跳动的箱子。"},
-{"op":"replace","path":"/humanDescription","value":"一个很令人恶心的肉做的箱子。"},
-{"op":"replace","path":"/hylotlDescription","value":"多么令人讨厌的箱子。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个看起来很恶劣的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂巢箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个恶劣的箱子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这箱子的声音让我脊梁骨发凉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想吃掉箱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。一个肉质的、搏动的箱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个血肉构成的恶劣的箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这箱子真是太讨厌了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这不是个很诱人的箱子，但我还是想看看装有什么。"}]

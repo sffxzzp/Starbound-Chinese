@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鸟眼2。一把切穿毛皮和羽毛的剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鸟眼2"}]

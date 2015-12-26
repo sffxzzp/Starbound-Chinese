@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起来几乎没有确定形态的物质。可以用于制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月相物质"}]

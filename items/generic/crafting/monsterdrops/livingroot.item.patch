@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一片被割断的进化植物物质。可以用于制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "活根"}]

@@ -1,4 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "粘液正不断地从这里滴下。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "不断滴下的粘液"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不喜欢这些不停滴下的粘粘粘液。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。这似乎是些不停滴下的粘液。"}]
+[{"op": "replace","path": "/description","value": "粘液正在从这儿滴落。"},
+{"op": "replace","path": "/shortdescription","value": "滴落的粘液"},
+{"op": "replace","path": "/apexDescription","value": "这些粘液是从哪儿来的？"},
+{"op": "replace","path": "/avianDescription","value": "我可不愿意让这些粘液沾染我的羽翼。"},
+{"op": "replace","path": "/floranDescription","value": "叶族人才不是粘液爱好者。"},
+{"op": "replace","path": "/glitchDescription","value": "恶心。这看上去是滴落的粘液。"},
+{"op": "replace","path": "/humanDescription","value": "最好不要从这些正在滴落的粘液下走过去。"},
+{"op": "replace","path": "/hylotlDescription","value": "不断滴落的粘液…"},
+{"op": "replace","path": "/novakidDescription","value": "如果你不管的话，粘液似乎会变得到处都是。"}]

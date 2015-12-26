@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一张眼球制作的桌子，不适合穿裙子时使用。"},
-{"op":"replace","path":"/shortdescription","value":"眼球桌子"},
-{"op":"replace","path":"/apexDescription","value":"我不喜欢桌子可以研究我的脚。"},
-{"op":"replace","path":"/avianDescription","value":"坐在这里吃饭使人有充分的优势。"},
-{"op":"replace","path":"/floranDescription","value":"叶族坐在桌子下面和眼睛分享肉。"},
-{"op":"replace","path":"/glitchDescription","value":"（研究）这眼睛可以让桌子转动。也许可以分享边上的菜。"},
-{"op":"replace","path":"/humanDescription","value":"这可怕的桌子很适合用于万圣节派对。"},
-{"op":"replace","path":"/hylotlDescription","value":"过分装饰的桌子。眼睛没能增加啥亮点。工匠被冲昏头了吧。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张眼球制作的桌子，不适合穿裙子时使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不喜欢桌子可以研究我的脚。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "坐在这里吃饭使人有充分的优势。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人坐坐坐在桌子下和眼睛分分分享肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这眼睛可以让桌子转动。也许可以分享边上的菜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这可怕的桌子很适合用于万圣节派对。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "过分装饰的桌子。眼睛没能增加啥亮点。工匠被冲昏头了吧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这眼睛比我的肚子还要大。"}]

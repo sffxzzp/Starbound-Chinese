@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "坚硬有机外壳的碎片。可以用于制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "硬化甲壳"}]

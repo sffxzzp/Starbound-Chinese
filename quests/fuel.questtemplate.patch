@@ -1,3 +1,3 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^orange;燃料"},
-{ "op" : "replace", "path" : "/text", "value" : "^green;你需要^orange;液态能源^green;来给你的超光速驱动补充燃料。这种粉色液体能在缺氧星球地下的池子里找到。我需要收集至少^orange;20单位的液态能源^green;。^white;这应该足够我到达最近的星系。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "我弄到了我要的燃料！^green;把这些放进飞船的^orange;燃料表^white;。然后使用导航器把我带到附近另一个星系。"}]
+[{ "op" : "replace", "path" : "/title", "value" : "^orange;飞行燃料"},
+{ "op" : "replace", "path" : "/text", "value" : "你需要液态能源来给你的超光速驱动补充燃料。这种粉色液体^green;能在缺氧星球^orange;地下的^green;池子^orange;里^white;找到。我需要收集至少^orange;20单位的液态能源^white;。这应该足够我到达最近的星系。"},
+{ "op" : "replace", "path" : "/completionText", "value" : "我弄到了我要的燃料！把这些放进飞船的^orange;燃料表^white;。然后使用导航器把我带到附近另一个星系。"}]

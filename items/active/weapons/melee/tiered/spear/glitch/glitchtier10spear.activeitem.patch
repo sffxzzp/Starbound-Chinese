@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "社交湿网。一把最适合于在人群中暗杀的矛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "社交湿网"}]

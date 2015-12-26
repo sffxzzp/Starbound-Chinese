@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鹈鹕开瓶器。一把专门用于打倒电子人的剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鹈鹕开瓶器"}]

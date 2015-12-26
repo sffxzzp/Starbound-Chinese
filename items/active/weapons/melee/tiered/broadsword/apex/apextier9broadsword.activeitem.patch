@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "猩钻。一把带槽的、弯曲的剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猩钻"}]

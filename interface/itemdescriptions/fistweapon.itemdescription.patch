@@ -1,0 +1,2 @@
+[{"op": "replace", "path": "/damagePerShotTitleLabel/value", "value": "每击伤害(DPS)："},
+{"op": "replace", "path": "/speedTitleLabel/value", "value": "挥动速率："}]

@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我可以用几个来组成一个汽车驱动！"},
+[{ "op" : "replace", "path" : "/description", "value" : "这应该在制造和修复载具时很有用！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "汽车芯片"}]

@@ -1,2 +1,2 @@
-[{"op":"replace","path":"/paneLayout/btnAccept/caption","value":"接受奖励"},
-{"op":"replace","path":"/paneLayout/labelMoney/value","value":"奖励："}]
+[{"op":"replace","path":"/paneLayout/btnAccept/caption","value":"OK"},
+{"op":"replace","path":"/paneLayout/labelMoney/value","value":"^shadow;奖励：^noshadow;"}]

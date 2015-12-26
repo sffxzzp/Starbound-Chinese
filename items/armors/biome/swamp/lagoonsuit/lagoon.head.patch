@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这面具无疑属于一个居住在泻湖的生物。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "泻湖面具"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这面具无疑属于一个居住在潟湖的生物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "潟湖面具"}]

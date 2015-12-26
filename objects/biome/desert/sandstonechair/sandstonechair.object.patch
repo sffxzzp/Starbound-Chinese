@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一把砂岩制成的椅子，易碎。"},
-{"op":"replace","path":"/shortdescription","value":"砂岩椅子"},
-{"op":"replace","path":"/apexDescription","value":"一个粗糙的砂岩椅子。"},
-{"op":"replace","path":"/avianDescription","value":"这把椅子很粗糙会伤到羽毛。"},
-{"op":"replace","path":"/floranDescription","value":"叶族扭动，椅子毁坏。"},
-{"op":"replace","path":"/glitchDescription","value":"……评估……如果两人一起坐在这椅子上，椅子将会毁坏。"},
-{"op":"replace","path":"/humanDescription","value":"坐在这里你会浑身上下都是沙子。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个粗糙的砂岩椅子。会对皮肤产生损伤。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一把砂岩制成的椅子，易碎。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "砂岩椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个粗糙的砂岩椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这把椅子很粗糙会伤到羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族扭动，椅子毁坏。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "估量。如果两人一起坐在这椅子上，椅子将会毁坏。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "坐在这里你会浑身上下都是沙子！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个粗糙的砂岩椅子。会对皮肤产生损伤。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "坐在这椅太久会令你的背麻木。"}]

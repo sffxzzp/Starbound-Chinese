@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个巨大的荧光菌类，在天黑的时候简直完美。"},
-{"op":"replace","path":"/shortdescription","value":"比尔的蘑菇桌子"},
-{"op":"replace","path":"/apexDescription","value":"若你饥肠辘辘可以吃这个桌子。"},
-{"op":"replace","path":"/avianDescription","value":"这桌子很不错，很符合我的口味。"},
-{"op":"replace","path":"/floranDescription","value":"叶族在切肉的时候摇晃桌子。"},
-{"op":"replace","path":"/glitchDescription","value":"（生物学） 这个巨大的蘑菇是由多种真菌经过多年杂交的产物。"},
-{"op":"replace","path":"/humanDescription","value":"在这里吃饭会有魔幻般的感觉。"},
-{"op":"replace","path":"/hylotlDescription","value":"自然提供多少就会破坏多少。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张巨大的发光蘑茹桌子。适合在黑暗中坐着。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果你太饿，你可以把桌子吃掉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这桌子太亮了，不合我的口味。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族在把肉切切切片时桌子会摇动。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "眼花撩乱。这巨大的发光桌子看起来很难令人信服像一个蘑茹。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在这桌子吃东西会感觉像在吃一个神奇的野餐。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用类似地下蘑茹的方式建成，这张桌模仿它们的光彩。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个可以当作桌子的大假蘑茹。"}]

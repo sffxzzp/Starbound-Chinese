@@ -1,3 +1,3 @@
 [{ "op" : "replace", "path" : "/title", "value" : "^green;挑骨头"},
-{ "op" : "replace", "path" : "/text", "value" : "嗨，陌陌陌生人。叶族人在自己的家里放置巨大的刻刻刻过的骨头。叶族人想想想念骨头。^green;把^orange;巨大的骨制雕刻^green;带给叶族人，叶族人会给陌陌陌生人好东东西。"},
+{ "op" : "replace", "path" : "/text", "value" : "嗨，陌陌陌生人。叶族人在自己的家里放置巨大的刻刻刻过的骨头。叶族人想想想念骨头。^green;把^orange;巨大的骨制的雕刻^green;带给叶族人，叶族人会给陌陌陌生人好东东西。"},
 { "op" : "replace", "path" : "/completionText", "value" : "大骨头！大骨头！大骨头！"}]

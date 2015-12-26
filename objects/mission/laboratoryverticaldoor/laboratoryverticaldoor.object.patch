@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇光滑的竖直门，对秘密实验室来说再合适不过了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "实验室门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这门看起来像是科技发展部设计的。这让我不寒而栗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇做工很好的门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不喜欢闪亮的门门门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这扇门是用光滑的白色金属做的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇打开时会分成三块的门。真整洁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇相当优雅的门，打开时会分成三块。"}]

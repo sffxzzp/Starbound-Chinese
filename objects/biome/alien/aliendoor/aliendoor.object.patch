@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个异域植物制成的门。"},
-{"op":"replace","path":"/shortdescription","value":"异域的门"},
-{"op":"replace","path":"/apexDescription","value":"一个来自异域的门，可能是从外星监狱里拆下来的。"},
-{"op":"replace","path":"/avianDescription","value":"如果我轻柔的抚摸（爱抚）它，它便会打开。"},
-{"op":"replace","path":"/floranDescription","value":"叶族喜欢！植植植物的门！"},
-{"op":"replace","path":"/glitchDescription","value":"陈述。这是一个来自异域的门！"},
-{"op":"replace","path":"/humanDescription","value":"这个门看起来就像一个陷阱！"},
-{"op":"replace","path":"/hylotlDescription","value":"这是一扇真正的门？或者仅仅只是一株看起来像门的植物？"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个异域植物制成的门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "异域的门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我在想这门是如何构建的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这感觉就像门口在看着我。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢用植物做的门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这门还活着的吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "谁觉得这样的门是个好主意？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这门有一个灵魂。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这门看起来确实很奇怪...."}]

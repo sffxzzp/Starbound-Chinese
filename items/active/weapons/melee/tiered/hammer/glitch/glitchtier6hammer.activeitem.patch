@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "内部勘探者。能拨开电子人的铁皮看看里面有些什么的锤子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "内部勘探者"}]

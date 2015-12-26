@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这不是月亮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月标"}]

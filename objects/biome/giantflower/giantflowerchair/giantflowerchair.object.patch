@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一张用花瓣做成的椅子，如果你喜欢坐在上面，那么你一定很喜欢黄油。"},
-{"op":"replace","path":"/shortdescription","value":"巨型花瓣的椅子"},
-{"op":"replace","path":"/apexDescription","value":"这椅子很柔软也很古怪。"},
-{"op":"replace","path":"/avianDescription","value":"这把椅子的背部擦伤我的羽毛。"},
-{"op":"replace","path":"/floranDescription","value":"叶族走在花里，感觉很高兴。"},
-{"op":"replace","path":"/glitchDescription","value":"思考。用多长时间来生长，才能让这朵花撑起我的重量？"},
-{"op":"replace","path":"/humanDescription","value":"一张花做的椅子。花粉使我打喷嚏。"},
-{"op":"replace","path":"/hylotlDescription","value":"这花长的这样自然，或许这是它的原形？"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张用花瓣做成的椅子，如果你喜欢坐在上面，那么你一定很喜欢黄油。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型花瓣椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这椅子很柔软也很古怪。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这把椅子的背部擦伤我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人坐坐坐在花里，感觉很高兴。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。用多长时间来生长，才能让这朵花撑起我的重量？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张花做的椅子。花粉使我打喷嚏。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这花长的这样自然，或许这是它的原形？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "坐在这花瓣上让我觉得很多林里的仙女。"}]

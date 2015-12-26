@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个花丛。"},
-{"op":"replace","path":"/shortdescription","value":"花丛"},
-{"op":"replace","path":"/apexDescription","value":"一个花丛。"},
-{"op":"replace","path":"/avianDescription","value":"一个花丛。"},
-{"op":"replace","path":"/floranDescription","value":"花儿们。"},
-{"op":"replace","path":"/glitchDescription","value":"（描述）一个花丛。"},
-{"op":"replace","path":"/humanDescription","value":"一个花丛。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个花丛。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个花丛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花丛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个花丛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个漂亮的花丛。太棒了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "花花花。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自然。一个花丛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "鲜花！多漂亮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个美丽的花丛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "长满鲜花的灌木丛。"}]

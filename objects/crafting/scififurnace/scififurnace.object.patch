@@ -1,10 +1,8 @@
-[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"磁坩埚"},
-{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"令人难以置信的技术，用于创建同样令人难以置信的材料！"},
-{"op":"replace","path":"/description","value":"这个装置能够分解材料然后把它们变得更强。"},
-{"op":"replace","path":"/shortdescription","value":"^orange;磁坩埚^white;"},
-{"op":"replace","path":"/apexDescription","value":"一个磁性坩埚。我可以用它创建令人难以置信的强大的合金。"},
-{"op":"replace","path":"/avianDescription","value":"一个坩埚，能完美的用强大合金来合成物品。"},
-{"op":"replace","path":"/floranDescription","value":"闪亮的东西旋转，旋转，旋转，做成更小的闪亮的东西。"},
-{"op":"replace","path":"/glitchDescription","value":"精湛工艺。这个磁坩埚能完美的创造耐钢和其他的合金。"},
-{"op":"replace","path":"/humanDescription","value":"一个磁坩埚，这个设备强大到可以制作耐钢和其他材料。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个磁坩埚，我能用这个制作难以置信的材料。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这个装置能够分解材料然后把它们变得更强。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;原子炉^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个原子炉。我可以用它创建令人难以置信的强大的合金。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的东西旋旋旋转，旋旋旋转，旋旋旋转，做成更小的闪亮的东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感到兴趣。这台原子炉用来合成耐钢等合金最完美不过。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一台原子炉。这装置强大到足以制作耐钢和其他材料。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一台原子炉。我可以用它制作令人难以置信的材料"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种原子炉可以用来制作一些真正强大的材料。"}]

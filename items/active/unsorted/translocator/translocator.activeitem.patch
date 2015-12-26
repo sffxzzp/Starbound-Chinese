@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "定位，传送。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传送枪"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "完全抵御攻击。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冰霜盾"}]

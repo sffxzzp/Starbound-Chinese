@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "毁灭性的能量正发出劈啪声。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "新型环刃"}]

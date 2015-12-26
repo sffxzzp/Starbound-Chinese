@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个黄铜阀门，用了多年已经生锈了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "锅炉阀门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个咯吱作响的黄铜阀门转轮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我很好奇如果我转动它会发生什么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想用转轮去砸敌敌敌人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这个阀门上了好几层漆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "想要使用蒸汽，当然就必须有阀门！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个旧转轮最常被用作调节流体的流量。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "转动这个阀门需要花费一番苦工。"}]

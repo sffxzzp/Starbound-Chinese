@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "保护国平台"},
+{ "op" : "replace", "path" : "/description", "value" : "一个看起来坚固、牢靠又泰然的平台。"}]

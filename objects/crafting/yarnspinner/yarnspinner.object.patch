@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个从羊毛里纺纱的设备.我能定制新衣服了!"},
-{"op":"replace","path":"/shortdescription","value":"^orange;纺纱厂^white;"},
-{"op":"replace","path":"/apexDescription","value":"一个旋转的轮子,裁缝的工具."},
-{"op":"replace","path":"/avianDescription","value":"裁缝工作需要的工具."},
-{"op":"replace","path":"/floranDescription","value":"叶族的旋转轮!."},
-{"op":"replace","path":"/glitchDescription","value":"观察.一个裁缝工具."},
-{"op":"replace","path":"/humanDescription","value":"一个过时的木制旋转轮."},
-{"op":"replace","path":"/hylotlDescription","value":"鲛人在考虑木质纺纱轮的艺术价值."}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个从羊毛里纺纱的设备。我能定制新衣服了！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;纺织机^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个旋转的轮子和裁缝的工具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "裁缝工作需要的工具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族的旋转轮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个裁缝工具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一台老式的木纺车。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人在考虑木质纺纱轮的艺术价值。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "也许我可以用这来攸一套新衣服。"}]

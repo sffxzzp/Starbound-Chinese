@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "非礼勿言。一把凶恶的，尖锐的长矛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "非礼勿言"}]

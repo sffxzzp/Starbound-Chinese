@@ -1,0 +1,61 @@
+{
+  "animationCustom" : {
+    "sounds" : {
+      "altFire" : [ "/sfx/gun/needler1.ogg" ]
+    },
+    "particleEmitters" : {
+      "altMuzzleFlash" : {
+        "active" : false,
+        "emissionRate" : 8,
+        "transformationGroups" : ["muzzle"],
+        "offsetRegion" : [0, 0, 0, 0],
+        "particles" : [ ]
+      }
+    }
+  },
+
+  "altAbility" : {
+    "name" : "Enemy Bomb",
+    "type" : "deathbomb",
+    "scripts" : ["/items/active/weapons/ranged/altabilities/altfire.lua"],
+    
+    "elementalConfig" : {
+      "physical" : { "projectileType" : "deathbombdart" },
+      "fire" : { "projectileType" : "deathbombdartfire" },
+      "electric" : { "projectileType" : "deathbombdartelectric" },
+      "ice" : { "projectileType" : "deathbombdartice" },
+      "poison" : { "projectileType" : "deathbombdartpoison" }
+    },
+    "projectileParameters" : {
+      "knockback" : 10,
+      "statusEffects" : [ ] // don't inherit from primary fire
+    },
+    "projectileCount" : 1,
+    "inaccuracy" : 0,
+    "baseDps" : 0,
+    "energyUsage" : 30.0,
+    "fireTime" : 1.0,
+    "fireType" : "auto",
+
+    "stances" : {
+      "fire" : {
+        "duration" : 0.15,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

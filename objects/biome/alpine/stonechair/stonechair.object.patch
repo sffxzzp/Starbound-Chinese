@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一把用鹅卵石做成的椅子。"},
-{"op":"replace","path":"/shortdescription","value":"石质的椅子"},
-{"op":"replace","path":"/apexDescription","value":"比猿族在审讯过程中用的椅子舒服多了。"},
-{"op":"replace","path":"/avianDescription","value":"被浪费的精湛工艺。"},
-{"op":"replace","path":"/floranDescription","value":"石石石头椅子伤害叶族的背。"},
-{"op":"replace","path":"/glitchDescription","value":"傲慢。如果我有背部肌肉这椅子肯定会让他们受伤害。"},
-{"op":"replace","path":"/humanDescription","value":"这看起来一点儿都不舒服。"},
-{"op":"replace","path":"/hylotlDescription","value":"坐在上面很难思考问题。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张用鹅卵石做成的椅子。."},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "比猿族在审讯过程中用的椅子舒服多了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可怜的手工。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石头椅子伤害叶族的背。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "傲慢。如果我有背部肌肉这椅子肯定会让他们受伤害。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来一点儿都不舒服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "坐在上面很难思考问题。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我绝对不会选这张椅来坐。"}]

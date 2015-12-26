@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "树干切割机。一把能够完美把叶族人切片的剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "树干切割机"}]

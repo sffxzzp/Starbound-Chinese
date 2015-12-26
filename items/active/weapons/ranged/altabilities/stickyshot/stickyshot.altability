@@ -1,0 +1,55 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "particleEmitters" : {
+      "altMuzzleFlash" : {
+        "active" : false,
+        "rotationGroup" : "weapon",
+        "emissionRate" : 8,
+        "offsetPart" : "muzzleFlash",
+        "offsetRegion" : [0.5, 1.0, 1.0, 1.5],
+        "particles" : [
+        ]
+      }
+    },
+    "sounds" : {
+      "altFire" : [ "/sfx/gun/grenade2.ogg" ]
+    }
+  },
+
+  "altAbility" : {
+    "name" : "Sticky Bombs",
+    "type" : "stickyshot",
+    "scripts" : ["/items/active/weapons/ranged/altabilities/altfire.lua"],
+
+    "projectileType" : "stickybullet",
+    "projectileParameters" : {
+      "speed" : 100,
+      "timeToLive" : [3.5, 4.5]
+    },
+    "baseDps" : 9,
+    "energyUsage" : 40,
+    "fireTime" : 1.0,
+
+    "stances" : {
+      "fire" : {
+        "duration" : 0.15,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

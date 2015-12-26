@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一盏超大的灯，用光线把它们连在一起"},
-{"op":"replace","path":"/shortdescription","value":"细胞灯"},
-{"op":"replace","path":"/apexDescription","value":"一个花哨的设计。"},
-{"op":"replace","path":"/avianDescription","value":"看起来像鲛人做的并称之为‘艺术’的东西。"},
-{"op":"replace","path":"/floranDescription","value":"之字形水滴灯。"},
-{"op":"replace","path":"/glitchDescription","value":"（描述） 圆的，多彩的，明亮的，和我身上的灯一样。"},
-{"op":"replace","path":"/humanDescription","value":"它看起来有点不稳定。一推就倒。"},
-{"op":"replace","path":"/hylotlDescription","value":"啊啊啊啊啊！这让我想起了泡沫，浮到水面。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一盏高身灯，每盏灯都连在一起。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "细胞灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "没人会指责这灯的功利性。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "即使是喜鹊也会觉得这灯太光了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这些细胞就像闪亮的花花花朵。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。看起来无机的，但是由有机细胞组成。活着又像不是活着的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "愉快但不实用的。我最喜欢这种东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我的眼都快亮瞎了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是表明了细胞不是一样东西能分离使用。"}]

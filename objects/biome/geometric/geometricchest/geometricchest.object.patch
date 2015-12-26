@@ -1,8 +1,1 @@
-[{"op":"replace","path":"/description","value":"一个超级坚固的寒玉箱子。"},
-{"op":"replace","path":"/shortdescription","value":"寒玉箱子"},
-{"op":"replace","path":"/apexDescription","value":"一个超级坚固的箱子。"},
-{"op":"replace","path":"/avianDescription","value":"这个箱子似乎牢不可破。"},
-{"op":"replace","path":"/floranDescription","value":"叶族想要箱子里面的东西。"},
-{"op":"replace","path":"/glitchDescription","value":"分析。这个箱子很难打破。除非它不锁。"},
-{"op":"replace","path":"/humanDescription","value":"一个漂亮的箱子。我敢打赌，在里面有很酷的东西！"},
-{"op":"replace","path":"/hylotlDescription","value":"一个闪光有角的箱子。恰到好处啊。"}]
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "几何箱子"}]

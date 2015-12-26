@@ -1,8 +1,1 @@
-[{"op":"replace","path":"/description","value":"一张极富艺术气息的床，尽管它看起来有点太大了"},
-{"op":"replace","path":"/shortdescription","value":"寒玉床"},
-{"op":"replace","path":"/apexDescription","value":"硬且高低不平的床。"},
-{"op":"replace","path":"/avianDescription","value":"这床是壮观却高低不平。"},
-{"op":"replace","path":"/floranDescription","value":"叶族不在意高低不平。叶族要睡觉。"},
-{"op":"replace","path":"/glitchDescription","value":"满意。这个高低不平感很符合电子人的外形。"},
-{"op":"replace","path":"/humanDescription","value":"一个可怕，高低不平的床。我喜欢它！"},
-{"op":"replace","path":"/hylotlDescription","value":"一个恶劣的尖角组成的床。不高兴。"}]
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "几何床"}]

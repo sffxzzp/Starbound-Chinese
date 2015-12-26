@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "冰冷的有机化学品。可以用于制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "低温提取物"}]

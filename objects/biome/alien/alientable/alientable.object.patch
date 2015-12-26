@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一张异域的桌子，它看起来是活着的！"},
-{"op":"replace","path":"/shortdescription","value":"异域的桌子"},
-{"op":"replace","path":"/apexDescription","value":"如果你在这张桌子上吃饭，它可能会和你抢吃的。"},
-{"op":"replace","path":"/avianDescription","value":"这张桌子看起来既舒适又可怕。"},
-{"op":"replace","path":"/floranDescription","value":"叶族喜欢在植植植物上吃饭！！"},
-{"op":"replace","path":"/glitchDescription","value":"陈述。这张桌子使我想起外婆家那个可怕的装饰品。"},
-{"op":"replace","path":"/humanDescription","value":"我发誓！我TM看见这玩意在动！"},
-{"op":"replace","path":"/hylotlDescription","value":"自然总是会造就一些机具魅力的危险品。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张异域的桌子，它看起来是活着的！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "异域的桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我宁愿我的桌子看起来是工业制的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我把腿放到桌子底我不会感到舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不信任这桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不舒服。这是多么奇怪的创作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张桌子是活着的吗？我不肯定坐在它旁边会舒适。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张桌提醒了我，任何事物都有它自己的灵魂"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我从没见过有东西像它的。"}]

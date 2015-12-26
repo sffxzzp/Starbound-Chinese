@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "镭射般锋利与闪电般快速。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "普通匕首"}]

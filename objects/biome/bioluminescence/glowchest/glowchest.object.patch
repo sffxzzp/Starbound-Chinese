@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个散发着荧光的箱子"},
-{"op":"replace","path":"/shortdescription","value":"发光的箱子"},
-{"op":"replace","path":"/apexDescription","value":"箱子本身看起来像是一种组织。"},
-{"op":"replace","path":"/avianDescription","value":"这箱子是造出来，还是长出来的？"},
-{"op":"replace","path":"/floranDescription","value":"非常特特特殊的叶族，叶族绿手指。从土壤中长出来的箱子。"},
-{"op":"replace","path":"/glitchDescription","value":"印象深刻。看起来这种植物就是为了长成箱子。"},
-{"op":"replace","path":"/humanDescription","value":"这箱子是长出来的？"},
-{"op":"replace","path":"/hylotlDescription","value":"箱子本身看起来像是一种组织。令人印象深刻。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个散发着荧光的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这箱子似乎是有机的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这箱子是造出来还是长出来的呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族的绿手指可以由土土土壤长出像这样的箱箱箱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。看来这种植物是有目的生长成箱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这箱子是长出来的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "箱子本身看起来像是有机的。令人印象深刻。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个发光箱子。适合存放一些你不想遗失的东西。"}]

@@ -1,8 +1,1 @@
-[{"op":"replace","path":"/description","value":"一张寒玉椅子，坐着不太舒服。"},
-{"op":"replace","path":"/shortdescription","value":"寒玉椅子"},
-{"op":"replace","path":"/apexDescription","value":"又硬又尖的椅子。"},
-{"op":"replace","path":"/avianDescription","value":"这把椅子看起来就像邪恶电子人所为。"},
-{"op":"replace","path":"/floranDescription","value":"如果椅子刺叶族，叶族就刺椅子。"},
-{"op":"replace","path":"/glitchDescription","value":"满意。对于电子人这形状很完美"},
-{"op":"replace","path":"/humanDescription","value":"未知且高低不平的椅子。看起来有未来感。"},
-{"op":"replace","path":"/hylotlDescription","value":"看上去很不愉快的尖角椅子。"}]
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "几何椅"}]

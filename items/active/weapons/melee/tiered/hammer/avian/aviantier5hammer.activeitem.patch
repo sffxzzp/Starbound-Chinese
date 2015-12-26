@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "俯冲轰炸。一个特别沉重，尖锐的锤子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "俯冲轰炸"}]

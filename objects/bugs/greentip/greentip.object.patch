@@ -1,2 +1,2 @@
-[{"op":"replace","path":"/description","value":"这只虫子像是穿了小绿鞋子."},
+[{"op":"replace","path":"/description","value":"\"这只虫子像是穿了小绿鞋子.\""},
 {"op":"replace","path":"/shortdescription","value":"绿点虫"}]

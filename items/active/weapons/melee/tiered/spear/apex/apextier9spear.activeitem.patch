@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "致命插入。这把长矛同时被当作注射器使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "致命插入"}]

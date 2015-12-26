@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是罗布维修中心 ―― 一个负责修理遗失或损坏载具的机械商人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "罗布维修中心"}]

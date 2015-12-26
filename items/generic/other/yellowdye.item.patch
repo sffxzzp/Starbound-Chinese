@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "黄色染料。可以用来染盔甲。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黄色染料"}]

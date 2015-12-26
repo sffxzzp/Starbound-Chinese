@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如暗影笼罩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "暗影墙砖"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。暗影墙砖。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "影子子子般的墙砖。。。"}]

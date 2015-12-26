@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个象征着生命的基本组成部分的古老羊驼符文。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "羊驼组成符文"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个古老的意味着组成的符文。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个类似我们自己符文的古老符文。这个意味着组成。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "古代符文…这意味着组件。不能吃…"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个意味着组成的羊驼符文。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个古老的符文，这意味着组成。看起来很眼熟…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个从比鲛人还古老的种族中传递下来的意味着组成的符文。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个意味着组成的古代符文。真该死！"}]
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个符文显然是很古老的，但却展现了对科学认知的良好掌握。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这不可能是关于翼族人起源的符文，太科学化了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "古代符文文文…这一个代表着生命颗粒粒粒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "尊重。一个代表着有机生命最基础元素的符文。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "对于这样一个古老的符文来说，这是个很高级的符号。这看起来像个原子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些符文会是由在群星中播撒生命，甚至比鲛人还要古老的种族制造的吗？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个古老的符文，展现了生命的基本组成方块。"}]

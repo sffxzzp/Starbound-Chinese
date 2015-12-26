@@ -1,0 +1,7 @@
+[{"op" : "replace", "path" : "/scriptConfig/dialog/converse/default/default", "value" : ["我住在地下！这是最好的生活方式。"]},
+{"op" : "replace", "path" : "/scriptConfig/dialog/converse/apex/default", "value" : ["希望大猿人和他的科技发展部不会找到这儿来！","这里的黑暗隐藏着许多东西。你是个寻宝猎人吗？","你也是躲到这地下来的吗，朋友？","即使是科技发展部的侦察兵也不会到这地下的洞穴来…"]},
+{"op" : "replace", "path" : "/scriptConfig/dialog/converse/human/default", "value" : ["我躲在这里，这样我的敌人就找不到我了…","一个陌生人！我在这地下从来孤身一人。你怀着善意而来吗？","你为我而来吗？或者你也许在找那些神秘的门…","我在这里很长时间了。保护国现在怎么样了？"]},
+{"op" : "replace", "path" : "/scriptConfig/dialog/converse/avian/default", "value" : ["看见你让我的羽毛震颤！我不大习惯有人拜访！","我敏锐的危险嗅觉使我得以在这洞穴中生存。","欢迎光临！你希望在这儿住下吗？我们可以做邻居！","像你这样的旅行者们偶尔会从这儿经过。后来我再也没有见过他们…"]},
+{"op" : "replace", "path" : "/scriptConfig/dialog/converse/hylotl/default", "value" : ["你是来这儿打坐的吗？或者，也许你只是迷路了？","欢迎，旅行者！你在这些洞穴中寻宝吗？","欢迎你客人！我已经在这里孤独又艰难地度过了一段时间了。","你好啊，朋友。你是来这些洞穴中寻求某种启示吗？"]},
+{"op" : "replace", "path" : "/scriptConfig/dialog/converse/floran/default", "value" : ["叶族人更喜喜喜欢住在地下。更利利利于隐蔽蔽蔽。","叶族人从没看见有人到这儿来过。","叶族人看到陌生生生人很惊讶！叶族人总是是是孤身一人…","陌生生生人！叶族人没有料到会有客人来！"]},
+{"op" : "replace", "path" : "/scriptConfig/dialog/converse/glitch/default", "value" : ["惊讶。我没有想到在这里也会有人拜访。","震惊。你是我这段时间见到的第一个个体。","欢迎。你好，你打算这在儿待一会儿吗？","印象深刻。你是怎么设法到这儿来的？你肯定很勇敢。"]}]

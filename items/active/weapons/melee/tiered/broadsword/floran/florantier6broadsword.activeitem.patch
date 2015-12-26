@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "大凿片。一把链接了各式令人讨厌部分的剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大凿片"}]

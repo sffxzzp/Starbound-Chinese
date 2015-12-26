@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "光滑的冰"},
+{ "op" : "replace", "path" : "/description", "value" : "坚固而光滑的冰，好滑！"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "陈述。冷，光滑而滑溜的冰。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "冰。触感很光光光滑。"}]

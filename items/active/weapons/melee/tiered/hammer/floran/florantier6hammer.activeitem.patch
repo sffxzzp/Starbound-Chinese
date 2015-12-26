@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "碎树锤。一棵能当锤子的树。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "碎树锤"}]

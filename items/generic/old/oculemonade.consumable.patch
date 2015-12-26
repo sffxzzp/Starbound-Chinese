@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鹰眼柠檬水被认为可以提高猎人的视力！当然，这是迷信。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鹰眼柠檬水"}]

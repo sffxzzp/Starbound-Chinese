@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一丛可爱的花花"},
-{"op":"replace","path":"/shortdescription","value":"荧光花朵"},
-{"op":"replace","path":"/apexDescription","value":"一些可爱的小花。"},
-{"op":"replace","path":"/avianDescription","value":"这些小花真可爱！"},
-{"op":"replace","path":"/floranDescription","value":"叶族要把这些花戴在头上！尽管我自己看不到它。"},
-{"op":"replace","path":"/glitchDescription","value":"好奇：这些脆弱的小花是怎么在这片荒凉的土地上生存下来的？"},
-{"op":"replace","path":"/humanDescription","value":"我非常希望我的花园里也能有这些花，但是它看起来太脆弱了，不好移植。"},
-{"op":"replace","path":"/hylotlDescription","value":"这些小花在这片荒凉的土地上散发着微弱的光。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个发光植物花盆。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光植物花盆"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个发光植物花盆。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这发光的花盆令人有些不安。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发光花盆内含甜甜甜的花蜜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。这种花盆带有一种不祥的光芒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种发光花盆花太让人毛骨悚然。显然不是我的菜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我在海底看到这种发光花盆。他们的光很奇怪但很优雅。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来就像一颗外星人蛋！"}]

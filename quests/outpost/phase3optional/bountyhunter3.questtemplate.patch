@@ -1,3 +1,3 @@
 [{ "op" : "replace", "path" : "/title", "value" : "^green;鼠害"},
-{ "op" : "replace", "path" : "/text", "value" : "我有个工作需要小心看护... ^green;你能帮我^orange;找些奶酪和毒水^green;么？"},
+{ "op" : "replace", "path" : "/text", "value" : "我有个工作需要小心处置... ^green;你能帮我^orange;找些奶酪和毒水^green;么？"},
 { "op" : "replace", "path" : "/completionText", "value" : "太好了... 这个给你，我用不到了。"}]

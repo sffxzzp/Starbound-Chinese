@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一厚片硬化的真菌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇盾"}]

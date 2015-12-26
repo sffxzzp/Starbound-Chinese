@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一丛很高的的草，叶族人喜欢在里面做一些残忍的事。"},
+[{"op":"replace","path":"/description","value":"一堆很高的草丛，里面一定藏着小动物！"},
 {"op":"replace","path":"/shortdescription","value":"高草丛"},
 {"op":"replace","path":"/apexDescription","value":"高草丛。它在微风中发出轻微的沙沙声。"},
 {"op":"replace","path":"/avianDescription","value":"又高又柔软的草"},
-{"op":"replace","path":"/floranDescription","value":"叶族藏在草丛后。跳出，呸！捅。"},
-{"op":"replace","path":"/glitchDescription","value":"（隐藏？）叶族经常将自己藏在草丛后伺机寻找猎物。"},
-{"op":"replace","path":"/humanDescription","value":"我想赤脚在这草上奔跑。"},
-{"op":"replace","path":"/hylotlDescription","value":"草……屠杀……叶族……闪现……这很漂亮。"}]
+{"op":"replace","path":"/floranDescription","value":"叶族藏在草丛后。然后令人惊喜的跳出一只礼物！从未失手。"},
+{"op":"replace","path":"/glitchDescription","value":"鬼鬼祟祟。叶族经常将自己藏在草丛后伺机寻找猎物。"},
+{"op":"replace","path":"/humanDescription","value":"我只想赤脚在这草上奔跑。"},
+{"op":"replace","path":"/hylotlDescription","value":"草在风中摇摆，有比这更能令人平静的么？"},
+{"op":"replace","path":"/novakidDescription","value":"草长的高的令人讨厌，没时间割草了。"}]

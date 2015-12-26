@@ -1,0 +1,61 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "particleEmitters" : {
+      "altMuzzleFlash" : {
+        "active" : false,
+        "emissionRate" : 8,
+        "transformationGroups" : ["muzzle"],
+        "offsetRegion" : [0, 0, 0, 0],
+        "particles" : [
+          { "particle" : "bouncyspark"},
+          { "particle" : "bouncyspark"},
+          { "particle" : "bouncyspark"},
+          { "particle" : "bouncyspark"},
+          { "particle" : "bouncyspark"},
+          { "particle" : "bouncyspark"}
+        ]
+      }
+    },
+    "sounds" : {
+      "altFire" : [ "/sfx/gun/shotgun1.ogg" ]
+    }
+  },
+
+  "altAbility" : {
+    "name" : "Bouncing Shot",
+    "type" : "bouncingshot",
+    "scripts" : ["/items/active/weapons/ranged/altabilities/altfire.lua"],
+
+    "projectileType" : "standardbullet",
+    "projectileParameters" : {
+      "bounces" : 3,
+      "speed" : 100
+    },
+    
+    // use baseDps and fireTime from primary fire
+    
+    "energyUsage" : 32.0,
+
+    "stances" : {
+      "fire" : {
+        "duration" : 0.15,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.15,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

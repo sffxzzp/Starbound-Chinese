@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个饮料柜，装着各种玻璃杯和奇形怪状的瓶子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "酒吧橱柜"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龙橱柜"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个神奇的饮料柜，然而我找不到香蕉汁。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个满是奇形怪状的玻璃杯和香甜液体的橱柜。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "恶恶恶心的果汁。"},

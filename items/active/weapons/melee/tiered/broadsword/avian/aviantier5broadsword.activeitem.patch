@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "翼乱EX。一把看起来像巨大翅膀的剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼乱EX"}]

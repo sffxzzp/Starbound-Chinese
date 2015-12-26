@@ -1,0 +1,67 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "particleEmitters" : {
+      "altMuzzleFlash" : {
+        "active" : false,
+        "rotationGroup" : "weapon",
+        "emissionRate" : 8,
+        "offsetPart" : "muzzleFlash",
+        "offsetRegion" : [0.0, 0.0, 0.0, 0.0],
+        "particles" : [
+          { "particle" : "rocketbarrelpuff", "offset" : [0, 0.5] },
+          { "particle" : "rocketbarrelpuff", "offset" : [0, 0.5] },
+          { "particle" : "rocketbarrelpuff", "offset" : [0, 0.5] }
+        ]
+      }
+    },
+    "sounds" : {
+      "physicalGuided" : [ "/sfx/gun/rocket2.ogg" ],
+      "fireGuided" : [ "/sfx/gun/rocket_fire1.ogg" ],
+      "iceGuided" : [ "/sfx/gun/rocket_ice1.ogg" ],
+      "electricGuided" : [ "/sfx/gun/rocket_electric1.ogg" ],
+      "poisonGuided" : [ "/sfx/gun/rocket_poison1.ogg" ]
+    }
+  },
+
+  "altAbility" : {
+    "name" : "Guided Rocket",
+    "type" : "guidedrocket",
+    "scripts" : ["/items/active/weapons/ranged/altabilities/guidedrocket/guidedrocket.lua"],
+
+    "elementalConfig" : {
+      "physical" : { "projectileType" : "guidedrocket" },
+      "fire" : { "projectileType" : "fireguidedrocket" },
+      "electric" : { "projectileType" : "electricguidedrocket" },
+      "ice" : { "projectileType" : "iceguidedrocket" },
+      "poison" : { "projectileType" : "poisonguidedrocket" }
+    },
+    "projectileParameters" : {},
+    "baseDps" : 5.35,
+    "energyUsage" : 36,
+    "fireTime" : 1.0,
+
+    "stances" : {
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "weaponOffset" : [-0.2, 0],
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "duration" : 1.5,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "weaponOffset" : [-0.2, 0],
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  }
+}

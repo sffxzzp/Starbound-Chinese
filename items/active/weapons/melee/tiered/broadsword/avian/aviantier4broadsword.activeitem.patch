@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "风暴之眼。一柄嵌了宝石的剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "风暴之眼"}]

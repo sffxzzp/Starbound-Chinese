@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "阴暗有角的方块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖角暗影方块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。尖角暗影方块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黑黑的有角的方块…"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "安全认证。这把锤头已经得到了合适的认证。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "安全认证"}]

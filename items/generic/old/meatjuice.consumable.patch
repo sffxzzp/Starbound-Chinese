@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "发酵葡萄和肉的汁液制成的饮料。在叶族人中很受欢迎。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "肉汁"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "骇翼。致命的、强大的大刀。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骇翼"}]

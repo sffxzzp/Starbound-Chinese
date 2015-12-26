@@ -1,2 +1,9 @@
-[{"op":"replace","path":"/description","value":"这个装置能够识别和恢复化石。它会把化石输出在一个准备被砸开的容器内."},
-{"op":"replace","path":"/shortdescription","value":"^orange;化石处理站^white;"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这个装置能够识别和恢复化石。它会把化石输出在一个准备被砸开的容器内"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;化石处理站^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个方便的化石恢复设备。它也可以判识化石。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : ""},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人好好好奇于化石石石。这机械可以帮助判识化石！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞叹不已。一台工具可以恢复和判识化石。我迫不及待去用它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "化石修复工具。来学习一下历史吧！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一台化石识别器。使用这种设备就像窥视到过去。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不知道很多过去的事情。如果我把化石带到这台机械就可以教我一两件事。"}]

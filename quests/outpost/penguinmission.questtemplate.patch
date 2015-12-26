@@ -1,3 +1,3 @@
 [{ "op" : "replace", "path" : "/title", "value" : "^green;做好准备"},
-{ "op" : "replace", "path" : "/text", "value" : "嘿，哥们。我听说了你在能源设施的战绩，我这有点情况，相信解决它是你的拿手好戏。臭名昭著的海盗^green;骇翼^white;欠钱不还。他现在正在攻击一个和平的村庄^green;。你先装备一些^orange;钛制盔甲^green;来保护你自己，我再把坐标交给你。这件事绝对值得你去做。"},
+{ "op" : "replace", "path" : "/text", "value" : "嘿，哥们。我听说了你在能源设施的战绩，我打赌你肯定能帮助我。臭名昭著的海盗^green;骇翼^white;欠钱不还。他现在正在攻击一个和平的村庄。如果^green;你制作一些^orange;钛制盔甲^green;来保护你自己，我再把坐标交给你。^white;我听说你可以在^orange;古怪的^green;星系^green;找到^orange;钛矿^green;。"},
 { "op" : "replace", "path" : "/completionText", "value" : "看起来你准备好了。坐标给你。打败他后告诉我。"}]

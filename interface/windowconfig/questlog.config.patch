@@ -1,5 +1,5 @@
-[{"op":"replace","path":"/paneLayout/labelMoney/value","value":"奖励："},
-{"op":"replace","path":"/paneLayout/windowtitle/title","value":"任务记录"},
-{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":"^#b9b5b2;持续跟踪你的任务 ^green;[J]"},
-{"op":"replace","path":"/paneLayout/btnSetAsCurrent/caption","value":"设置为当前"},
-{"op":"replace","path":"/paneLayout/btnAbandon/caption","value":"放弃"}]
+[{"op" : "replace","path" : "/paneLayout/windowtitle/title","value" : "任务记录"},
+{"op" : "replace","path" : "/paneLayout/windowtitle/subtitle","value" : "^#b9b5b2;持续跟踪你的任务 ^green;[J]"},
+{"op" : "replace","path" : "/paneLayout/btnSetAsCurrent/caption","value" : "设置为当前"},
+{"op" : "replace","path" : "/paneLayout/btnAbandon/caption","value" : "放弃"},
+{"op" : "replace","path" : "/paneLayout/labelRewards/value","value" : "奖励："}]

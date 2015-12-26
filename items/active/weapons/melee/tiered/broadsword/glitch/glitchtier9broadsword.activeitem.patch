@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "BIOS。一把能把任何人劈成两瓣的剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "BIOS"}]

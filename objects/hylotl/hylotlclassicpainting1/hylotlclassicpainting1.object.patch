@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅古老的水墨画，展现了一位早期鲛人战士。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人战士图"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来是一幅很老的画了。我很好奇他们是怎么把它保存得这么好的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不同的文化是如何产生不同的战斗方式的，这个问题很能激起好奇心。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "肥肥肥肥的战士用叶族人的武武武器会打得更好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个战士的姿势表明他已经准备好战斗了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个人摆好了突击的姿势！令人激动的作品。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一位早期鲛人战士，受训来保卫同胞。鼓舞人心。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这位老兄看起来要准备做些什么了，不是么？"}]

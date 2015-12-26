@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个星际传说中的地球步枪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "温彻斯特"}]

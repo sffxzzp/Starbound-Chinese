@@ -1,2 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "放进一个^white;至少有^orange;一扇门和^orange;灯的^orange;封闭式建筑^white;然后有人就会搬进来。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "^yellow;殖民地契约"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^yellow;殖民地契约"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果放置在一个有门有光的建筑内，将会鼓励人们迁入。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这装置会邀请别人进入建筑。只要确保有一扇门和一盏灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "把这屏屏屏幕挂在建筑的墙上。会令某个人人人搬进来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。如果放置在有正确的结构化建筑内，这个殖民地契约会鼓励某人迁入。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是对扩展殖民地有用。把它放在一个有一扇门和一盏灯的建筑物内，会有某人搬进来。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果挂在一个有门和灯的封闭建筑物内，某人会进来并把它当成自己的家。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "随着这个殖民地契约，某人将会搬进建筑内。只要确保这建筑有门和光源。"}]

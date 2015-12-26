@@ -5,4 +5,5 @@
 {"op":"replace","path":"/floranDescription","value":"叶族颤抖的打开箱子。"},
 {"op":"replace","path":"/glitchDescription","value":"……分析…… 这个冰具有特殊的性质，它不会很快融化。"},
 {"op":"replace","path":"/humanDescription","value":"这箱子看起来像一座冰屋。也许里面有北极熊。"},
-{"op":"replace","path":"/hylotlDescription","value":"圆形冻上的箱子，杰作。"}]
+{"op":"replace","path":"/hylotlDescription","value":"圆形冻上的箱子，杰作。"},
+{"op":"replace","path":"/novakidDescription","value":"这冰冷的箱子让我的战利品保持新鲜的品质。"}]

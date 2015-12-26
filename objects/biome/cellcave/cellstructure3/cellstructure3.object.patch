@@ -1,8 +1,8 @@
-[{"op":"replace","path":"/description","value":"一个混乱而奇怪的细胞."},
-{"op":"replace","path":"/shortdescription","value":"细胞结构"},
-{"op":"replace","path":"/apexDescription","value":"一个奇怪的显示"},
-{"op":"replace","path":"/avianDescription","value":"一个显示。 这让我想起能量晶体"},
-{"op":"replace","path":"/floranDescription","value":"看看看起来不错的东西西西...."},
-{"op":"replace","path":"/glitchDescription","value":"分析。这个细胞结构看起来像个改进过的猿人"},
-{"op":"replace","path":"/humanDescription","value":"这让我想起了物理课。这是生物?"},
-{"op":"replace","path":"/hylotlDescription","value":"当科学遇见艺术"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个混乱而奇怪的细胞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "细胞结构"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个奇怪的显示。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个显示。 这让我想起能量晶体。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "特特特别外貌的东西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这个细胞结构看起来像个改进过的猿人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这让我想起了物理课。还是生物？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "当科学遇见艺术。"}]

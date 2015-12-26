@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是彩虹石矿！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹石矿"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个棱镜碎片！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "棱镜碎片"}]

@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一张彩虹做的床，鲜艳且舒适。"},
-{"op":"replace","path":"/shortdescription","value":"彩虹床"},
-{"op":"replace","path":"/apexDescription","value":"一张可爱的彩虹床。我爱它。"},
-{"op":"replace","path":"/avianDescription","value":"看着这张床就让我感到轻松。"},
-{"op":"replace","path":"/floranDescription","value":"叶族被鲜艳的颜色催眠。昏昏欲睡。"},
-{"op":"replace","path":"/glitchDescription","value":"（高兴） 这张床使我的心情得到满足。"},
-{"op":"replace","path":"/humanDescription","value":"一张鲜艳完美的床。我迫不及待想去睡觉了。"},
-{"op":"replace","path":"/hylotlDescription","value":"各式各样闪闪发光的颜色让我想起了海洋生活。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张彩虹做的床，鲜艳且舒适。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张可爱的彩虹床。我爱它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看着这张床就让我感到轻松。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族被鲜艳的颜色催眠。昏昏欲睡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。这张床使我的心情得到满足。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张鲜艳完美的床。我迫不及待想去睡觉了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "各式各样闪闪发光的颜色让我想起了海洋生活。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张床是疯狂般的鲜艳。"}]

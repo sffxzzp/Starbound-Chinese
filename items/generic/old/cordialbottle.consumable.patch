@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一瓶口感顺滑的百味果甜酒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "瓶装百味果甜酒"}]

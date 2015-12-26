@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "烘烤者。这根矛像一块圣诞烤火鸡。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "烘烤者"}]

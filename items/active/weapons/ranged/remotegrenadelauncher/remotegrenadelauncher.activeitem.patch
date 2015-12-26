@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以人工控制爆炸的火焰榴弹。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "远控榴弹发射器"}]

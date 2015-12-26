@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "内核病毒。这把剑能破坏包括内核在内的一切。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "内核病毒"}]

@@ -1,0 +1,36 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "sounds" : {
+      "trailLoop" : [ "/sfx/objects/gasbooster_loop.ogg" ],
+      "trailIgnite" : [ "/sfx/objects/hiddenswitch1.ogg" ]
+    }
+  },
+
+  "altAbility" : {
+    "name" : "Fuel Air Trail",
+    "type" : "fuelairtrail",
+    "scripts" : ["/items/active/weapons/ranged/altabilities/fuelairtrail/fuelairtrail.lua"],
+
+    "projectileType" : "fuelaircloud",
+    "projectileParameters" : {
+      "power" : 3
+    },
+    "baseDamage" : 6,
+    "energyUsage" : 10,
+    "projectileFrequency" : 3.0,
+    "cooldown" : 0.5,
+
+    "stances" : {
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  }
+}

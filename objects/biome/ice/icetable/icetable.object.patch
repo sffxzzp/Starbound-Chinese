@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一张用寒冰制作的桌子"},
-{"op":"replace","path":"/shortdescription","value":"寒冰桌子"},
-{"op":"replace","path":"/apexDescription","value":"一张用巨大寒冰制作的桌子"},
-{"op":"replace","path":"/avianDescription","value":"一张用寒冰制作的大桌子"},
-{"op":"replace","path":"/floranDescription","value":"叶族。切割。冰。"},
-{"op":"replace","path":"/glitchDescription","value":"……思考……一顿热腾腾的饭放在这里一定很有趣。"},
-{"op":"replace","path":"/humanDescription","value":"这是一张你不会想把手肘搁上去的桌子。"},
-{"op":"replace","path":"/hylotlDescription","value":"一张寒冰桌子，华而不实。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张由雕刻过的冰制成的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寒冰桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张由巨大的冰块雕刻而成的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张冰造的大桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族在冰上切切切。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "考虑。在这桌上端上些热食一定会很有趣的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你不会想把手肘放在这桌上休息。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张冰桌子。华而不实。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在一般情况下，我应该远离冰制的家具。"}]

@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "遇险信标。谁知道谁会听见它发出的信号。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个遇险信标。天知道谁会收到它。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "遇险信标"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "遇险信标。我希望留下它的人是个好人。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "遇险信标。有人遇到麻烦了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族帮助别人时也狩猎。有时。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这个遇险信标正在发射一个固定的频率。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这信标正在发出遇险信号。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有人需要帮助。保护弱者是值得追求的。"}]
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个遇险信标。我希望留下它的人平安无事。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个遇险信标。看来有人遇到了危险。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人除了打猎也会帮助别人。偶偶偶尔。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这个遇险信标正在用多种频率发送信号。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个遇险信标正传出求救信号。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有人需要帮助。保护弱小是一个挺有价值的追求。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这看起来是一个遇险信标。我想知道是谁激活了它。"}]

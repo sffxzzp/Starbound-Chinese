@@ -1,4 +1,9 @@
-[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"接线站"},
-{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"为万物接线！"},
-{"op":"replace","path":"/description","value":"我可以用这个配线站来制作合适的电线和组件!"},
-{"op":"replace","path":"/shortdescription","value":"^orange;配线站^white;"}]
+[{ "op" : "replace", "path" : "/description", "value" : "我可以用这接线站来合成部件和电线，因为我觉得它合适！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;接线站^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以在这创建用来接线的设备。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是个工作站用来合成用于布线的设备。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人可以制作用于接线的设备。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣慰。一个工作站用来制作线路相关的设备。非常之方便。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在这工作站可以制作接线相关的设备。真整齐！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用来布线的工具和配件，都在这个工作站。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个工作站用于所有有关接线的东西。"}]

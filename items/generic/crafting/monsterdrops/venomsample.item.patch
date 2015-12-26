@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "挥发性有毒液体的样品。可以用于制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒液样本"}]

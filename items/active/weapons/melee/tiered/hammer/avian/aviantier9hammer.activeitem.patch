@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "草食骷髅。一个从装饰用骷髅做成的锤子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "草食骷髅"}]

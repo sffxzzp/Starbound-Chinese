@@ -1,11 +1,3 @@
-[
-  { "op" : "replace", "path" : "/title", "value" : 
-	"^green;庆祝时间！"
-  },
-  { "op" : "replace", "path" : "/text", "value" : 
-    "我从USCM监狱释放后就来到这里，现在大家都接受我了。我想让他们知道他们对我有多重要。^green;请给我^orange;5份火药^green;，这样我就能制作烟花了。^white;当然，我也会教你如何制作它们！"
-  },
-  { "op" : "replace", "path" : "/completionText", "value" : 
-    "真棒！他们会喜欢我的烟火表演的。这里！拿着这个烟花，我会教你怎么制作。"
-  }
-]
+[{ "op" : "replace", "path" : "/title", "value" : "^green;庆祝时间！"},
+{ "op" : "replace", "path" : "/text", "value" : "我从USCM监狱释放后就来到这里，现在大家都接受我了。我想让他们知道他们对我有多重要。^green;请给我^orange;5份火药^white;，这样我就能制作烟花了。^white;当然，我也会教你如何制作它们！"},
+{ "op" : "replace", "path" : "/completionText", "value" : "真棒！他们会喜欢我的烟火表演的。这里！拿着这个烟花，我会教你怎么制作。"}]

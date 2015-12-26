@@ -1,2 +1,2 @@
-[{"op":"replace","path":"/description","value":"对于坐来说很危险。"},
-{"op":"replace","path":"/shortdescription","value":"灵火椅子"}]
+[{ "op" : "replace", "path" : "/description", "value" : "坐在这椅子有点危险。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冰焰椅子"}]

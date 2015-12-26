@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "当你有从内而外的勇气时不会觉得它短。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稀有短剑"}]

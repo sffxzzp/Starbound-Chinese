@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个标准的办公椅。"},
-{"op":"replace","path":"/shortdescription","value":"办公椅"},
-{"op":"replace","path":"/apexDescription","value":"一个猿人工人的基本的椅子。非常的不舒服。猿人们每天都要在上面没有休息地坐15个小时。"},
-{"op":"replace","path":"/avianDescription","value":"这是什么凶残的东西，有轮子的椅子？"},
-{"op":"replace","path":"/floranDescription","value":"上面的皮闻起来好好吃的样子。"},
-{"op":"replace","path":"/glitchDescription","value":"谴责。不符合人体工程学。"},
-{"op":"replace","path":"/humanDescription","value":"看起来挫爆了的办公椅。真想知道一个猿人要在上面工作多久？"},
-{"op":"replace","path":"/hylotlDescription","value":"一个很不舒服的椅子，长时间的使用会让人感到痛苦。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张标配的办公椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张基本的猿人工作用的椅子。非常的不舒服。猿人们每天都要在上面连续坐15个钟头。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是什么凶残的玩意儿…有轮子的椅子？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "上面的皮革闻起来好好好好吃的样子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不屑。不符合人体工程学。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张看起来挫爆了的办公椅。真想知道一个猿人要在上面工作多久？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张很不舒服的椅子，多坐一会儿都会让人感到痛苦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这玩意儿坐上去比看起来还让人不舒服。真的是瞎了我的钛金狗眼。"}]

@@ -1,9 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这种钢制电梯会把工作做好。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "短钢制电梯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个移动平台。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个移动平台。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一个移动平台。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "一个移动平台。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个移动平台。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个移动平台。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个移动平台。"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "短钢制电梯"}]

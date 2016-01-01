@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个由发光晶体光滑地雕刻而成的灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "洋红棱镜灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个晶体灯发出奇怪的粉红光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个晶体灯发出天堂般的光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对会发光的石头感到紧紧紧张…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。什么让这些玻璃片发光的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我很好奇为什么碰到这灯就能让它亮起来？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个发光的棱镜灯中有一些有意思的事情。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我对触碰这样的发光的东西感到紧张。"}]

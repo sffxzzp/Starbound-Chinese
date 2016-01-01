@@ -1,2 +1,9 @@
-[{"op":"replace","path":"/description","value":"一把用大块石头制成的椅子。"},
-{"op":"replace","path":"/shortdescription","value":"巨石椅子"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张石头凳子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石头凳子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来座在上面并不舒服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它看起来像是直接从野外带回来的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人至至至少会在上面铺一些青苔。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。区别石块和凳子的分界线在哪里？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "仅仅是看着它就觉得屁股好疼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个用石头制成的简单凳子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想它是用来让人座的。"}]

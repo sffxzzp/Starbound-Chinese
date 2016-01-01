@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"它看起来像是个服务器。我想知道它可以搭建什么样的游戏。"},
-{"op":"replace","path":"/shortdescription","value":"酷酷的服务器"},
-{"op":"replace","path":"/apexDescription","value":"一个安全服务器。无法进入。"},
-{"op":"replace","path":"/avianDescription","value":"上面有很多闪烁的光。"},
-{"op":"replace","path":"/floranDescription","value":"一堆的灯发出着脆脆的声音。"},
-{"op":"replace","path":"/glitchDescription","value":"羞耻。一个我都无法绕过安全程式的服务器。"},
-{"op":"replace","path":"/humanDescription","value":"这看起来像是个数据库。似乎我们无法从中获得什么。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个服务器有能覆盖上千个鲛人图书馆的数据量。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "它看起来像是个服务器。我想知道它可以搭载什么样的游戏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "酷酷哒服务器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个安全服务器。无法登入。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有很多闪烁着的灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发光的盒子发出滴答的声声声响。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "羞愧。一个我都无法绕过安全程式的服务器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来像是个数据库。 但无法从中获得任何数据。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个服务器上有能够填满上千个鲛人图书馆的数据。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这一科技是用来储存信息的。"}]

@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个由菌丝构成的箱子。"},
-{"op":"replace","path":"/shortdescription","value":"蘑菇箱子"},
-{"op":"replace","path":"/apexDescription","value":"你能很容易的把箱子拿起带走。"},
-{"op":"replace","path":"/avianDescription","value":"一个蘑菇箱子。很容易打开。"},
-{"op":"replace","path":"/floranDescription","value":"叶族战利品宝箱。叶族发现财宝。"},
-{"op":"replace","path":"/glitchDescription","value":"……分析…… 打开箱子将释放无形的孢子。其长期影响不可知。"},
-{"op":"replace","path":"/humanDescription","value":"一个可爱、粘糊糊的蘑菇箱子。"},
-{"op":"replace","path":"/hylotlDescription","value":"对箱子来说这样是个荒谬的主意。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个蘑菇塑造的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "你能很容易的把箱子拿起带走。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个蘑菇箱子。很容易打开。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人战利品箱。叶族人发现东东东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。打开箱子将释放无形的孢子。其长期影响不可知。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可爱又迷人的蘑菇箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "对箱子来说这是个荒谬的主意。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这箱子看起来像一个可爱的小蘑菇。"}]

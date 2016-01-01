@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"我们可能要永远服从他么。"},
-{"op":"replace","path":"/shortdescription","value":"大猿人十字绣"},
-{"op":"replace","path":"/apexDescription","value":"十字绣是少数几个猿人允许拥有的爱好。"},
-{"op":"replace","path":"/avianDescription","value":"只有精巧的手指才能创造出这些。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人对织造作业很在行。"},
-{"op":"replace","path":"/glitchDescription","value":"沉思。为什么猿人做这些东西？"},
-{"op":"replace","path":"/humanDescription","value":"我挺希望这些不是猿人被强迫做的。"},
-{"op":"replace","path":"/hylotlDescription","value":"猿人们会保佑他什么，我真好奇？"}]
+[{ "op" : "replace", "path" : "/description", "value" : "愿我们永远遵从他的旨意。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人十字绣"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "十字绣是少数几个猿人允许拥有的爱好之一。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "灵巧的手指才能创造出这些。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对编织很在行。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。猿人做这些东西干嘛？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我真心希望猿人们不是被逼着做这些的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "猿人们在祈求保佑他们什么？我很好奇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个需要花时间做点牺牲才能做得出来。"}]

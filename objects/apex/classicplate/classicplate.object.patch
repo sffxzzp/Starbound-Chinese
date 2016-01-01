@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个上好的陶瓷盘子。"},
-{"op":"replace","path":"/shortdescription","value":"古典盘子"},
-{"op":"replace","path":"/apexDescription","value":"一个上好的陶瓷盘子。猿人经常只能拿到用塑料做的盘子。"},
-{"op":"replace","path":"/avianDescription","value":"翼族人只用碗吃饭。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人尽量吃新宰的食物。"},
-{"op":"replace","path":"/glitchDescription","value":"毁坏。丢盘子的声音真是太尼玛爽了。XD"},
-{"op":"replace","path":"/humanDescription","value":"漂亮又别致的厨具。"},
-{"op":"replace","path":"/hylotlDescription","value":"鲛人是优良瓷器的大师。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个上好的陶瓷盘子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典盘子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个上好的陶瓷盘子。猿人经常只能拿到用塑料做的盘子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人习惯只用碗吃饭。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢生吞活剥！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "捣蛋。摔盘子的声音太尼玛爽了。XD"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "别致漂亮的厨具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人是优良瓷器大师。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盘子太干净了，我都能看到自己的倒影。"}]

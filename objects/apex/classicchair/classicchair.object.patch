@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个适合喜欢鱼子酱的人的餐椅。"},
-{"op":"replace","path":"/shortdescription","value":"古典座椅"},
-{"op":"replace","path":"/apexDescription","value":"高档的木头和柔软的丝绒。真是奢侈…"},
-{"op":"replace","path":"/avianDescription","value":"羽毛和丝绒接触感觉很柔软。"},
-{"op":"replace","path":"/floranDescription","value":"血红的丝绒，叶族人最爱的颜色。"},
-{"op":"replace","path":"/glitchDescription","value":"傲慢的自卫。我们家乡的城堡里有更棒的椅子。"},
-{"op":"replace","path":"/humanDescription","value":"这椅子上的布感觉很昂贵。"},
-{"op":"replace","path":"/hylotlDescription","value":"如此高大上的布料…"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张适合喜欢鱼子酱的人的餐椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "上乘的木头，柔软的鹅绒。真是奢侈…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "鹅绒摸上去比我的羽毛还柔软。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "血色的天鹅绒。叶叶叶族人最喜欢的颜色"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀念。家乡的城堡里也有类似的椅子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这椅子用的布料感觉价格不菲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此高大上的布料…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这椅子有点儿意思。"}]

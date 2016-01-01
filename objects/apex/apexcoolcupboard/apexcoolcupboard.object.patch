@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这个橱柜很清爽，但是看起来不结实。"},
-{"op":"replace","path":"/shortdescription","value":"酷的橱柜"},
-{"op":"replace","path":"/apexDescription","value":"我打赌这柜子里一定有些骨架。"},
-{"op":"replace","path":"/avianDescription","value":"这里面有什么东西么？"},
-{"op":"replace","path":"/floranDescription","value":"储物。"},
-{"op":"replace","path":"/glitchDescription","value":"有趣。可以收纳物品。"},
-{"op":"replace","path":"/humanDescription","value":"一个外表光滑的柜子。"},
-{"op":"replace","path":"/hylotlDescription","value":"我应该看一下里面有什么。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这个橱柜很清爽，但是看起来不结实。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "酷酷哒橱柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我打赌这柜子里藏着骷髅。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这里面有什么东西么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "储储储储物柜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。可以往里存放东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个外表光鲜的橱柜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我应当查看下里面有什么。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "让我们看看里面有什么。"}]

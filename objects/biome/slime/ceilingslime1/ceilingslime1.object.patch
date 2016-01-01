@@ -1,2 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这粘液正在下落。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "落粘液"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一滴正在滴落的黏液。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "滴落的黏液"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一团黏液沉积，似乎快滴下来了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一团恶心的黏液。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想要避免接触黏黏黏液。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反感。一团黏性的黏液沉积。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "黏液真恶心。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "当你的皮肤已经黏糊糊的时候，黏液并没有那么糟糕。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "渗漏的黏液。"}]

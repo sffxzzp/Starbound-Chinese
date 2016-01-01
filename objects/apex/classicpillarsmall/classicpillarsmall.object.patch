@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"用来展示最精湛的物品，或支撑最小型的房子用的。"},
-{"op":"replace","path":"/shortdescription","value":"小墩子"},
-{"op":"replace","path":"/apexDescription","value":"这个墩子本身就是一种艺术。"},
-{"op":"replace","path":"/avianDescription","value":"战胜了翼族人的石工。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人欣赏有如此水准的石头工艺品。"},
-{"op":"replace","path":"/glitchDescription","value":"欣赏。 和电子人石匠等水准的产物。"},
-{"op":"replace","path":"/humanDescription","value":"为了展示珍贵的物件而造的。"},
-{"op":"replace","path":"/hylotlDescription","value":"高等的石头工艺。猿人会挺多技术呀。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "用来展示最精致的物品，或用来支撑最小型的建筑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小柱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这柱子本身就是一件艺术品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "能与翼族相媲美的石刻工艺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人欣赏这这这样水准的石头工艺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。与电子人石匠的技艺同等精湛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "为了展示珍贵的物件而造。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "上等的石头工艺。猿人会的还挺多的嘛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "很好看的石头陈列台。用来装逼再好不过了。"}]

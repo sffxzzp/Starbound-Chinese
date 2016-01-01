@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张用粘液做的床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "粘液床"}]
+[{ "op" : "replace", "path" : "/description", "value" : "悬浮在黏液中睡眠十分甜美。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黏液床"}]

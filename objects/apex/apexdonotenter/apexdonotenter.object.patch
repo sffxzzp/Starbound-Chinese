@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"别这么做！"},
-{"op":"replace","path":"/shortdescription","value":"禁止进入标示"},
-{"op":"replace","path":"/apexDescription","value":"回家的时候，这些标志处处可见。"},
-{"op":"replace","path":"/avianDescription","value":"这些标示不知道是什么人授权写的？"},
-{"op":"replace","path":"/floranDescription","value":"叶族想进就进。傻逼警示。"},
-{"op":"replace","path":"/glitchDescription","value":"叛逆。我才不听你的话呢~"},
-{"op":"replace","path":"/humanDescription","value":"谢谢你的建议！"},
-{"op":"replace","path":"/hylotlDescription","value":"是要小心的时候了，我觉得。"}]
+[{ "op" : "replace", "path" : "/apexDescription", "value" : "家里到处可见这种标志。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些告示不知道是什么人授权贴的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想进进进就进。撒撒撒币告示！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反抗。我已不再听从指挥。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "谢谢你的建议！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我肯定，该小心了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我猜我不会进去。但话说回来…"},
+{ "op" : "replace", "path" : "/description", "value" : "别这么做！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "禁止入内标志"}]

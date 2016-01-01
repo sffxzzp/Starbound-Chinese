@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这是个镶边的大猿人“大猿人”主打专辑。“雨林爱”。"},
-{"op":"replace","path":"/shortdescription","value":"大猿人唱片"},
-{"op":"replace","path":"/apexDescription","value":"这是所有猿人唯一允许有的唱片。有些人说这有潜意识上的信息。"},
-{"op":"replace","path":"/avianDescription","value":"一个奇怪的碟。"},
-{"op":"replace","path":"/floranDescription","value":"黑色圆圈。"},
-{"op":"replace","path":"/glitchDescription","value":"疑惑。一个不被了解的媒体形式。"},
-{"op":"replace","path":"/humanDescription","value":"这是…黑胶？了解。"},
-{"op":"replace","path":"/hylotlDescription","value":"这张碟片上有些凹槽。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张裱在框里的大猿人的主打专辑复制唱片，“丛林之恋”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人唱片"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是猿人被允许拥有的唯一的唱片。有人说它包含了潜意识的信息。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张奇怪的碟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黑色圆圆圆盘。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。一种未知的媒体。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是…唱片？还是屁股？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张碟片上有些凹槽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张碟上刻有精细的图案。"}]

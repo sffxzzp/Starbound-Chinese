@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"任何东西在显微镜下都会变得更可怕。"},
-{"op":"replace","path":"/shortdescription","value":"显微镜"},
-{"op":"replace","path":"/apexDescription","value":"这些是猿人的细胞么？"},
-{"op":"replace","path":"/avianDescription","value":"翼人有类似的设备可以看到鹰眼般远的地方。"},
-{"op":"replace","path":"/floranDescription","value":"美味的细胞。"},
-{"op":"replace","path":"/glitchDescription","value":"悲哀。在这设备下的细胞都死了很久了。"},
-{"op":"replace","path":"/humanDescription","value":"我不知道我在看着什么。"},
-{"op":"replace","path":"/hylotlDescription","value":"在那的猿人细胞和人类细胞非常相像。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "任何东西在显微镜下都会变得异常可怕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "显微镜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些是猿人细胞么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼人有类似的设备可以看到鹰眼能看到的距离。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "美美美味的细胞。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲哀。在这设备下的细胞都死了很久了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不晓得我在看的是什么。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在那的猿人细胞和人类细胞非常相像。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一台用于看清细小东西的设备。"}]

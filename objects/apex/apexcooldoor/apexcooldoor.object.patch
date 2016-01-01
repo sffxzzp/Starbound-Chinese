@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这个门是用某种防弹材料制成的。"},
-{"op":"replace","path":"/shortdescription","value":"猿人安全门"},
-{"op":"replace","path":"/apexDescription","value":"这门看起来坚固到可以把任何东西阻挡在外面…或者任何人。"},
-{"op":"replace","path":"/avianDescription","value":"一个坚固的门。即使是一缕微风也无法溜进去。"},
-{"op":"replace","path":"/floranDescription","value":"强度非常高的门。"},
-{"op":"replace","path":"/glitchDescription","value":"极度。如此坚固的材料。"},
-{"op":"replace","path":"/humanDescription","value":"一个沉重又巨大的安全门。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个门似乎有阻挡海洋的力量。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这个门是用某种防弹材料制成的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人安全门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这道门看上去坚固得可以阻挡任何外敌入侵…也可以防止任何内部人员出逃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一道坚固的门，甚至连一丝风都溜不进来。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "强度非常高的门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。如此坚固的材料。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一道巨大而厚重的安全门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这看上去能把大海也挡在门外。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一道非常厚重的门。"}]

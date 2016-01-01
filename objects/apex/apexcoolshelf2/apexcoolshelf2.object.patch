@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"把一堆没有标签的化学药剂搁在一边看起来很不合理。"},
-{"op":"replace","path":"/shortdescription","value":"酷酷的化学储物架"},
-{"op":"replace","path":"/apexDescription","value":"一个放满实验调和物的架子。"},
-{"op":"replace","path":"/avianDescription","value":"炼金术士的药剂。"},
-{"op":"replace","path":"/floranDescription","value":"危险的粘手液体"},
-{"op":"replace","path":"/glitchDescription","value":"病态的好奇。我想要喝一点。"},
-{"op":"replace","path":"/humanDescription","value":"我不觉得这个架子上有任何东西是可以喝的。"},
-{"op":"replace","path":"/hylotlDescription","value":"大多的液体可以在数秒内杀人。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "把一堆没贴标签的化学用品扔在这里没人管似乎不太负责呐。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "酷酷哒化学储物架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个堆满实验调和物的架子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某炼金术士的药剂。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "危险的黏黏黏黏的液体。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。喝一瓶会怎么样？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不觉得这个架子上有什么是可以喝的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这里的大多数液体可以数秒内让人毙命。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我有一种感觉，那些东西不是给人喝的…"}]

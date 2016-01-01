@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这架子上没有任何有趣的东西。"},
-{"op":"replace","path":"/shortdescription","value":"酷酷的空架子"},
-{"op":"replace","path":"/apexDescription","value":"一个空架子。"},
-{"op":"replace","path":"/avianDescription","value":"一个储存物件的地方。"},
-{"op":"replace","path":"/floranDescription","value":"金属的架子。"},
-{"op":"replace","path":"/glitchDescription","value":"失落。什么都没有。"},
-{"op":"replace","path":"/humanDescription","value":"一个空的猿人架子。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个架子看起来很孤单。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这架子上没有任何有趣的东西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "酷酷哒空架子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个空空的架子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个堆放物品的地方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金金金属架子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。这里什么也没有。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个空的猿人架子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个架子看起来很寂寞。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里没什么东西可看吗？"}]

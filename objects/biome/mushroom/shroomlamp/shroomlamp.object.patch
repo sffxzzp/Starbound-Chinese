@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个在黑汉中发光的蘑菇，便捷并可爱。"},
-{"op":"replace","path":"/shortdescription","value":"蘑菇灯"},
-{"op":"replace","path":"/apexDescription","value":"明亮可爱的蘑菇。当作夜灯不错。"},
-{"op":"replace","path":"/avianDescription","value":"这种蘑菇的光辉可以照亮任何房间。"},
-{"op":"replace","path":"/floranDescription","value":"叶族喜欢亮蘑菇。"},
-{"op":"replace","path":"/glitchDescription","value":"……分析…… 这光貌似是由寄生孢子发出的。"},
-{"op":"replace","path":"/humanDescription","value":"你可以拥抱这个灯。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个蘑菇灯很实用。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个在黑暗中发光的蘑菇。便捷又可爱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可爱的发光蘑菇。绝佳的夜灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种蘑菇的光辉可以照亮任何房间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢发光蘑蘑蘑菇。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。光是孢子发出的，孢子似乎显现出寄生行为。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你可以拥抱这盏灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这盏蘑菇灯很实用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是个发光的蘑菇！它让房间很舒适。"}]

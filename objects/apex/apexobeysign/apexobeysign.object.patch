@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"我最好按照他们说的做…哈！"},
-{"op":"replace","path":"/shortdescription","value":"服从标识"},
-{"op":"replace","path":"/apexDescription","value":"服从…我已经这么做…很久了。"},
-{"op":"replace","path":"/avianDescription","value":"服从？大猿人是猿人的上帝么？"},
-{"op":"replace","path":"/floranDescription","value":"嘶嘶嘶嘶…叶族人才不会听晚餐的话。"},
-{"op":"replace","path":"/glitchDescription","value":"勇敢。绝不！！！"},
-{"op":"replace","path":"/humanDescription","value":"猿人的宣传画。我觉得我应当在上面画个有趣的胡子。"},
-{"op":"replace","path":"/hylotlDescription","value":"只有那些以恐惧统治天下的人才需要这样一份海报。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "我最好按照他们说的做…哈！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "服从标识"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "服从…我已经服从了…这么久。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "服从？大猿人是猿人的上帝么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "啧啧啧啧…叶族人才不会听晚餐的话。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "勇敢。绝不服从！！！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "猿人的宣传画。我觉得我应该在上面画个有趣的小胡子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "只有那些心虚害怕的统治者才需要这样的海报。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我才不会任由一张鬼画差遣。"}]

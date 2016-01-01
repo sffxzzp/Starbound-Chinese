@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个漂亮的花圃。小心蜜蜂！"},
-{"op":"replace","path":"/shortdescription","value":"花圃"},
-{"op":"replace","path":"/apexDescription","value":"一个被悉心照顾的花圃。少有的一个猿人娱乐。"},
-{"op":"replace","path":"/avianDescription","value":"一种病态甜的味道飘在空中。"},
-{"op":"replace","path":"/floranDescription","value":"叶族藏在花里。跳出来，给猴子一个惊喜！猴子不开心。"},
-{"op":"replace","path":"/glitchDescription","value":"敬佩。一个培养的相当好的花圃。"},
-{"op":"replace","path":"/humanDescription","value":"我从没有做园艺的天赋。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个粗鲁，幼稚的花圃。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个漂亮的花圃。当心蜜蜂！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花圃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个被悉心照顾的花圃。少有的让猿人开心的东西之一。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一种让人不适的甜味气息弥漫在空气中。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人曾藏在花丛里，跳出来，给吐舌娃一个惊惊惊喜。吐舌娃不开心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "敬佩。一个种的相当好的花圃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个花圃。最好还是留给那些园艺能手来处理吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个非常幼稚的花圃。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个花圃。真是蹊跷。"}]

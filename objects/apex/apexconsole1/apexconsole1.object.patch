@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这么多诱人的摇杆最好不要碰。"},
-{"op":"replace","path":"/shortdescription","value":"大猿人的终端"},
-{"op":"replace","path":"/apexDescription","value":"我想知道这个开关是干什么的…"},
-{"op":"replace","path":"/avianDescription","value":"如果我拉了这个杆，会发生什么？"},
-{"op":"replace","path":"/floranDescription","value":"一个独立的拉杆。"},
-{"op":"replace","path":"/glitchDescription","value":"好奇。一个拉杆。"},
-{"op":"replace","path":"/humanDescription","value":"一个大大的红色拉杆。是有什么东西出错了么？"},
-{"op":"replace","path":"/hylotlDescription","value":"三思而后行。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "许多诱人的杠杆，但或许最好还是别碰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人终端"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道这个开关是干什么的…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我拉动拉杆，会发生什么吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个独独独立的拉杆。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一个拉杆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个大大的红色拉杆。是有什么东西出错了么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "三思而后行。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "带一个大大的红色拉杆的终端。我该不该拉呢？"}]

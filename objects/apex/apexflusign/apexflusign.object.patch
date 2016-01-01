@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"猩猩流感？听起来好可怕…"},
-{"op":"replace","path":"/shortdescription","value":"猩猩流感海报"},
-{"op":"replace","path":"/apexDescription","value":"猩猩流感层屠戮了整个猿人社会。奇怪的是没有任何掌权的人生病。所以有流言就说这场流感就是个实验。"},
-{"op":"replace","path":"/avianDescription","value":"翼族会得猩猩流感么？"},
-{"op":"replace","path":"/floranDescription","value":"愚昧的猩猩流感，叶族人会把你们吃掉。"},
-{"op":"replace","path":"/glitchDescription","value":"自信。猩猩流感不会对电子人有作用。"},
-{"op":"replace","path":"/humanDescription","value":"我希望人类不会患上猩猩流感。"},
-{"op":"replace","path":"/hylotlDescription","value":"疾病和折磨。猿人们需要我们的帮助。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "猿流感？听起来好口怕…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿流感海报"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿流感让猿人社会生灵涂炭。奇怪的是没一个当权者感染。曾有传言说这其实是一个实验。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人会染上猿流感吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "撒撒撒币猿流感。还不是叶叶叶族人的盘中餐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。电子人不怕猿流感。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望人类不会得猿流感。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "疾病和折磨。猿人们应该得到我们的帮助。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我身体不敏感，应该不会得那种东西。"}]

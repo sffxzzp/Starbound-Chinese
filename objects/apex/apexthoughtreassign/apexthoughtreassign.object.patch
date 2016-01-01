@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"想些更开心的！"},
-{"op":"replace","path":"/shortdescription","value":"思想改造标识"},
-{"op":"replace","path":"/apexDescription","value":"思想改造…它对我来说是个梦魇。"},
-{"op":"replace","path":"/avianDescription","value":"思想是神圣的，他们真敢这么做！"},
-{"op":"replace","path":"/floranDescription","value":"叶族人憎恨这些东西。"},
-{"op":"replace","path":"/glitchDescription","value":"理解。思想改造对电子人而言很常见。"},
-{"op":"replace","path":"/humanDescription","value":"这标志相当令人战栗。"},
-{"op":"replace","path":"/hylotlDescription","value":"冥想被认为可以抵御这种行为。思想是无法在不存在时被改造的。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "想点儿开心的！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "思想改造标识"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "思想改造…它对我来说是个梦魇。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "思想是神圣的，他们怎敢这么做！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不喜欢这个标标标志。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "理解。思想改造对电子人而言很常见。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个标志真的让人不寒而栗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "冥想被认为可以抵御这种行为。思想是无法在不存在时被改造的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这标志对我不管用。我没觉得有什么不同。"}]

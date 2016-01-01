@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块高折射棱镜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "棱晶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一小簇棱柱形宝石。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些小棱镜石。很漂亮！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "多彩的石头"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这些棱镜是自然产生的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我完全赞成彩虹石。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一块折射光线的宝石，这颜色让我想起了热带珊瑚礁。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些宝石非常好，并且…他们到底值多少钱？"}]

@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"储存香蕉的好地方。"},
-{"op":"replace","path":"/shortdescription","value":"标准冰箱"},
-{"op":"replace","path":"/apexDescription","value":"猿人很少有多余的食物。"},
-{"op":"replace","path":"/avianDescription","value":"一个储存食物的设备。"},
-{"op":"replace","path":"/floranDescription","value":"我们叶族必须学会做冷藏器。让肉肉新鲜，桀桀桀桀桀桀…"},
-{"op":"replace","path":"/glitchDescription","value":"饥饿。我们必须寻找食物储存装置。"},
-{"op":"replace","path":"/humanDescription","value":"一个冰箱！我只在书里面见过长成这样的。"},
-{"op":"replace","path":"/hylotlDescription","value":"我们在海底完全不需要这样的东西。我必须适应陆地生活。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "拿来放香蕉不错。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标配冰箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人鲜有多余的食物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个存储食物的设备。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "我们叶族必须学会做食物冷藏器。 肉肉肉要保鲜, 耶耶耶耶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "决心。我们必须好好搜查这个食物存储设备。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个冰箱！我只有在书本上才见到过。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在海底我们完全用不到这样的东西。我必须适应陆地上的生活。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "里面温度很低，可以让食物存放更长的时间。"}]

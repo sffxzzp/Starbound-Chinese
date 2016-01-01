@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "由沥青做的灯笼。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一盏沥青做的灯笼。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "沥青灯笼"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "被沥青包裹的光芒微弱但有用。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我希望这灯是声控的，这样我就不要去碰它了。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "被沥青包裹的光芒虽然微弱却依然有帮助。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我希望这灯是声控的，这样我就不需要去碰它了。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "明亮的灯光。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "分析。一个有用的光源。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这沥青灯笼简直赞！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "黑暗海中的光明。"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一片黑暗海洋之中的明灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好吧，我很高兴这里有一个光源。"}]

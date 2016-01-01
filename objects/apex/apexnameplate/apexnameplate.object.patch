@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"上面写着“大猿人”。"},
-{"op":"replace","path":"/shortdescription","value":"铭牌"},
-{"op":"replace","path":"/apexDescription","value":"这上面写着…“大猿人”。"},
-{"op":"replace","path":"/avianDescription","value":"'大猿人'，他在边上吗？"},
-{"op":"replace","path":"/floranDescription","value":"它说“大猿人”。大猿人…丰盛的一餐。"},
-{"op":"replace","path":"/glitchDescription","value":"紧张。小心！可能有大猿人在边上。"},
-{"op":"replace","path":"/humanDescription","value":"上面写着'大猿人'。我们终于要碰见这个家伙了么？"},
-{"op":"replace","path":"/hylotlDescription","value":"“大猿人”… 他应该不需要一个铭牌吧？"}]
+[{ "op" : "replace", "path" : "/apexDescription", "value" : "这上面写着…“大猿人”。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "“大猿人”…他在附近吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "上面写着“大猿”。大猿…大餐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。有个叫大猿人的可能就在附近。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "上面写着“大猿人”。我们终于要见到这个家伙了么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "“大猿人”… 他应该不需要一个铭牌吧？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个“大猿人”到底是谁？我怀疑他并没有他显示出的那么强大。"},
+{ "op" : "replace", "path" : "/description", "value" : "上面写着“大猿人”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人铭牌"}]

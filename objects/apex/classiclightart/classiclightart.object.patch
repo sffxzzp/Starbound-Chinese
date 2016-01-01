@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个挂在天花板的聚光灯。是展示高档艺术品的理想光源。"},
-{"op":"replace","path":"/shortdescription","value":"古典悬挂灯"},
-{"op":"replace","path":"/apexDescription","value":"用来给画作打光的。猿人是不允许画画的。所有的画作应该都被科技发展部烧毁了。"},
-{"op":"replace","path":"/avianDescription","value":"只是一个微弱的光源，用来吸引人们的眼球到一处。"},
-{"op":"replace","path":"/floranDescription","value":"猿人为他们胡乱涂鸦的东西打光。"},
-{"op":"replace","path":"/glitchDescription","value":"欣赏。这么一个角度的光可以很适合在电子人的艺术品上。"},
-{"op":"replace","path":"/humanDescription","value":"画廊灯。"},
-{"op":"replace","path":"/hylotlDescription","value":"即使最美丽的绘画都能在这样的光下得到升华。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一盏挂在天花板上的吊灯。展示高档艺术品的理想光源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典吊灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用来给画作打光的。猿人是不允许画画的。所有的个人画作应该都被科技发展部烧毁了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "只是一个微弱的光源，用来把人的注意力集中到一点上。。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "为猿人涂涂涂鸦打光的猿人灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "启发。这样角度的光线用来展示电子人的艺术品正合适。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "画廊灯。表现艺术的不二之选。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使最美丽的绘画都能在这样的光下得到升华。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这看上去是给绘画打光用的。"}]

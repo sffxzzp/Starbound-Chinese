@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"为伟大的香蕉喝彩！"},
-{"op":"replace","path":"/shortdescription","value":"香蕉宣传海报"},
-{"op":"replace","path":"/apexDescription","value":"这些标志曾今标记香蕉俱乐部的入口，直到科学发展部加强了禁令。现在它们却时刻提示你违法就是死亡。"},
-{"op":"replace","path":"/avianDescription","value":"翼族有脆弱的消化系统。我们只忠于自己的食物。"},
-{"op":"replace","path":"/floranDescription","value":"真是可怕的食物。"},
-{"op":"replace","path":"/glitchDescription","value":"好奇。我相信这就是猿人的日常饮食。"},
-{"op":"replace","path":"/humanDescription","value":"嗯…这很简要。"},
-{"op":"replace","path":"/hylotlDescription","value":"这是食物吗？我对平常一些异国食物挺感兴趣的。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "伟大的香蕉万岁！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "香蕉宣传海报"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些海报曾是用来标识香蕉俱乐部的入口的，直到科技发展部下达了禁止令。现在它们被用来提醒人们：违反法律将被判处死刑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的消化系统很敏感。我们只忠于自个儿种族的食物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "真真真真是可怕的食物"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我相信这就是猿人赖以为生的东西吧。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊…简单明了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是吃的吗？我很想尝尝异国美食。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "上面画着香蕉，还写着BANANA，防止我们忽略了它。"}]

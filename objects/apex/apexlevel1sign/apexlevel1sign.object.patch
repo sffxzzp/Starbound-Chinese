@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"猿人前进！"},
-{"op":"replace","path":"/shortdescription","value":"猿人一楼标示"},
-{"op":"replace","path":"/apexDescription","value":"感觉我是在一楼。"},
-{"op":"replace","path":"/avianDescription","value":"这里有几楼？"},
-{"op":"replace","path":"/floranDescription","value":"我可以跳过一楼吗？"},
-{"op":"replace","path":"/glitchDescription","value":"怀念。我有一个老朋友也有这样的设施。"},
-{"op":"replace","path":"/humanDescription","value":"一楼，这鬼地方有几层楼？"},
-{"op":"replace","path":"/hylotlDescription","value":"任何人都要从头开始。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "猿人前进！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人一楼标示"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "感觉我是在一楼。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这里有几楼？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "我可以跳跳跳过一楼吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "中立。我现在在一楼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一楼。这鬼地方有几楼？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "九层高台，始于垒土；千里之行，始于足下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我似乎到达了一楼。"}]

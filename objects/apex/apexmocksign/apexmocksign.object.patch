@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个被涂鸦了的大猿人海报。"},
-{"op":"replace","path":"/shortdescription","value":"反抗标志"},
-{"op":"replace","path":"/apexDescription","value":"看起来诱人不是很喜欢大猿人。"},
-{"op":"replace","path":"/avianDescription","value":"被涂改了的大猿人海报。干得漂亮。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人发现猴子很有趣！"},
-{"op":"replace","path":"/glitchDescription","value":"愉悦。这个大猿人的海报被人弄脏了。"},
-{"op":"replace","path":"/humanDescription","value":"看起来有些人就是不怕科学发展部。"},
-{"op":"replace","path":"/hylotlDescription","value":"即使在被压迫的时期，猿人依然会花时间去改涂改海报。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张被毁容了的大猿人海报。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "反抗标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来有人不太喜欢大猿人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张被毁容了的大猿人海报。干的漂亮！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人发现猴子很有趣！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "搞笑。这张大猿人海报被人毁容了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来有人不怕科学发展部。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使是镇压时期，猿人依然会抽时间去涂改海报。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "给大猿人海报毁容需要胆量。我打赌有人为此付出了代价。"}]

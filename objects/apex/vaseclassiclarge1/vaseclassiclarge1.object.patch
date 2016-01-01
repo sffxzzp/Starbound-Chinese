@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"装饰性的大花瓶。看起来挺易碎的。"},
-{"op":"replace","path":"/shortdescription","value":"大条纹花瓶"},
-{"op":"replace","path":"/apexDescription","value":"我觉得我听见里面有什么。"},
-{"op":"replace","path":"/avianDescription","value":"翼族经常在罐子里存些饰品。说不定猿人也会这么做。"},
-{"op":"replace","path":"/floranDescription","value":"打碎它再把里面的东西扯下来！"},
-{"op":"replace","path":"/glitchDescription","value":"破坏的冲动。我相信这里面有些东西。"},
-{"op":"replace","path":"/humanDescription","value":"我一直想要打碎一个这样的东西。"},
-{"op":"replace","path":"/hylotlDescription","value":"破坏这么一个珍贵的作品真是令人羞愧。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "装饰性的大花瓶。看起来挺易碎的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大条纹花瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我觉得我听见里面有东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族经常在罐子里存些饰品。说不定猿人也会这么做。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打打打碎它再把里面的东西扯出来！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冲动。我相信这里面有些东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想摔一个这样的东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "破坏这么一个珍贵的东西让人觉得丢脸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "对我来说，罐子就是罐子，无论新旧。"}]

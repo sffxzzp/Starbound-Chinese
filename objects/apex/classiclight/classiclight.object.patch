@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"在墙上漂亮的铁臂烛台。"},
-{"op":"replace","path":"/shortdescription","value":"古典灯"},
-{"op":"replace","path":"/apexDescription","value":"这灯的光很舒服很温暖。"},
-{"op":"replace","path":"/avianDescription","value":"这铸铁工艺超过了翼族枪矛师傅的水准。"},
-{"op":"replace","path":"/floranDescription","value":"没有火焰在里面燃烧。"},
-{"op":"replace","path":"/glitchDescription","value":"疑惑。设计和目标不相符。灯为火焰提供了氧气，但是，这个设备是完全用电力的。"},
-{"op":"replace","path":"/humanDescription","value":"一个电灯。看起来是想做成火焰的样子。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个灯是设计来装火的却完全是通电的。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一盏漂亮的铁质壁灯"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "灯光温暖而舒适。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这铸铁工艺超过了翼族矛匠的水准。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "没有火在里里里面烧烧。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。设计和目标不相符。灯为火焰提供了氧气，但是，这个设备是完全用电力维持的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个电灯。看起来是想做成火焰的样子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个灯是设计来装火的结果却完全是通电的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这灯很像是酒吧里的东西。"}]

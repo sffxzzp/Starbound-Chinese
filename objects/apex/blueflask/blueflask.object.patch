@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"装满着蓝色液体的烧瓶。"},
-{"op":"replace","path":"/shortdescription","value":"蓝色烧瓶"},
-{"op":"replace","path":"/apexDescription","value":"只有老天知道这种药剂带来了多少的痛苦。"},
-{"op":"replace","path":"/avianDescription","value":"一个蓝色试剂？"},
-{"op":"replace","path":"/floranDescription","value":"好难闻。"},
-{"op":"replace","path":"/glitchDescription","value":"启发。蓝色！"},
-{"op":"replace","path":"/humanDescription","value":"这闻起来…是不能入口的东西。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个药剂看起来有毒。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个装满蓝色液体的烧瓶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色烧瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "只有老天知道这种药剂带来了多少的苦难。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一瓶蓝色药剂？ 绝不是什么好东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好难闻。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "启发。蓝色的！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这闻起来…不像是能入口的东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这混合物看起来有毒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "蓝色的东西向来就没有一样是正常的。"}]

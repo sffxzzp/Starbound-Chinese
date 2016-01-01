@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"为伟大的香蕉欢呼！神圣的食物！"},
-{"op":"replace","path":"/shortdescription","value":"大香蕉锁雕塑"},
-{"op":"replace","path":"/apexDescription","value":"这雕塑上有个标记。它看起来可以按下去。"},
-{"op":"replace","path":"/avianDescription","value":"这雕塑有有点，有点奇怪。"},
-{"op":"replace","path":"/floranDescription","value":"卑鄙的猿人科技。"},
-{"op":"replace","path":"/glitchDescription","value":"探究。这雕塑里面藏着某种设备。"},
-{"op":"replace","path":"/humanDescription","value":"在这雕塑里面的按钮藏得不是很好。"},
-{"op":"replace","path":"/hylotlDescription","value":" 一个很牵强花招的尝试。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "伟大的香蕉万岁！无上的水果！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大香蕉锁雕塑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这雕塑上有个标记。它看起来可以按下去。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这雕塑有有点怪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "猿人的黑黑黑科技。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "探究。这雕塑里面藏着某种设备。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这雕塑上的按钮藏得不是很好。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这逼装的我给0分！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是个按钮吗？得小心点。"}]

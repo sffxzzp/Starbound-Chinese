@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"猿人实验室能够用到最好的自动防卫装置。"},
-{"op":"replace","path":"/shortdescription","value":"猿人炮台"},
-{"op":"replace","path":"/apexDescription","value":"保持警惕。"},
-{"op":"replace","path":"/avianDescription","value":"我要成为像风一般的人，如此一来它就看不见我啦。"},
-{"op":"replace","path":"/floranDescription","value":"这么亮的激光。"},
-{"op":"replace","path":"/glitchDescription","value":"小心。 禁止打扰我戒备的兄弟。"},
-{"op":"replace","path":"/humanDescription","value":"一个自动防卫相机。"},
-{"op":"replace","path":"/hylotlDescription","value":"这单薄的激光不可能穿透深沉的海洋。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "猿人实验室能够用到最好的自动防卫装置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人炮台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "随时准备开火！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "为了避开炮台的视线我必须疾走如风。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这么亮的激激激光。不想被他们看看看见。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "坚定。绝不能沦为他们的靶子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "自动防卫炮台。不是什么好东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "让人想到科技发展部长久的统治。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "冷血无情的自动防卫炮台。"}]

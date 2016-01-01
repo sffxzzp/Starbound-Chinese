@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这貌似是一个“把身体奉献给了科学的”科学家。"},
-{"op":"replace","path":"/shortdescription","value":"猿人科学家塑像"},
-{"op":"replace","path":"/apexDescription","value":"这个科学家死于尝试改变他的基因。他被作为了一个所有其它猿人的楷模。科学发展部说这是一个猿人可以达到的最高荣誉。"},
-{"op":"replace","path":"/avianDescription","value":"一个科学家。观星者时常警示我们藏在科学里面的危险。"},
-{"op":"replace","path":"/floranDescription","value":"愚蠢的猿人把身体奉献给了科学，真是对优质肉的浪费。"},
-{"op":"replace","path":"/glitchDescription","value":"质疑。那个科学家“把身体献身于科学”。可能他是别无选择吧？"},
-{"op":"replace","path":"/humanDescription","value":"显然那个家伙把身体给了他的事业。是高尚还是愚蠢？"},
-{"op":"replace","path":"/hylotlDescription","value":"自我献身被鲛人视为荣誉，但只当那个事业有益。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这貌似是一个献“身”科学的科学家。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人科学家塑像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个科学家死于尝试改变自己的基因。他被当作所有其它猿人的楷模。科学发展部说这是一个猿人可以获得的最高荣誉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个科学家。观星者时常警告我们关于藏在科学里面的危险。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的猿人把身体奉献给了科学，浪浪浪费了多多多好一块肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "质疑。那个科学家“把身体献给了科学”？可能他是别无选择吧？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "显然那个家伙把身体献给了他的事业。高尚还是愚蠢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自我牺牲被鲛人视为一种荣誉，前提那是为一份正当事业做出的牺牲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个自我牺牲者的雕像。他是自愿的吗？"}]

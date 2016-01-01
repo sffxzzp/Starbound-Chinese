@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"4号猿人门：更薄，更快，更贵。"},
-{"op":"replace","path":"/shortdescription","value":"亮滑门"},
-{"op":"replace","path":"/apexDescription","value":"如同大多的猿人产物一样，这些门是为了隐藏秘密而造的。"},
-{"op":"replace","path":"/avianDescription","value":"如此新颖的建筑。"},
-{"op":"replace","path":"/floranDescription","value":"猿人的门发出了如蛇一般的嘶嘶声。"},
-{"op":"replace","path":"/glitchDescription","value":"好玩。这滑门的噪音让我的芯片爆出火花。"},
-{"op":"replace","path":"/humanDescription","value":"这些滑门发出了舒心的噪音。"},
-{"op":"replace","path":"/hylotlDescription","value":"这门看起来没有锁和门把手。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "4号猿人门：更薄，更快，更贵。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "轻型滑动门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如同大多的猿人产物一样，这些门是为了隐藏秘密而造的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如此新颖的建筑。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "猿人的门发出了蛇一般的嘶嘶声。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好玩。这滑动门的噪音让我的回路爆出了火花。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些滑门发出了舒心的噪音。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这门看起来没有锁和门把手。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "了不起的门。造价应该不便宜。"}]

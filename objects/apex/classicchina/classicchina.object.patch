@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这是你不会在房间里打球额原因。"},
-{"op":"replace","path":"/shortdescription","value":"古典陶瓷陈列柜"},
-{"op":"replace","path":"/apexDescription","value":"这些瓷器描绘了在DNA腐朽之前的猿人。所以我们很多人都希冀回到曾今那个时代。"},
-{"op":"replace","path":"/avianDescription","value":"这上面的猿人没有毛发。我感觉它们应该是猿人。"},
-{"op":"replace","path":"/floranDescription","value":"愚蠢的猿人，你们为什么要锁着盘子，它们又不会跑。"},
-{"op":"replace","path":"/glitchDescription","value":"推理。盘子上画的猿人看起来进化得更高等。为什么这些图片会在旧盘子上有？"},
-{"op":"replace","path":"/humanDescription","value":"这些瓷器上覆满着没有毛的猿人的图片。"},
-{"op":"replace","path":"/hylotlDescription","value":"从这些片段上判断，猿人曾今是个幽美的种族。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这就是你不会在房间里打球的原因。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典陶瓷陈列柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些瓷器描绘了在DNA腐朽之前的猿人。所以我们很多人都渴望回到曾今那个时代。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这上面的猿人没有毛发。我确信它们是猿人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "撒撒撒币猿人，锁锁锁什么盘子，它它它们又不会跑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不解。盘子上画的猿人看起来进化得更高等。但为什么这些图片会出现在旧盘子上？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些瓷器上画着没有毛的猿人的图片。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "从这些盘子上的图片判断，猿人曾今是个漂亮的种族。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "里面陈列着一堆碟子。但不知道该怎么拿出来。"}]

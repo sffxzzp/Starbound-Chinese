@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个华丽的喷泉 - 看起来大多的水都会被浪费掉。"},
-{"op":"replace","path":"/shortdescription","value":"喷泉"},
-{"op":"replace","path":"/apexDescription","value":"从这喷泉里喷出的水尝起来…比大多输送进猿人家庭的水要干净。"},
-{"op":"replace","path":"/avianDescription","value":"羽毛在上，至少，可以洗个澡！"},
-{"op":"replace","path":"/floranDescription","value":"叶族人喜欢水，水是成长和生命的赋予者。"},
-{"op":"replace","path":"/glitchDescription","value":"探究。扫描表明这些水是完全纯净的水。"},
-{"op":"replace","path":"/humanDescription","value":"这些水是从哪里来的？它看起来并不是被回收起来的。"},
-{"op":"replace","path":"/hylotlDescription","value":"这里的水并不被收集或者再利用，这样的浪费是巨大的。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个华丽的喷泉 - 看起来会浪费很多水。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "喷泉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "从这喷泉里喷出的水尝起来…比大多输送进猿人家庭的水要干净。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "天拉鲁！终于，可以洗澡啦！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人爱水。水水水是生命之源。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。扫描显示，这水100%不含添加剂。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些水是从哪里来的？它看起来并不是被回收起来的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这里的水并没有被收集或者再利用，这样真的是巨大的浪费。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "累了停下小憩喝杯小酒的好地方。"}]

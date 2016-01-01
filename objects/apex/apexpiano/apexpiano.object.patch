@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这里有几张乐谱。"},
-{"op":"replace","path":"/shortdescription","value":"普通钢琴"},
-{"op":"replace","path":"/apexDescription","value":"所有的猿人必须会弹。但是只能演奏被允许的曲子。每架钢琴里都藏了一个麦克风。"},
-{"op":"replace","path":"/avianDescription","value":"这些按键创造出了美妙的声音。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人通过皮肤和骨头来做音乐，是打鼓的大师。而不通过愚昧的乐器。"},
-{"op":"replace","path":"/glitchDescription","value":"发现。这些机器背后的数学相比起来真是简单。"},
-{"op":"replace","path":"/humanDescription","value":"一架钢琴…我可以弹奏《筷子》。"},
-{"op":"replace","path":"/hylotlDescription","value":"啊音乐。这种力量甚至可以点亮我们最阴暗时期。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这儿有几张乐谱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标配钢琴"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "所有的猿人必须会弹。但是只能演奏被允许的曲子。每架钢琴里都暗藏一个麦克风。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些按键能创造出悦耳的声音。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用皮和骨头做音乐，是打鼓高手。叶族人不用破破破烂的音乐机器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "留心。这些机器背后的运算机制相对简单。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一架钢琴…我可以弹奏《筷子》。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊音乐…这种力量甚至可以点亮我们最阴暗的时光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不会拒绝舒缓的钢琴旋律。不过糟透了没人来给我弹。"}]

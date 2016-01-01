@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"我觉得大猿人正在看…"},
-{"op":"replace","path":"/shortdescription","value":"大猿人高清电视"},
-{"op":"replace","path":"/apexDescription","value":"这就是大猿人吗？我从没碰到过真正见过他的人…"},
-{"op":"replace","path":"/avianDescription","value":"这真是只大猴子。"},
-{"op":"replace","path":"/floranDescription","value":"丰富的晚餐菜单。"},
-{"op":"replace","path":"/glitchDescription","value":"谨慎。它会看到我们嘛？"},
-{"op":"replace","path":"/humanDescription","value":"这就是我一直听说的那个臭名昭著的大猿人吗？"},
-{"op":"replace","path":"/hylotlDescription","value":"这就是创立猿人政体的暴君么？"}]
+[{ "op" : "replace", "path" : "/description", "value" : "我觉得大猿人正在看着我…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人高清电视"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这就是大猿人吗？我遇到的人里没一个真正见过他。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这猴子块头挺大。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好大大大大的电视。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。他能看到我们吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这就是我一直听说的臭名昭著的大猿人吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这就是掌握着猿人政权的那个暴君么？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个大型的老旧显示屏。上面除了一只老猿什么也没有。"}]

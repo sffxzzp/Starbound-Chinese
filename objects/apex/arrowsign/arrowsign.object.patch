@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"我应该要向这边走吧。"},
-{"op":"replace","path":"/shortdescription","value":"箭头标志"},
-{"op":"replace","path":"/apexDescription","value":"科学发展部的箭头最好不要跟着走。"},
-{"op":"replace","path":"/avianDescription","value":"一个箭头。不知道它会带去哪。"},
-{"op":"replace","path":"/floranDescription","value":"箭头是不能命令叶族的，叶族人想去哪就去哪。"},
-{"op":"replace","path":"/glitchDescription","value":"沉思。是正确的方向的概率0.25。"},
-{"op":"replace","path":"/humanDescription","value":"它不告诉我这是去哪的有什么意义？"},
-{"op":"replace","path":"/hylotlDescription","value":"有时，想要前进就必须先退后·一步。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "我大概应该走那边。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "箭头标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "科学发展部的箭头最好不要跟着走。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个箭头。不知道它会指引我去哪儿。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "箭头算个球！叶族人想想想去哪儿就去哪儿！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。是正确方向的概率为25%。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它不告诉我这是去哪儿的又如何？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有时候，欲进则须先退。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "无意义的箭头。"}]

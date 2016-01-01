@@ -1,2 +1,9 @@
-[{"op":"replace","path":"/description","value":"一截发光的石笋。"},
-{"op":"replace","path":"/shortdescription","value":"钟乳石灯"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个发光的钟乳石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钟乳石灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一个原始的光源。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "出于安全考虑，我会避免站在它的正下方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一盏看起来很愤愤愤怒的灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。他们是如何把灯装进那个钟乳石里去的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望它不会掉下来砸在我的脑袋上。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它看上去很不安全，不过确实也提供了光源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个发光的钟乳石。"}]

@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张粘粘的沥青椅。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一张粘粘的沥青椅子。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "沥青椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来像个普通的椅子，不过不知怎么的，我就是没法相信它。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来就是张普通的椅子，不过不知怎么的，我就是没法对其放下戒心。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "坐在这样的椅子上肯定会让你失去一些尾羽。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人最好坐坐坐在地上而不是坐在这粘粘粘乎乎的椅子上。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "不满意。一个不舒适地坐着的感觉并不能让人感到放松。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个多么差强人意的座位。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "任何不想让你离开的椅子都只会拖你后腿。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不满。不舒适的座椅体验并不能让人放松。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多么差强人意的座位啊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "任何不想让你离开的椅子都只会拖你后腿。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张椅子有一个粘粘的表面。这绝对是错的。"}]

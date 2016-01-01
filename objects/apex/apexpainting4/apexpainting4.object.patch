@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"不要低估了猿人对香蕉的热爱。"},
-{"op":"replace","path":"/shortdescription","value":"普通画作"},
-{"op":"replace","path":"/apexDescription","value":"嗯~香蕉。"},
-{"op":"replace","path":"/avianDescription","value":"一个黄色水果。"},
-{"op":"replace","path":"/floranDescription","value":"恶心的猿人食物。"},
-{"op":"replace","path":"/glitchDescription","value":"识别。这看起来像是个水果。"},
-{"op":"replace","path":"/humanDescription","value":"一个香蕉…好吧。"},
-{"op":"replace","path":"/hylotlDescription","value":"猿人们一定很在意他们的黄色水果。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "不要低估了猿人对香蕉的热爱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标配画作"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "嗯~香蕉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个黄色水果。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "恶恶恶心的猿人食物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "留心。这看起来像是个水果。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一根香蕉…好吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "猿人们一定很在意他们的黄色水果。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个水果。外形像一把黄色的枪。"}]

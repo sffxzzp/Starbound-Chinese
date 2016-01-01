@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"这舱体是空的。"},
-{"op":"replace","path":"/shortdescription","value":"空猿人生命维持舱"},
-{"op":"replace","path":"/apexDescription","value":"谢天谢地这舱子是空的。这就是科技发展部尝试把我们变回自然状态的方法么？"},
-{"op":"replace","path":"/avianDescription","value":"这是黑暗的科学…"},
-{"op":"replace","path":"/floranDescription","value":"这种机器是与违逆自然的。"},
-{"op":"replace","path":"/glitchDescription","value":"实验。这机器看起来是在尝试改变猿人的DNA。"},
-{"op":"replace","path":"/humanDescription","value":"这看起来并不好。我甚至感觉有什么东西会突然跳出来。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个机器在以一种无法长久维持的方法尝试改变DNA。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "舱体是空的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空的猿人生命维持舱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "谢天谢地舱体是空的。这就是科技发展部尝试把我们变回原始状态的方法么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这绝对是黑科技…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这机器不自然。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "专注。这机器像是用来尝试改变猿人DNA的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来不太妙。我总感觉有什么东西会突然跳出来。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个机器在以一种无法长久维持的方法尝试改变DNA。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我才不会靠近那玩意儿。"}]

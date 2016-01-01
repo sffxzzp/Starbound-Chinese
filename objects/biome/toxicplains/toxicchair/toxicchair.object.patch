@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一张用藤蔓编制的椅子，那上面的刺看起来有毒。"},
-{"op":"replace","path":"/shortdescription","value":"毒素椅子"},
-{"op":"replace","path":"/apexDescription","value":"这椅子给我一种不舒服的湿软感"},
-{"op":"replace","path":"/avianDescription","value":"当坐上这个椅子我的羽毛感到了刺痛"},
-{"op":"replace","path":"/floranDescription","value":"椅子让我想起了我族的故乡。叶族就绪。"},
-{"op":"replace","path":"/glitchDescription","value":"检测……这椅子上的刺有毒，毒素从至少43中物种中提取。"},
-{"op":"replace","path":"/humanDescription","value":"这是我们对椅子的另一种称呼--哦，这上面有刺。"},
-{"op":"replace","path":"/hylotlDescription","value":"这是对自然多么奇妙的改造. 额，当然上面有刺"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一张用藤蔓编制的椅子。那些刺看起来有毒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒素椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这椅子给我一种不舒服的湿软感。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "坐在这上面弄得我的羽毛好痛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这椅子让叶族人回想起了故乡。叶族人坐坐坐下了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担忧。这椅子上的刺有至少43种不同的毒素。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我们是给椅子起的别称是叫什么来着--靠。好多刺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "好神奇的对自然的处理。顺带一提，都是刺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张看上去有很多刺的椅子。坦白说，我宁愿站着。"}]

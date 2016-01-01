@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个版图桌游，上面有很多卡纸城堡和棋子。"},
-{"op":"replace","path":"/shortdescription","value":"幻想版图桌游"},
-{"op":"replace","path":"/apexDescription","value":"在大猿人的管理下，很多如这个一样有创意的棋盘游戏被禁了。"},
-{"op":"replace","path":"/avianDescription","value":"一个蓝色药剂？"},
-{"op":"replace","path":"/floranDescription","value":"好难闻。"},
-{"op":"replace","path":"/glitchDescription","value":"迷惑。这个复杂的版图桌游看起来用了个40面的骰子。"},
-{"op":"replace","path":"/humanDescription","value":"闻起来…这东西不能入口。"},
-{"op":"replace","path":"/hylotlDescription","value":"在我小时候我曾今玩过这些游戏…我怀念伊芙极了。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一款桌游，上面有卡纸做的城堡和很多棋子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幻想版图桌游"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在大猿人的管理下，很多如这个一样有创意的棋盘游戏被禁了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用来做游戏的微型城堡。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "即使是叶族人偶尔也会喜喜喜欢玩这样的撒币游戏。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。这个复杂的桌游看起来用了个40面的骰子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一起愉快地玩耍吧！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我年轻一点的时候玩过类似的游戏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我要想办法赢下来，然后整个城堡都是我的。"}]

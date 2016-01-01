@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个赏心悦目的吊篮。别吊在上面。"},
-{"op":"replace","path":"/shortdescription","value":"吊篮"},
-{"op":"replace","path":"/apexDescription","value":"一个可爱的吊篮。"},
-{"op":"replace","path":"/avianDescription","value":"多令人愉悦的组合。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人吊在花篮上。飞出去，撞穿玻璃。好玩！"},
-{"op":"replace","path":"/glitchDescription","value":"钦佩。一个培养得很漂亮的吊篮。"},
-{"op":"replace","path":"/humanDescription","value":"曾今有过一个掉到我的头上。真走运。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个基础，足够的花草悬挂展示。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个赏心悦目的吊篮。别吊在上面荡秋千！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "吊篮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可爱的吊篮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这花朵布置得多么令人愉♂悦。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用花篮荡荡荡秋千，飞出去，撞坏玻璃。有意思！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "钦佩。一个种得很漂亮的吊篮。."},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "曾有过一个这样的吊篮砸到我的头上。真走运。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个吊篮充分展现了花绘园艺。但我还见过用海藻做的更出彩的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个吊篮。没有比这更能让人感受到家的温馨的了。"}]

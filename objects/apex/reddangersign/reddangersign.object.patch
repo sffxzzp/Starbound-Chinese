@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"上面说“危险！”不能更直白的一个信号。"},
-{"op":"replace","path":"/shortdescription","value":"红色危险标志"},
-{"op":"replace","path":"/apexDescription","value":"猿人的生活很少没有危险。"},
-{"op":"replace","path":"/avianDescription","value":"猿人都会把危险标记得这么明显么？"},
-{"op":"replace","path":"/floranDescription","value":"叶族人很危险。"},
-{"op":"replace","path":"/glitchDescription","value":"讽刺。显然没有什么好担心的。"},
-{"op":"replace","path":"/humanDescription","value":"小危险伤不到任何人。"},
-{"op":"replace","path":"/hylotlDescription","value":"我们要小心地过去。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "上面说“危险！”说的不能更直白的一个标志。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "红色危险标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人的生活充满了危险。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "猿人为何这么清楚地标示危险所在？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "危险？叶叶叶族人就是危险！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讽刺。显然没有什么好担心的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "小危险伤不到任何人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "打枪的不要，悄悄地进村！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "危险对我来说是家常便饭。"}]

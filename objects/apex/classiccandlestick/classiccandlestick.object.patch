@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个有三个分支的金烛台。上面的蜡看起来根本不会融化。"},
-{"op":"replace","path":"/shortdescription","value":"古典烛台"},
-{"op":"replace","path":"/apexDescription","value":"底座看起来是纯金，但是火焰是电子的。"},
-{"op":"replace","path":"/avianDescription","value":"腊看起来并不会融化，火焰也不烫。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人害怕火焰。但是这个火焰并不烫。"},
-{"op":"replace","path":"/glitchDescription","value":"反思。这火焰只是忽明忽暗的灯泡。这不会让蜡烛变得有点假么？"},
-{"op":"replace","path":"/humanDescription","value":"我觉得这些蜡烛只是闪烁的灯泡。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个科技与工艺的结合。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个有三个分支的金烛台。上面的蜡看起来根本不会融化。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典烛台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "底座看起来是纯金，但是火焰是电子的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "腊看起来并不会融化，火焰也不烫。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人害害害怕火焰。但是这这这火焰并并并不烫。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。这火焰只是忽明忽暗的灯泡。这不会让蜡烛变得有点假么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我觉得这些蜡烛只是些闪烁的灯泡。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "科技与工艺的结合。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "奇特的蜡烛，火焰居然是假的。"}]

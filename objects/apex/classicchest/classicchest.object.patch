@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "装满优雅宝藏的漂亮箱子！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "经典的箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "箱子！里面是什么？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个木制的箱子。里面有什么有用的东西么？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "好赞的箱子！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。没有锁。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我感觉像是一个拥有一箱宝物的海盗。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "箱子总是能令我感到兴奋。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "上乘的箱子里装着上乘的宝物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个箱子！里面有什么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个镀金的箱子。里面有什么有用的么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "赞赞赞赞的箱子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "留心。箱子没锁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我感觉自己像是一个拥有一箱宝物的海盗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "箱子神马的总能让人为之虎躯一震。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个看上去真心不错的宝箱。"}]

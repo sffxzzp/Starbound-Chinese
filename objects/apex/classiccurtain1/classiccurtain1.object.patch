@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"最优等的窗帘。"},
-{"op":"replace","path":"/shortdescription","value":"古典窗帘"},
-{"op":"replace","path":"/apexDescription","value":"奢侈、沉重的窗帘。"},
-{"op":"replace","path":"/avianDescription","value":"摸起来很软。"},
-{"op":"replace","path":"/floranDescription","value":"猿人用丰富的丝绒做窗帘，叶族人用皮肤来做窗帘。"},
-{"op":"replace","path":"/glitchDescription","value":"触觉。少数会能人感到高兴去关爱的物件。"},
-{"op":"replace","path":"/humanDescription","value":"这些窗帘应属于一栋宅邸。"},
-{"op":"replace","path":"/hylotlDescription","value":"这些窗帘几乎黏在了鲛人的皮肤上。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "最上乘的窗帘。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古典窗帘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "昂贵、厚重的窗帘。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "摸起来很软。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "猿人做窗帘用厚厚厚厚的鹅绒。叶叶叶族人做窗帘用兽兽兽皮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。很少有东西抚摸上去像这个一样令人心情舒畅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些窗帘应属于一栋宅邸。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些窗帘几乎黏在了鲛人的皮肤上。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些窗帘看起来更像是用来炫富的。"}]

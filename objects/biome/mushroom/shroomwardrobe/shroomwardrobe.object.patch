@@ -1,8 +1,8 @@
-[{"op":"replace","path":"/description","value":"一个蘑菇制成的衣柜。"},
-{"op":"replace","path":"/shortdescription","value":"蘑菇衣柜"},
-{"op":"replace","path":"/apexDescription","value":"他们用哪种摸过做的这个衣柜？"},
-{"op":"replace","path":"/avianDescription","value":"我的衣服会有蘑菇味的。"},
-{"op":"replace","path":"/floranDescription","value":"叶族想把东西放入蘑菇里。"},
-{"op":"replace","path":"/glitchDescription","value":"……分析…… 为了制造这个衣柜他们用了很多的蘑菇。"},
-{"op":"replace","path":"/humanDescription","value":"什么样的人才会把衣服放到蘑菇里？"},
-{"op":"replace","path":"/hylotlDescription","value":"这是长得像衣柜的蘑菇，还是衣柜看上去想一个蘑菇？"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个蘑菇制成的衣柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇衣柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "他们用哪种蘑菇做的这个衣柜？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我把东西存进这个衣柜里，它们会不会闻起来像蘑菇一样？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想把东西放进进进蘑菇里。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "什么样的人才会把衣服放到蘑菇里？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是一个长得像衣柜的蘑菇，还是一个像蘑菇的衣柜？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它是个看起来像老蘑菇的衣柜！"}]

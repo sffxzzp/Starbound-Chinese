@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个由折射玻璃做的极简风格的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "棱镜床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我很惊讶于这种精炼过的材料是多么的光滑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "里面的七色光真是棒极了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人迷惑了。光是是是不是被困在里面了？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊呆。我的目光被床里面起舞的光抓住了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "是的这看起来真酷，可是它舒服吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这玻璃真是透明，看起来就像一池静水。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就像雨后晴朗的天空中的彩虹。"}]

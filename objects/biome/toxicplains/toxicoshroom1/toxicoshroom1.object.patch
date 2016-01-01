@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "有毒但会发光的蘑菇。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "闪光菇"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这被侵蚀的蘑菇看起来令人作呕。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这小蘑菇的光被毒雾霾污染过了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "有毒的光…光泡泡预示着疾…疾病…病。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "真遗憾。工业作业时常会对自然生命产生不幸的结果。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "也许这是可怕的变异，但这光还是出奇的好看的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "小蘑菇的光被毒物玷污了。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个带毒的发光蘑菇。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒素闪光菇"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是个有着柔和亮光的蘑菇。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个小蘑菇兼任了一盏小灯的作用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这光亮看看看起来像是一个奇奇奇怪的泡泡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一种发光菌类。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个发光植物异常的美丽。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个蘑菇像是被包在柔软毛毯中那样发着美丽的光芒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个发光植物。它提供的光是大家乐于见到的。"}]

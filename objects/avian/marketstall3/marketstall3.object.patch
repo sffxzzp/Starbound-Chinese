@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "各种尖尖的东西。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族武器摊"},
+[{ "op" : "replace", "path" : "/description", "value" : "各种尖锐的东西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族武器摊位"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这武器太粗糙了。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者战士很少见。这些武器做工粗糙。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "粗糙的鸟人武武武器。可以像树枝一样折折折断。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "说明。这些武器需要打磨。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个小摊上的武器看起来只能挥一下。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "通过这个小摊来看。这些可怜的人几乎无法保护自己。"}]
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者几乎没有战士。这些武器品质低劣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "粗糙的鸟人武器。像树枝那样易折折折。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这些武器需要打磨。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个小摊上的武器看起来一挥就碎。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "从这个小摊来看。这里的可怜人几乎无法保护自己。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些武器那是令人头疼的差劲。"}]

@@ -1,0 +1,13 @@
+[{"op": "replace","path": "/parameters/target/example/name","value": "敲诈者女士"},
+{"op": "replace","path": "/text/first/floran","value": ["好的，首先我们需需需要些东西。叶族人正正正好知道从谁那儿可以得到。^green;找到^orange;<target>^green;，让他把他的^orange;<item>^green;交出来^white;，不然叶族人有一一一百种方法让他活不下去！","第一步，^green;我们需要获获获得^orange;<item>^white;。叶族人知知知道^orange;<target>^white;有一个。^green;去让他把东西交交交出来^white;,叶族人知道他是个软软软柿子，不不不会反抗的。"]},
+{"op": "replace","path": "/text/first/glitch","value": ["强硬。首先我需要你去^green;找到那个笨蛋^orange;<target>^green;，让他交出他的^orange;<item>^white;。你只要报上^orange;<questGiver>^white;的大名，他们是不会反抗的。","恼火。首先我们要收拾下^orange;<target>^white;这小子。我需要他的^orange;<item>^white;，但如果我亲自去向他要会把他屎都吓出来的。若果你能^green;代劳一下^white;，对双方都有好处。"]},
+{"op": "replace","path": "/text/first/default","value": ["首先我们需要找一个^orange;<item>^white;。我恰巧知道^orange;<target>^white;有一个。你能^green;帮我直接帮我要过来吗^white;？他知道自己几斤几两，不会跟我对着干的。","我们需要弄到一个^orange;<item>^white;。幸好，住在附近的^orange;<target>^green;应该有一个。^white;而且他们知道这儿的头头是谁，所以^green;你代我去要他们会乖乖交给你的。"]},
+{"op": "replace","path": "/text/default/floran","value": ["接下来我们需要使用点蛮蛮蛮力。叶族人知知知道^orange;<target>^white;那个缩头乌龟躲在哪里。^green;去告告告诉他他应该…嗯…主动献献献上他的^orange;<item>^green;！","我们接下来需需需要^orange;<item>^white;。^green;试试从^orange;<target>^green;那里讹讹讹一个来。^white;他很胆胆胆小，叶族人叫他做什么他就做什么！"]},
+{"op": "replace","path": "/text/default/glitch","value": ["虚伪。接下来我们需要从^orange;<target>^white;那里要点东西。他欠我个人情，所以我直接问他要就行了。^green;告诉他^orange;<questGiver>^green;需要他的^orange;<item>。 ","敌意。现在我们可以找点乐子！去找^orange;<target>^white;，^green;逼他交出他的^orange;<item>^white;。这不是很难。你只要说是^orange;<questGiver>^white;派你去的就行。"]},
+{"op": "replace","path": "/text/default/default","value": ["我们需要去哪儿收集一个^orange;<item>^white;。我相信^orange;<target>^white;那儿有一个。他们正好欠我一个人情。你能^green;替我向他要来吗？","我们的计划必须要用到一个^orange;<item>^white;。我很确信^orange;<target>^white;手头上有一个。你为什么不去^green;问他要一个？^white;别担心他们不会反抗的…"]},
+{"op": "replace","path": "/completionText/first/floran","value": ["太棒了！叶族人就就就知道<target>不会抵抗的。这个<item>正正正是我们要的！","你拿到了！简简简单吧？叶族人本来还指望能看到<target>的脸！结果他吓得直接缩壳里去了！"]},
+{"op": "replace","path": "/completionText/first/glitch","value": ["讽刺。啊，我看到你拿到了<item>。我确信你费了不少劲才让<target>交出东西。你先暂时替我保管一下它好了。","逗乐。啊，你拿到了<target>的<item>。我可以想象当时他脸上的表情一定是极好的！"]},
+{"op": "replace","path": "/completionText/first/default","value": ["干得不错！很快我们就会用到这<item>的。","这<item>堪称完美！你干的不错！"]},
+{"op": "replace","path": "/completionText/default/floran","value": ["你拿拿拿到了？<target>没干干干上一架就把他的<item>交给叶族人真的是太太太好了！他还是识识识时务的！","看看看到了吧？有时候想得得得到一件东西最容易的办法就就就是向他人施加一点压压压力！"]},
+{"op": "replace","path": "/completionText/default/glitch","value": ["怀疑。这确实是<target>的<item>？他就这样给你了？或许没什么大不了的…不过现在它是你的了！","赞赏。这正是我们所需的<item>！我猜你没有遇到太多麻烦？现在这是你的了！"]},
+{"op": "replace","path": "/completionText/default/default","value": ["完美！我早知道<target>连个屁都不敢放！","干得不错！我就知道我们会用到<target>！"]}]

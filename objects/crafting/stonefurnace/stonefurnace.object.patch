@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "对合成很有用。这能让我把基本的矿物熔炼成锭。"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"石熔炉"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"老式熔炼技术。"},
+{ "op" : "replace", "path" : "/description", "value" : "对合成很有用。这能让我把基本的矿物熔炼成锭。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;石熔炉^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个石炉。我能在这里熔炼东西。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个用来合成的完美的熔炉。"},

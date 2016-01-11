@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一尊极具震撼力的独角兽雕塑，小心它的角！"},
-{"op":"replace","path":"/shortdescription","value":"彩虹独角兽"},
-{"op":"replace","path":"/apexDescription","value":"这尊宏伟的野兽使我窒息。"},
-{"op":"replace","path":"/avianDescription","value":"一只有珍珠般光泽的角的美丽的白马。"},
-{"op":"replace","path":"/floranDescription","value":"叶族不会捅这只马。"},
-{"op":"replace","path":"/glitchDescription","value":"（钦佩）。独角兽雕像。 我更喜欢看到一只活的独角兽。"},
-{"op":"replace","path":"/humanDescription","value":"独角兽雕像。我想要一只宠物独角兽。"},
-{"op":"replace","path":"/hylotlDescription","value":"这只极具震撼力的独角兽让我想起海底能看到的独角鲸。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一尊极具震撼力的独角兽雕塑，小心它的角！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹独角兽雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这尊宏伟的野兽令我窒息。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一只有珍珠般光泽的角的美丽的白马。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "就算是叶族人也不会捅捅捅这匹马。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "钦佩。独角兽雕像。我更喜欢看到一只活的独角兽。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "独角兽雕像。我一直想要一只独角兽做宠物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这只极具震撼力的独角兽让我想起海底能看到的独角鲸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "包括角在内，这是匹漂亮的马。"}]

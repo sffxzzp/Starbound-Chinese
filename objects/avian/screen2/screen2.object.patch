@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我甚至不打算告诉你这玩应看起来像什么。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "医疗屏幕"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "某种长尾生物？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人正在研究其他物种的复制。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "零零零食还没长熟。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "泄气。我不理解这屏幕上显示的东西。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "为什么翼族人要研究这些东西？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来像一个鲛人儿童。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这是一艘处于星球轨道上的太空飞船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船显示屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一艘大型在轨飞船。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人曾在追踪记录他们在宇宙中的行动。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一艘大船船船和一颗大星球。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这看起来是处在一颗相当大型星球的轨道上的一艘飞船。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一艘飞船围着一颗星球转啊转。盯着他看让我觉得头晕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来是一艘令人印象深刻的飞船正在进入星球轨道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一艘太空飞船在绕着星球转。"}]

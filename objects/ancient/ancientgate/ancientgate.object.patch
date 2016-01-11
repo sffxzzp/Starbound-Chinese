@@ -1,9 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个神秘的古代星门"},
-{"op":"replace","path":"/shortdescription","value":"古代星门"},
-{"op":"replace","path":"/apexDescription","value":"一个通往未知地方的神秘星门"},
-{"op":"replace","path":"/avianDescription","value":"一个起源神秘的星门"},
-{"op":"replace","path":"/floranDescription","value":"叶族人想知道是什么奇奇怪的生物制作的门"},
-{"op":"replace","path":"/glitchDescription","value":"混乱! 我无法追踪这个星门的起源."},
-{"op":"replace","path":"/humanDescription","value":"一个奇怪而神秘的，有着谜一样雕刻的星门"},
-{"op":"replace","path":"/hylotlDescription","value":"看起来就像是一个要加入工艺和艺术制作的鲛人宝宝"},
-{"op":"replace","path":"/novakidDescription","value":"这个奇怪的门开始祈求我穿过它"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一扇神秘的古代星门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代星门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个联通了什么地方的神秘星门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇有着神秘起源的星门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人很好奇是什么奇奇奇怪的生物制造了这星门."},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。我无法追寻这星门的起源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇奇怪而又奇异的，笼罩在神秘中的星门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一座不朽的建筑，它耸立在我头顶。为什么不看看它导向哪里呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇星门，就像是它在乞求我走进去一样。"}]

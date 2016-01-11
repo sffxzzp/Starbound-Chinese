@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是翼族人... 还是一只小鸡？"},
+[{ "op" : "replace", "path" : "/description", "value" : "这是一位翼族人…还是一只鸡？"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "风向标"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我认为这是用来指示风向的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人一直密切关注着风向。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想它指示了风向。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人一直在密切地关注着风。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "风向小鸡！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个用来测量风向的土制设备。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个用来测定风向的原始装置。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是一个风向标！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人用类似的方法测量水流方向。"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人用类似的方法测定水流方向。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "今天的风儿并不怎么喧嚣。"}]

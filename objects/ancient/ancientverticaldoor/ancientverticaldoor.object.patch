@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个古老的垂直舱门。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古舱门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个古老的垂直舱门。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个古老的舱门。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "门向上，向下…"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这舱门很古老。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个当水平不能满足你时的合适舱门。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个古老的舱口，本身就是一个文物。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个古代的，能垂直通行的舱门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代舱门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个古代的，能垂直通行的舱门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个古代的舱门."},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这看看看起来像是一扇嵌在地面中的门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "机警。这舱门看起来很古老。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个舱门，适用于你不仅仅满足于水平行走的时候。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个古代的舱门，其本身就是一件文物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个嵌在地面中的舱门，看起来非常古老。"}]

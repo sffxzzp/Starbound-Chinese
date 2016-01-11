@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "翼族已经开始尝试着把他们的人类同伴一起带到来世了。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "人类石棺"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个石棺。人形的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "最早的一批翼族人在宇宙中与人类结下了深厚的友谊。这是一次把人类也带到天空的尝试。所以在来世他们也可能得到翅膀。"},
+[{ "op" : "replace", "path" : "/description", "value" : "众所周知、翼族尝试着把他们的人类同伴一起带到来世。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人类木乃伊石棺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木乃伊石棺。它是人类形状的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "最早的一批探索星空的翼族人与人类结下了深厚的友谊。这是一个把人类也带去神国的尝试，以便他们也能获得翅膀。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "人类的气气气味儿。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "评价。这石棺里是个人类。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这木乃伊石棺里装着一个人类。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是人类？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这不是翼族石棺。"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这不是装着翼族人的木乃伊石棺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个人类形状的木乃伊石棺。里面是人类的尸体吗？"}]

@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "小型空摊位。看起来有些孤单。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个小型空摊位。它看起来有些孤单。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "小型翼族空摊位"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个空摊位"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个摊位是空的，折翼者难以找到货源。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个空摊位。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个摊位是空的。折翼者难以找到货源。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "空摊摊摊位。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "失望。这个摊位是空的。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "空摊位总是让人感到伤感。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个摊位需要进货。"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个摊位需要进货。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个空摊位。这里可没什么好买的。"}]

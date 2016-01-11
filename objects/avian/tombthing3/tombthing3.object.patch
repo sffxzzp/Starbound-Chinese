@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个打开的翼族棺材。有很浓烈的气味。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个已被打开的翼族棺材。有很浓烈的气味。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "开启的翼族棺材"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个没有装饰的棺材。还有一具尸体"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这坟墓是为那些买不起大理石棺的人准备的。这个已经被打开了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人认为死者应应应该变成肥料。可可可能死者也会同意的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "博学。电子人收集尸体作为备用部件。同样的事情可能在这里也会发生。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "在一个令人沮丧的地方长眠。看起来棺材的主人也是这样认为的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "也许里面的尸体获得了更好的安息之地。"}]
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个没有装饰的棺材。也没有尸体。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个为那些买不起木乃伊石棺的人所准备的棺材。这个已经被打开了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人认为死者应应应该变会肥料。也也也许死者也是这样认为的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。电子人将尸体回收用作备用零件。而这里可能发生了同样的事。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个令人沮丧的长眠之地。看起来棺材的主人也是这样觉得的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "也许里面的尸体找得了更体面的安息之地。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它是空的。尸体去哪里了？"}]

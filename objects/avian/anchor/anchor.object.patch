@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个沉重的金属锚。液。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "锚"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一块很重的铁块，也许是锚。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族飞船上的锚。具有讽刺意味的是，许多折翼者在云端的飞船上讨生活。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个沉重的金属船锚。出航劫掠啦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船锚"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个很重的铁块，也许是船锚。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族飞船上的锚。具有讽刺意味的是，许多不能飞行的折翼者一生都在云端之上的飞船中生活着。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "铁钩，很沉。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "说明。电子人的大帆船上用这样的锚。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个巨大的锚。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊，一个锚，我曾经在鲛人的社会中听过这些东西的传闻。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。电子人把这种船锚用在他们的大帆船上。那么它为何会在这里呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个巨大的船锚。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊，一个船锚，我曾听过这些东西砸碎鲛人建筑的传闻。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是个看起来就很重的大个金属块。"}]

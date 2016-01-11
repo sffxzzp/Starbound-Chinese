@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "旧系统的数据看起来过期了。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "数据屏幕"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这些数据好像是系统诊断。我无法理解。"},
+[{ "op" : "replace", "path" : "/description", "value" : "看起来过时了的旧系统读数。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "数据显示屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这好像是系统诊断。我无法看懂。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这个屏幕描述了附近水晶的状态。只有观星者才能看懂。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人的黑科技。叶族人不懂。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人的科技。叶族人不懂。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。我无法与这台机器连接。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来是个很复杂的东西。也许上面说的是翼族人的科技。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人无法理解这些数据。它们似乎是系统统计数据。"}]
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来是个很复杂的东西。也许上面显示着是翼族科技产物的状态。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人无法解读这些数据。它们似乎是系统统计信息。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我完全无法理解这些信息。"}]

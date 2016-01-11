@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个桌子有手臂！这样的精度能让我生产一些极其先进的东西！"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"机械合成台"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"高科技合成！"},
+{ "op" : "replace", "path" : "/description", "value" : "这个桌子有手臂！这样的精度能让我生产一些极其先进的东西！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;机械合成台^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一台机械合成桌。这允许我合成更多东西"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个机械化的合成桌。."},

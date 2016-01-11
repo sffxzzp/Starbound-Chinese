@@ -1,2 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个让沉重巨石坠落到毫无戒心入侵者头上的陷阱。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族巨石陷阱"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个将沉重巨石砸向那些无戒心的入侵者的陷阱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族落石陷阱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果我对行动时机的计算够准确的话，我就能避开这些落石。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "最好算准自己的行动时机，我可不想被巨石砸到。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "沉重的石石石块会从这个洞里掉下来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。谁会把陷阱弄得这般容易掌握落石时机啊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "巨石会从那个洞里滚出来。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "只要能算准时机行动，就能轻松避开这种落石陷阱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "滚动的巨石！"}]

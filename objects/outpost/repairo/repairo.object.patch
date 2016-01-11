@@ -1,2 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是罗布维修中心 ―― 一个负责修理遗失或损坏载具的机械商人。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "罗布维修中心"}]
+[{ "op" : "replace", "path" : "/subtitle", "value" : "载具维修"},
+{ "op" : "replace", "path" : "/description", "value" : "这是罗布维修中心 ―― 一个负责修理遗失或损坏载具的机械商人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "罗布维修中心"},
+{ "op" : "replace", "path" : "/chatOptions", "value" : ["需要修理？维修技工就在这 - 只要几个汽车芯片就能再次搭坐！","忘记了你的悬浮摩托停了在哪？从原料 - 汽车芯片来重组一台吧！","只要少量汽车芯片，我们就可以将那些难看的划痕凹痕瞬间磨走！"]}]

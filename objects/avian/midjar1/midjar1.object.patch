@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个有图案标记的破旧罐子。好像可以砸碎。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "旧罐子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有图案的罐子。不是很吸引人。我应该摧毁它。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这些罐子数量众多而且很廉价。我们应该砸碎它。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "易碎的罐子，很容容容易打打打碎。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "暴力。砸碎它。让它归于尘土。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这罐子快碎了。我可能会加快这一进程。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这罐子的装饰很粗糙，而且快要碎了。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个有图案标记的破旧壶。好像可以砸碎。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "旧壶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有图案的壶。不是很吸引人。我应该砸碎它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这壶不值钱又到处可见。我应该砸碎它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "易碎的壶，很容容容易打打打碎。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "暴力。砸碎它，让它归于尘土。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这壶快碎了。我可能也会去加快这一进程。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这壶的装饰很粗糙，而且快要碎了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个陈旧又无用的壶。我很确定如果我们砸碎它是不会有人为此伤心。"}]

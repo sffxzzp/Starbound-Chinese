@@ -1,5 +1,20 @@
-[{"op":"replace","path":"/title","value":"控制你自己"},
+[{"op":"replace","path":"/title","value":"汉化名单&按键控制"},
 {"op":"replace","path":"/contentPages","value":[
+
+"^green;首先感谢各位使用本组汉化。
+^white;下面是汉化名单(排名不分先后)：
+^orange;
+ajllhgdm    adore1993    Dead·探戈
+kavahave    MoonStrife    s48w2
+steven2222    mo756814085    xhe
+syjsxxjy    wst423    tlianfeng
+VirgilVS大昂    wty4321    wei6219047
+w专治广告    Stardust    zjjxs2009
+残笛暮雨    克拉诺克斯    烈火暴龙
+灵异爱好者S    闫尽    破碎痕心
+七个季节    碳烧烤鸭    我去_^black;天黑了^orange;
+小逗比975    贞佑志    真Leemoon^white;
+^red;按键控制^white;请翻下页。",
 
 "^orange;移动—WASD^white;
 跳跃—^green;[Space键]^white;

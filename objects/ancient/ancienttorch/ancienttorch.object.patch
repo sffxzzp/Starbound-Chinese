@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个古老的火把轻轻地颤动。"},
+[{ "op" : "replace", "path" : "/description", "value" : "这根古代火把温和地闪烁着。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "古代火把"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个古老的火把。奇怪的是它还亮着。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个古老的火把。什么力量能让它在这么长时间内发光？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一个很古老的仍在燃烧的火炬。危险。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个古老的火炬，它在很长很长的一段时间内一直燃烧着。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个古老的火炬。我不知道这已经点燃了多久。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个古老的火炬。它的年龄未知并且能源持久。"}]
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根古代火把，我很好奇它为何仍旧在发光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一根古代火把。是什么为这根古老的火把供能了这么长时间呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一根燃烧着的，非常古老的火把。很危险。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "机警。一根已经燃烧了很一段很长，以致于无法估计的时间的古老火把。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一根古代火把。我很好奇它已经持续发光多久了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一根古代火把。它的年龄和能源都是未解之谜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一根照亮了周围的古代火把。它已经持续发光多久了？"}]

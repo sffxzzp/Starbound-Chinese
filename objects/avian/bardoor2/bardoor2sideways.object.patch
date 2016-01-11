@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这种沉重的铁闸门砰的一声就关上了。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "横向铁闸门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来这种铁门是向下打开的"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人用这种门来保护他们神圣的陵墓。他们认为亵渎陵墓在来世会遭到报应。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "门很很很沉，锋利的金属钉做的门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。电子人造的铁闸门更大。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "在它关闭的时候，我很讨厌被关在里面。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "固体铁制，功能大于形式。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这扇沉重的铁闸门是侧向打开的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "卧式闸门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来这扇铁门是侧向打开的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人用这种门来保护他们神圣的陵墓。他们相信对陵墓的亵渎会夺走陵墓内死者的来生。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金属门很很很沉，金属条条条好硬硬硬。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "忧虑。这些锋利的金属条看起来很危险。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇沉重的金属门是横向放置的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "纯铁制的。它些许并不漂亮，但它挡住了那些不速之客。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一扇看起来很牢固的门。"}]

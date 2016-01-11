@@ -1,0 +1,13 @@
+[{"op": "replace","path": "/parameters/target/example/name","value": "友好的朋友"},
+{"op": "replace","path": "/text/first/floran","value": ["要开始，叶族人需要从<target>那儿拿一样东东东西，他应该不会介意的。^green;去问问^orange;<target> ^green;帮忙给叶族人做一个^orange;<item>。","叶族人知知知道<target>能做我们想要的东西。我们需要一个^orange;<item> ^white;而叶族人希望你去^green;弄一个，从^orange;<target>^green;那儿。"]},
+{"op": "replace","path": "/text/first/glitch","value": ["鬼鬼祟祟。^green;我需要你去见见^white;我的一位很好的朋友^orange;<target>^white;。他许诺为我做的^orange;<item>^white;应该已经可以取了。","孤独。我的朋友^orange;<target>^white;说过他会帮我做我需要的^orange;<item>^white;，但他一直没出现。^green;你能帮我问问他这件事么？"]},
+{"op": "replace","path": "/text/first/default","value": ["首先，我需要你帮我拿些东西。^orange;<target>^white;懂得做全星系最完美的^orange;<item>^white;，^green;去他那找他帮忙做一个。^white;到时候就知道为什么我们需要它了。","我首先需要的东西是一个^orange;<item>。<target>^white;很擅长做这个，所以我们得^green;去请他帮忙给我们特制^white;一个。"]},
+{"op": "replace","path": "/text/default/floran","value": ["叶族人需要你帮忙从^orange;<target>^white;那儿取些特特特别的东西。^green;你需要去问问有没有^orange;<item>。^white;他会为我们做的。","现在，叶族人需要帮忙去^green;拿个^orange;<item>。^white;叶族人很确定^orange;<target> ^green;有这么个东东东西。"]},
+{"op": "replace","path": "/text/default/glitch","value": ["希望。^green;如果你能和^orange;<target>谈谈^white;他会给你^orange;<item>^white;，他给我做的。","妒忌。^orange;<target>^white;比我更会做^orange;<item>s^white;。^green;请他帮我做一个。"]},
+{"op": "replace","path": "/text/default/default","value": ["接下来我需要一个^orange;<item>。<target>^white; 什么都会做，^green;问问他帮忙把这些东西装到一起。","下一步需要^orange;<target>^white;帮我们组装个^orange;<item>.^white;记得^green;提起我，<target>知道我多喜欢他做的东西。"]},
+{"op": "replace","path": "/completionText/last/floran","value": ["太好了！<target>是最棒的不是么？这个<item>在我的计划的下一步步步里非常有用。","你拿到了<item>！这这这真是我我我们的幸运日！"]},
+{"op": "replace","path": "/completionText/last/glitch","value": ["满意。你做得很好。尽管<target>对我很友好，但他不总是这么慷慨的。","着迷。很好，你拿到<item>了！那么现在我们需要把它用在我伟大的计划中。"]},
+{"op": "replace","path": "/completionText/last/default","value": ["好东西，这显然是出自<target>手上的。这个可以从列表上去掉了…","我从没见过造<item>能造得像<target>一样好的人。这对我接下来的事来说简直完美。"]},
+{"op": "replace","path": "/completionText/default/floran","value": ["漂亮，这这这个<item>会发挥作用的。","叶族人知道你能做到的。有了这这这个<item>我们就准备好了。"]},
+{"op": "replace","path": "/completionText/default/glitch","value": ["失望。噢，<item>的质量不如我想像中的好。我以为一定会很好呢。","试探。他真的为我做了这个？我真能拿着这个么？哇哦！"]},
+{"op": "replace","path": "/completionText/default/default","value": ["谢谢！<target>做的东西很好，我想不到哪里能找到旧的<item>。","没人能做得像<target>那么好！那需要考虑很多问题。谢谢你！"]}]

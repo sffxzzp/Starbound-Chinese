@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个设备可以将强大的矿石和合金做成高品质的装备。"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"复制机"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"将强大的矿石和合金做成高品质的装备！"},
+{ "op" : "replace", "path" : "/description", "value" : "这个设备可以将强大的矿石和合金做成高品质的装备。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;复制机^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个复制机，我能用这个制作高质量的装备。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我可以在这将矿石和合金变成好品质的装备。"},

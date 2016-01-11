@@ -1,2 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个旨在阻止入侵者的水晶陷阱。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族水晶陷阱"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族水晶陷阱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个水晶形成了一道致命的激光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我可不想被那道激光射中。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "水晶激光会伤伤伤害叶族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一块能产生致命激光的水晶！现在我了解全部的真相了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那道激光看起来很伤。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果我能记住这个水晶激光的模式，我就能相应地躲过它了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "最好小心点，这些激光能将我直接烤焦。"}]

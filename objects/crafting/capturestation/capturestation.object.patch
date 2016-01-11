@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "在这里制造你的捕捉仓。"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"生物捕捉站"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"为了与怪物做任何事！"},
+{ "op" : "replace", "path" : "/description", "value" : "在这里制造你的捕捉仓。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;生物捕捉站^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我能在这里制造捕捉仓。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这会允许我制造捕捉仓。"},

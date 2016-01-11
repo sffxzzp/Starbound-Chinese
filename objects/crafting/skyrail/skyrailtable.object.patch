@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "在这个工作台上制作你独特的空中轨道！"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"空轨制作台"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"建立你自己的缆车网络去旅行！"},
+{ "op" : "replace", "path" : "/description", "value" : "在这个工作台上制作你独特的空中轨道！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;空轨制作台^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我可以在这工作站制作令人印象深刻的空轨部件。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这是用来制作令人钦佩的那些空轨部件。"},

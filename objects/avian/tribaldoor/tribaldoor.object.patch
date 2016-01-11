@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一扇雕刻精美的翼族门。."},
+[{ "op" : "replace", "path" : "/description", "value" : "一扇精美雕刻的翼族门。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "翼族门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "在圆脸生物的上面是一只小鸟。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "门上的图画向其他星球来的人表达了善意。即把这里当作你的家。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "小鸟下了长了脸脸脸的蛋。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "推论。这扇门上的符号也许表示了谁可以进谁不可以进。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在圆脸生物的上方有一只小鸟。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "门上的图画向其他世界来的人传达了友善之情。请把我的家当做自己的家。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小鸟孵下了长着脸脸脸的蛋。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "博学。这扇门上的符号象征着谁可以进以及谁不能进。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "底部的脸让人毛骨悚然。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这里描绘的是什么生物？"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这描绘的是什么生物？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇画有图画的门。它想表达什么？"}]

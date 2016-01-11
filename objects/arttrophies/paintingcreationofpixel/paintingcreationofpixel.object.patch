@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "两个指头所指向的猿族身影的宏伟的画。"},
+[{ "op" : "replace", "path" : "/description", "value" : "两个指头所指向的人的宏伟的画。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "宏伟的画"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这种艺术会被科学发展部和谐的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "如果翼神在里面的话这画就更好了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "看！可以猎杀两个人类！真是罕见！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这是用绘画的形式来寻找知识么？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这确实是一种罕见的发现。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这幅画描绘的是知识？鲛人毫无以为对这感到钦佩。"}]
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这种艺术作品会被科学发展部禁止的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果是克鲁西斯在里面的话这画就更好了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看！可以猎杀两个人类！真是难得！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "问题。这是追寻知识的绘画形式么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这确实是一种罕见的发现。这看起来是一大幅画上的一片。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这幅画描绘的是知识？鲛人毫无疑问对这感到钦佩。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是幅画着漂浮着互相指着的人的画。我不明白。"}]

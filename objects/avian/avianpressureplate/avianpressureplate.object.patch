@@ -1,8 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "请明智地使用这个压力板。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "水晶压力板"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一种压力板。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我站在这上面会发生什么？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "地板上的按钮。叶族应该跳上去么？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。我不认为这是电子人制造的。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某种使用水晶供能的压力板。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个水晶压力开关。如果我按下它会发生什么呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪亮的水晶按钮。叶族应应应该跳上去么？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。我不认为这是由电子人制造的。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个巨大的压力板。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这将激活什么？"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它会激活什么东西？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这块水晶看起来可以操作某些东西。"}]

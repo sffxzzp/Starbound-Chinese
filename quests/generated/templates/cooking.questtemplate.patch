@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/text/default/floran","value": ["现在到最最最头疼的部分了！叶族人痛痛痛恨做菜！^green;你需要用^orange;<ingredients>^green;帮叶族人做做做一份^orange;<cookedItems>^white;。","接下来<player>需要^green;用^orange;<ingredients>^green;帮叶族人做做做一份^orange;<cookedItems>^white;。"]},
+{"op": "replace","path": "/text/default/glitch","value": ["疑惑。既然你已经有了^orange;ingredients^white;，你只需要^green;把它们烹调成^orange;<cookedItems>^white;即可。当然这一步得有你自己完成。","冷静。你现在只需要^green;用^orange;<ingredients>^green;做一份^orange;<cookedItems>^white;即可。非常简单！"]},
+{"op": "replace","path": "/text/default/default","value": ["好戏来了——做菜！你应该会^green;用^orange;<ingredients>^green;做一份^orange;<cookedItems>^white;吧？看上去似乎很简单，但我每次做出来的东西尝起来都很糟糕。","需要花些功夫准备^orange;<ingredients>^white;。你应该会^green;用它做一份^orange;<cookedItems>^white;吧？为什么不试一试呢？"]},
+{"op": "replace","path": "/completionText/default/floran","value": ["棒棒哒！叶族人不不不擅长做菜。这个明显好好好多啦！","谢谢你<player>，很明显你比叶族人更更更像个大厨！"]},
+{"op": "replace","path": "/completionText/default/glitch","value": ["嫉妒。我很高兴能坐享你的佳肴！谢谢你。","高兴。<cookedItems>看起来棒棒哒！"]},
+{"op": "replace","path": "/completionText/default/default","value": ["哇哦！那看上去很美味！我真想现在就尝尝，但接下来我们会用到它…","看上去不费吹灰之力！谢谢你，很明显这正是推进我的计划所需要的！"]}]

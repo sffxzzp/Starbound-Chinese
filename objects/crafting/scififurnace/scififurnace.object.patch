@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个装置能够分解材料然后把它们变得更强。"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"原子炉"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"令人难以置信的技术，用于创建同样令人难以置信的材料！"},
+{ "op" : "replace", "path" : "/description", "value" : "这个装置能够分解材料然后把它们变得更强。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;原子炉^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个原子炉。我可以用它创建令人难以置信的强大的合金。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的东西旋旋旋转，旋旋旋转，旋旋旋转，做成更小的闪亮的东西。"},

@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "祭坛上雕刻着有羽翼的神。"},
+[{ "op" : "replace", "path" : "/description", "value" : "这个祭坛上雕刻着一位生有翅膀的神。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "翼族祷告祭坛"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个祭坛，上面装饰着复杂的雕刻，一个有羽翼的翼族人。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个祭坛上雕刻着克鲁西斯。观星者们用它与克鲁西斯沟通，让他将死者引导进虚空。祭品经常被这样处理。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石头桌子雕着石石石头鸟人。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这个祭坛看起来有某种宗教目的。我从来都无法理解宗教。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个祭坛，上面有着一位长有翅膀的翼族人的复杂雕刻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个祭坛上雕刻着克鲁西斯。观星者们用它与克鲁西斯沟通，让他将死者引导进神国。献祭也通常是在这里完成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石头桌子雕刻着石石石头鸟人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这个祭坛看起来有某种我无法理解的宗教目的。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一座雕刻着翼族人的祭坛。也许这是他们的神？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样的虔诚是不会带来进步的。"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这般虔诚的信仰不会带来进步。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来是某种古老的祭坛。上面刻满了东西。"}]

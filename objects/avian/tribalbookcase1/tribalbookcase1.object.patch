@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "手工制作，非常漂亮，这个书柜经过了精雕细刻。"},
+[{ "op" : "replace", "path" : "/description", "value" : "手工制作、非常漂亮，这个书柜是精雕细刻的。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "大型翼族书柜"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这个书柜似乎是某人爱好的产物。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者满宇宙收集书籍。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者在全宇宙中收集书籍。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "嘶嘶嘶，书书书籍，浪浪浪费时间。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这个书柜看起来是手工做的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来好像这个书柜是一时兴起才做出来的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "虽然手法业余，但这个书柜很有魅力。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观说明。这个书柜看起来是自制的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来似乎这个书柜是一时兴起才做出来的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "虽然手法有些业余，这个书柜还是很迷人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些书籍似乎来自全宇宙。"}]

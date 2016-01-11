@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个戴耳环的猿族画像。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "微妙猿族画"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "在这画像中包含了很多微妙的情感。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个女人正在扭头看什么，也许。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "惊讶的人类即将被伏击！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "提问。这个人扭头看什么？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我种族的古老绘画。我很高兴它还存在。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "捕捉情感的杰作。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个戴耳环的猿人画像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "微妙猿人画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个杰作，但是这猿人好像穿着人类的服饰。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个猿人看起来是从肩膀看过来的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "猿人从肩膀看过来，很惊讶！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这幅画的风格和它的年代不匹配。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这幅画很眼熟，但似乎有些东西困扰着我。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "漂亮的技艺，但我不明白主题是什么。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不错的画。但那位夫人看起来真奇怪。"}]

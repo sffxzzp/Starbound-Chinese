@@ -1,2 +1,2 @@
-[{"op": "replace", "path": "/damagePerShotTitleLabel/value", "value": "Ã¿»÷ÉËº¦(DPS)£º"},
-{"op": "replace", "path": "/speedTitleLabel/value", "value": "»Ó¶¯ËÙÂÊ£º"}]
+[{"op": "replace", "path": "/damagePerShotTitleLabel/value", "value": "æ¯å‡»ä¼¤å®³(DPS)ï¼š"},
+{"op": "replace", "path": "/speedTitleLabel/value", "value": "æŒ¥åŠ¨é€Ÿç‡ï¼š"}]

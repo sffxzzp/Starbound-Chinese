@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我可以用这接线站来合成部件和电线，因为我觉得它合适！"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"接线站"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"为万物接线！"},
+{ "op" : "replace", "path" : "/description", "value" : "我可以用这接线站来合成部件和电线，因为我觉得它合适！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;接线站^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我可以在这创建用来接线的设备。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这是个工作站用来合成用于布线的设备。"},

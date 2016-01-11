@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个死了很久的地球诗人的画像。"},
-{"op":"replace","path":"/shortdescription","value":"著名诗人肖像"},
-{"op":"replace","path":"/apexDescription","value":"与伟大的猿族诗人很相似。"},
-{"op":"replace","path":"/avianDescription","value":"一个严肃的人。他戴着一根羽毛。"},
-{"op":"replace","path":"/floranDescription","value":"叶族不记录个体，叶族是一心的。"},
-{"op":"replace","path":"/glitchDescription","value":"检验。这框架是我见过有史以来最古老的东西。"},
-{"op":"replace","path":"/humanDescription","value":"我很好奇很久以前他是怎么死的…"},
-{"op":"replace","path":"/hylotlDescription","value":"这个人负责了哪些伟大的事迹？"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一位去世多年的地球诗人的画像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "著名诗人肖像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "与伟大的猿族诗人很相似。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个严肃的人。他穿着件羽衣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不记录个体，叶族是一心的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这个人类的装饰电子人可以接受。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我很好奇这人去世多久了…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个人有哪些伟大的事迹？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一幅画着个穿着襞襟的秃头的画。"}]

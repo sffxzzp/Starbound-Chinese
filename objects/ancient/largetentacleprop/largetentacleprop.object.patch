@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个巨大的石头触手。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "巨大的触手道具"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一个很大的…触手？大部分被埋起来了。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这里伸出了一个触手。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一根巨大的石质触手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨大的触手雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是个巨大的……触手？它的大部分都被埋住了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这里突出了一根触手。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "这是是是啥啥啥？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一块巨大的石头触手。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个巨大的触手！这连在什么东西上面么？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "出现了一个巨大的石头触手！"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一根巨大的石质触手出现了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一根巨大的触手！它连接到了什么东西上吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一根巨大的石质触手出现了！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一根巨大的触手。"}]

@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个小型翼族挂毯。看起来很柔软！"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个小型的部族挂毯。看起来很柔软！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "小型翼族挂毯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "挂毯。非常柔软。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者挂毯所使用的面料是经过柔软处理的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "软软软的像花花花瓣。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "触摸。这面料经过了数次软化处理。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "感觉好像这种面料被人软化处理过。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "舒适温暖。"}]
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个挂毯。非常柔软。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者挂毯所使用的面料需要先被处理得极其柔软才行。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "软软软得像花花花瓣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "触摸。这面料经过了无数次软化处理。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "感觉好像这面料被人苦心软化处理过。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "舒适温暖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这挂毯极为柔软。"}]

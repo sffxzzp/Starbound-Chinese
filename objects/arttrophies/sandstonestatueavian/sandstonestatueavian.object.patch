@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个鸟人的雕塑，看来它是飞不成了。"},
-{"op":"replace","path":"/shortdescription","value":"鸟人的砂岩雕像"},
-{"op":"replace","path":"/apexDescription","value":"一个相貌奇特的翼族人。他看起来很高贵。"},
-{"op":"replace","path":"/avianDescription","value":"这个翼人是坠地者的领袖，他鼓励我们展开我们的翅膀。"},
-{"op":"replace","path":"/floranDescription","value":"愚蠢有斑点的石头鸟人。"},
-{"op":"replace","path":"/glitchDescription","value":"（研究）这个翼族人有很大的历史研究价值。"},
-{"op":"replace","path":"/humanDescription","value":"这翼族人看起来很冷酷。我敢打赌没人可以打过他。"},
-{"op":"replace","path":"/hylotlDescription","value":"翼族人滑稽的相貌被捕捉的很好。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个翼族人的雕塑，看来它是飞不成了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族砂岩雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个相貌奇特的翼族人。他看起来很高贵。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个翼族人团结了折翼者们，并鼓励我们展翅高飞。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的有斑点的砂岩翼族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "博学。这个翼族人有很大的历史研究价值。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这翼族人看起来很冷酷。我打赌没人敢惹他。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "翼族人滑稽的相貌被捕捉的很好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好像是某个翼族人的雕像。"}]

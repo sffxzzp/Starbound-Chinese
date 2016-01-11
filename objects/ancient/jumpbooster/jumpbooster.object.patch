@@ -1,2 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "从这些槽释放出的气体能增加你的弹跳力。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "跳跃助推器"}]
+[{ "op" : "replace", "path" : "/description", "value" : "自这些喷气孔中释放的气体能增加你的跳跃高度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞跃气体喷射器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果我站在这个喷气孔上，它就会增益我的跳跃力。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个喷气孔增幅了我跳跃的高度。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在走过这气气气气体后，叶族人能跳的像怪物一样高。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。这蒸汽确实能让我跳得非常高。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "尽管这气体看起来有点危险，但它确实有着增益的性能。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "接受了这蒸汽的力量后，我就能达到新的高度。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这设备增幅了我的跳跃力。"}]

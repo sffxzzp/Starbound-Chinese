@@ -1,8 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一面标准的布制翼族人旗帜。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族旗帜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "简单编织的小型旗帜。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这些旗帜是由那些即将成人的翼族儿童编织的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族小型旗帜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有着简单图案的小型旗帜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些旗帜是由那些即将成年的翼族儿童编织的。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用毛毛毛皮做旗旗旗子。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "挑剔。这面旗帜看起来是由一个新手编织的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这些旗帜都很可爱...看起来好像是孩子编的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些旗帜是孩子们的杰作吗？我很欣赏。"}]
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些旗帜很可爱…看起来就像是由孩子编织的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些旗帜是孩子们的作品吗？我很欣赏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "对我来说这旗帜就像是小孩编织出来的。"}]

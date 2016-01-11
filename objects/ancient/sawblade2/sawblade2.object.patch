@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "哇，看起来好锋利！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "锯片陷阱"},
+[{ "op" : "replace", "path" : "/description", "value" : "哇啊，这看起来很锋利!"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "锯刃陷阱"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "看起来很锋利。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人用来保护他们的陵墓。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "很锋锋锋利。叶族人必须躲开。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "恐惧。看起来它的旋转速度是每分钟四千转。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "哇噢，在这儿我得小心了。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我可不想变成寿司。"}]
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来很锋利。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "很锋锋锋利，叶族人一定要避开它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担忧。这东西的转速达到了约4000转每分钟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "呃啊，在这里我一定要小心。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我可不想成为寿司。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这看起来可并不友好。"}]

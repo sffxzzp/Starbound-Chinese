@@ -1,5 +1,5 @@
 [{"op":"replace","path":"/paneLayout/windowtitle/title","value":" 珍贵的奖杯"},
-{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":" \"从来没听过。\" -前哨站商会"},
+{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":" \"从来没听过。\"-前哨站商会"},
 {"op":"replace","path":"/paneLayout/lblSchematics/value","value":"公开悬赏"},
 {"op":"replace","path":"/paneLayout/lblProducttitle/value","value":"悬赏细节"},
 {"op":"replace","path":"/paneLayout/scrollArea/children/itemList/schema/listTemplate/title/value","value":"替换我"},

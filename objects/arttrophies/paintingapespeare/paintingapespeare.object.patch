@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一副伟大猿族诗人的画作，他看起来…很眼熟。"},
-{"op":"replace","path":"/shortdescription","value":"猿族诗肖像"},
-{"op":"replace","path":"/apexDescription","value":"猿族诗被烧毁，并被禁止了很多年。"},
-{"op":"replace","path":"/avianDescription","value":"一个有着绒毛脖子的猿族？"},
-{"op":"replace","path":"/floranDescription","value":"老猴子，煞-煞笔服装。"},
-{"op":"replace","path":"/glitchDescription","value":"熟悉。这个猿族似乎打扮的像个电子人。"},
-{"op":"replace","path":"/humanDescription","value":"这照片看起来很眼熟…"},
-{"op":"replace","path":"/hylotlDescription","value":"一个有艺术气息的猿族，毫无疑问。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一副伟大的猿人诗人的画作，他…看起来很眼熟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿族诗人肖像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "多年前，猿人的诗被烧毁并定为非法。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个有着绒毛脖子的猿族？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "老猴子，愚愚愚蠢的服装。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗乐。这个猿人似乎是按照现在的电子人时尚打扮的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这照片看起来很眼熟…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个有艺术气息的猿族，毫无疑问。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一只打扮奇怪的穿着襞襟的猿人。"}]

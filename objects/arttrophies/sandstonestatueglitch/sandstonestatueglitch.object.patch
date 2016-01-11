@@ -1,7 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个电子人雕像，它没有任何感觉。"},
-{"op":"replace","path":"/shortdescription","value":"电子人的砂岩雕像"},
-{"op":"replace","path":"/apexDescription","value":"一个电子人。这人看起来和我很像。"},
-{"op":"replace","path":"/floranDescription","value":"石头做的机器人。叶族认为这个机器人很傻。"},
-{"op":"replace","path":"/glitchDescription","value":"（缅怀）这座雕像描绘了在自我意识改变自己前的第一代电子人模型。"},
-{"op":"replace","path":"/humanDescription","value":"我很想要一个电子人助理。这个雕像是另一个最想要的东西。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个电子人。 他们的人造面容是如此的不和谐。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个电子人雕像，它没有任何知觉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "电子人砂岩雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个电子人。这些家伙在我看来长得都一样。"},
+{ "op" : "replace", "path" : "/genericDescription", "value" : "一个电子人雕像。我怀疑这是不是个很重要的人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石头做的机器人。叶族人觉得机器人看起来真蠢蠢蠢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述。这座雕像描绘了在自我意识开始改变自己前的第一代电子人模型。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想要一个电子人助理。这个雕像是第二想要的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个电子人。 他们的人造面容会永远这么难看。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那么谁会计划并制作一个砂岩做的金属人？"}]

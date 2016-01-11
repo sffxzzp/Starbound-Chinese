@@ -1,7 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这货看起来很英俊。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "装饰用巨魔面具"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这看来像一个...我不知道。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这看来像一个…我不知道。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这面具是对巨魔的警告。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "鸟人让这种奇怪的生物看起来很高兴。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我不知道这是谁。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个巨魔面具非常准确。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。电子人对这种生物一无所知。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我完全不知道这是什么。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个巨魔面具非常准确。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张长相奇怪的脸。不过同时也是一张看起来很开心的脸。"}]

@@ -1,5 +1,5 @@
-[{"op":"replace","path":"/description","value":"一杯好东西"},
-{"op":"replace","path":"/description","value":"一个咖啡机.能用来很好的醒神."},
+[{"op":"replace","path":"/subtitle","value":"一杯好东西"},
+{"op":"replace","path":"/description","value":"一个咖啡机。能用来很好的醒神。"},
 {"op":"replace","path":"/shortdescription","value":"咖啡机"},
 {"op":"replace","path":"/apexDescription","value":"这个机器产生一种黑黑的苦苦的液体."},
 {"op":"replace","path":"/avianDescription","value":"我喜欢这个东西的味道."},

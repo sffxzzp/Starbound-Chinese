@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个叶族的雕像，应该不会捅你……也许吧。"},
-{"op":"replace","path":"/shortdescription","value":"叶族的砂岩雕像"},
-{"op":"replace","path":"/apexDescription","value":"一个面向温和的叶族人。吓人啊！"},
-{"op":"replace","path":"/avianDescription","value":"尽管面容冷酷，但这叶族人还是比平时温和。"},
-{"op":"replace","path":"/floranDescription","value":"绿手指。奇特的叶族。笑容有趣。"},
-{"op":"replace","path":"/glitchDescription","value":"（警告）有个木乃伊鲛人在雕像里。"},
-{"op":"replace","path":"/humanDescription","value":"一个可爱的叶族人。我从来没有想到我会说这个。"},
-{"op":"replace","path":"/hylotlDescription","value":"雕像的原石很好地描绘出叶族人冷酷、死亡的眼神。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个叶族人雕像，不会捅你的…也许吧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叶族砂岩雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个面相温和的叶族人。吓人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "尽管外表冷酷，这个叶族人还是比一般的和蔼可亲得多。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "绿手指。特特特别的叶族人。笑笑笑容有趣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "猜想。我相信这个雕像描绘了一位伟大的叶族人领袖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可爱的叶族人。我从来没有想到我会说这个。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "雕像的原石很好地描绘出叶族人冷酷、死亡的眼神。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "刻出这里的这些叶子一定很困难。"}]

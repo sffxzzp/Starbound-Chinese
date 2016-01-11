@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "呀，我的伙计！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木制飞船方向盘"},
+[{ "op" : "replace", "path" : "/description", "value" : "出航劫掠啦，我的伙计！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制船舵"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个控制装置。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "用来给翼族飞船转向。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "转转转这个轮子，操操操纵飞船。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "评价。对飞船的一种不精确的控制方式。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "船长的方向盘！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这东西看起来适合在海上驾驶船只，而不是空中驾驶飞船。"}]
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用来操控翼族飞空艇的转向。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "转转转舵，操操操船。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "批判。一种并不精准的空艇控制方式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个提督…啊，不、是一个船长的舵轮！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来适合用来操控航行于水上的船只，而非用来操控飞行于天空中的空艇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个船舵。我以前曾见过几次。"}]

@@ -1,8 +1,9 @@
-[{"op":"replace","path":"/description","value":"一个人类的雕像，看看这些毛发。"},
-{"op":"replace","path":"/shortdescription","value":"人类的砂岩雕像"},
-{"op":"replace","path":"/apexDescription","value":"一个人类。明显可以看出为什么人们相信人类和猿人有亲缘关系。"},
-{"op":"replace","path":"/avianDescription","value":"一个人类。 他的发型看起来像羽毛。"},
-{"op":"replace","path":"/floranDescription","value":"愚蠢的人类和他愚蠢的头发。雕像。"},
-{"op":"replace","path":"/glitchDescription","value":"（关心）我为人类感到难过，他们必须忍受这样古怪的发型。"},
-{"op":"replace","path":"/humanDescription","value":"一个受欢迎的人类艺人。我拥有他所有的专辑。"},
-{"op":"replace","path":"/hylotlDescription","value":"一座人类雕像。这个人试图去摆出某种造型。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个人类雕像，看看这些毛发。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人类砂岩雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个人类。明显可以看出为什么人们相信人类和猿人有亲缘关系。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个人类。 他的发型看起来像羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚蠢的肉愚人和他愚愚蠢的头发。雕雕雕像。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "关心。我为人类必须忍受这样古怪的发型感到难过。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个受欢迎的人类艺人。我拥有他所有的专辑。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一座人类雕像。这个人试图去摆出某种造型。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这真是疯狂的发型。看起来就像他刚刚脱下帽子。"}]

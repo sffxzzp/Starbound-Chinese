@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "有新月图案的编织旗帜"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族旗帜"},
+[{ "op" : "replace", "path" : "/description", "value" : "一面厚厚编织的、带有新月图案的旗帜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族月亮旗帜"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "色彩明亮的编织旗帜。我想知道上面的月亮有什么含义。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "对于折翼者来说，月亮代表了自由。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在月光下打猎。月亮是叶族人的朋友。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。对于翼族人来说月亮有什么含义吗？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "漂亮的红色月亮旗帜。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "月亮...这个标志鲛人还没有见过。"}]
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在月光下打猎。月亮是是是叶族人的朋友。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "探询。对于翼族人来说月亮意味着什么呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "精美编织的月亮旗帜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "月亮…那是许多鲛人从未见过的景色。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这面旗帜上看起来织着一个月亮。"}]

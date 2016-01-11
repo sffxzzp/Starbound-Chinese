@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个带着宠物的猿族的静谧的画。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "宠物画"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "猿族肯定喜欢他们的黄鼠狼。他们比猫有个性多了！"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我们猿人喜欢黄鼠狼。他们比猫有个性多了！"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这种图像是为了崇拜这种动物？还是只是拥有？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一种毛茸茸的零食！叶族想把它从画里撕下来！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这动物在画这幅画的时候就已经养了好久了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一种毛茸茸的零零零食！叶族想把它从画里撕撕撕下来！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这动物在画这幅画的时候肯定已经养了好久了。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是个貂，还是白鼬？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这幅画像与融入自然，或者至少，融入这个动物。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "对于一张照片来说，真是个看起来有趣的宠物。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "对于一幅画来说，真是个看起来有趣的宠物。"}]

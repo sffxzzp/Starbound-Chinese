@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "不祥的字符脉冲...它们是什么意思？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "字符屏幕"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这些字符。我不能解读它们。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "只有观星者才能真正解读它们。我认出了献祭这个字符。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的图片。叶族人不认认认识。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "翻译。翻译失败。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这些字符。我的翻译器无法读取。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "古代字符。我的翻译器无法破译。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "字符令人不安地跃动着…它们意味着什么？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "字符显示屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一些字符。我不能解读它们。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "只有观星者才能真正解读它们。我认出了“献祭”的字符。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "傻傻傻呆呆的图案。叶族人认认认不出来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。我无法将它们翻译出来。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些字符。我的翻译器无法解读它们。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "古代符号。我的翻译器无法破译它们。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些符号对我来说就是天书。想翻译它们那只会白费苦工。"}]

@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用古代翼族的艺术装饰的箱子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "箱子！快打开看看。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "通常这样的箱子里面装的都是值钱的东西。我太兴奋了！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "箱箱箱子！叶族人要要要打开看看看看！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "满怀希望。里面会有什么呢？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "箱子！快把它打开。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "没有打开过的箱子让人很兴奋。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个用古代翼族艺术装饰的宝箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族宝箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某人苦心装饰了这个宝箱，它也许存着一些好东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种带装饰的翼族宝箱有时会藏着巨大的宝藏。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个宝箱真真真漂亮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。这种宝箱也许会藏着值钱的东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个宝箱！我该打开看看。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个宝箱是一件艺术品。里面会有什么呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个宝箱真是好看。"}]

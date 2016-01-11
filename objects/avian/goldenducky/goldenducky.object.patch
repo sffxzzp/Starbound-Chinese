@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "黄金鸭子！"},
+[{ "op" : "replace", "path" : "/description", "value" : "一只黄金小鸭！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "黄金小鸭"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个黄金小鸭子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这非常值钱。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "可可可口的小鸭鸭。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "喜爱。真可爱。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小小的黄金鸭子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些东西其实非常值钱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的小鸭子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷恋。这真可爱。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一只可爱的小鸭子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "像这样的鸟类可以在湖和小溪里游泳。"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一只不朽的黄金小鸭子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一只纯金小鸭。"}]

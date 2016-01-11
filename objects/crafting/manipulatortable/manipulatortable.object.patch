@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用储备能量制造强大远程武器和装甲的桌子。."},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"操控者之桌"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"唾手可得的原能！"},
+{ "op" : "replace", "path" : "/description", "value" : "用储备能量制造强大远程武器和装甲的桌子。."},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;操控者之桌^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我能在这里制造拥有少量防御点数的拥有巨大毁灭能力的装备。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "非非非常强大的武器，但是叶族人要花花花费一大堆能量来使用它。"},

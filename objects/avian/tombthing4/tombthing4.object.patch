@@ -1,8 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个奢华的翼族棺材。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "奢华的翼族棺材"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "昂贵的棺材。上面有精美的雕刻。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这棺材是为那些买得起大理石棺但不想维护的人准备的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人按鸟人的方式装饰棺材。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奢华翼族棺材"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个奢华的棺材。上面有精美的雕刻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个为那些买得起木乃伊石棺、但选择放弃被制成木乃伊保存起来的人所准备的棺材。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人把棺材装饰得像鸟人一样。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这个棺材的雕刻手法很熟练。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "你能想象到棺材从里面盖上时的景象吗？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一具尊贵的尸体。"}]
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你能想象这个棺材盖子从内侧看是怎么样的吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "体面的遗体。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是个奢华的安息之地。"}]

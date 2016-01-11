@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "压缩你的像素来储藏！"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"像素压缩机"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"压缩你的像素！"},
+{ "op" : "replace", "path" : "/description", "value" : "压缩你的像素来储藏！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;像素压缩机^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我能在这里储存像素。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个存放像素的安全地方。"},

@@ -1,8 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "典型翼族风格的桌子。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一张有着典型翼族装饰风格的桌子。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "翼族桌子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "装饰的很好的餐桌。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "在用餐后，用刀叉在桌子上添加新的雕刻是很常见的。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张精心装饰的餐桌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "就餐结束后，用刀叉在桌子上添加新的雕刻是很常见的。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人最最最快乐的时时时光都花花花在了餐桌上。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。桌子上的装饰很复杂。我必须学习艺术欣赏了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来全家都参与了这张桌子的装饰工作。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看来翼族人把这张桌子作为一个整体来装饰。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。桌上的装饰够复杂。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来似乎一整个家庭都参与了这张桌子的装饰工作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来翼族人是组团装饰这张桌子的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张手工雕刻的餐桌。"}]

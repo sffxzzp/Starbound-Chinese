@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"它在追自己的尾巴玩时会不小心烧到毛。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火狐手办"}]

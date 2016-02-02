@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"它可以进入亚位面。当它闭上眼时，便免疫一切攻击。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猫鬼手办"}]

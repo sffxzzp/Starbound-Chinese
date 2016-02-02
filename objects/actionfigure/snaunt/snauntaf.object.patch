@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"它因从菜园中偷菜而臭名昭著。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "吐槽蛇手办"}]

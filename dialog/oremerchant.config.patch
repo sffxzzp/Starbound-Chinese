@@ -1,0 +1,566 @@
+[
+  {
+    "op": "replace",
+    "path": "/merchantStart/default/default",
+    "value": [
+      "你想买什么材料？",
+      "你想要的矿石我这里都有。",
+      "你想要的我都有，何必去地下当苦力呢？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/human/default",
+    "value": [
+      "你想买什么材料？",
+      "你想要的矿石我这里都有。",
+      "你想要的我都有，何必去地下当苦力呢？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default",
+    "value": [
+      "下回见！",
+      "欢迎再来。",
+      "像素在这里永远都受欢迎。",
+      "很高兴和你做生意！",
+      "看到你真高兴！",
+      "让我们再来做买卖吧。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/human/default",
+    "value": [
+      "下回见！",
+      "欢迎再来。",
+      "像素在这里永远都受欢迎。",
+      "很高兴和你做生意！",
+      "看到你真高兴！",
+      "让我们再来做买卖吧。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/follow/default/default",
+    "value": [
+      "需要材料吗？来对地方了！",
+      "看我搞到了什么！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/follow/human/default",
+    "value": [
+      "需要材料吗？来对地方了！",
+      "看我搞到了什么！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default",
+    "value": [
+      "来看看我囤积的材料吧。",
+      "你看上什么材料了？",
+      "我的店在这里。你想要什么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/human/default",
+    "value": [
+      "来看看我囤积的材料吧。",
+      "你看上什么材料了？",
+      "我的店在这里。你想要什么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default",
+    "value": [
+      "在这里你可以买到所有必要的制造材料！",
+      "你需要的东西，就在这里。",
+      "我这里有你需要的每一种矿石，材料还有合金！",
+      "一桩好买卖！",
+      "你在别的地方可买不到这些好东西！",
+      "这些珍贵的材料我这里都有，你就不必劳心去找了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tout/human/default",
+    "value": [
+      "在这里你可以买到所有必要的制造材料！",
+      "你需要的东西，就在这里。",
+      "我这里有你需要的每一种矿石，材料还有合金！",
+      "一桩好买卖！",
+      "你在别的地方可买不到这些好东西！",
+      "这些珍贵的材料我这里都有，你就不必劳心去找了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default",
+    "value": [
+      "我要离开这里！",
+      "救命！我被袭击了！",
+      "我被袭击了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default",
+    "value": [
+      "救命！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default",
+    "value": [
+      "干掉他！",
+      "替我报仇！",
+      "替我刺他！",
+      "别让他跑了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default",
+    "value": [
+      "我想我得救了！",
+      "唷！",
+      "千钧一发啊！",
+      "好险..."
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default",
+    "value": [
+      "家里的东西被动过了，我不喜欢这样！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/human/default",
+    "value": [
+      "我店里丢东西了？",
+      "店里的布局被改变了，这可不好...",
+      "我的店被动过了，我还怎么卖东西？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/floran/default",
+    "value": [
+      "你从我的店店店里拿东东东西了？",
+      "我的店被被被人动过了，我不高兴！",
+      "你能帮我把商商商店恢复原原原样吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/glitch/default",
+    "value": [
+      "困惑。我的店有点变样了。",
+      "不满。我喜欢原来的样子。",
+      "渴望。希望我的店能回复原样。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/avian/default",
+    "value": [
+      "店里的布置有点不一样了...",
+      "这里发生了令人不安的变化。",
+      "你能把我的商店布局还原么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/apex/default",
+    "value": [
+      "如果你能把我的店恢复原貌，我会很感激你。",
+      "能劳驾您帮我把商店恢复原样么？",
+      "我喜欢店里原来的布置，你能把它恢复如初么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/hylotl/default",
+    "value": [
+      "我的店里多了不和谐的东西...",
+      "我的店！为什么会有人随便拿东西？",
+      "我希望我的店能恢复原貌，毫无疑问这样不会有顾客光临..."
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default",
+    "value": [
+      "我的家需要修补！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/human/default",
+    "value": [
+      "你能把墙修一下吗？这样顾客是不会光顾的。",
+      "墙破了就没人会来光顾小店了！你能帮忙修一下吗？",
+      "我的店需要最好的条件！你能把墙修好吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/floran/default",
+    "value": [
+      "这里的墙破了！",
+      "你能帮我修一下我的店店店么？",
+      "我的店需要修补！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/glitch/default",
+    "value": [
+      "不高兴。店面破了会吓跑顾客的。",
+      "担忧。坏掉的墙可能会丢掉潜在的客户。",
+      "窘迫。你能在墙破的更厉害之前修好我的店么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/avian/default",
+    "value": [
+      "店里的破损让我很担心...",
+      "店里的破损让我很担心...",
+      "如果你能把我的家修好我会很感激你的。",
+      "唔，看起来我家里的墙好像坏了。你能把它修好么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/apex/default",
+    "value": [
+      "你能帮我把店面修好么？",
+      "我要告诉你我的店有些破损。",
+      "店里坏掉的部分无疑会让顾客流失。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/hylotl/default",
+    "value": [
+      "我的店里有些破损。这让我很不高兴。",
+      "你没觉得我的店里有什么奇怪的东西吗？好像墙破了...",
+      "我注意到这里的墙坏了，也许你可以帮忙修一下？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default",
+    "value": [
+      "我想这块地方是我的了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/human/default",
+    "value": [
+      "这地方不是归我一个人了吗？我不能和别人分享店面！",
+      "你想让别人霸占我的店？！",
+      "你为什么又和别人签约了？！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/floran/default",
+    "value": [
+      "别别别人不能进来！",
+      "为什么还还还有别人搬进来？",
+      "我不能和别人分分分享店面！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/glitch/default",
+    "value": [
+      "震惊。你想让别的商人搬进我的店？",
+      "困惑。怎么还有别人要搬进来？",
+      "沮丧。我还以为这家店是我独家代理呢。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/avian/default",
+    "value": [
+      "为什么还有别人想要搬进我的店？",
+      "你把我的店租出去了？一定是搞错了...",
+      "我的店里还有另一份契约 - 这肯定不是故意的。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/apex/default",
+    "value": [
+      "为什么这里还有一份契约？我要独家代理这家商店！",
+      "这一家不是归我了吗？为啥又租给别人了？",
+      "我还以为这一家归我独家代理呢。真让人心烦。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/hylotl/default",
+    "value": [
+      "有别的商人要搬进来和我争这家店？",
+      "属于我的店又和别人签了约，叫我怎么静得下来？",
+      "我的店又和别人签约了？没搞错吧？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default",
+    "value": [
+      "这样的条件我没法卖东西！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/human/default",
+    "value": [
+      "这样的条件我没法卖东西！",
+      "这种条件我没法工作...",
+      "把我的商品这样卖恐怕很难！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/floran/default",
+    "value": [
+      "这这这样不能卖卖卖！",
+      "这条条条件不好！",
+      "你还没把店里坏的地地地方修好！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/glitch/default",
+    "value": [
+      "烦恼。我很想卖货，但这种环境下怎么可能。",
+      "泄气。我希望我的要求能上达天听。",
+      "不高兴。我的店还没修好。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/avian/default",
+    "value": [
+      "这差得太远了，我对这样的环境非常不满意。",
+      "我可不想在这样的环境下工作。",
+      "为什么我要在这样的环境开店？！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/apex/default",
+    "value": [
+      "我要求改善环境却被无视了...",
+      "这个小店和我当初搬进来的时候不一样了...",
+      "我的小店条件太次了，我感觉自己被忽视了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/hylotl/default",
+    "value": [
+      "当我的要求被无视的时候还怎么可能冷静下来。",
+      "这个店的状态不是我能接受的。",
+      "我不能在这样差劲的店里干下去..."
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default",
+    "value": [
+      "我受够了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/human/default",
+    "value": [
+      "我受够了！",
+      "就这样了，我放弃。是时候去别的地方开展业务了！",
+      "我放弃，我要去别的地方做买卖！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/floran/default",
+    "value": [
+      "已已已经够长了！",
+      "我要去别的地方卖卖卖东西！",
+      "这这这太不专业了，我要去别的星球卖卖卖东西！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/glitch/default",
+    "value": [
+      "不知所措。是时候找个更好的地方卖货了。",
+      "气愤。我该找个更好的地方做买卖了。",
+      "心烦。这样的环境，是时候搬家去别的地方卖东西了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/avian/default",
+    "value": [
+      "像我这样的商人理应得到更好的对待。够了，真是够了。",
+      "是时候找家更好的店了。",
+      "这个商店已经不是我搬进来时的样子了。是时候换一家了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/apex/default",
+    "value": [
+      "我搬到这里是为了追求更好的生活，但现在我再也不能像这样干下去了。",
+      "我应该得到比这更好的工作条件！",
+      "这样离开让我很桑心，但我的投诉被无视了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/hylotl/default",
+    "value": [
+      "是时候搬家了，这家店已经不符合我的标准了。",
+      "我非常希望这家店足够好，但它就是不行。",
+      "也许我应该再找一家能卖我漂亮产品的店面。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default",
+    "value": [
+      "我到家了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/human/default",
+    "value": [
+      "你找我？",
+      "你想买什么？",
+      "嗨！你叫我是想买东西吗？ "
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/floran/default",
+    "value": [
+      "你找找找我是来卖东东东西吗？",
+      "你想买什什什么？",
+      "你找找找我？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/glitch/default",
+    "value": [
+      "嘲弄。你想买，还是卖？ ",
+      "友善。你想和我话聊还是买东西？",
+      "客气。你来就是和我打招呼的？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/avian/default",
+    "value": [
+      "你想和我交易？",
+      "又见面了，朋友！ 愿克鲁西斯保佑你。",
+      "看到友善的面孔让我很开心。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/apex/default",
+    "value": [
+      "你叫我是为了交易么？也许你想买点什么？",
+      "需要我做什么？",
+      "你好呀。想买什么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/hylotl/default",
+    "value": [
+      "你想要什么？",
+      "你想和我交易么，朋友？",
+      "你需要我的货物吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default",
+    "value": [
+      "为了感谢你对小店的帮助，给你个礼物！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/human/default",
+    "value": [
+      "我觉得你可能喜欢这个，我的朋友！",
+      "感谢你对小店的照顾，这是礼物！",
+      "拿着这个，感谢你一直以来的照顾！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/floran/default",
+    "value": [
+      "这是是是给你的礼物！",
+      "这是是是我给你带的东西！",
+      "多多多谢你对我的商商商店的照顾！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/glitch/default",
+    "value": [
+      "感激。这是礼物，感谢你对我生意的照顾。",
+      "感谢。我为你准备了件礼物，多谢对小店的照顾。",
+      "希望。我希望你喜欢这件我精心挑选的礼物!"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/avian/default",
+    "value": [
+      "这是对你的帮助的感激。",
+      "我给你带了件礼物。",
+      "我希望这件礼物可以给你带来快乐。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/apex/default",
+    "value": [
+      "多谢你的帮助，请接受这件礼物。",
+      "我有一件礼物给你，感谢你对我生意的照顾。",
+      "感谢你对我生意的帮助，拿着这个。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/hylotl/default",
+    "value": [
+      "我的店恢复了安宁。给你这件礼物聊表谢意。",
+      "对于你的帮助深表感激，请接收这个礼物。",
+      "希望这件小小的礼物能传达我对你的帮助的感激之情。"
+    ]
+  }
+]

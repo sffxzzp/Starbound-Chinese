@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"它一瘸一拐的走路方式让你感到不舒服。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鳌拜手办"}]

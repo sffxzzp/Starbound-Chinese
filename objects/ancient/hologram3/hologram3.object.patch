@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个全息的古老神话场景。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "古代全息图"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这一幕显示出一个将怪物推向漩涡的阴影。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这一幕显示出一个将怪物推向漩涡的影像。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这表明两个强大力量之间的某种灾难性的战斗。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "一个关于战斗的老照片！需要多刺刺。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。右边的生物是在被推入漩涡吗？"},

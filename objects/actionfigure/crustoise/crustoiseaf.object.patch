@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"锐利的尖刺能穿透任何空间阻碍。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "岩局蟹"}]

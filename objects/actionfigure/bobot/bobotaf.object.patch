@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"没人知道它从哪来，或者说谁制造的。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大钢炮手办"}]

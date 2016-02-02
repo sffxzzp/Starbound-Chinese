@@ -1,0 +1,1077 @@
+[
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/default/default",
+    "value": [
+      "请把这份回复交给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/human/default",
+    "value": [
+      "请把这份回复交给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/apex/default",
+    "value": [
+      "请把这份回复交给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/avian/default",
+    "value": [
+      "请把这份回复交给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/floran/default",
+    "value": [
+      "请把这这这份回复交给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/glitch/default",
+    "value": [
+      "感谢。请把这份回复交给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/share_secret/pleaseTakeReply/hylotl/default",
+    "value": [
+      "请帮我把这份回复交给<questGiver>，好吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/default/default",
+    "value": [
+      "请不要用<item>伤害我！告诉<questGiver>我愿意做任何事！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/human/default",
+    "value": [
+      "别用<item>指着我！告诉<questGiver>我愿意做任何事！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/apex/default",
+    "value": [
+      "请不要用<item>伤害我！告诉<questGiver>我将服从！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/avian/default",
+    "value": [
+      "请不要用<item>伤害我！告诉<questGiver>我愿意做任何事！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/floran/default",
+    "value": [
+      "不要用<item>捅捅捅叶族人！告诉<questGiver>叶族人会听话的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/glitch/default",
+    "value": [
+      "警惕。不要用<item>伤害我——告诉<questGiver>我愿意做任何事！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/intimidated/hylotl/default",
+    "value": [
+      "请不要用<item>伤害我！告诉<questGiver>我愿意做任何事！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/default/default",
+    "value": [
+      "凭什么要我按照<questGiver>的意愿做事？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/human/default",
+    "value": [
+      "凭什么要我按照<questGiver>的意愿做事？",
+      "你吓不倒我，<questGiver>来也一样！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/apex/default",
+    "value": [
+      "是不是<questGiver>派你来威胁我的？",
+      "是不是<questGiver>派你来威胁我的？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/avian/default",
+    "value": [
+      "凭什么要我按照<questGiver>的意愿做事？",
+      "我才不怕<questGiver>呢！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/floran/default",
+    "value": [
+      "叶族人不怕怕怕<questGiver>！",
+      "叶族人不怕你，也不怕<questGiver>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/glitch/default",
+    "value": [
+      "无畏。凭什么要我按照<questGiver>的意愿做事？",
+      "困惑。难道你是为了<questGiver>的利益来威胁我的吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/intimidate/notIntimidated/hylotl/default",
+    "value": [
+      "<questGiver>不能扰乱我的禅心，你也别妄想！",
+      "凭什么要我按照<questGiver>的意愿做事？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/default/default",
+    "value": [
+      "这是贿赂吗？啊，管他呢……请替我向<questGiver>道谢。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/human/default",
+    "value": [
+      "这是贿赂吗？啊，管他呢……请替我向<questGiver>道谢！",
+      "你是在笼络我吗？好耶！请帮我向<questGiver>道谢！",
+      "被收买真是件很爽的事情！代我向<questGiver>致谢。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/apex/default",
+    "value": [
+      "我相当肯定我是被收买了，不过代我向<questGiver>致谢。",
+      "这是<questGiver>的礼物吗？或者说更接近收买？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/avian/default",
+    "value": [
+      "<questGiver>大概想要收买我，但无论如何我都很感激！",
+      "<questGiver>可能想要博取我的好感，但这仍不失为是一个优雅的举动！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/floran/default",
+    "value": [
+      "叶族人不在在在乎被收买。替我向<questGiver>道谢！",
+      "叶族人爱死死死贿赂啦！替我向<questGiver>道谢。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/glitch/default",
+    "value": [
+      "满意。这好像是贿赂，不过代我向<questGiver>致谢。",
+      "印象深刻。以我的名义向<questGiver>致谢！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted/hylotl/default",
+    "value": [
+      "识时务者为俊杰！替我向<questGiver>转达谢意。",
+      "良禽择木而栖！将我的感谢带给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/default/default",
+    "value": [
+      "不过<questGiver>还想从我这儿得到什么呢…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/human/default",
+    "value": [
+      "不过<questGiver>还想从我这儿得到什么呢…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/apex/default",
+    "value": [
+      "不过<questGiver>还想从我这儿得到什么呢…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/avian/default",
+    "value": [
+      "不过<questGiver>还想从我这儿得到什么呢…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/floran/default",
+    "value": [
+      "不过<questGiver>还想从叶族人这儿得到什么呢…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/glitch/default",
+    "value": [
+      "好奇。<questGiver>还想从我这儿得到什么呢…",
+      "关心。我想知道<questGiver>为何要收买我？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/giftAccepted2/hylotl/default",
+    "value": [
+      "<questGiver>意图从我这获得什么呢…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/default/default",
+    "value": [
+      "这份礼物应该能让我家更添一份美丽。你能帮我把它放在这儿吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/human/default",
+    "value": [
+      "这份礼物应该能让我家更添一份美丽。你能帮我把它放在这儿吗？",
+      "真是一份不错的礼物！能帮我把它放在我的家里，好让我炫耀一番吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/apex/default",
+    "value": [
+      "真是份慷慨的礼物——也许它应该被陈列在我的房子里？",
+      "这份礼物应该更适合被摆在我家里。你能帮我吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/avian/default",
+    "value": [
+      "多么令人愉快的礼物！能帮我把它放在我的家里，好让我炫耀一番吗？",
+      "真是一份不错的礼物！能帮我把它摆在我家的某个地方吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/floran/default",
+    "value": [
+      "叶族人爱死死死礼物啦！能帮忙把它放在叶族人的家里吗？",
+      "礼物对叶族人来说真是是是好极了！你能把它放在叶族人的家里吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/glitch/default",
+    "value": [
+      "高兴。多么相称的礼物！也许你能帮我把它摆在我的家里？",
+      "感激。这件礼物太棒了，我应该把它展示出来才是。能帮我把它放在家里吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/bribe/requestAdditionToHouse/hylotl/default",
+    "value": [
+      "你送给我这份礼物，真是太好了！能帮我把它摆在我的家里吗？",
+      "你给我带了礼物哇。能为我把它放在我家的某个地方吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/default/default",
+    "value": [
+      "哇！帮我谢谢<questGiver>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/human/default",
+    "value": [
+      "哇！帮我谢谢<questGiver>！",
+      "真棒！帮我谢谢<questGiver>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/apex/default",
+    "value": [
+      "<questGiver>真是太慷慨了！帮我道谢。",
+      "请向<questGiver>转达我收到这份礼物的愉悦！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/avian/default",
+    "value": [
+      "感谢<questGiver>这个可爱的礼物！",
+      "谢谢<questGiver>的善意！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/floran/default",
+    "value": [
+      "叶族人喜喜喜欢礼物！帮我告诉<questGiver>！",
+      "给叶族人的礼物！向<questGiver>道谢！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/glitch/default",
+    "value": [
+      "感激。请以我的名义向<questGiver>致谢！",
+      "感激。转告<questGiver>我很喜欢他的礼物！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted/hylotl/default",
+    "value": [
+      "<questGiver>的灵魂是如此友好！请向他传达我的意志！",
+      "一件礼物！为此我应当感谢<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/default/default",
+    "value": [
+      "<questGiver>是一个很棒的朋友。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/human/default",
+    "value": [
+      "<questGiver>相当友好！",
+      "<questGiver>是个很棒的朋友。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/apex/default",
+    "value": [
+      "<questGiver>很显然是那种能够信赖的人。",
+      "<questGiver>是一个值得信任的人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/avian/default",
+    "value": [
+      "<questGiver>是个很棒的朋友。",
+      "<questGiver>是个很棒的朋友。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/floran/default",
+    "value": [
+      "叶族人喜喜喜欢<questGiver>！",
+      "叶族人已经研究决定啦，<questGiver>是叶族的好同志。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/glitch/default",
+    "value": [
+      "满意。<questGiver>是一个不错的朋友。",
+      "高兴。<questGiver>是一个友好的人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/giftAccepted2/hylotl/default",
+    "value": [
+      "<questGiver>赢得了我真挚的友谊。",
+      "<questGiver>已经获得了我的信任。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/default/default",
+    "value": [
+      "这份礼物应该能让我家更添一份美丽。你能帮我把它放在这儿吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/human/default",
+    "value": [
+      "这份礼物应该能让我家更添一份美丽。你能帮我把它放在这儿吗？",
+      "真是一份不错的礼物！能帮我把它放在我的家里，好让我炫耀一番吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/apex/default",
+    "value": [
+      "真是份慷慨的礼物——也许它应该被陈列在我的房子里？",
+      "这份礼物应该更适合被摆在我家里。你能帮我吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/avian/default",
+    "value": [
+      "多么令人愉快的礼物！能帮我把它放在我的家里，好让我炫耀一番吗？",
+      "真是一份不错的礼物！能帮我把它摆在我家的某个地方吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/floran/default",
+    "value": [
+      "叶族人爱死死死礼物啦！能帮忙把它放在叶族人的家里吗？",
+      "礼物对叶族人来说真是是是好极了！你能把它放在叶族人的家里吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/glitch/default",
+    "value": [
+      "高兴。多么相称的礼物！也许你能帮我把它摆在我的家里？",
+      "感激。这件礼物太棒了，我应该把它展示出来才是。能帮我把它放在家里吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/gift/requestAdditionToHouse/hylotl/default",
+    "value": [
+      "你送给我这份礼物，真是太好了！能帮我把它摆在我的家里吗？",
+      "你给我带了礼物哇。能为我把它放在我家的某个地方吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/default/default",
+    "value": [
+      "我向你保证，那个<item>是从合法渠道获得的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/human/default",
+    "value": [
+      "我向你保证，那个<item>是从合法渠道获得的！",
+      "好吧，拿走这个<item>吧——反正我再也不需要它了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/apex/default",
+    "value": [
+      "好吧, 把这个<item>拿回去——只是不要让我卷入麻烦！",
+      "那个<item>是从合法渠道获得的——我发誓！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/avian/default",
+    "value": [
+      "我是获得允许借用那个<item>的，这可不算偷！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/floran/default",
+    "value": [
+      "你可以把<item>拿回去，只要不要让叶族人卷入麻烦！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/glitch/default",
+    "value": [
+      "紧张。我真的不知道那个<item>是怎么跑到这里来的！",
+      "担忧。那个<item> 真的不是偷来的，它只是看起来是偷来的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/return_stolen/objectTaken/hylotl/default",
+    "value": [
+      "我没有偷<item>，我只是借了用下！",
+      "那个<item>是通过适当的方式获得的，我向你保证！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/default/default",
+    "value": [
+      "好吧，好吧，我会交罚款的。不要惩罚我！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/human/default",
+    "value": [
+      "好吧，好吧，我会交罚款的。不要惩罚我！",
+      "你抓到我啦！我会按章赔付的。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/apex/default",
+    "value": [
+      "好吧，我会全部还清的。只是不要把这件事报告给科学发展部！",
+      "你抓到我了——我会偿还罚款的。只要不让我陷入更大的麻烦！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/avian/default",
+    "value": [
+      "不要再来弄乱我的羽毛了——我会还钱的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/floran/default",
+    "value": [
+      "叶族人被捉住了QAQ，所所所以叶族人会赔钱的。",
+      "你抓住叶族人了！叶族人牢记于心，这是是是赔款。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/glitch/default",
+    "value": [
+      "挫败。我想我应该给钱，我可以不想变成生锈的废铁！",
+      "尴尬。我会偿清罚款——逃跑只是徒劳。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_fine/fineCollected/hylotl/default",
+    "value": [
+      "我会付罚款的。你没有必要再来搅扰我的内心安宁了。",
+      "理智啊！我答应付钱啦！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/default/default",
+    "value": [
+      "干得好！一个<item>，拿给<questGiver>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/human/default",
+    "value": [
+      "干得好！一个<item>，拿给<questGiver>！",
+      "这是你需要的<item>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/apex/default",
+    "value": [
+      "这就是你需要的那个<item>。希望你对此满意。",
+      "这就是那个准备给<questGiver>的<item>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/avian/default",
+    "value": [
+      "拿着这个<item>！希望<questGiver>对此满意。",
+      "这个<item>就是<questGiver>想要的东西，对吧？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/floran/default",
+    "value": [
+      "这就是是是那个<item>，代我转交给<questGiver>！",
+      "这就是是是那个给<questGiver>的<item>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/glitch/default",
+    "value": [
+      "欢迎。我希望<questGiver>喜欢他的新<item>！",
+      "友好。请把这个<item>拿给<questGiver>——希望他喜欢！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/collect_gift/giftProvided/hylotl/default",
+    "value": [
+      "这里有一个<item>——我希望这能带给<questGiver>欢欣。",
+      "我希望这个<item>能让你和<questGiver>感到内心安宁。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/default/default",
+    "value": [
+      "这里有个我早些时候造好的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/human/default",
+    "value": [
+      "这就是你要我制作的那个<item>！",
+      "这里有个我早些时候造好的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/apex/default",
+    "value": [
+      "你想让我做点东西？一个 <item>，你来的真是时候。",
+      "这就是你要我做的那个<item>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/avian/default",
+    "value": [
+      "这里就有个<item>，你要我制作的！",
+      "<item>？喏，我早就做好了一个。免费拿去吧。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/floran/default",
+    "value": [
+      "叶族人造了这这这个<item>给你，按照约定的！",
+      "这就是是是你要叶族人帮你造的那个<item>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/glitch/default",
+    "value": [
+      "慷慨。你真走运啊——我早些时候已经制作了一个<item>。收下吧。",
+      "爽快。我已经做好了一个<item>——拿去吧。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/request_craft/giftProvided/hylotl/default",
+    "value": [
+      "足下所需的<item>我已经做好了——正宗的鲛人工艺。",
+      "<item>？我可以给你准备一个。给你。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/default/default",
+    "value": [
+      "好吧，<questGiver>可以借走我的<item>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/human/default",
+    "value": [
+      "好吧，<questGiver>可以借走我的<item>。你会帮忙还给我吗？",
+      "没问题，我会把<item>借给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/apex/default",
+    "value": [
+      "这就是<questGiver>想要借的那个<item>。我怀疑他不会再还给我了。",
+      "<questGiver>可以借走我的<item>，如果可能的话最好还回来……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/avian/default",
+    "value": [
+      "我不介意<questGiver>借走我的<item>，无论多久，只要记得还回来就好啦！",
+      "<questGiver>可以借走我的<item>！只要记得还我，借多久都行。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/floran/default",
+    "value": [
+      "叶族人可以让<questGiver>使用<item>，直到叶族人再再再次将之夺回。",
+      "这是给<questGiver>的<item>，叶族人不在在在乎。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/glitch/default",
+    "value": [
+      "慷慨。这就是我的<item>——告诉<questGiver>尽快还给我！",
+      "友好。<questGiver>可以借走我的<item>，只要他用得上！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/borrow/giftProvided/hylotl/default",
+    "value": [
+      "我将慷慨的为<questGiver>献上我的<item>。",
+      "<questGiver>可以借走我的<item>但凡他有需要！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/default/default",
+    "value": [
+      "别，别，给你<item>。求求你不要伤害我！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/human/default",
+    "value": [
+      "别，别，给你<item>。求求你不要伤害我！",
+      "<questGiver>可以拿走我的<item>，只是不要伤，伤害我"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/apex/default",
+    "value": [
+      "我知道这是勒索，但是我更看重自己的安全。拿走我的<item>吧……",
+      "把这个<item>拿走吧——我更珍重自己的生命，好吗！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/avian/default",
+    "value": [
+      "不要再玩弄人家的羽毛了——这<item>你拿去吧！",
+      "不要伤害我！把我的<item>拿去吧！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/floran/default",
+    "value": [
+      "叶族人今天不想打架架架！拿走<item>！",
+      "叶族人会帮助<questGiver>！拿，拿走叶族人的<item>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/glitch/default",
+    "value": [
+      "惊呆。我不想受伤！拿走我的<item>，如果你需要的话！",
+      "恐惧。我不希望<questGiver>因为这种事情对我生气——如果你想就拿走这个<item>吧！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/extort/giftProvided/hylotl/default",
+    "value": [
+      "拿走我的<item>，将我留于安宁之中，保佑你！",
+      "不要尝试扰乱我的禅心——如你所愿将<item>拿走吧！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/default/default",
+    "value": [
+      "哦，你有我们需要的原材料？稍等一会儿……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/human/default",
+    "value": [
+      "哦，你有我们需要的原材料？稍等一会儿……",
+      "你带来了材料？太好了，稍等片刻……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/apex/default",
+    "value": [
+      "你已经得到材料了？请耐心等待，我现在只需要直接制作……",
+      "感谢你为我带来了材料——给我一点时间我就能做出它……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/avian/default",
+    "value": [
+      "你带来了那些原材料？稍等片刻……",
+      "你带来了材料？那我就只用去制作它了，给我一点时间……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/floran/default",
+    "value": [
+      "你带了东西西西给叶族人？给叶族人一点时间来制制制作！",
+      "你为叶族人带来了东西西西？叶族人需要片刻来制制制作……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/glitch/default",
+    "value": [
+      "渴望。你带了材料给我——请给我一点时间来制作它……",
+      "耐心。你带来了我们需要的原材料！在我制作时请稍等一会儿。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafting/hylotl/default",
+    "value": [
+      "谢谢你为带来了原材料。在我为<questGiver>制作时请平静地等待。",
+      "我已经迫不及待要动手了。谢谢你带来这些东西。给我一点时间……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/default/default",
+    "value": [
+      "拿着！帮我把这个包裹带给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/human/default",
+    "value": [
+      "拿着！请帮我把这个包裹带给<questGiver>。",
+      "那么……完成了！把这个包裹带给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/apex/default",
+    "value": [
+      "感谢你的耐心。这个包裹——请把它交付给<questGiver>。",
+      "终于完成了！久等了。能帮我把这个包裹转交给<questGiver>吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/avian/default",
+    "value": [
+      "久等了！能帮我把它交付给<questGiver>吗？",
+      "给你！请把这个包裹带给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/floran/default",
+    "value": [
+      "完成成成啦！请帮我把这个包裹带给<questGiver>。",
+      "拿着这东西！帮我把这个包裹带给<questGiver>，好吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/glitch/default",
+    "value": [
+      "高兴。完成啦。能帮我把它交付给<questGiver>吗？",
+      "满意。帮我把这个包裹带给<questGiver>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hat/crafted/hylotl/default",
+    "value": [
+      "如果让我说的话，真是细腻的手艺！能帮我把这个包裹带给<questGiver>吗？",
+      "我很满意自己的技艺！你能帮我把它交付给<questGiver>吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/default/default",
+    "value": [
+      "哦，你有我们需要的原材料？稍等一会儿……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/human/default",
+    "value": [
+      "哦，你有我们需要的原材料？稍等一会儿……",
+      "你带来了材料？太好了，稍等片刻……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/apex/default",
+    "value": [
+      "你已经得到材料了？请耐心等待，我现在只需要直接制作……",
+      "感谢你为我带来了材料——给我一点时间我就能做出它……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/avian/default",
+    "value": [
+      "你带来了那些原材料？稍等片刻……",
+      "你带来了材料？那我就只用去制作它了，给我一点时间……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/floran/default",
+    "value": [
+      "你带了东西西西给叶族人？给叶族人一点时间来制制制作！",
+      "你为叶族人带来了东西西西？叶族人需要片刻来制制制作……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/glitch/default",
+    "value": [
+      "渴望。你带了材料给我——请给我一点时间来制作它……",
+      "耐心。你带来了我们需要的原材料！在我制作时请稍等一会儿。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafting/hylotl/default",
+    "value": [
+      "谢谢你为带来了原材料。在我为<questGiver>制作时请平静地等待。",
+      "我已经迫不及待要动手了。谢谢你带来这些东西。给我一点时间……"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/default/default",
+    "value": [
+      "拿着！帮我把这个包裹带给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/human/default",
+    "value": [
+      "拿着！请帮我把这个包裹带给<questGiver>。",
+      "那么……完成了！把这个包裹带给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/apex/default",
+    "value": [
+      "感谢你的耐心。这个包裹——请把它交付给<questGiver>。",
+      "终于完成了！久等了。能帮我把这个包裹转交给<questGiver>吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/avian/default",
+    "value": [
+      "久等了！能帮我把它交付给<questGiver>吗？",
+      "给你！请把这个包裹带给<questGiver>。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/floran/default",
+    "value": [
+      "完成成成啦！请帮我把这个包裹带给<questGiver>。",
+      "拿着这东西！帮我把这个包裹带给<questGiver>，好吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/glitch/default",
+    "value": [
+      "高兴。完成啦。能帮我把它交付给<questGiver>吗？",
+      "满意。帮我把这个包裹带给<questGiver>！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helmet/crafted/hylotl/default",
+    "value": [
+      "如果让我说的话，真是细腻的手艺！能帮我把这个包裹带给<questGiver>吗？",
+      "我很满意自己的技艺！你能帮我把它交付给<questGiver>吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/default/default",
+    "value": [
+      "谢谢你的货物，这是给<questGiver>的包裹。烦请转达我的问候！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/human/default",
+    "value": [
+      "谢谢你的货物，这是给<questGiver>的包裹。烦请转达我的问候！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/apex/default",
+    "value": [
+      "你是代表<questGiver>而来？拿着这个包裹，谢谢你的货物。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/avian/default",
+    "value": [
+      "谢谢你带来这些材料。这是<questGiver>订购的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/floran/default",
+    "value": [
+      "你带来了这些原原原料？这是<questGiver>的包裹！别弄丢丢丢了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/glitch/default",
+    "value": [
+      "专业。你带来了材料？这样我就可以做生意了。把这包裹带给<questGiver>，劳驾！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/new_stock/trade/hylotl/default",
+    "value": [
+      "和你做生意很愉快。谢谢你带来的材料。请把这个包裹交给<questGiver>。"
+    ]
+  }
+]

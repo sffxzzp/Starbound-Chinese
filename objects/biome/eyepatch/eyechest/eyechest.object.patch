@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个由金晴火眼密封着的箱子。值得看一下入面的东西。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球箱子t"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球箱子"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这箱子让我不敢看里面是啥。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这眼睛可能是用来威胁窃贼用的。至少对我来说是这样。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人踢踢踢箱子的眼，然后打开了。偷偷偷。"},

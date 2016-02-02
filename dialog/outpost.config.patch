@@ -1,0 +1,421 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default",
+    "value": [
+      "我和你没什么好说的。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default",
+    "value": [
+      "你看上去不像科技发展部的人…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/human",
+    "value": [
+      "啊，看到我们当中有人类真是再好不过了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/apex",
+    "value": [
+      "你冒险回到这里，贱民。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/avian",
+    "value": [
+      "你好，翼族人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/floran",
+    "value": [
+      "一个叶族人。哦。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/glitch",
+    "value": [
+      "你好啊，电子人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/hylotl",
+    "value": [
+      "你好啊，鲛人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default",
+    "value": [
+      "我不确定我是否想知道你到底是谁。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/human",
+    "value": [
+      "哦，你好。有光滑的皮肤的人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/apex",
+    "value": [
+      "不要靠得太近，猿族人。你身上有味道。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/avian",
+    "value": [
+      "你好，翼族人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/floran",
+    "value": [
+      "滚！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/glitch",
+    "value": [
+      "哦，一个机器人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/hylotl",
+    "value": [
+      "啊，终于有个会欣赏我的人来了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default",
+    "value": [
+      "愿你有幸福的一天，陌生人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human",
+    "value": [
+      "你好，人类。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/apex",
+    "value": [
+      "你好，猿族人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian",
+    "value": [
+      "你好，翼族同胞。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/floran",
+    "value": [
+      "噢…一个叶族。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/glitch",
+    "value": [
+      "你好啊，电子人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/hylotl",
+    "value": [
+      "噢，一个鲛人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/default",
+    "value": [
+      "祝你有美好的一天。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/human",
+    "value": [
+      "哟！",
+      "嘿，很高兴见到你。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/apex",
+    "value": [
+      "一只会说话的猴子。酷。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/avian",
+    "value": [
+      "嘿，是只大鸟！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/floran",
+    "value": [
+      "一个生命力顽强的巨型三裂行走植物！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/glitch",
+    "value": [
+      "喔，赞，一个机器人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/hylotl",
+    "value": [
+      "哦嘿，一条大鱼。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default",
+    "value": [
+      "奇奇奇怪的东西。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/human",
+    "value": [
+      "肉人！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/apex",
+    "value": [
+      "叶族人想从猴子人的拥抱中逃脱。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/avian",
+    "value": [
+      "鸟人！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/floran",
+    "value": [
+      "叶族人！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/glitch",
+    "value": [
+      "叶族人欢迎金属人！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/hylotl",
+    "value": [
+      "咝咝~~"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default",
+    "value": [
+      "疑惑。你是什么物种？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/human",
+    "value": [
+      "优越。弱小的人类。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/apex",
+    "value": [
+      "震惊。长满毛的生物！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/avian",
+    "value": [
+      "查询。请问你的羽毛是自己组装的，还是由工匠安装的？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/floran",
+    "value": [
+      "友好。你好，植物人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch",
+    "value": [
+      "友好。你好，朋友。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/hylotl",
+    "value": [
+      "怀疑。对于一个生活在水下的物种，你闻起来不怎么干净。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/default/default",
+    "value": [
+      "帮帮我！",
+      "救命！",
+      "我被搭讪了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/glitch/default",
+    "value": [
+      "恐惧。帮帮我！",
+      "惊吓。请不要伤害我。",
+      "咒骂。我被搭讪了。",
+      "害怕。离我远点儿！",
+      "惊悚。救命！",
+      "震惊。不！离我远点儿！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpme/floran/default",
+    "value": [
+      "到了刺刺刺的时间了！",
+      "叶族人受伤了！",
+      "叶族人还没准备好打猎！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/default/default",
+    "value": [
+      "你都干了些什么？！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/glitch/default",
+    "value": [
+      "恐惧。谁来救我！",
+      "惊吓。请不要伤害我！",
+      "害怕。请离开我！",
+      "惊悚。救命！",
+      "震惊。你干了什么？！",
+      "正义。我会写邮件抗议！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/helpthem/floran/default",
+    "value": [
+      "到了刺刺刺的时间了！",
+      "叶族人受伤了！",
+      "叶族人还没准备好打猎！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/default/default",
+    "value": [
+      "抓住他们！",
+      "我要报仇！",
+      "替我抓住他们！",
+      "别让他们跑了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/glitch/default",
+    "value": [
+      "激励。把他们全砍死！",
+      "激动。我要报仇！",
+      "侵略。把他打倒！",
+      "复仇。别让他们跑了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/encourage/floran/default",
+    "value": [
+      "刺刺刺死入侵者！",
+      "叶族人开始报复了！",
+      "碾碎他们！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/default/default",
+    "value": [
+      "呼，我觉得我跑掉了。",
+      "我拼了命逃跑！",
+      "这里安全么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/glitch/default",
+    "value": [
+      "泄气。呼。我觉得我跑掉了。",
+      "感激。我拼了命逃跑！",
+      "如意。如果我能继续坚持的话。",
+      "希望。我安全了么？",
+      "尴尬。我觉得我漏了点油。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/flee/safe/floran/default",
+    "value": [
+      "叶族人现在安安安全了。",
+      "叶族人总算是没有被刺刺刺到。",
+      "叶族人手上没有武器是他们的幸运。",
+      "救赎！"
+    ]
+  }
+]

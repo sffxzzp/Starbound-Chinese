@@ -1,2 +1,9 @@
-[{"op":"replace","path":"/description","value":"一套锁橱,用来储存东西很不错."},
-{"op":"replace","path":"/shortdescription","value":"月球基地锁橱"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一套锁橱，用来储存东西很不错。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地锁橱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "堆叠储存！一个节省空间的完美方案。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "你可以在这里存放你的随身物品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "锁锁是为了不让东西出来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "敏感。六个金属储物柜组成一套。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "储物柜是为了把你的东西分门别类。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这玩意让我想起了学生时代（日呆你好）。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "六个没锁的储物柜。"}]

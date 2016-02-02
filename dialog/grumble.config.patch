@@ -1,0 +1,352 @@
+[
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default",
+    "value": [
+      "我家的一些东西变了，我不喜欢这样！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/human/default",
+    "value": [
+      "我的家里少了些什么…",
+      "我的家的布局变了，这不太对…",
+      "这里有什么东西变了位置，感觉好空…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/floran/default",
+    "value": [
+      "我的东东东西变了，我不喜欢这样！",
+      "我的家变变变了，我不开心！",
+      "你能帮我把我的家变回原来的样样样子么"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/glitch/default",
+    "value": [
+      "疑惑。这儿有些东西变了。",
+      "失望。我喜欢我的家原来的样子。",
+      "期望。我希望我的家变回原来的样子。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/avian/default",
+    "value": [
+      "我的家的布局跟以前不一样了…",
+      "这产生了令人不安的变化。",
+      "你能帮我把家里的布局改回去么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/apex/default",
+    "value": [
+      "如果你能恢复我的家的原始装饰，我会很感激的。",
+      "你能帮忙恢复我的家的外貌么？",
+      "我家里少了些东西。你能帮忙修好它吗？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/hylotl/default",
+    "value": [
+      "我的家里有不平恒的暗流…",
+      "我家里有东西被拿走了？真伤心…",
+      "我的家现在的样子有些令人不安…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/novakid/default",
+    "value": [
+      "这里发生了不好的事…",
+      "这个老地方现在一点也没熟悉的感觉了。",
+      "有一些笨蛋从我家拿走了些东西？这不对。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default",
+    "value": [
+      "我的家需要修理!"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/human/default",
+    "value": [
+      "我的家需要修理…",
+      "这儿坏了，你能搞定吗？",
+      "我需要修修这里！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/floran/default",
+    "value": [
+      "这墙坏坏坏了！",
+      "能请请请你修好我的家么？",
+      "我的家需要维修修修！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/glitch/default",
+    "value": [
+      "不快。我的家坏了。",
+      "关注。这里需要维修。",
+      "需求。你能在一切变得更糟糕前修好我的家么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/avian/default",
+    "value": [
+      "我的家的损坏让我非常在意…",
+      "如果你能修好我的家我会很感激的。",
+      "嗯，我的家里好像有堵墙坏了。你能修好它么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/apex/default",
+    "value": [
+      "我发现家里有堵墙坏了。你能帮忙吗？",
+      "我想报告一下我的家里有几处损坏。",
+      "我的家有一些结构损坏，我希望能修好它。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/hylotl/default",
+    "value": [
+      "我的家出问题了。这令人不快。",
+      "你有没有感到我的家里哪里不对？它好像坏了…",
+      "我发现这堵墙坏了，也许你能帮忙修好它。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/novakid/default",
+    "value": [
+      "我不是唯一感到这里透风了的人，对吧？",
+      "我看到周围有一些损坏…",
+      "这里有什么东西歪了，而且肯定不是我。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default",
+    "value": [
+      "我想这是我的地盘！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/human/default",
+    "value": [
+      "这不是我的地盘吗？",
+      "你在试着让另一个人住到我的家里来？！",
+      "为什么你会放另一个契约在这？！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/floran/default",
+    "value": [
+      "其其其他人不可以搬到这来！",
+      "为什么会有有有其他人试着住进来？",
+      "我不能和其其其他人住在一起！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/glitch/default",
+    "value": [
+      "震惊。你在试着让另一个租户住到这里？",
+      "疑惑。为何会有另一个人试着住进来？",
+      "伤心。我本以为这里只属于我。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/avian/default",
+    "value": [
+      "为什么会有另一个人试着搬到我家里？",
+      "你把我的家又租出去了？这绝对是个错误…",
+      "家里又有了一个契约，这令人沮丧。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/apex/default",
+    "value": [
+      "家里又有了一个契约，这是个失误，对吧？",
+      "这房子不是我订下来的么？为什么又租出去了？",
+      "我本以为这幢房子只属于我。真伤心。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/hylotl/default",
+    "value": [
+      "怎么能让另一个人搬进来？这是我的私人空间！",
+      "当我的家又租给别人时要我怎么保持冷静？",
+      "为什么这会有另一个契约？也许这不是我的家？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/novakid/default",
+    "value": [
+      "一些亡命之徒在为我的财产缠斗？",
+      "这块地是我一个人的，对吧？",
+      "怎么会有人走了之后把契约留在这里？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default",
+    "value": [
+      "这种条件我住不下去！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/human/default",
+    "value": [
+      "这种条件我住不下去！",
+      "这条件不能接受…",
+      "这条件，我忍不了多久了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/floran/default",
+    "value": [
+      "这这这种地方我住不下去！",
+      "这种条条条件不行！",
+      "你还是没有修好我家里的东东东西！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/glitch/default",
+    "value": [
+      "烦恼。这条件令人疲惫。",
+      "失望。我希望有人把我的请求听进去了。",
+      "不快。我的家还没修好。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/avian/default",
+    "value": [
+      "这太过分了，我对现状很不满意。",
+      "我不想生活在这种条件下了。",
+      "为什么我的家还是这样？！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/apex/default",
+    "value": [
+      "我的改造哭诉被忽视了…",
+      "我的家和我住进来的时候不一样了…",
+      "我的家的环境太可怕了，我觉得我被忽视了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/hylotl/default",
+    "value": [
+      "当我的请求被无视时，我很难保持冷静。",
+      "我家的状况我不能接受。",
+      "我不能在一个这么不完美的家里生活…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/novakid/default",
+    "value": [
+      "这地方现在全是碎片。",
+      "这样的守车不是我所期望的，真让人失望。",
+      "我不想碎嘴，然而这地方肯定和原来大不相同。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default",
+    "value": [
+      "我受够了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/human/default",
+    "value": [
+      "我受够了！",
+      "就这样吧，我放弃了。是时候到别处去了！",
+      "我放弃了，我会去别的地方！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/floran/default",
+    "value": [
+      "这这这情况足够久了！",
+      "我要离开这这这里！",
+      "我再也不会住在这这这了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/glitch/default",
+    "value": [
+      "不堪重负。我要离开这种地方。",
+      "愤怒。我被彻底忽视了。",
+      "失望。这种情况下，是时候离开了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/avian/default",
+    "value": [
+      "我要搬走找一个新家。够了，真是够了。",
+      "是时候找个更好的家了。",
+      "家和我搬进来时不一样了。是时候离开去找另一个了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/apex/default",
+    "value": [
+      "我搬到这是要追寻更好的生活，但我再也不愿意住在这里了。",
+      "我的家一直没有变回原样，我要走了。",
+      "离去令人伤心，但我的抱怨都被忽略了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/hylotl/default",
+    "value": [
+      "是时候搬走了，这个家完全不符合我的标准了。",
+      "我曾经把这叫做家，但我再也不这么认为了。",
+      "也许我应该找另一个能让我把它叫做家的地方了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/novakid/default",
+    "value": [
+      "到时候了！我走了。",
+      "告诉他们！是我离开小镇的时候了。",
+      "把他们移走！是我离开的时候了。"
+    ]
+  }
+]

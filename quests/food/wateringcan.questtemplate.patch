@@ -1,3 +1,3 @@
 [{"op":"replace","path":"/title","value":"^green;我可以的！"},
-{"op":"replace","path":"/text","value":"为了种植东西，我需要保持土壤湿润。我应该^orange;制作一个木水壶^white;。"},
+{"op":"replace","path":"/text","value":"为了种植东西，我需要保持土壤湿润。我应该^orange;制作一个木制喷壶^white;。"},
 {"op":"replace","path":"/completionText","value":"很好！用这个水壶和一个锄头我就可以准备开始种田了！"}]

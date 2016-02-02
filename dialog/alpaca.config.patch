@@ -1,0 +1,146 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default",
+    "value": [
+      "尼身上总是光溜溜的玛？",
+      "我跟尼说,我在附近没看到过像尼这样的人！",
+      "我渴望去狠揍那些臭虫一顿。",
+      "尼是勇士，还是软蛋？",
+      "在我还是一根小草的时候，我就成了一名战士。",
+      "一些年轻的游客曾经问我是不是穿了一件演出服…",
+      "勇气如钢。",
+      "记得只要有时间就要小睡一下！",
+      "保持冷静",
+      "心情愉快，朋友！",
+      "吃哒好才能干的狠！",
+      "我不在乎尼的外表，只在乎尼有没有一颗坚强的心！",
+      "我看起来像是穿着演出服吗？只是问问，没别的意思…",
+      "没有像我一样的毛皮大衣尼一定很冷",
+      "我想揍小动物。",
+      "许多和尼一样的人玛？",
+      "我和尼说，坚硬的石头家具让俺们草泥马可高兴了。",
+      "尼不像一个没卵的人。俺尊敬尼"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default",
+    "value": [
+      "我家里搬进来什么东西了？",
+      "尼动了我的东西？",
+      "这里有莫名的东西…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default",
+    "value": [
+      "这里有点漏风…",
+      "尼可以把这里的墙清理一下玛？",
+      "我家里有点小破！尼能修一下玛？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default",
+    "value": [
+      "这八应该有另一个契约！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default",
+    "value": [
+      "我觉得不能在这里住下去了！",
+      "这里不适合草泥马住！",
+      "我受够了尼！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default",
+    "value": [
+      "我受够尼了！我要搬家！",
+      "我不会再和尼一起生活下去了！",
+      "这日子没法过了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default",
+    "value": [
+      "尼找我？",
+      "需要我做什么？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default",
+    "value": [
+      "为了答谢尼的帮助给尼个礼物。",
+      "拿着这个，尼是俺的恩人！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default",
+    "value": [
+      "我太泥马惊讶了，尼又把脸凑过来挨揍了！",
+      "尼还敢回来？削尼！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default",
+    "value": [
+      "哪里跑！",
+      "尼个没种的货！",
+      "别以为尼可以全身而退！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default",
+    "value": [
+      "尼玩完了！",
+      "少年，我们又赢了！",
+      "这就是尼的下场！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default",
+    "value": [
+      "跑吧，尼这个懦夫！",
+      "有种别回来！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default",
+    "value": [
+      "尼去哪儿了？",
+      "笨蛋！回来！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default",
+    "value": [
+      "我会回去找尼的！",
+      "慢点！我跟不上尼！",
+      "尼是怎么到那儿的？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default",
+    "value": [
+      "打那个无赖！",
+      "让那个懦夫受伤！",
+      "削他！",
+      "把他剁成渣！"
+    ]
+  }
+]

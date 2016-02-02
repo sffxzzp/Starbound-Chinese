@@ -1,2 +1,9 @@
-[{"op":"replace","path":"/description","value":"这门密闭，并且使用令人难以置信的强大的材料制成."},
-{"op":"replace","path":"/shortdescription","value":"月球基地防爆门"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这门气密，并且使用令人难以置信的强大的材料制成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地防爆门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这门不但坚固而且密闭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门倾斜的角度令人好奇。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这扇门看起来很重。叶族人可不想被压扁扁。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。这个门道似乎是斜的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个门似乎非常靠谱的能把人拒之门外，或收入其中。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个门是斜着长的，也许是为了提醒我们从不同角度看世界。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这就是个普通的门，不过歪了。"}]

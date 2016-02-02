@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"它腹部的化学反应使它呼出的灼热气体有毒性。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尘烁手办"}]

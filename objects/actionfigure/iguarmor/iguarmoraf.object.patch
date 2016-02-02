@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"武装蜥蜴不是富有进攻性的物种，但它尾巴上的尖刺能造成严重的伤害。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "武装蜥蜴手办"}]

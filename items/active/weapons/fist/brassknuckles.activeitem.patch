@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "难以击碎这些关节。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黄铜护具"}]
+[{ "op" : "replace", "path" : "/description", "value" : "难以击碎的指虎。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜指虎"}]

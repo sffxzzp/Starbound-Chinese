@@ -1,0 +1,239 @@
+[
+  {
+    "op": "replace",
+    "path": "/hail/default/default",
+    "value": [
+      "吼！来感受蘑茹族的习俗！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/default",
+    "value": [
+      "吼！来感受蘑茹族的习俗！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/human",
+    "value": [
+      "吼！哈勃人的肉要炒来用！",
+      "吼这肉。看起来压得怪异！",
+      "哈吼-吴克！剪掉毯在头的来画图！",
+      "吼呀！有关部门跳起用小蘑菇锤更危险！",
+      "吼！哈吼！",
+      "哈尔玛，秒杀圆形和怪异！",
+      "肉吼！享受能打爆屋子的小蘑菇锤吗？",
+      "哈哈吼！我们的建材不含肉。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/avian",
+    "value": [
+      "吼翼！扭曲版神奇女侠不是克鲁西斯的小孩！",
+      "哈吼 傻啄。能粉碎小蘑菇锤的不是屋子。",
+      "哈哈吼, 你的波纹攻击不会成为云驱逐舰。",
+      "啊吼，翼片！修好蓬松的啄。嘶哩！",
+      "哈巴吼，愚蠢的翼片！ <逗人乐的声音> 俯冲！",
+      "吼！吼吼！小蘑菇锤的砍击不是和平的接吻！",
+      "吼哈巴 翼片，想不要啄？",
+      "吼？想要跟食物来个磨擦拥抱？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/floran",
+    "value": [
+      "吼！吼吼茹！植物天然吻脸！",
+      "哈吼！不是草是植物！",
+      "吼。半数抓去粉碎室當建材。",
+      "吻脸植物！不止半数嘎吱鱼！<疯狂的声音>",
+      "哈哈哈吼，鯉魚屋炒植物！看起來是。",
+      "哈哈吼嘎吱鱼，没有橡木　茹　哈蜜瓜 ！",
+      "植物吼！吻臉減慢長大，一半！？",
+      "吼。吼植物。先知秒殺剪刀茹，遺傳?"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/apex",
+    "value": [
+      "吼。发物。",
+      "吼呼。发物砍不是草。",
+      "吼！不要砍巨大的发物。懂不？",
+      "哈吼，发物。请不要砍蘑茹。",
+      "吼。发物发脸鲤鱼木茹。",
+      "请唱，茹人工作最好！",
+      "吼。不要砍发物。哈吼！",
+      "吼！跳砍，发物！一半嘎吱鱼？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/hylotl",
+    "value": [
+      "哈哈吼?嘎吱鱼。。。",
+      "不！<不知所云喘氣的聲音>",
+      "没一半蘑茹，嘎吱鱼！没有屋子，砍！",
+      "吻脸植物不要剪刀茹，嘎吱鱼。威胁！",
+      "吱。吼不要。",
+      "吼。正在追捕某品牌，嘎吱鱼。",
+      "<愤怒的喃喃自语的声音>",
+      "没屋，嘎吱鱼！没没没。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/hail/floran/glitch",
+    "value": [
+      "吼，铮铮兽。哈巴不要复制太空茹。",
+      "哈吼，可以。不要砍建材，发物？拍打可以？",
+      "哈哈吼。蘑茹不要植物？",
+      "吼。吼。小铮铮兽屋子，半个茹人。",
+      "铮铮兽！砍鲤鱼，唱歌。",
+      "吼铮铮兽。唱一半，不能？",
+      "吼。茹人不要电子草。必须新鲜！",
+      "吼。铮铮兽一半我和植物？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default",
+    "value": [
+      "没蘑茹砍！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default",
+    "value": [
+      "砍！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default",
+    "value": [
+      "砍就没蘑茹！快砍！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default",
+    "value": [
+      "哈吼老熟料！",
+      "哈哈吼！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/default",
+    "value": [
+      "吼！交换像素！碰杯碰杯！",
+      "吼熟料。哈比蘑茹针织？",
+      "哈吼老熟料。哈比砍砍最好！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/floran",
+    "value": [
+      "哈哈吼，植物！交换像素！砍碰杯！",
+      "吼，不要草植物！哈比像素，必须弹响弹响。",
+      "吼。植物熟料 请哈巴蘑茹？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/start/default/hylotl",
+    "value": [
+      "吼。吼。嘎吱鱼不要一半碰杯。",
+      "嘎吱鱼。不要破坏针织",
+      "吼，嘎吱鱼。不要蘑茹哈比针织屋。明白？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/end/default/default",
+    "value": [
+      "呼。再来碰杯！",
+      "吼呼！随时碰杯都可。",
+      "呼呼。碰杯不要发草像素！",
+      "呼！请再碰杯！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/follow/default/default",
+    "value": [
+      "不要哈呼！来碰杯！",
+      "不要碰杯，來吼蘑茹。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default",
+    "value": [
+      "哈哈呼，熟料！交换像素！砍碰杯！",
+      "哈吼老熟料。哈比砍砍最好！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default",
+    "value": [
+      "碰杯！",
+      "砍最好！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default",
+    "value": [
+      "沒蘑茹嗎？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default",
+    "value": [
+      "不要修！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default",
+    "value": [
+      "不是你的家是我的蘑茹家！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default",
+    "value": [
+      "不要碰！不然不理！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default",
+    "value": [
+      "不要玩，女娲蘑茹家不要！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default",
+    "value": [
+      "碰杯？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default",
+    "value": [
+      "呼呼多謝這家！"
+    ]
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default",
+    "value": [
+      "又是你！",
+      "你又回来了！",
+      "啊哈！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default",
+    "value": [
+      "惊讶。你又回来了。",
+      "攻击。你最终还是回来见证自己的失败了。",
+      "勇敢。我准备好和你再次决斗了",
+      "生气。上一次你跑了但这次我会彻底打败你！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default",
+    "value": [
+      "他们回来接受戳戳戳咯！",
+      "狩狩狩猎继续",
+      "你你回来，回来！",
+      "叶族人这次要戳戳戳死你！",
+      "叶族人不会再再让你溜掉啦！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default",
+    "value": [
+      "捉迷藏时间到啦！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/apex/default",
+    "value": [
+      "间谍！干掉他们！",
+      "交火！",
+      "列队！输出！",
+      "他们想偷我们的战利品。",
+      "猴毛在上，有入侵者！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/avian/default",
+    "value": [
+      "你的生命被没收了。",
+      "战斗开始！",
+      "寻求伤害会让你丢了性命。",
+      "准备好牺牲献祭吧。",
+      "如果我能飞，就能让你死的更快些了。",
+      "你会为这场战斗后悔的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default",
+    "value": [
+      "晚晚晚饭来来来啦！",
+      "消消消灭入侵者！",
+      "是时候戳戳戳啦！",
+      "开始打架架啦！",
+      "狩狩狩猎时间到啦！",
+      "别别别过来！",
+      "叶族人要切切了切了你！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/glitch",
+    "value": [
+      "叶族人后后后悔了。",
+      "不是是是私人恩怨..."
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default",
+    "value": [
+      "警告。一个旅行者接近了！",
+      "瞄准。吃我一发。",
+      "冷静。这对我来说不是问题。",
+      "鲁莽。战斗即将开始！",
+      "勇敢。我一个人就能打死这个蠢驴。",
+      "渴望。结束你的最后一次呼吸吧",
+      "追赶。准备好下线了！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/floran",
+    "value": [
+      "遗憾。为了生存我们必须这么做。",
+      "歉意。你必须死，叶族。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/default",
+    "value": [
+      "战斗的荣耀！",
+      "让我们开始战斗之舞吧！",
+      "我想...我已经开始对打这一架后悔了",
+      "鲛人的武功比谁都好，时间会证明这一点。",
+      "我的功夫可不是花拳绣腿。",
+      "我会为荣誉而战！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/hylotl/floran",
+    "value": [
+      "你看起来像煮白菜。我想知道尝起来会不会好吃一点。",
+      "我要亲手杀了你，没教养的怪物。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/default",
+    "value": [
+      "嘿，给我回来！",
+      "你已经死了（北斗脸）",
+      "开打！",
+      "我们开始吧！",
+      "我扣在扳机上的手指开始痒了",
+      "我的手指感到愉悦了",
+      "让我们抢走他的掉落物！",
+      "我们会快速杀了你，快到你根本意识不到是什么击中了你！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default",
+    "value": [
+      "成功.",
+      "胜利！",
+      "再一次胜利！",
+      "Yes！",
+      "这就是你的下场！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/avian/default",
+    "value": [
+      "这天是我们的！",
+      "我的胜利是注定的！",
+      "命运女神在今天对我微笑了！",
+      "胜利属于我们！",
+      "我们是冠军！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/apex/default",
+    "value": [
+      "目标已经倒下。",
+      "区域已经清除完毕。",
+      "目标已经被和谐。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/hylotl/default",
+    "value": [
+      "战斗结束了...",
+      "结果就是这样。",
+      "他们会在诗歌传唱这场史诗级的战斗！",
+      "荣誉属于我们！",
+      "守住自己的性命是一种高贵的胜利。",
+      "终于结束了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default",
+    "value": [
+      "满足。又一场胜利。",
+      "满足。再一次收工。",
+      "激动。你看到那让人激动的结果了么？",
+      "疲惫。我没准备好打这一架的说。",
+      "满意。他们被击败了！",
+      "高兴。长胜将军就是我！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default",
+    "value": [
+      "成成功啦喀喀喀！",
+      "戳和射的盛宴结束啦啦啦！",
+      "胜利尝尝尝起来不错。",
+      "叶叶族族人又赢啦",
+      "狩猎结素~啦",
+      "叶族☆大胜利！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default",
+    "value": [
+      "我们会再见面的。",
+      "这事没完！",
+      "你给我等着！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default",
+    "value": [
+      "恼怒。那蠢驴跟丢了。",
+      "沮丧。我知道你就躲在什么地方。",
+      "耐心。我会等待着我们再一次见面的。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default",
+    "value": [
+      "他们肯定会悄悄溜回来的！",
+      "下次他们回来,叶族人要好好戳戳戳他们。",
+      "叶族人会找找别人捅个痛快。",
+      "他们一回来，叶族人就戳戳戳。",
+      "叶族人还是是能闻到闻到猎物的味道。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default",
+    "value": [
+      "你刚才去哪了？",
+      "我瞅不到你了！",
+      "这他喵的什么鬼！？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default",
+    "value": [
+      "恼怒。那个笨蛋跑出了我的视野！",
+      "担心.我看不到那个笨蛋了。",
+      "困惑。他们跑哪去了..."
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default",
+    "value": [
+      "叶族人看不见他们了。",
+      "他们躲到哪里去了呢。",
+      "猎物跑出了我的视线...",
+      "...",
+      "叶族人会很快,很快再遇到你的！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default",
+    "value": [
+      "给我滚出来！",
+      "如果我能买到瞬移科技，我就一定能抓到你！",
+      "你是怎么溜到那去的？"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default",
+    "value": [
+      "恼怒。 他们逃开了我的搜索！",
+      "顾虑。我侦查不到他们了。",
+      "挫败。我怎么没有想到带把弩来追你。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default",
+    "value": [
+      "太远~了。。叶族人戳不到",
+      "帮我戳戳他们，叶族人够不到。",
+      "过来点让叶族人捅一下！",
+      "猎物跑太~远了QAQ",
+      "叶族人抓抓不到TAT"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default",
+    "value": [
+      "我没法接近他们。",
+      "加油，你能追上他们的。",
+      "你挡道了！",
+      "砍翻他们！",
+      "你不能这样！",
+      "抓住他们！"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default",
+    "value": [
+      "着迷。插倒他们！",
+      "鼓励。就这么做没错！",
+      "支持。抗住那个蠢驴。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default",
+    "value": [
+      "狠狠的戳~他们！",
+      "液嘶——",
+      "叶族人会帮你加加加油的！",
+      "把他们按倒狠狠的戳~",
+      "叶族人兴奋啦！"
+    ]
+  }
+]

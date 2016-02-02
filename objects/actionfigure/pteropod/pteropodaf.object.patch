@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"它用发酵的水果在肚子里制成毒液。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "袋狐蝠手办"}]

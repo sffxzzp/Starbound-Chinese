@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "\"遇到新的生命形式时会感到困惑。你总觉得被监视着。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奥格尔手办"}]

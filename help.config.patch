@@ -42,8 +42,7 @@
 "snapshot":"使用方法：/snapshot <文件> x尺寸 y尺寸。以玩家为中心x、y为尺寸渲染世界景象，并保存到指定的星界边境场景文件。",
 "eval":"使用方法：/eval <lua>。在脚本处理器中测试指定的lua脚本。",
 "entityeval":"使用方法：/entityeval <lua>。在脚本处理器中测试最靠近光标的实体。",
-"fixedcamera":"使用方法：/fixedcamera。锁定屏幕的焦点，屏幕将不会移动。（可能会导致区域不生成，本来在屏幕外生成的怪物在玩家的旁边或者上方生成，用于演示。）"
-},
+"fixedcamera":"使用方法：/fixedcamera。锁定屏幕的焦点，屏幕将不会移动。（可能会导致区域不生成，本来在屏幕外生成的怪物在玩家的旁边或者上方生成，用于演示。）",
 "aimessage":"使用方法：/aimessage 信息ID。玩家接受指定ID的AI消息开关。",
 "clearaimessages":"使用方法：/clearaimessages。重设所有收到的AI信息历史，允许玩家再次看到这些信息。",
 "cinema":"使用方法：/cinema 动画路径。可用于测试指定动画。",
@@ -52,4 +51,4 @@
 "naked":"使用方法：/naked。卸下所有装备。在给角色批量替换现有装备时使用，或者，仅仅是为了好玩。",
 "enableSpawning":"使用方法：/enableSpawning。开启怪物自动生成。",
 "disableSpawning":"使用方法：/disableSpawning。关闭怪物自动生成。"
-}]
+}}]

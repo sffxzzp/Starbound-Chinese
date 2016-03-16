@@ -1,4 +1,4 @@
-[{"op":"replace","path":"/title","value":"汉化名单&按键控制"},
+[{"op":"replace","path":"/title","value":"汉化名单 & 按键控制"},
 {"op":"replace","path":"/contentPages","value":[
 
 "^green;首先感谢各位使用本组汉化。
@@ -17,28 +17,29 @@ w专治广告    Stardust    zjjxs2009
 ^red;按键控制^white;请翻下页。",
 
 "^orange;移动—WASD^white;
-跳跃—^green;[Space键]^white;
-互动—^green;[E]/[中键]^white;鼠标点击
-选择前方物品—^green;[左键]^white;鼠标点击
-选择后方物品—^green;[右键]^white;鼠标点击
-攻击(使用已装备武器)—^green;[左/右键]^white;鼠标点击
+跳跃—^green;[Space键][空格键]^white;
+互动—^green;[E]/[鼠标中键]^white;
+使用左手物品—^green;[鼠标左键]^white;
+使用右手物品—^green;[鼠标右键]^white;
+攻击(使用已装备武器)—^green;[鼠标左/右键]^white;
 选择单块—^green;[Shift键]^white;
-^orange;继续下页……^white;",
+^orange;下页继续……",
 
-"^orange;热键^white;
-制作菜单—^green;[C键]^white;
+"^orange;热键 [1/2]^white;
+基础合成—^green;[C键]^white;
 任务日志—^green;[J键]^white;
-法典—^green;[L键]^white;
-调查光标—^green;[N键]^white;
-选项/退出—^green;[Esc键]^white;
-^orange;继续下页……^white;",
+图书馆—^green;[L键]^white;
+物品探究—^green;[N键]^white;
+关闭面板/更改设置/退出—^green;[Esc键]^white;
+^orange;下页继续……",
 
-"^orange;热键继续：^white;
-投掷物品—^green;[Q键]^white;
+"^orange;热键 [2/2]^white;
+扔出物品—^green;[Q键]^white;
 切换所持物品—^green;[X键]^white;
 交换左键/右键物品—^green;[Z键]^white;
-所持快捷栏物品—^green;[0-9键]^white;或^green;[鼠标滚轮]^white;
+切换左手快捷栏物品—^green;[0-9键]^white;或^green;[鼠标滚轮]^white;
+切换右手快捷栏物品—按住^green;[Shift键]^white;后再按^green;[0-9键]^white;或使用^green;[鼠标滚轮]^white;
 快速移动物品—^green;[Shift键+点击]^white;
-拆分物品组—^green;[右键]^white;鼠标点击" 
+拆分物品组—^green;[鼠标右键]" 
 
 ]}]

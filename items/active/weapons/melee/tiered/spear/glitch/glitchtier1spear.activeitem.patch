@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "Ping。一把基础的矛。（译注：指ping命令）"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "Ping"}]

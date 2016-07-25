@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "月球能源基地"},
+{"op": "replace","path": "/text","value": "我可以帮你维修你的船，但是这需要20个^orange;能源水晶^reset;…你最好^green;到月球能源基地上^reset;去搞这玩意，坐标已经发到^green;你飞船上的SAIL^reset;里面了"},
+{"op": "replace","path": "/completionText","value": "非常好，年轻人！这些足够了！我现在就和我的企鹅们一起修理你那艘飞船！"},
+{"op": "replace","path": "/scriptConfig/descriptions/findCrystals","value": "从^orange;月球能源基地^white;中^green;取得^orange;能源水晶^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "^green;回到^orange;前哨站^white;的^orange;船坞船长^reset;那里"},
+{"op": "replace","path": "/scriptConfig/missionRadioMessage/text","value": "我已经收到了^orange;月球能源基地^reset;的坐标。^green;回到飞船^reset;，你可以用我的任务界面直接传送过去。"}]

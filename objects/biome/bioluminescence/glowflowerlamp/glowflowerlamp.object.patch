@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一朵似乎会发出令人愉快的光芒的花。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "萤光花灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这光让我想起了一个猿族的实验，但没那么毛骨悚然。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这花散发出温暖的光芒。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想要发光的花来照亮自己的家。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "全神贯注。这种灯的光线令人陶醉其中。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这灯的气味是我闻过最好的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一把精致的灯展现出大自然的美丽。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "用这花来做成一盏灯是个好主意。"}]

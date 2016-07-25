@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这扇门不适合保持屋内的环境。"},
-{"op":"replace","path":"/shortdescription","value":"竹门"},
-{"op":"replace","path":"/apexDescription","value":"用竹子编的门。比看起来的要坚固。"},
-{"op":"replace","path":"/avianDescription","value":"用植物做的门感觉和石头做的一样结实。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人把竹子种的格外强强强壮。和金属一样结结结实，可以取代金属。 "},
-{"op":"replace","path":"/glitchDescription","value":"惊讶。这扇门是有机材料做的，但结实如钢。"},
-{"op":"replace","path":"/humanDescription","value":"在竹子相汇的地方有小缺口。"},
-{"op":"replace","path":"/hylotlDescription","value":"叶族人看起来可以把竹子弯成他们想要的形状。很了不起嘛。"}]

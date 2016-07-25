@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"上面写着‘提醒全体囚犯：你们要在这里生活。’"},
-{"op":"replace","path":"/shortdescription","value":"犯人须知"},
-{"op":"replace","path":"/apexDescription","value":"一个令人绝望的暗示，让我想起了科学进展部。"},
-{"op":"replace","path":"/avianDescription","value":"真蠢。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人认为上面写写写的是‘过得愉快’"},
-{"op":"replace","path":"/glitchDescription","value":"质问：这对任何罪行来说，都是一个过于严厉的判决。"},
-{"op":"replace","path":"/humanDescription","value":"监狱的幽默，只有‘某些’囚犯要在这里生活，你个逗比。"},
-{"op":"replace","path":"/hylotlDescription","value":"人类的监狱体制比我最初想象的更压抑。"}]

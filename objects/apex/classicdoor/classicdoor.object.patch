@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "灌了香蕉的木头做成的古典门。把手上镀了金。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古典门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "把手是纯金的，木头散发出香蕉的味道。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这样一扇门只会对极少人开。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "猿人黄色水果的味味味道从木头上飘出来。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "恼怒。传感器显示木头上有种无法识别的味道。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇门…是香蕉味的？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "香薰木头，这在鲛人工艺品中很常见。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "那门把手看起来着实闪瞎人狗眼。"}]

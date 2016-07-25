@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一扇由折射玻璃做的光滑的门。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "棱镜门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇光滑的 玻璃门，看起来闪耀着七色光。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇做工很好的玻璃门。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人可以看看看穿门…不能用用用于埋埋埋伏！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这么光滑的玻璃很难自然产生。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这门真的捕捉到了光。真可爱。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我真的很欣赏这门。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这门就像风暴过后的湖水一样闪亮。"}]

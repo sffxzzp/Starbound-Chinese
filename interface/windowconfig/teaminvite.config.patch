@@ -1,4 +1,4 @@
-[{"op":"replace","path":"/paneLayout/windowtitle/title","value":" - 警告 - "},
-{"op":"replace","path":"/paneLayout/labelPlayerName/value","value":"输入玩家姓名。"},
-{"op":"replace","path":"/paneLayout/ok/caption","value":"邀请"},
-{"op":"replace","path":"/paneLayout/name/hint","value":"玩家名"}]
+[{"op": "replace","path": "/paneLayout/titleLabel/value","value": "邀请加入队伍"},
+{"op": "replace","path": "/paneLayout/name/hint","value": "玩家名"},
+{"op": "replace","path": "/paneLayout/ok/caption","value": "邀请"},
+{"op": "replace","path": "/paneLayout/close/caption","value": "取消"}]

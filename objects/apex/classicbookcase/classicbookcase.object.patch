@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个装满了古典文学丛书的书柜。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古典书柜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "科技发展部限制我们可以拿到的书，我觉得它们都被烧掉了。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "啊，豪华书房的一角。翼族人敬畏书籍，虽然大多数翼族人大字不识一个。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用血和骨头在分分分享知识。气味能表达的东东东西远远比任何猿人的书书书籍来的多。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这里可能有我可以用到的知识。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个书柜是用金子装点的么？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "好书应当拿来共享。知识没有国界！"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一堆书放在一个漂亮的架子上而已。"}]

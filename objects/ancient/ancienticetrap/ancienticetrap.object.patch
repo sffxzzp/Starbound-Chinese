@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这陷阱通过喷射冰霜来阻挡入侵者。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古代冰霜陷阱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是个致命的冰霜陷阱。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个危险的冰霜装置。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "冰霜也能变得很危险险险。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。这是个致命的冰霜陷阱。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "小心提防这些致命的冰霜冲击。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "冰霜，水最致命的形态。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这冰霜陷阱就像我的冷笑话一样冷。"}]

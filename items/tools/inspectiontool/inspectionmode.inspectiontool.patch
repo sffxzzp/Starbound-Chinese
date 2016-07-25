@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "检查你周围的世界。^green;用[N]键快速选择"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "检视模式"}]

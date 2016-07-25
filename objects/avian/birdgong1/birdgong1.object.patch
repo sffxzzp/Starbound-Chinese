@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个大型金属锣。它是如此诱人，让人不禁想给它一下！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族锣"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "敲打这面锣会发出低沉的响声。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这些锣是用在神庙里以召集翼族人去做祷告的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不喜欢鸟人的噪噪噪音。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好玩。这面锣发出的声音能制造出很大的回响。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "想要控制自己不去敲这面锣可不容易。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想在海洋底下、锣发出的响声应该会大不相同吧。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我打赌敲打这东西会发出巨大的声音。"}]

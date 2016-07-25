@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"小麦---一个主食作物！"},
-{"op":"replace","path":"/shortdescription","value":"小麦种子"},
-{"op":"replace","path":"/apexDescription","value":"小麦本身是讨厌的，但可以用来做香蕉面包。"},
-{"op":"replace","path":"/avianDescription","value":"本身很美味，或者用来做面包。"},
-{"op":"replace","path":"/floranDescription","value":"小麦有耳朵，叶族人摘掉耳朵。"},
-{"op":"replace","path":"/glitchDescription","value":"科学模式。电子人知道小麦所有的已发现的用途。"},
-{"op":"replace","path":"/humanDescription","value":"小麦，是时候烘烤一些新鲜的面包了。"},
-{"op":"replace","path":"/hylotlDescription","value":"在陆地上，小麦有很多用途，但是在水下，几乎没啥用。"}]

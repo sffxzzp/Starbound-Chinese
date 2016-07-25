@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "生锈的铜质支撑梁。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铜质支撑梁"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一根铜质支撑梁。看起来磨损的厉害。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "铜质支撑梁。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "发发发臭的铜做的支支支撑梁。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这块铜生锈了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "铜质支撑梁。品质低劣。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一根破烂的铜质支撑梁。"}]

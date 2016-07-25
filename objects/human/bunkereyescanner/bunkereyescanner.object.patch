@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这种设备看起来似乎是通过扫描眼球来验证个人信息。"},
-{"op":"replace","path":"/shortdescription","value":"USCM眼球扫描仪"},
-{"op":"replace","path":"/apexDescription","value":"这设备好像不能识别猿人的眼球。"},
-{"op":"replace","path":"/avianDescription","value":"用来扫描人类眼球的设备，但意义何在?"},
-{"op":"replace","path":"/floranDescription","value":"叶族人瞪瞪瞪着机器，机器瞪瞪瞪回来，叶族人赢了。"},
-{"op":"replace","path":"/glitchDescription","value":"技术上的： 通过正确的校准, 机器人的眼球可以骗过扫描仪。"},
-{"op":"replace","path":"/humanDescription","value":"眼球扫描仪，有人把墨水涂在了目镜周围，噢，搞笑的家伙。"},
-{"op":"replace","path":"/hylotlDescription","value":"这种设备对我们鲛人来说有些棘手，我们的脑袋形状不合适。"}]

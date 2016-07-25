@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个小的监狱通风口。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "监狱通风口"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个通风口。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "通风。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "通风。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。通风口。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像一个通风。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "通一点风。"}]

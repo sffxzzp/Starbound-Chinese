@@ -1,9 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个方便的发电机."},
-{"op":"replace","path":"/shortdescription","value":"发电机"},
-{"op":"replace","path":"/apexDescription","value":"发电机."},
-{"op":"replace","path":"/avianDescription","value":"发电机."},
-{"op":"replace","path":"/floranDescription","value":"嗡嗡嗡嗡电源箱!"},
-{"op":"replace","path":"/glitchDescription","value":"声明. 发电机."},
-{"op":"replace","path":"/humanDescription","value":"一个发电机."},
-{"op":"replace","path":"/hylotlDescription","value":"一个粗糙的发电机."},
-{"op":"replace","path":"/novakidDescription","value":"把我插进去!耶!"}]

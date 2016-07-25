@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^yellow;教程 V: 脱离煎锅…"},
-{ "op" : "replace", "path" : "/text", "value" : "为了制作更高级的物品，我需要^green;在^orange;木质制作台^green;上制作一个^orange;石熔炉^white;。通过石熔炉我能把原矿冶炼成精炼的金属锭。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "真好，加把火了！石熔炉能对^orange;铜^white;和^orange;铁^white;之类的基本金属进行冶炼，以后我应该还能制作更高级的炉子。"}]

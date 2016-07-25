@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^orange;虫子"},
-{ "op" : "replace", "path" : "/text", "value" : "我讨厌抓虫子！你能帮我抓一些吗？^green;如果你能用捕虫网^orange;捕捉一只虫子^green;给我^white;，我会给你一个我发现的物质枪模块。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "又向没有虫子的宇宙前进了一步！给你物质枪模块，之前说好的，我确定你会发现它很有用的。"}]

@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个奇特的用于放置现代东西的现代桌子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "现代化桌子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个玻璃桌子。我可以看到我的毛茸茸的膝盖。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌子是由钢化玻璃做的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "放置在这张桌子上的东西看起来很飘逸。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "检查。玻璃是防弹的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个复杂的玻璃桌。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "玻璃的一个有吸引力的使用方法。"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"看起来铁匠铺要走这条路。."},
-{"op":"replace","path":"/shortdescription","value":"铁匠铺招牌"},
-{"op":"replace","path":"/apexDescription","value":"一块木制招牌， 看起来属于一家铁匠铺。"},
-{"op":"replace","path":"/avianDescription","value":"一个木制招牌，上面画着一个铁砧。"},
-{"op":"replace","path":"/floranDescription","value":"附近有金属商、商店？"},
-{"op":"replace","path":"/glitchDescription","value":"鉴定：招牌表明这是一家电子人铁匠铺。"},
-{"op":"replace","path":"/humanDescription","value":"看起来像是挂在铁匠铺外面的招牌。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个招牌表明这是一家铁匠铺。"}]

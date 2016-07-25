@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "想知道里面有什么？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大陶罐"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小陶罐，我要打破它么？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个陶罐，里面可能有一些有用的东西！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "砸开它！得到里面的好东西！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "破坏。砸碎。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我认为有什么东西在里面。我可以把它打开。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有时候力量能产生回报。"}]

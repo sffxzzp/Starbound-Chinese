@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这件设备通过扫描指纹来验证个人信息。"},
-{"op":"replace","path":"/shortdescription","value":"USCM指纹扫描仪"},
-{"op":"replace","path":"/apexDescription","value":"指纹扫描仪，比猿人的手还要小一些。"},
-{"op":"replace","path":"/avianDescription","value":"翼族人没有指纹，这种安保设备对我们没有意义。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人想知道是不是真的有人手在里里里面。"},
-{"op":"replace","path":"/glitchDescription","value":"厌恶：生物安保设备是一种奢侈品，只有某些物种才能享受。"},
-{"op":"replace","path":"/humanDescription","value":"指纹扫描仪。我还没注册过，好伤心。我一直梦想着能激活一个安全装置。"},
-{"op":"replace","path":"/hylotlDescription","value":"鲛人的手指会让这些东西完蛋的。"}]

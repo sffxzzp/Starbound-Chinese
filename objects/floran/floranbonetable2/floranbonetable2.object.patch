@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这个桌子应该是用一整个巨大的骨头雕刻而成的。"},
-{"op":"replace","path":"/shortdescription","value":"小型骨制桌子"},
-{"op":"replace","path":"/apexDescription","value":"用尸骨做成的桌子，感觉跟辣条一样不卫生啊。"},
-{"op":"replace","path":"/avianDescription","value":"叶族真重口味。"},
-{"op":"replace","path":"/floranDescription","value":"有有有时候，叶族人没吃的了，叶族人就会吃掉桌子。"},
-{"op":"replace","path":"/glitchDescription","value":"测定：卫生等级可以接受，这些骨头被煮沸杀菌过了。"},
-{"op":"replace","path":"/humanDescription","value":"这个桌子很光滑而且很冷。"},
-{"op":"replace","path":"/hylotlDescription","value":"用这个桌子吃饭我会吐的。"}]

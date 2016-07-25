@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "临时支柱。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古代支柱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "临时支柱。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "临时支柱。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "临时支柱。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "临时支柱。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "临时支柱。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "临时支柱。"}]

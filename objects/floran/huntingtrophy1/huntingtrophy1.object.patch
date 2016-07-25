@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "钉在匾上的头。它的眼睛会跟随你的动作…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "狩猎奖杯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个钉起来的头。可怕。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个头。从一些老猎物上切下。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢朝被叶族切下的头挥手。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "自鸣得意。如果叶族试图将电子人的头作为一个展示品的话，电子人头会自毁。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "现在我知道我的卧室缺了什么！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这真是一种对谋杀的邪恶的展示。"}]

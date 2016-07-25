@@ -1,4 +1,0 @@
-[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"二步电子商店"},
-{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"让你从A到B没有任何讨厌的中转空间"},
-{ "op" : "replace", "path" : "/description", "value" : "本店提供不同风格个人传送器。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "二步电子商店"}]

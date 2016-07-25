@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的平台"},
-{ "op" : "replace", "path" : "/description", "value" : "生锈的支架。看起来不安全。"}]

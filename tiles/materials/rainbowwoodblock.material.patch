@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "简单而美妙。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹木板"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。彩虹木。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "五颜六色的木头。"}]

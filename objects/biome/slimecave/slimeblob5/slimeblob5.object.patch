@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个恶心的粘液泡沫。哟。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "粘液斑点"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一堆腐烂的粘液。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一大团粘液。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "像树液。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "反感。这是一个恶心的粘液泡沫！"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一大滴果冻。我想戳它。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "厚厚的粘液泡沫，不像鲛人产的卵。"}]

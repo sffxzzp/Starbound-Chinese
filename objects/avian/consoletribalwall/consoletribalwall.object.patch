@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个小型安全面板。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族安全面板"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个访问面板所包含的技术我无法理解。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个面板将水晶的振动发送至其它的水晶设备。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的翼族技术。叶族人乐于吞掉它。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。这种技术即使对我的创造者来说也是新奇的。这里面的水晶似乎可以产生兼容电流。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来是某种访问面板。它似乎不需要电源。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多美丽的科技。我能感受到它在我的触碰下弹跳着。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这上面有一些美丽闪亮的灯光和按钮。"}]

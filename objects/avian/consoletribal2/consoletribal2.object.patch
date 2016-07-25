@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个底部粗糙地蚀刻着一颗鸟蛋的访问面板。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族蛋形控制台"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个神秘的控制台上刻着一颗鸟蛋，它有什么意义？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个传统的控制台使用水晶的震动来通信。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人有着奇奇奇怪的科技。叶族人无无无法理解。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。看起来有某种我无法理解的水晶能量在运作。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这些翼族访问面板真奇怪，电源被接在哪里了？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "翼族科技既美观又实用。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "所有这些按钮，我想知道按下它们之后会发生什么。"}]

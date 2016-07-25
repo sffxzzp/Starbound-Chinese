@@ -1,5 +1,3 @@
-[{"op":"replace","path":"/paneLayoutMember/windowtitle/title","value":" - 警告 - "},
-{"op":"replace","path":"/paneLayoutLeader/windowtitle/title","value":" - 警告 - "},
-{"op":"replace","path":"/paneLayoutLeader/beamToShip/caption","value":"传送到飞船"},
-{"op":"replace","path":"/paneLayoutLeader/makeLeader/caption","value":"提升为队长"},
-{"op":"replace","path":"/paneLayoutLeader/removeFromTeam/caption","value":"移除"}]
+[{"op": "replace","path": "/paneLayout/beamToShip/caption","value": "传送至飞船"},
+{"op": "replace","path": "/paneLayout/makeLeader/caption","value": "选为队长"},
+{"op": "replace","path": "/paneLayout/removeFromTeam/caption","value": "移出队伍"}]

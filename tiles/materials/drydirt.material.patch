@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "土块被太阳晒成干硬块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "干土"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。土块。说明。只是土块而已。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "肮脏的土块！"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "太阳系中最矮的行星―冥王星的精细模型。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "冥王星模型"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我不能理解人类对于这颗毫无价值的小个矮行星的执着。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "冥王星普路托，以古地球罗马神话中的冥界之神命名。这让我联想到了一些类似的翼族神话。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "在太阳系系系郊外，沿着混乱轨迹运行的小小小型矮行星。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "混乱。为何人类会对冥王星保持那么高的关注？它甚至都不算是一个行星。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "可怜的冥王星…你真的是被骂得直不起腰来了…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在学院教的“地球文化导论”这门课程中，我了解到了这颗矮行星那极具争议的文化地位。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "冥王星曾经被认为是太阳系的第九行星。但在被剥夺了行星的身份后、它现在只是个小讨厌鬼。"}]

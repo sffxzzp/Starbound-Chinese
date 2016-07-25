@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "幸运的是，不是真的电池酸液！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "电池酸液"}]

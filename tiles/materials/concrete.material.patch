@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "又冷又硬的混凝土。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "混凝土块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。混凝土。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "混…凝土。"}]

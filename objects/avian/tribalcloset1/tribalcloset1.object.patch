@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我想知道这是否是一个翼族人版本的纳尼亚魔衣橱…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族衣橱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一块水晶坐落在了衣橱之上，可为何要那样做？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "衣橱上面的水晶可以充当锁具。不过它看起来已经破损了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "衣衣衣橱里有叶族人要的东西吗？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。看起来水晶停止运转的罪魁祸首是一条发丝大小的裂缝。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个衣橱坏了吗？水晶上有一道裂痕。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "衣橱上面的水晶已经受损失效了。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个顶上有一块水晶的衣橱。这水晶看起来坏掉了。"}]

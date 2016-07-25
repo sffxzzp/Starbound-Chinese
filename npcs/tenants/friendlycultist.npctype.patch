@@ -1,6 +1,0 @@
-[{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["我在这里…监视。不要管我。","你对我很好奇。别担心，我不会做任何…坏事。","我不会咬人的，别担心。哈哈哈。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["太可怕了，地球发生了什么。嘻嘻。","在我身边不要紧张，我的目的超出了你的理解。","隐于黑暗之中的恐怖…如果你不能打败它们，为什么不成为黑暗的一员呢？"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["叶族人在在在注视着你。","不要注意叶族人。叶族人是是是好好好人。","不要盯盯盯着看。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["阴影之中有许多东西值得敬畏，我的朋友。","别担心我，我是值得信赖。嘻嘻。","保护国有他们自己的崇拜方式。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["别害怕，我没有恶意。","相信我，我们会相处得很好。","黑暗中蕴含着美丽。也许有一天你也会同意的。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["阴险。我值得信赖，但不要惹我或者我的人。","威胁。老实说。我是一名正直的社会成员。","不安。为什么要和宇宙中的黑暗势力对抗？"]}]

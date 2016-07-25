@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个有着黑色外漆的惊悚沙发。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式沙发"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个看起来非常有哥特风的沙发。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这沙发让我毛骨悚然。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人觉得这沙发很好闻闻闻。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊悚。这沙发的皮上还有许多深色的污渍。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这沙发闻起来不太对劲…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个沙发的时髦值与它自身的惊悚度不相上下。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不认为我会乐意坐在这个东西上面。"}]

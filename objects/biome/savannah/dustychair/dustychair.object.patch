@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "破旧的木椅子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "尘土椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "破旧的，但还能坐。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一把有草垫的椅子。我能习惯这个！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族认为椅子在战斗中损坏了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这家具是故意这样看起来散乱的么？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来有点坏。我不确定能不能坐在上面…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这把椅子看起来经历了很多。"}]

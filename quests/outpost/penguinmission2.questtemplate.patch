@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;骇翼"},
-{ "op" : "replace", "path" : "/text", "value" : "^green;我应该先去S.A.I.L查看一下坐标。^white;如果我能打败骇翼并带回些什么作为证明，^green;也许在前哨站里的那只企鹅会给我些东西作为回报。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "我捡到了些骇翼飞船的^orange;残骸^white;，这个应该做够作为任务证明。让我去找在前哨站的那只企鹅吧。"}]

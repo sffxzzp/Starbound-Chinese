@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个相当可爱的粉色盆栽。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "极好的花朵"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一株相当可爱的植物。我好奇它是否是在实验室里种出来的？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这株植物非常乐观地闪耀着。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人被闪亮植物治愈了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "开心。这株植物传播了许多正能量。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这株植物真可爱。快快长大吧，小家伙！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我从未在野外见过这种植物。有意思。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这株植物的心就像那初升的太阳一样闪耀。"}]

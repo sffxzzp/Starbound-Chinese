@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这刀片可以穿透时间本身。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刺穿时间"}]

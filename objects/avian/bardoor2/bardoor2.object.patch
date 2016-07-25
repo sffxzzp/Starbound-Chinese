@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这扇沉重的铁闸门是向上打开的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "闸门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来这扇铁门是向上打开的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这种门常见于翼族陵墓中，用来防止陵墓受到亵渎。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "门很很很沉，用锋利的金属钉钉钉做的门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。电子人造的闸门可大多了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我讨厌被它关起来的感觉。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "纯铁制的。更注重功用而非外形。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是些看上去相当坚固的铁条。"}]

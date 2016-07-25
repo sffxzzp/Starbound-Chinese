@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张干净，鲜艳的桌子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "细胞桌"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这对于科技发展部来说太花哨了，这是以对我们有利而作出的见解。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "明亮已经不足以形容它了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "有光泽，光光光滑而且没灵魂的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。我从来都不在这些华而不实的桌子上吃饭。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来就像是孩子们的玩具。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张桌是非常非常的华丽。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是张闪死人的桌子。"}]

@@ -1,5 +1,11 @@
-[{"op" : "replace","path" : "/paneLayout/windowtitle/title","value" : "任务记录"},
-{"op" : "replace","path" : "/paneLayout/windowtitle/subtitle","value" : "^#b9b5b2;持续跟踪你的任务 ^green;[J]"},
-{"op" : "replace","path" : "/paneLayout/btnSetAsCurrent/caption","value" : "设置为当前"},
-{"op" : "replace","path" : "/paneLayout/btnAbandon/caption","value" : "放弃"},
-{"op" : "replace","path" : "/paneLayout/labelRewards/value","value" : "奖励："}]
+[{"op": "replace","path": "/trackLabel","value": "追踪任务"},
+{"op": "replace","path": "/untrackLabel","value": "停止追踪"},
+{"op": "replace","path": "/paneLayout/windowtitle/title","value": "任务日志"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;持续追踪你的任务^green;[J]"},
+{"op": "replace","path": "/paneLayout/btnToggleTracking/caption","value": "切换追踪"},
+{"op": "replace","path": "/paneLayout/btnAbandon/caption","value": "放弃"},
+{"op": "replace","path": "/paneLayout/lblRewards/value","value": "奖励："},
+{"op": "replace","path": "/paneLayout/scrollArea/children/verticalLayout/children/mainQuestHeader/value","value": "主要任务"},
+{"op": "replace","path": "/paneLayout/scrollArea/children/verticalLayout/children/sideQuestHeader/value","value": "次要任务"},
+{"op": "replace","path": "/paneLayout/filter/buttons/0/text","value": "进行"},
+{"op": "replace","path": "/paneLayout/filter/buttons/1/text","value": "完成"}]

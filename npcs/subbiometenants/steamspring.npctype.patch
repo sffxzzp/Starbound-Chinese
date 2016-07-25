@@ -1,5 +1,0 @@
-[{"op" : "replace","path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value" : "发明家"},
-{"op" : "replace","path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value" : "出售由手工制作的珍品"},
-{"op" : "replace","path" : "/scriptConfig/dialog/merchant/start/default/default","value" : ["欢迎。你想买一点我的发明么？亲？","绝望。我真的很需要有人来买我的发明…","渴望。你想看看我的发明么？","欢迎。你应该看看我提供的发明！","绝望。我真的很需要有人来买我的发明…"]},
-{"op" : "replace","path" : "/scriptConfig/dialog/merchant/welcome/default/default","value" : ["欢迎。现在你可以来看一下我的发明！","渴望。现在你可以看一下我要卖的发明！","兴奋。终于有人愿意买我的发明了！"]},
-{"op" : "replace","path" : "/scriptConfig/dialog/merchant/end/default/default","value" : ["感激。请记得再次光临！","感激。我希望你不要忘了回来！","渴望。我真的希望你再回来！","绝望。请不要忘记再次来拜访我！","渴望。我真希望我的产品能给你一个满意的体验！"]}]

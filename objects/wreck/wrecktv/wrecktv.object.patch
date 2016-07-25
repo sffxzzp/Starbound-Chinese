@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "屏幕发出闪烁的不祥灯光。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的屏幕"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我猜它没有信号。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个奇怪的显示屏。这些线是什么意思？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的图案机！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "扫描。这个显示器是没有收到信号。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "静态。我猜肯定没有信号。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "显示器缺乏输入信号。"}]

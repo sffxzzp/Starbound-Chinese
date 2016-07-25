@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "优雅的自动注册技术平台。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "图架"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以在这里打印各种标志。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我想我还记得住多少我们祖先的脚本？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "多少词算是很多词？三。三个词。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊奇。古登堡机器人会对这个玩意儿感到惊讶。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以在这特制一个标志！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "良好的标志是公共秩序所必需的。"}]

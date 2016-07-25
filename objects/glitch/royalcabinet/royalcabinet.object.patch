@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"贵重物品应该放在这里。"},
-{"op":"replace","path":"/shortdescription","value":"皇家橱柜"},
-{"op":"replace","path":"/apexDescription","value":"皇家橱柜，里面的东西能配得上它的价值吗？"},
-{"op":"replace","path":"/avianDescription","value":"一想到要打开这个贵重的柜子就让人激动。"},
-{"op":"replace","path":"/floranDescription","value":"闪、闪闪亮的盒子，里、里面是、是什么！"},
-{"op":"replace","path":"/glitchDescription","value":"观察：尽管这柜子的价值很高，但这个房间却没什么特别的。"},
-{"op":"replace","path":"/humanDescription","value":"一个金色的橱柜， 我迫不及待的想要打开看看了。"},
-{"op":"replace","path":"/hylotlDescription","value":"让我们看看里面，也许里面有什么有用的东西，否则这就是浪费。"}]

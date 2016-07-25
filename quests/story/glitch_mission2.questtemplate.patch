@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "寻找并获得电子人的神器"},
+{"op": "replace","path": "/text","value": "^orange;电子人神器^reset;就藏在一座城堡中，被某个稍微有点古怪的电子人看守着。亲爱的，你能^green;过去和那位电子人交流一下^reset;吗？"},
+{"op": "replace","path": "/completionText","value": "我真是为你感到自豪！尽管我们面临了各种挑战，你还是顺利完成了所有任务，我就知道你能够胜任这份工作。至于之前与你再次交战的那个女人…^orange;我过去的日记^white;或许能给你一些答案。"},
+{"op": "replace","path": "/scriptConfig/missionRadioMessage/text","value": "我已经收到了^orange;拜隆先生的城堡^reset;的坐标了。^green;请使用飞船上的电脑^reset;来前往目的地。"},
+{"op": "replace","path": "/scriptConfig/descriptions/artifact","value": "在^orange;古老的电子人城堡^reset;中找到^orange;神器^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "返回^orange;方舟^reset;去见^orange;艾丝特^reset;"}]

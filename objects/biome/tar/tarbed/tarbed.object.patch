@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张简朴的沥青床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "沥青床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "用它作为床具材料这还真是奇怪的选择，但至少这是温暖而无毒的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一张更适合那些没有羽毛的生物使用的床。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "泥泥泥泞的床真温暖。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。我自己的简单小床。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "噢，对不起我迟到了，我今早没办法从床上起来，就是字面上的意思。我家的床是用沥青做的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "人很容易被这床粘住并在上面休息过久。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不明白用沥青做床是如何被其他人看作一个好想法的。"}]

@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^orange;离开水的鱼"},
-{ "op" : "replace", "path" : "/text", "value" : "我已经在太空中漂浮了一段时间，我的飞船在旅行过程中受损。为了继续前行我需要^green;修复飞船的推进器和船体。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "复活的飞船再次发出轰鸣！虽然这里仍有工作要做，我需要修复超光速加速器。但这只是一个开始！"}]

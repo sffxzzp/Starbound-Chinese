@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一扇坚固的密封门。."},
-{"op":"replace","path":"/shortdescription","value":"密封门"},
-{"op":"replace","path":"/apexDescription","value":"一个坚固的密封门。"},
-{"op":"replace","path":"/avianDescription","value":"一扇沉重的金属门。"},
-{"op":"replace","path":"/floranDescription","value":"大重门。"},
-{"op":"replace","path":"/glitchDescription","value":"不安：这扇门很重。"},
-{"op":"replace","path":"/humanDescription","value":"一扇巨大而坚固的密封门。"},
-{"op":"replace","path":"/hylotlDescription","value":"做工精良的密封门。."}]

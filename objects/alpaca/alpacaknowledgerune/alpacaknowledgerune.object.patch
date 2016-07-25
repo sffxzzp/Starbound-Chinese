@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个象征着知识的古老羊驼符文。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "羊驼知识符文"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有些复杂而古老的符文，代表着知识。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个象征着知识的符文，难怪它看起来那么复杂。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一个错综复杂的符文来代表知识的复杂内容。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "希望。一个意味着知识的符文。这些羊驼确实了解知识。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "如果这个符文代表知识，我能从中学到什么？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个小而精的设计包括了高深莫测的知识本身。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个看起来很奇特的符文，它和知识有些关系。"}]

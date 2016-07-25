@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"如果你走这条路，你会找到出口...大概吧。"},
-{"op":"replace","path":"/shortdescription","value":"出口标志"},
-{"op":"replace","path":"/apexDescription","value":"一个出口标志。"},
-{"op":"replace","path":"/avianDescription","value":"一个指向出路的标志。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人认为这上面写的是‘捅捅捅’，叶族人念过书。"},
-{"op":"replace","path":"/glitchDescription","value":"理所当然：这个标志指向了出口。"},
-{"op":"replace","path":"/humanDescription","value":"深受囚犯们喜爱的标志，我想，除非你刚好在其它的地方见到过这个标志。"},
-{"op":"replace","path":"/hylotlDescription","value":"这里的出路。"}]

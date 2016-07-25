@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "遮阳伞"}]
+[{ "op" : "replace", "path" : "/description", "value" : "在坠落时打开可以轻轻飘落。在房子里打开是不吉利的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "太阳伞"}]

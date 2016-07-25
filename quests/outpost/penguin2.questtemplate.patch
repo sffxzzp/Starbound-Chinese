@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;企鹅武器试验场"},
+{"op": "replace","path": "/text","value": "我可以帮你升级一些稀有的武器，但是我的供货商总是把精力用在^orange;测试他的新武器^white;上。如果你可以…帮我摧毁它，那么他大概就有空给我发货了吧！^green;准备好了就说一声，我会带你去见他^white;！"},
+{"op": "replace","path": "/completionText","value": "你把我的供货商的新武器摧毁了？太好了！比吉的知名武器商店重新开张—^green;每天都来瞧一瞧有什么新货吧^white;！"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "跟^orange;比吉^reset;交谈让带你去^orange;试验场^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "打败^orange;激斗机甲MK I^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "回到^orange;前哨站^reset;向^orange;比吉^reset;汇报情况"}]

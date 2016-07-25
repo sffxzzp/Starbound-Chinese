@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人…即使此刻我依然觉得自己被注视着。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "天啊！观星者们会认为这是在亵渎神明！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这猴子得有多大大大个？也许我们可以找到他然后好好吃一顿猴肉。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想好好研究一下这种生命并且调查一下它的视觉构造。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "不晓得猿族的人怎么忍受这个的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个人在审视外界之前，必须先审视自己。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "全都看见了？有些事情最好还是不要被看见好。"},
-{ "op" : "replace", "path" : "/description", "value" : "大猿人是无所不知的！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人海报"}]

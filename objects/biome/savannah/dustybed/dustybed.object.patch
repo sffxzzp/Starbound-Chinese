@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个破旧的床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "尘土床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "破旧的，但应该能睡。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一张长草的床单。我能习惯这个！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族在这上面睡的很好。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这家具是故意看起来这么散乱的么？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来又老又干。如果放在明火边上我会有点紧张。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我觉得我应该已经在如此可怕的条件下睡着了。"}]

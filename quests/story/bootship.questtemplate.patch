@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/title","value": "启动"},
+{"op": "replace","path": "/text","value": "船体遭到了破坏，现在只能在宇宙中孤独的飘浮着。现在你最好重启一下本船的计算机，看看有什么能用的吧。"},
+{"op": "replace","path": "/completionText","value": "S.A.L已重启！现在飞船的计算机可以给你一些有用的指导和建议。"},
+{"op": "replace","path": "/scriptConfig/descriptions/wakeSail","value": "启动船载电脑"}]

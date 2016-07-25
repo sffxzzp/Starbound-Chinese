@@ -1,2 +1,0 @@
-[{"op":"replace","path":"/description","value":"在昏暗的光照环境中底下的节点就会被激活，在明亮的光照环境中上面的节点就会被激活。"},
-{"op":"replace","path":"/shortdescription","value":"光传感器"}]

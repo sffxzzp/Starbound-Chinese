@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一扇粗糙的砂岩门。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "砂岩门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇砂岩做的门。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇做工考究的砂岩门。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "沙沙沙门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一扇坚硬的砂岩门。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "真是一扇好门。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : ""},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是道沉重的门。触摸起来十分粗糙。"}]

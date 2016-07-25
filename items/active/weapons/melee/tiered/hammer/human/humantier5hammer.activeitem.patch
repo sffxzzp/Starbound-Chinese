@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "两倍锤子时间。像锤子时间，但强它两倍。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "两倍锤子时间"}]

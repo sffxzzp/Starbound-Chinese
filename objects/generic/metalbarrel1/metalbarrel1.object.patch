@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个通用的金属桶。它是密封的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "金属桶"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "金属桶。它是密封的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "金属容器。我不能进入。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "圆形的金属立方体。没有门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "无义。我不能打开的一个金属桶。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "金属桶。我不能进入。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "金属容器。它是封闭的。"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一张生锈了的桌子，散发着难闻的味道。"},
-{"op":"replace","path":"/shortdescription","value":"生锈的桌子"},
-{"op":"replace","path":"/apexDescription","value":"一张老旧生锈的桌子"},
-{"op":"replace","path":"/avianDescription","value":"这桌子已经到了它的生命到了尽头."},
-{"op":"replace","path":"/floranDescription","value":"红色的桌子，这是铁锈不是血。"},
-{"op":"replace","path":"/glitchDescription","value":"（生锈）铁锈已经让我失去胃口。"},
-{"op":"replace","path":"/humanDescription","value":"这张桌子看起来不太卫生。"},
-{"op":"replace","path":"/hylotlDescription","value":"一张不受欢迎的，生锈的桌子。"}]

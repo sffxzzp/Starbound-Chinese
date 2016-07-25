@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个象征着生命的古老羊驼符文。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "羊驼生命符文"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是代表生命本身的羊驼符文。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个符文代表着生命的本质。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一个古老的符号，对羊驼族人来说象象象征着生命。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "乐观。一个象征着生命的羊驼符文。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "显然，这是一个代表生命的古老符文。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个古代标志，用一个简单的符号代表了所有生命。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个代表了所有生命的符文，对于这么个小符文来说立意真高。"}]

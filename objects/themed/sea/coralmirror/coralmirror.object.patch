@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "在珊瑚框架里的一面壁镜。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "珊瑚镜子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "镜子里的映像很朦胧，就像透过水面和自己对望。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "镜子里的映像很朦胧，就像透过水面和自己对望。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "看着镜子就就就好像看着水下。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "不满。映像的质量好像从水里看东西一样。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "镜子里的映像很朦胧，就像透过水面和自己对望。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "镜子里的映像很朦胧，就像透过水面和自己对望。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "镜子里的映像很朦胧，就像透过水面和自己对望。"}]

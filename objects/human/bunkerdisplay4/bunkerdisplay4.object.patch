@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"死星..."},
-{"op":"replace","path":"/shortdescription","value":"异常显示器"},
-{"op":"replace","path":"/apexDescription","value":"一个全息影像的天体。看起来好像很重要的样子。"},
-{"op":"replace","path":"/avianDescription","value":"这里的球体看起来好像是天体, 但有迹象表明这是人造的。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人狠狠地砸球。球不反弹。"},
-{"op":"replace","path":"/glitchDescription","value":"恐惧： 经扫描显示这个东西是...不...不可能。"},
-{"op":"replace","path":"/humanDescription","value":"哇偶，这是月球?"},
-{"op":"replace","path":"/hylotlDescription","value":"这个球体发着冰冷的光。它散发出的冷漠气息让我不寒而栗。"}]

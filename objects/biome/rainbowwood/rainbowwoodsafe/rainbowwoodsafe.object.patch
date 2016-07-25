@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个彩虹木制成的箱子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹木箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个存放财物的鲜红色的箱子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个箱子很红。这似乎需要关注一下。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想看看红箱子里面面面。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。如此鲜艳的一个箱子里会有什么呢？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个红箱子看起来相当警醒……或者，令人兴奋？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个用五彩缤纷的木头精心制作的箱子。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个木箱看起来真逗。"}]

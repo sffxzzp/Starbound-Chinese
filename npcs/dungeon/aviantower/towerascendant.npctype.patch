@@ -1,7 +1,0 @@
-[{"op": "replace","path": "/scriptConfig/dialog/converse/default","value": ["我对你没什么可说的。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["我...我不能这样做，我真的不能。","我以为我已经准备好了，我以为我已经平静下来并坚定了自己的信念...","不是这样的，我还没准备好！","克鲁西斯，赐予我力量吧！"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/avian/avian","value": ["你是另一名升华者吗？求你了，帮帮我！我没有勇气跳下去。","克鲁西斯会...会像接纳其他翼族人一样接纳我吗？","如果你代替我，没有人会注意的！","我的羽翼不允许失败！"]},
-{"op": "replace","path": "/scriptConfig/dialog/flee/helpme/default/default","value": ["谢谢你！","我来回归你的怀抱了，克鲁西斯！","克鲁西斯保佑你！"]},
-{"op": "replace","path": "/scriptConfig/dialog/flee/helpthem/default/default","value": ["克鲁西斯保佑我！","啊啊啊啊啊啊啊啊！"]},
-{"op": "replace","path": "/scriptConfig/dialog/flee/encourage/default/default","value": ["克鲁西斯，救我！"]},
-{"op": "replace","path": "/scriptConfig/dialog/flee/safe/default/default","value": ["我...还活着？","我...我活下来了？","这就是说我已经升华了？"]}]

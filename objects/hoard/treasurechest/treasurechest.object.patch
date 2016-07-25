@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个宝箱。"},
-{"op":"replace","path":"/shortdescription","value":"宝箱"},
-{"op":"replace","path":"/apexDescription","value":"充满了宝藏的箱子!"},
-{"op":"replace","path":"/avianDescription","value":"充满了宝藏的箱子!"},
-{"op":"replace","path":"/floranDescription","value":"充满了宝藏的箱子!"},
-{"op":"replace","path":"/glitchDescription","value":"充满了宝藏的箱子!"},
-{"op":"replace","path":"/humanDescription","value":"充满了宝藏的箱子!"},
-{"op":"replace","path":"/hylotlDescription","value":"充满了宝藏的箱子!"}]

@@ -1,5 +1,0 @@
-[{"op":"replace","path":"/scriptConfig/dialog/follower/attack/default","value":{"default":["我会让这些家伙上天！","偷袭！","攻击！","攻击攻击！","快，我们正在受到攻击！","小心！","当心！","没有时间聊天，我们被发现了！","哦！","我们被发现了！","我准备好了！","我们正在进攻吗？我们正在进攻！","让我们给这些兔崽子上一课！","他们想玩狩猎游戏？我让他们知道谁才是猎人！","逃跑还是血战到底！"]}},
-{"op":"replace","path":"/scriptConfig/dialog/follower/join/default","value":{"default":["嗨，多么友善的一张面孔！他们也把你困在这了？我会和你在一起的。","另外的幸存者？！看上去你能自己处理问题————我会跟着你。","我从未期待过还会看到别的幸存者在！让我们待在一起。"]}},
-{"op":"replace","path":"/scriptConfig/dialog/follower/returnFromCombat/default","value":{"default":["让我们继续。","真令我印象深刻。","你怎么会在这里了？","我们是一支令人胆战的队伍！","我在这待太久以至于他们挡住我。","拿着那个。","唷。","保持警惕，这里可能会有更多。","我希望所有这些骷髅都只是道具…","那就是你惹恼了USCM的原因！","希望这里不会有更多的战斗了。","让我们一起走吧。","即使我们不能离开这里，至少我们让他们痛几天。","我好奇有多少像我们一样的幸存者被追到这个地方来了…","我希望能在离开前能杀更多的叶族人。","唷，你把你自己照顾的很好。"]}},
-{"op":"replace","path":"/scriptConfig/dialog/follower/wait/default","value":{"default":["我会在这等你。","我将会待着这，不要离开我太久！","你要休息一下吗？"]}},
-{"op":"replace","path":"/scriptConfig/dialog/follower/returnFromWait/default","value":{"default":["再次见到你真好。","让我们继续前进吧。","你准备好继续前进了吗？"]}}]

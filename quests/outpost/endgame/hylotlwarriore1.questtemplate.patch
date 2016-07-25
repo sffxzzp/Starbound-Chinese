@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;汪汪生活"},
-{ "op" : "replace", "path" : "/text", "value" : "你看见前哨站里的那条狗了么？我希望他能更喜欢我！^green;如果你能够^orange;给我找一根骨头^white;，我想我会成为他的最爱！"},
-{ "op" : "replace", "path" : "/completionText", "value" : "你帮我找到了骨头！现在狗狗会有一个最好的新朋友-我！"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"灯."},
-{"op":"replace","path":"/shortdescription","value":"船灯"},
-{"op":"replace","path":"/apexDescription","value":"这些灯一般装在飞船上."},
-{"op":"replace","path":"/avianDescription","value":"灯."},
-{"op":"replace","path":"/floranDescription","value":"冷光!"},
-{"op":"replace","path":"/glitchDescription","value":"分析. 这个灯产生的光超过了热量."},
-{"op":"replace","path":"/humanDescription","value":"酷的灯."},
-{"op":"replace","path":"/hylotlDescription","value":"勉强能用的灯."}]

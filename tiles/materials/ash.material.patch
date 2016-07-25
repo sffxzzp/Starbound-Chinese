@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "灰烬紧密地堆在一起成为固体块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "灰烬块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一个灰烬块。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "发烫的方块。"}]

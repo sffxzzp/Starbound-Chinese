@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这张奇特老旧的床散发着一股令人不安的气息。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "幽灵床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "对这张床我总是禁不住不安的感觉…"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这张床不对劲，我能感觉得到…"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人睡睡睡在这里感觉很紧紧紧张…"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。这个家具充斥着满满的恶意。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "当你在恶梦中被冻醒的时候，还怎么睡觉？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在这样的床上睡觉就要有赴死的觉悟。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "床下藏着什么东西吗？"}]

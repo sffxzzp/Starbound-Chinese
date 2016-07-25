@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这木嵌板复古的一点都不好看。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木嵌板"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。木嵌板。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "木嵌板。"}]

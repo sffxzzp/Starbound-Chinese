@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"普通的铁床."},
-{"op":"replace","path":"/shortdescription","value":"铁床"},
-{"op":"replace","path":"/apexDescription","value":"一个基本的床,够舒服."},
-{"op":"replace","path":"/avianDescription","value":"这是一个用来让我的羽毛足够舒适的地方."},
-{"op":"replace","path":"/floranDescription","value":"叶族人在简单的床上休息."},
-{"op":"replace","path":"/glitchDescription","value":"自豪.我自己的简单的床."},
-{"op":"replace","path":"/humanDescription","value":"一个体面的床,我应该可以在这里得到一些休息."},
-{"op":"replace","path":"/hylotlDescription","value":"这不是最好的建设质量，但我承认它."}]

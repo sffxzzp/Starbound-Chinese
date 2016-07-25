@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个状态舱。把握住你的机会…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "状态舱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "状态舱。我会是幸运的吗？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "状态舱。我希望我会获得幸运。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族会自暴自弃的触发小舱。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这种状态舱的效果无法被分析。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "哦，一次抽奖！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我敢打赌，倒霉的事情发生了。"}]

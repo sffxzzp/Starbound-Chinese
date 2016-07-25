@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个为特殊的仪式准备的纤细的金壶."},
-{"op":"replace","path":"/shortdescription","value":"纤细的金壶"},
-{"op":"replace","path":"/apexDescription","value":"一个奇怪的箩筐,易碎."},
-{"op":"replace","path":"/avianDescription","value":"一个编织筐,里面可能有些好东西"},
-{"op":"replace","path":"/floranDescription","value":"打碎箩筐!"},
-{"op":"replace","path":"/glitchDescription","value":"检查.一个奇怪的箩筐.里面会有什么东西?"},
-{"op":"replace","path":"/humanDescription","value":"一个耐洗的箩筐"},
-{"op":"replace","path":"/hylotlDescription","value":"这里面可能有什么东西"}]

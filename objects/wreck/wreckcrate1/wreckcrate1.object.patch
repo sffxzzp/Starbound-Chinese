@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个古色古香的箱子，我想知道里面有什么。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的板条箱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个破旧的板条箱。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "里面可能还有什么东西么？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "老的破旧的存储空间。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "调查。一个古老的储存容器。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个老木箱。里面可能还会有一些东西。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种古老的箱子里会有什么宝藏么？"}]

@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "发给每一个通过他们的厨师考试的厨师。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "厨师服"}]

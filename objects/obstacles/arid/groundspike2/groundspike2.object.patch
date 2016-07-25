@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我不想走进哪些…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "尖刺。"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "锋利的石刺。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这石头看起来很锋利。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "十分尖锐。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。锋利的岩石可以刺穿电子人的表皮。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我最好不要碰这些。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我会优雅的避开这些岩石。"}]

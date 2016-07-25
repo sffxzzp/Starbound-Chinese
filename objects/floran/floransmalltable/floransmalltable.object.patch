@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这个桌子是由一颗小树加上顶上的一块木头雕刻出来的。 这几乎是艺术品了！!"},
-{"op":"replace","path":"/shortdescription","value":"小型原始桌子"},
-{"op":"replace","path":"/apexDescription","value":"在一颗小树上做的桌子。"},
-{"op":"replace","path":"/avianDescription","value":"看起来，叶族人用动物和植物的遗骸做家具。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人用树来做小小小桌子。"},
-{"op":"replace","path":"/glitchDescription","value":"鉴定。 基座是一颗死掉的树苗。"},
-{"op":"replace","path":"/humanDescription","value":"这个桌子的基座看起来很像一颗小树。"},
-{"op":"replace","path":"/hylotlDescription","value":"叶族人看起来是用一棵树做了桌子。"}]

@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "只不过是个由椰子做成的方块而已。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "椰块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。椰子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "没被刺过的椰子。"}]

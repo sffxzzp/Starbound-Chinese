@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一面坚固的铜栅栏。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铜栅栏"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述：一面坚固的栅栏。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "坚…坚固的栅栏。"}]

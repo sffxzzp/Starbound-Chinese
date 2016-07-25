@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个有明亮的发光标记的箱子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "高科技箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个高科技箱子。它看起来好像包含一些有价值的东西。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来存储了有价值东西的箱子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "特殊的闪亮的箱子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "不可置否。这个箱子来历不明。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "谁做的？里面有什么？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "箱子本身包含了惊人的技术。"}]

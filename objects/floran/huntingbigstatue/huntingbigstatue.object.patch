@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个叶族人的雕像。看起来这是一名伟大的猎手。"},
-{"op":"replace","path":"/shortdescription","value":"叶族雕像"},
-{"op":"replace","path":"/apexDescription","value":"雄伟，壮观的叶族人。"},
-{"op":"replace","path":"/avianDescription","value":"毫无疑问这个叶族人是一名真正的狩猎大师。"},
-{"op":"replace","path":"/floranDescription","value":"这只是一个普普普通的家伙。叶族人要买自己的雕雕雕像。"},
-{"op":"replace","path":"/glitchDescription","value":"假设。这个叶族人被描述成了一个非常重要的猎人。"},
-{"op":"replace","path":"/humanDescription","value":"我敢打赌。历史书上一定有很多对这个叶族人的记载。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个丑陋、虚伪的叶族人，被封在石头中永久传颂。"}]

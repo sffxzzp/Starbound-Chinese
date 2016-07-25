@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"电子人城堡里结实的房门。"},
-{"op":"replace","path":"/shortdescription","value":"电子人城堡房门"},
-{"op":"replace","path":"/apexDescription","value":"虽然是木头的，但很结实。"},
-{"op":"replace","path":"/avianDescription","value":"这门比看上去的结实。"},
-{"op":"replace","path":"/floranDescription","value":"好、好结、结实的门。"},
-{"op":"replace","path":"/glitchDescription","value":"教学：电子人加固大门使城堡更安全。"},
-{"op":"replace","path":"/humanDescription","value":"沉重的带有格窗的门。"},
-{"op":"replace","path":"/hylotlDescription","value":"拥有完美防御结构的门。"}]

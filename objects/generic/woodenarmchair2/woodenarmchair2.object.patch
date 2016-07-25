@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个豪华的木质扶手椅。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木制扶手软椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "木椅上覆盖着柔软的垫子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "有可能陷入这把椅子。最令人放松。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人像沉入沙子一样沉入椅子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "平静。这把椅子能快速令人感到放松。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "有钱人拥有的那种椅子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个有吸引力的蓝色。"}]

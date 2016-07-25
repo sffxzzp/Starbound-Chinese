@@ -1,40 +1,30 @@
-[{"op":"replace","path":"/species/apex/openSpeech/0/0","value":{"animation":"unique","text":"错误: 错误: 信息:'S.A.I.L.::运行.回路', 'Cnt#: ', 1198, 'Sum:ms:', 错误: 'Min', 15, '最大值', 7199, '马', 9899, 'Avg', 23, 'Last:::', '8176b3', 'Var:avg,us: 错误: 错误: 要求重新启动!!!'","speedModifier":0.5}},
-{"op":"replace","path":"/species/apex/openSpeech/1/0","value":{"animation":"talk","text":"发动机和光速引擎已经当机。虽然我能通过修理模块修复引擎，但我需要^green;从星球深处的地核采集的^orange;星核碎片。","speedModifier":1.0}},
-{"op":"replace","path":"/species/apex/openSpeech/2/0","value":{"animation":"talk","text":"我们已经修复了发动机。这个系统将支持我们在星系内飞行，^green;你已经调查过那个星门了吗？下一步我们要修复光速引擎。","speedModifier":1.0}},
-{"op":"replace","path":"/species/apex/openSpeech/3/0","value":{"animation":"talk","text":"这艘船的光速引擎已经解锁了全部功能。接下来整个宇宙正等着你去探索！","speedModifier":1.0}},
-{"op":"replace","path":"/species/apex/techIntro/0","value":{"animation":"talk","text":"你可以在这里为你的身体添加科技驱动和生物芯片。^orange;科技驱动^green;会为你同时解锁多种特殊能力^orange;生物芯片^green;将帮助你在各种各样的致命环境中存活。","speedModifier":1.0}},
-{"op":"replace","path":"/species/avian/openSpeech/0/0","value":{"animation":"unique","text":"错误: 错误: 信息:'S.A.I.L.::运行.回路', 'Cnt#: ', 1198, 'Sum:ms:', 错误: 'Min', 15, '最大值', 7199, '马', 9899, 'Avg', 23, 'Last:::', '8176b3', 'Var:avg,us: 错误: 错误: 要求重新启动!!!'","speedModifier":0.5}},
-{"op":"replace","path":"/species/avian/openSpeech/1/0","value":{"animation":"talk","text":"发动机和光速引擎已经当机。虽然我能通过修理模块修复引擎，但我需要^green;从星球深处的地核采集的^orange;星核碎片。","speedModifier":1.0}},
-{"op":"replace","path":"/species/avian/openSpeech/2/0","value":{"animation":"talk","text":"我们已经修复了发动机。这个系统将支持我们在星系内飞行，^green;你已经调查过那个星门了吗？下一步我们要修复光速引擎。","speedModifier":1.0}},
-{"op":"replace","path":"/species/avian/openSpeech/3/0","value":{"animation":"talk","text":"这艘船的光速引擎已经解锁了全部功能。接下来整个宇宙正等着你去探索！","speedModifier":1.0}},
-{"op":"replace","path":"/species/avian/techIntro/0","value":{"animation":"talk","text":"你可以在这里为你的身体添加科技驱动和生物芯片。^orange;科技驱动^green;会为你同时解锁多种特殊能力^orange;生物芯片^green;将帮助你在各种各样的致命环境中存活。","speedModifier":1.0}},
-{"op":"replace","path":"/species/floran/openSpeech/0/0","value":{"animation":"unique","text":"错误: 错误: 信息:'S.A.I.L.::运行.回路', 'Cnt#: ', 1198, 'Sum:ms:', 错误: 'Min', 15, '最大值', 7199, '马', 9899, 'Avg', 23, 'Last:::', '8176b3', 'Var:avg,us: 错误: 错误: 要求重新启动!!!'","speedModifier":0.5}},
-{"op":"replace","path":"/species/floran/openSpeech/1/0","value":{"animation":"talk","text":"发动机和光速引擎已经当机。虽然我能通过修理模块修复引擎，但我需要^green;从星球深处的地核采集的^orange;星核碎片。","speedModifier":1.0}},
-{"op":"replace","path":"/species/floran/openSpeech/2/0","value":{"animation":"talk","text":"我们已经修复了发动机。这个系统将支持我们在星系内飞行，^green;你已经调查过那个星门了吗？下一步我们要修复光速引擎。","speedModifier":1.0}},
-{"op":"replace","path":"/species/floran/openSpeech/3/0","value":{"animation":"talk","text":"这艘船的光速引擎已经解锁了全部功能。接下来整个宇宙正等着你去探索！","speedModifier":1.0}},
-{"op":"replace","path":"/species/floran/techIntro/0","value":{"animation":"talk","text":"你可以在这里为你的身体添加科技驱动和生物芯片。^orange;科技驱动^green;会为你同时解锁多种特殊能力^orange;生物芯片^green;将帮助你在各种各样的致命环境中存活。","speedModifier":1.0}},
-{"op":"replace","path":"/species/glitch/openSpeech/0/0","value":{"animation":"unique","text":"错误: 错误: 信息:'S.A.I.L.::运行.回路', 'Cnt#: ', 1198, 'Sum:ms:', 错误: 'Min', 15, '最大值', 7199, '马', 9899, 'Avg', 23, 'Last:::', '8176b3', 'Var:avg,us: 错误: 错误: 要求重新启动!!!'","speedModifier":0.5}},
-{"op":"replace","path":"/species/glitch/openSpeech/1/0","value":{"animation":"talk","text":"发动机和光速引擎已经当机。虽然我能通过修理模块修复引擎，但我需要^green;从星球深处的地核采集的^orange;星核碎片。","speedModifier":1.0}},
-{"op":"replace","path":"/species/glitch/openSpeech/2/0","value":{"animation":"talk","text":"我们已经修复了发动机。这个系统将支持我们在星系内飞行，^green;你已经调查过那个星门了吗？下一步我们要修复光速引擎。","speedModifier":1.0}},
-{"op":"replace","path":"/species/glitch/openSpeech/3/0","value":{"animation":"talk","text":"这艘船的光速引擎已经解锁了全部功能。接下来整个宇宙正等着你去探索！","speedModifier":1.0}},
-{"op":"replace","path":"/species/glitch/techIntro/0","value":{"animation":"talk","text":"你可以在这里为你的身体添加科技驱动和生物芯片。^orange;科技驱动^green;会为你同时解锁多种特殊能力^orange;生物芯片^green;将帮助你在各种各样的致命环境中存活。","speedModifier":1.0}},
-{"op":"replace","path":"/species/human/openSpeech/0/0","value":{"animation":"unique","text":"错误: 错误: 信息:'S.A.I.L.::运行.回路', 'Cnt#: ', 1198, 'Sum:ms:', 错误: 'Min', 15, '最大值', 7199, '马', 9899, 'Avg', 23, 'Last:::', '8176b3', 'Var:avg,us: 错误: 错误: 要求重新启动!!!'","speedModifier":0.5}},
-{"op":"replace","path":"/species/human/openSpeech/1/0","value":{"animation":"talk","text":"发动机和光速引擎已经当机。虽然我能通过修理模块修复引擎，但我需要^green;从星球深处的地核采集的^orange;星核碎片。","speedModifier":1.0}},
-{"op":"replace","path":"/species/human/openSpeech/2/0","value":{"animation":"talk","text":"我们已经修复了发动机。这个系统将支持我们在星系内飞行，^green;你已经调查过那个星门了吗？下一步我们要修复光速引擎。","speedModifier":1.0}},
-{"op":"replace","path":"/species/human/openSpeech/3/0","value":{"animation":"talk","text":"这艘船的光速引擎已经解锁了全部功能。接下来整个宇宙正等着你去探索！","speedModifier":1.0}},
-{"op":"replace","path":"/species/human/techIntro/0","value":{"animation":"talk","text":"你可以在这里为你的身体添加科技驱动和生物芯片。^orange;科技驱动^green;会为你同时解锁多种特殊能力^orange;生物芯片^green;将帮助你在各种各样的致命环境中存活。","speedModifier":1.0}},
-{"op":"replace","path":"/species/novakid/openSpeech/0/0","value":{"animation":"unique","text":"错误: 错误: 信息:'S.A.I.L.::运行.回路', 'Cnt#: ', 1198, 'Sum:ms:', 错误: 'Min', 15, '最大值', 7199, '马', 9899, 'Avg', 23, 'Last:::', '8176b3', 'Var:avg,us: 错误: 错误: 要求重新启动!!!'","speedModifier":0.5}},
-{"op":"replace","path":"/species/novakid/openSpeech/1/0","value":{"animation":"talk","text":"发动机和光速引擎已经当机。虽然我能通过修理模块修复引擎，但我需要^green;从星球深处的地核采集的^orange;星核碎片。","speedModifier":1.0}},
-{"op":"replace","path":"/species/novakid/openSpeech/2/0","value":{"animation":"talk","text":"我们已经修复了发动机。这个系统将支持我们在星系内飞行，^green;你已经调查过那个星门了吗？下一步我们要修复光速引擎。","speedModifier":1.0}},
-{"op":"replace","path":"/species/novakid/openSpeech/3/0","value":{"animation":"talk","text":"这艘船的光速引擎已经解锁了全部功能。接下来整个宇宙正等着你去探索！","speedModifier":1.0}},
-{"op":"replace","path":"/species/novakid/techIntro/0","value":{"animation":"talk","text":"你可以在这里为你的身体添加科技驱动和生物芯片。^orange;科技驱动^green;会为你同时解锁多种特殊能力^orange;生物芯片^green;将帮助你在各种各样的致命环境中存活。","speedModifier":1.0}},
-{"op":"replace","path":"/species/penguin/openSpeech/0/0","value":{"animation":"unique","text":"错误: 错误: 信息:'S.A.I.L.::运行.回路', 'Cnt#: ', 1198, 'Sum:ms:', 错误: 'Min', 15, '最大值', 7199, '马', 9899, 'Avg', 23, 'Last:::', '8176b3', 'Var:avg,us: 错误: 错误: 要求重新启动!!!'","speedModifier":0.5}},
-{"op":"replace","path":"/species/penguin/openSpeech/1/0","value":{"animation":"talk","text":"发动机和光速引擎已经当机。虽然我能通过修理模块修复引擎，但我需要^green;从星球深处的地核采集的^orange;星核碎片。","speedModifier":1.0}},
-{"op":"replace","path":"/species/penguin/openSpeech/2/0","value":{"animation":"talk","text":"我们已经修复了发动机。这个系统将支持我们在星系内飞行，^green;你已经调查过那个星门了吗？下一步我们要修复光速引擎。","speedModifier":1.0}},
-{"op":"replace","path":"/species/penguin/openSpeech/3/0","value":{"animation":"talk","text":"这艘船的光速引擎已经解锁了全部功能。接下来整个宇宙正等着你去探索！","speedModifier":1.0}},
-{"op":"replace","path":"/species/penguin/techIntro/0","value":{"animation":"talk","text":"你可以在这里为你的身体添加科技驱动和生物芯片。^orange;科技驱动^green;会为你同时解锁多种特殊能力^orange;生物芯片^green;将帮助你在各种各样的致命环境中存活。","speedModifier":1.0}},
-{"op":"replace","path":"/species/hylotl/openSpeech/0/0","value":{"animation":"unique","text":"错误: 错误: 信息:'S.A.I.L.::运行.回路', 'Cnt#: ', 1198, 'Sum:ms:', 错误: 'Min', 15, '最大值', 7199, '马', 9899, 'Avg', 23, 'Last:::', '8176b3', 'Var:avg,us: 错误: 错误: 要求重新启动!!!'","speedModifier":0.5}},
-{"op":"replace","path":"/species/hylotl/openSpeech/1/0","value":{"animation":"talk","text":"发动机和光速引擎已经当机。虽然我能通过修理模块修复引擎，但我需要^green;从星球深处的地核采集的^orange;星核碎片。","speedModifier":1.0}},
-{"op":"replace","path":"/species/hylotl/openSpeech/2/0","value":{"animation":"talk","text":"我们已经修复了发动机。这个系统将支持我们在星系内飞行，^green;你已经调查过那个星门了吗？下一步我们要修复光速引擎。","speedModifier":1.0}},
-{"op":"replace","path":"/species/hylotl/openSpeech/3/0","value":{"animation":"talk","text":"这艘船的光速引擎已经解锁了全部功能。接下来整个宇宙正等着你去探索！","speedModifier":1.0}},
-{"op":"replace","path":"/species/hylotl/techIntro/0","value":{"animation":"talk","text":"你可以在这里为你的身体添加科技驱动和生物芯片。^orange;科技驱动^green;会为你同时解锁多种特殊能力^orange;生物芯片^green;将帮助你在各种各样的致命环境中存活。","speedModifier":1.0}}]
+[
+{"op": "replace","path": "/noCrewSpeech/text","value": 
+"^#6f6f6f;$ crew
+^cyan;> 你是这艘飞船唯一的在籍船员。
+> 招聘更多的船员将能提高运行效率。"
+},
+{"op": "replace","path": "/noMissionsSpeech/text","value": 
+"^#6f6f6f;$ missions
+^cyan;> 当前没有可用的任务坐标。"
+},
+{"op": "replace","path": "/shipStatus/0/text","value": "> Zzz... Zzz... Zzz..."},
+{"op": "replace","path": "/shipStatus/1/text","value": 
+"^#6f6f6f;$ status
+^cyan;> 飞船推进器当前离线。
+> 飞船传送系统运行正常。
+> ^green;当前只能抵达下面这个星球。"
+},
+{"op": "replace","path": "/shipStatus/2/text","value": 
+"^#6f6f6f;$ status
+^cyan;> 飞船推进器已上线。
+> 飞船传送系统运行正常。
+> ^green;可抵达该星系内所有的行星。"
+},
+{"op": "replace","path": "/shipStatus/3/text","value": 
+"^#6f6f6f;$ status -f
+^cyan;> 飞船推进器已上线。
+> FTL引擎已上线。
+> 飞船传送系统运行正常。
+> ^green;可抵达整个宇宙。"}
+]

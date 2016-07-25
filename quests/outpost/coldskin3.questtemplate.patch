@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^orange;提出问题"},
-{ "op" : "replace", "path" : "/text", "value" : "我要^green;去找前哨站的^orange;叶族猎手^green;讨回公道，^white;看看他有什么好说的。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "啊...叶族人一点都不想再见见见到你。陷阱？叶族人只是是是认为你会享受这些的！请接受我的歉意。这这是一个能够让你在寒冷环境生生存的^orange;生物植入芯片^white;。"}]

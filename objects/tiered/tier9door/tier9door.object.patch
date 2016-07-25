@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个可怕的鲁宾门."},
-{"op":"replace","path":"/shortdescription","value":"鲁宾门"},
-{"op":"replace","path":"/apexDescription","value":"这个门足以吓退那些想要闯进来的人."},
-{"op":"replace","path":"/avianDescription","value":"一个非常怪异的门."},
-{"op":"replace","path":"/floranDescription","value":"叶族人藏在后面,也租人被吓到了."},
-{"op":"replace","path":"/glitchDescription","value":"紧张.这个门上面有对眼睛."},
-{"op":"replace","path":"/humanDescription","value":"一个相当吓人的鲁宾门."},
-{"op":"replace","path":"/hylotlDescription","value":"一个非常坚固的鲁宾们,上面也有一对眼睛,奇怪的设计."}]

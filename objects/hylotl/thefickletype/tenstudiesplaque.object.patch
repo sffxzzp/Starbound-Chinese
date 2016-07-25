@@ -1,7 +1,0 @@
-[{ "op" : "replace", "path" : "/avianDescription", "value" : "一种研究鲛人外形的课题…上面写着V：女性的十项研究。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "上面写着“大猿”。大猿…丰盛的晚餐。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。谨慎！附近可能会有只大猿。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "上面写着“大猿”。我们终于要去见这家伙吗？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "“大猿”…他需要一个铭牌吗？"},
-{ "op" : "replace", "path" : "/description", "value" : "女性鲛人的十项研究"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铭牌"}]

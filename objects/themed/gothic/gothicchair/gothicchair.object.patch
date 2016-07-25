@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个极具哥特风的哥特式座椅。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式座椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "好大一个哥特式座椅。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "电子人的皇族似乎很喜欢用黄金装饰他们的周遭。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪亮金属座椅。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个看起来非常有哥特风的座椅。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个以美妙手法做成的哥特式座椅。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个座椅几乎就像是在凝视着我一样。"}]

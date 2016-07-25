@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "所有的猿人家具看起来都是那些恶俗圆点的牺牲品。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "标配沙发"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "另一个强加给无辜者的丑陋家具。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一张令人生厌的编织物盖在这张椅子的表面。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "闻起来放放放了很久了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "震惊。很多设计原则都被无视了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这张椅子拉低了整个房间的品味。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一件实在不敢让人恭维的家具。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我猜这只是用来坐的，不是用来看的。"}]

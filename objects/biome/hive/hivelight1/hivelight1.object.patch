@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个有脉动，肉质的灯。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂巢灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个令人厌恶的灯发出病态的光。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "多么恶心的灯。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人认为这个灯看起来很好吃。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "反感。一个肮脏的，肉灯。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "多么令人厌恶的灯。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是不自然的自然性。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "是谁负责装饰这地方的？"}]

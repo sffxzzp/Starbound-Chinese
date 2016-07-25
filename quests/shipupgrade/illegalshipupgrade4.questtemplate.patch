@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;非法的雄鹰级飞船升级"},
+{"op": "replace","path": "/text","value": "这张飞船执照是完全彻底合法的，毫无疑问。^green;访问企鹅皮特^reset;用^orange;八个升级模块^reset;来升级你的飞船。"},
+{"op": "replace","path": "/completionText","value": "在太空中拥有如此广阔的私人空间的你是多么幸运！你的飞船在这次升级后将会获得额外的空间。"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "企鹅皮特"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "将^orange;升级模块^reset;送到^orange;前哨站^reset;的^orange;企鹅皮特^reset;那里。"},
+{"op": "replace","path": "/scriptConfig/conditions/0/description","value": "找到^orange;<itemName>^reset;：^green;<current> / <required>^reset;"}]

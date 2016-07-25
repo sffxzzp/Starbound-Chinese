@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "红色的闪光…这通常是不好的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "警示灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来像一个警报或警告。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我忘记关了么？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "闪光让叶族感到愉快。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "教育。红色的闪光在一百万不同文化中都是警报或警告。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "哦，会发生什么呢？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个严重的信号。"}]

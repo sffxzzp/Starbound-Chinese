@@ -1,2 +1,2 @@
-[{"op":"replace","path":"/gui/dragDrop/value","value":"拖放"},
-{"op":"replace","path":"/gui/count/value","value":"32格"}]
+[{"op": "replace","path": "/gui/clear/caption","value": "拿走全部"},
+{"op": "replace","path": "/gui/count/value","value": "32格"}]

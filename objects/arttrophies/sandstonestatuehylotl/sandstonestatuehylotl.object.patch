@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个鲛人的雕像，有着印斯茅斯长相。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人砂岩雕像"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一座鲛人雕像。艺术家完美把握住了鲛人的冷笑。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个石头鲛人。她不以为然地注视着我。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "粘粘粘糊糊的鱼雕雕雕像。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "批评。很显然鲛人的生活缺乏时尚感。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个暴躁的鲛人。雕刻的很精确。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一座莉莉仙雕像，她是鲛人的传奇公主。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "某个鲛人的老旧沙雕像。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个咯吱作响的灯柱，采用黄铜管制成。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黄铜灯柱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个灯柱似乎是用废金属做出来的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "但愿这个灯柱能照亮道路。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "高大且闪闪闪亮的灯。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个用金属制成的高大灯柱。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个用管子做成的可爱灯柱。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个灯柱看起来似乎还能在水下环境中使用。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个柱子上的灯并不会像明火那样摇曳不定。"}]

@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "光滑的金属，冰冷的触感。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "光滑的金属"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "回忆。这光滑得像电子人。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "光滑的金属。"}]

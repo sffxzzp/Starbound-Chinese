@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^green;最后的收藏品"},
+{"op": "replace","path": "/text","value": "博物馆已经完成得差不多了，但是我还需要最后一个展品来完成鲛人区。能请你^green;带给我一个^orange;传统鸣锣^white;吗？它们在鲛人生活的地方非常常见，不论村庄还是城市."},
+{"op": "replace","path": "/completionText","value": "感谢你所做的一切—我的收集终于完成了，我的博物馆也准备好开放了！我希望每个人都喜欢它。我希望努鲁喜欢它…^green;你可以通过 ^orange;2站传送商店^green;旁的^orange;传送门^green;来参观博物馆^white;。"}]

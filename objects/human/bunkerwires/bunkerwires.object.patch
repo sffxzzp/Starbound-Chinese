@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这玩意儿只会招来一场电气火灾。"},
-{"op":"replace","path":"/shortdescription","value":"线圈"},
-{"op":"replace","path":"/apexDescription","value":"电线。"},
-{"op":"replace","path":"/avianDescription","value":"杂乱的电线。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人拖着电电电线，擦出火火火花，叶族人不喜欢。"},
-{"op":"replace","path":"/glitchDescription","value":"警告：扫描显示，导致电气故障的机率有98%。"},
-{"op":"replace","path":"/humanDescription","value":"这些天扎线带供不应求。"},
-{"op":"replace","path":"/hylotlDescription","value":"一堆乱七八糟的电线，不安全。"}]

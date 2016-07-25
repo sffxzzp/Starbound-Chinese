@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个有生化危机符号的金属标志。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "生化危机标志"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个标记生化危机的通用符号。最好小心点儿。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这象征着太阳？也许不是。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "符号意味着什么！叶族不知道！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想我应该知道这个符号是什么意思吗？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个古老的意味着‘当心！坏东西！’的记号。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个丑陋的记号是一种警告。"}]

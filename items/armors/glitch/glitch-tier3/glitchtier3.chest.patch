@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个骑士的胸甲的强度允许一个骑士在战场上杀死许多士兵。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "骑士胸甲"}]

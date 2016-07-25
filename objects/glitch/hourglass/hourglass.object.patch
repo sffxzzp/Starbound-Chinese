@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个数字沙漏，永不停息。"},
-{"op":"replace","path":"/shortdescription","value":"沙漏"},
-{"op":"replace","path":"/apexDescription","value":"一个沙漏，沙子流不光，电子人可能做出来吗?"},
-{"op":"replace","path":"/avianDescription","value":"一个计量时间的装置，似乎卡住了。"},
-{"op":"replace","path":"/floranDescription","value":"这些沙、沙、沙子落不、不下来。"},
-{"op":"replace","path":"/glitchDescription","value":"观察，这个计时器永不停止。"},
-{"op":"replace","path":"/humanDescription","value":"一个古老的沙漏...沙子还在流动。."},
-{"op":"replace","path":"/hylotlDescription","value":"这里面的沙子看起来永远都流不完，究竟怎么回事？"}]

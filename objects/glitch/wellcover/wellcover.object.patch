@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"我确信这里能打到水。"},
-{"op":"replace","path":"/shortdescription","value":"水井"},
-{"op":"replace","path":"/apexDescription","value":"一个带水桶水井，看起来很方便。"},
-{"op":"replace","path":"/avianDescription","value":"手柄看起来是用来升降水桶的。"},
-{"op":"replace","path":"/floranDescription","value":"大铁人建了带水桶的小房、房子。大铁人爱水桶。"},
-{"op":"replace","path":"/glitchDescription","value":"检查：电子人的村庄用这样的水井为全村提供水源，但通常水是干的或是被污染的。"},
-{"op":"replace","path":"/humanDescription","value":"一口可爱的小水井。"},
-{"op":"replace","path":"/hylotlDescription","value":"对于我来说要在一个连水都要从桶里捞上来的世界里生存是很困难的。."}]

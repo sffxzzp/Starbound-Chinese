@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个可怕的鲁宾桌,它正在看着你吃饭."},
-{"op":"replace","path":"/shortdescription","value":"鲁宾桌"},
-{"op":"replace","path":"/apexDescription","value":"一双眼睛从桌下看了过来."},
-{"op":"replace","path":"/avianDescription","value":"桌子,坐在它旁边有点可怕."},
-{"op":"replace","path":"/floranDescription","value":"叶族人觉得这个桌子也和叶族人一样饿."},
-{"op":"replace","path":"/glitchDescription","value":"解除武装。往这个桌子底下看了一眼，一个巨大的眼睛眨了下眼."},
-{"op":"replace","path":"/humanDescription","value":"此桌子不适用于穿裙子的人."},
-{"op":"replace","path":"/hylotlDescription","value":"如果你看这个桌子的时间过长,这个桌子也会长长的盯着你."}]

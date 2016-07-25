@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "银螺丝"},
-{ "op" : "replace", "path" : "/description", "value" : "一根银螺丝。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "慌张。为什么这根螺丝表现的如此罪恶？"}]

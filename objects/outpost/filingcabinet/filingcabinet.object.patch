@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"某种分类文件的柜子."},
-{"op":"replace","path":"/shortdescription","value":"分类的柜子"},
-{"op":"replace","path":"/apexDescription","value":"一个柜子."},
-{"op":"replace","path":"/avianDescription","value":"一个存放文件的柜子."},
-{"op":"replace","path":"/floranDescription","value":"文件柜!叶族人理解了!."},
-{"op":"replace","path":"/glitchDescription","value":"有趣.一个可能存放着机密文件的柜子."},
-{"op":"replace","path":"/humanDescription","value":"一个文件柜.也许我能偷偷看一眼."},
-{"op":"replace","path":"/hylotlDescription","value":"一个简单但是有效的存储方案."}]

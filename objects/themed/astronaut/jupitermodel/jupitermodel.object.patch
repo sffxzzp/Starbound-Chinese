@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "太阳系中最大的行星―木星的精细模型。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木星模型"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "人类曾经认为木星是一个大星球的想法真可笑。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "木星朱庇特，以古地球罗马神话中的众生之王命名。与地球相比木星相当大。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "木星是是漂亮的蓝色。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。以今天的标准来看木星是一个相对较小的行星。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "蓝色星球。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "木星，一度被认为是巨大的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我看过更大的。"}]

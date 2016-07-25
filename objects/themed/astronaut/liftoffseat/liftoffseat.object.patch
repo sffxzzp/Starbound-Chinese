@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "在地球航天飞机上的一个水平像船长椅的椅子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "弹射座椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "模拟早期人类太空旅行的经验是相当有趣的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以看到这个座位在起飞过程中是怎样让人感到最舒适的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "躺在这里缩放着看宇宙会是相当有趣的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。在运输途中躺着是多么一种绝妙的想法。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "伟大的设计。它仍然有用。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在这个位置上驾驶飞船的想法对于鲛人来说是可笑的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这把椅子给工作赋予了新的意义。"}]

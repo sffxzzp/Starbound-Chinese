@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"创建你自己的厨师！"},
-{"op":"replace","path":"/shortdescription","value":"厨师生产机"},
-{"op":"replace","path":"/apexDescription","value":"这个厨师能成为我的奴隶吗？"},
-{"op":"replace","path":"/avianDescription","value":"召唤一个厨师是很棒的."},
-{"op":"replace","path":"/floranDescription","value":"叶族人找到人来烤肉辣！"},
-{"op":"replace","path":"/glitchDescription","value":"问题.厨师是自由的吗？"},
-{"op":"replace","path":"/humanDescription","value":"这会比叶当劳更好！"},
-{"op":"replace","path":"/hylotlDescription","value":"我希望这个厨师尊重我那敏感的调色板"}]

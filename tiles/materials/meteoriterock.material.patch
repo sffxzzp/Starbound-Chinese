@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个坚硬无比的岩石，只会在大气层外发现。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "陨石岩"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这块岩石是外星人的起源。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢坠落的石头。"}]

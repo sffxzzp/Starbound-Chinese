@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个可怕的古代箱子，其上装饰着一个无眼睑的眼球。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古代大箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这老旧的箱子看起来令人毛骨悚然。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这老旧的箱子看起来令人毛骨悚然。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这恐恐恐怖的箱子让叶族人感到很紧紧紧张。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。装饰在这箱子上的眼球像是在审视我。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个令人毛骨悚然的老旧箱子。我怎么敢打开它呢？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我被教导要警惕那些神秘的箱子。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我并不怎么关心这箱子看我的方式。"}]

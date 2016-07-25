@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一扇表面镶嵌着水晶的沉重黄金门。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金翼族门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "门上的水晶在嗡嗡作响、就像是在提供能源一样。这种科技是未知的，即便是科技发展部对此也同样陌生。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门在嗡嗡作响、同时水晶也在不断共鸣。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪亮的门让让让叶族人很开心。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这扇门包含着一个超出我认知的能量源。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇门上的水晶是温暖的。它在我的手指触碰下轻轻的嗡鸣着。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇装有水晶的、精美雕刻的石门。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "好吧、这是我见过最闪亮的门了。"}]

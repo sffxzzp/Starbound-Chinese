@@ -1,8 +1,8 @@
-[{"op":"replace","path":"/paneLayout/windowtitle/title","value":" 厨房柜台"},
-{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":" 做一些好吃的东西。"},
-{"op":"replace","path":"/paneLayout/lblSchematics/value","value":"菜单"},
-{"op":"replace","path":"/paneLayout/lblProducttitle/value","value":"碟子"},
-{"op":"replace","path":"/paneLayout/btnCraft/caption","value":"准备"},
-{"op":"replace","path":"/paneLayout/lblProduct/value","value":"成分可用"},
-{"op":"replace","path":"/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value","value":"替换我"},
-{"op":"replace","path":"/tooltip/itemList/schema/listTemplate/itemName/value","value":"金胡子"}]
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "厨房灶台"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;准备和烹饪食物"},
+{"op": "replace","path": "/paneLayout/lblSchematics/value","value": "^#b9b5b2;食谱"},
+{"op": "replace","path": "/paneLayout/lblProducttitle/value","value": "^#b9b5b2;碟子"},
+{"op": "replace","path": "/paneLayout/btnCraft/caption","value": "准备"},
+{"op": "replace","path": "/paneLayout/btnStopCraft/caption","value": "停止"},
+{"op": "replace","path": "/paneLayout/lblProduct/value","value": "可用素材"},
+{"op": "replace","path": "/paneLayout/filter/hint","value": "搜索"}]

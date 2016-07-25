@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个神秘的旗标。它是用什么皮做的？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "暗影标记"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "毛骨悚然...这可能是个警告标志。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个标志...这是个警告吗？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "啊，一个警告标志。我很好奇这里有有有什么。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。我离开这里的想法增加了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是什么？一个记号？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个记号令人惴惴不安..."},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我认为这是用来驱赶陌生人的记号。"}]

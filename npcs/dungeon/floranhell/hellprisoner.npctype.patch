@@ -1,2 +1,0 @@
-[{"op":"replace","path":"/scriptConfig/dialog/attack/default/default","value":["入侵者！"]},
-{"op":"replace","path":"/scriptConfig/dialog/attack/floran","value":{"default":["叶族人饿饿饿饿了！","叶族人想想想想要嘛！","小小小小鲜肉！"]}}]

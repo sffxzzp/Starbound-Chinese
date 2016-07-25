@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个空白科技驱动，我可以在我飞船的电脑上给它编写科技。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "科技驱动"}]

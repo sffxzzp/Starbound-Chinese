@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "能源恐怖的眼睛！专注于你的敌人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "能源之眼"}]

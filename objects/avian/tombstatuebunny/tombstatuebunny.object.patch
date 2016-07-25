@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个兔子雕像。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族兔子雕像"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个兔子雕像。这有什么含义吗？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个雕像标志着这个坟墓中的人在来世注定不能获得羽翼。他们会像兔子那样永远跳下去。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "巨大的兔人是可可可口的零食。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。我认为兔子在翼族社会中有特殊的意义。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个兔子雕像。对于翼族人来说一定有什么意义。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这兔子代表了某种侮辱吗？它是否标示这个翼族人失去了神明的恩宠？"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一只动物的雕像。更准确的说法，这是一只兔子。"}]

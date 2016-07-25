@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我想知道他们在这个星球上都卖些什么水果。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族水果摊位"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "各式各样的多汁水果。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "有着信仰的翼族人很少会品尝这种水果。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "多多多可怕的鸟人食物。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "垂涎。如果我能够产生唾液，我会垂涎三尺的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我想吃这些水果想得要死。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "陆地上的食物很丰富、味道也很棒。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "水果，真想知道将其放在营火上烤熟后会是什么味道。"}]

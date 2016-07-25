@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "经典窗帘。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "经典窗帘（破的）"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "厚重的窗帘。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "摸起来很软。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鲛人用沉重的天鹅绒做窗帘，而叶族用他们的皮肤。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "触觉。很少有物体摸起来像爱抚一样令人舒适。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这些窗帘应该属于豪宅。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些窗帘几乎沾在鲛人皮肤上了。"}]

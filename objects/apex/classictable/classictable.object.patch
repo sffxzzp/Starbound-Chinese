@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "举办小型晚宴的好地方。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古典桌子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一张诱人的木桌。普通猿人一辈子都买不起这样的桌子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "选择的木头很棒。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "极致的工艺。猿人对木工真的很在行。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊叹。做工和选材都相当出色。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这种桌子干净得让人舍不得把手肘支在上面。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "做工优良，虽然有点高调"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张桌子高度正好用来跷二郎腿。"}]

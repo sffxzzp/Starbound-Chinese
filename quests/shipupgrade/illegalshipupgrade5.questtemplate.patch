@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;不正当的神鹰级飞船升级"},
+{"op": "replace","path": "/text","value": "这张飞船执照是…正当的，大概吧。带^orange;十个升级模块^green;给企鹅皮特^white;来升级你的飞船。"},
+{"op": "replace","path": "/completionText","value": "我会让企鹅们完成尼的飞船的最终升级。谢谢尼嘚光顾。"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "企鹅皮特"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "将^orange;升级模块^reset;送到^orange;前哨站^reset;的^orange;企鹅皮特^reset;那里。"},
+{"op": "replace","path": "/scriptConfig/conditions/0/description","value": "找到^orange;<itemName>^reset;：^green;<current> / <required>^reset;"}]

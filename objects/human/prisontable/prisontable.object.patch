@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一张很常见的餐桌。"},
-{"op":"replace","path":"/shortdescription","value":"餐桌"},
-{"op":"replace","path":"/apexDescription","value":"桌子"},
-{"op":"replace","path":"/avianDescription","value":"不起眼的桌子"},
-{"op":"replace","path":"/floranDescription","value":"可以在上面切切切片片的桌子。"},
-{"op":"replace","path":"/glitchDescription","value":"描述：一张普通的桌子。"},
-{"op":"replace","path":"/humanDescription","value":"普通的桌子。"},
-{"op":"replace","path":"/hylotlDescription","value":"一张桌子，没有任何工艺。"}]

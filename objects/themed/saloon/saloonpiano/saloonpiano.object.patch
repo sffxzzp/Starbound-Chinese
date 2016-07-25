@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是一个适合沙龙的钢琴！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龙钢琴"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "所有的猿族必须学会弹。然而，仅仅只有许可的音乐才能被表演。每一个钢琴里都藏着个麦克风。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "能发出悦耳声音的按钮。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族用皮肤和骨头演奏音乐，玩鼓的大师。而不是笨笨笨的声音机器。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。这台机器背后所蕴含的数学相对比较简单。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一架钢琴…我能弹《筷子》！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊，音乐…即使在我们最黑暗的时刻，它也有点亮前进道路的力量。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一台适合老式低级夜总会的钢琴。"}]

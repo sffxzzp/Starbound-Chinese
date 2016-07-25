@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个排污阀，转起来很有趣。"},
-{"op":"replace","path":"/shortdescription","value":"排污阀"},
-{"op":"replace","path":"/apexDescription","value":"一个阀门。"},
-{"op":"replace","path":"/avianDescription","value":"一个阀门。"},
-{"op":"replace","path":"/floranDescription","value":"转、转轮。"},
-{"op":"replace","path":"/glitchDescription","value":"陈述：一个阀门。"},
-{"op":"replace","path":"/humanDescription","value":"一个阀门。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个阀门。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是猿人实验室里最好的安全摄像头了。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人安全摄像头"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "永远在监视。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我应当时刻提防像这样的安全摄像头。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这摄像头会会会自己动。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。这个安全摄像头装有运动检测装置。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "科技发展部通过这样的摄像头监视我的一举一动。真是阴险。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看到这个摄像头我就想藏到海里去躲避它的监视。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "想监视我…哈？"}]

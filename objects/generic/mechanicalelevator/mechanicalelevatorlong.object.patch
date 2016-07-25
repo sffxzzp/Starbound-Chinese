@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这电梯运行在一个复杂的发条系统。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "长机械电梯"}]

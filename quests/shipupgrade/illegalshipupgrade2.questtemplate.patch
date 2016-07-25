@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;不可靠的小鹰级飞船升级"},
+{"op": "replace","path": "/text","value": "这张飞船执照合毫无疑问是合规的。^green;访问企鹅皮特^reset;用^orange;四个升级模块^reset;来升级你的飞船。"},
+{"op": "replace","path": "/completionText","value": "你的船将会立即升级。企鹅工艺总是最为优良的。"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "企鹅皮特"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "将^orange;升级模块^reset;送到^orange;前哨站^reset;的^orange;企鹅皮特^reset;那里。"},
+{"op": "replace","path": "/scriptConfig/conditions/0/description","value": "找到^orange;<itemName>^reset;：^green;<current> / <required>^reset;"}]

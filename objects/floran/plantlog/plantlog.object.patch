@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一根原木。在你坐下之前检查一下有没有白蚁。"},
-{"op":"replace","path":"/shortdescription","value":"原木"},
-{"op":"replace","path":"/apexDescription","value":"一根原木。"},
-{"op":"replace","path":"/avianDescription","value":"一根发霉的原木。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人踩着原木下山，把鱼人压成鱼片。"},
-{"op":"replace","path":"/glitchDescription","value":"陈述。一根原木。"},
-{"op":"replace","path":"/humanDescription","value":"在过去，我曾是扔木桩比赛的职业二传手。"},
-{"op":"replace","path":"/hylotlDescription","value":"一根原木。"}]

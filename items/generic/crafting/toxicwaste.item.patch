@@ -1,4 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "不应该浪费清除这种有毒物质的时间！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "有毒废物"},
-{ "op" : "replace", "path" : "/glitchdescription", "value" : "分析。这些废物是有毒的。"},
-{ "op" : "replace", "path" : "/florandescription", "value" : "叶族不喜欢有毒废物。"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有毒废物"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个用来移动大量矿产原材料的机器."},
-{"op":"replace","path":"/shortdescription","value":"采矿输送带"},
-{"op":"replace","path":"/apexDescription","value":"一个采矿输送带,用来在短距离内移动很重的货物."},
-{"op":"replace","path":"/avianDescription","value":"一个采矿输送带,现在没有动."},
-{"op":"replace","path":"/floranDescription","value":"叶族人厌倦了围栏."},
-{"op":"replace","path":"/glitchDescription","value":"无动于衷。输送带看起来没用."},
-{"op":"replace","path":"/humanDescription","value":"一个用来移动很重的货物的短距离输送带."},
-{"op":"replace","path":"/hylotlDescription","value":"一个无趣的人造建筑."}]

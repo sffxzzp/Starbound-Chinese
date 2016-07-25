@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个经典的书桌。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "经典书桌"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是书桌的一个典型例子。"}]

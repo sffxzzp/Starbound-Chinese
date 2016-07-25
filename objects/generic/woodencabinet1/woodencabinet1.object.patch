@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个坚固的木制橱柜。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大木柜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小的木制的存储单元。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "少量的存储。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "存储。不多。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "无动于衷。没有太多存储空间。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一对可爱的橱柜。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "小而有用的。"}]

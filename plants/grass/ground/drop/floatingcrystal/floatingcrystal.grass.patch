@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个神秘的漂浮晶体。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "一个神秘的漂浮晶体。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "飘逸闪亮。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。漂浮的水晶。"}]

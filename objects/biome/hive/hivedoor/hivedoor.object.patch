@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个由奇怪的有机六角形小室构成的黏糊糊的门"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂巢门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "经过仔细地观察，这门似乎在缓慢地流出生物液体。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这门在我碰到它时在我羽毛上留下了一些黏糊糊的东西..."},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想要踢倒这奇怪的黏黏黏糊糊的门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊慌。这门似乎在滴下生物液体..."},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我不清楚一个到处流出黏液的门是不是一个卫生的装饰选择。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我能想到几千种比这明智得多的材料来做门。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我仅仅是看着这门就感到焦虑不安。"}]

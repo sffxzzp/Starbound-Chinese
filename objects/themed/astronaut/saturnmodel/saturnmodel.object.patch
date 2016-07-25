@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "太阳系中有最壮丽行星环的行星―土星的精细模型。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "土星模型"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "土星是一个气态巨行星，也是太阳系第六行星。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "土星萨杜恩，以古地球罗马神话中的农业之神命名。翼族文化里也有一个令人恐慌般相似的神。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "土星是太阳系系系里的一颗气态巨行星。它的行星环则是太阳系里最巨大的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "魅力。这超大的行星环是由小至星际尘埃、大至10米长的石块的物质组成。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "土星是太阳系最大的气态巨行星。壮丽的土星环则使得它显得与太阳系其他行星截然不同。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "土星的六边形风暴是大自然那出人意料又合乎情理的美态的又一体现。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "对最初那批地球出生的星际逃犯来说，土星就是天堂。他们将藏身于土星环之中，并劫掠过往的商船。"}]

@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;监狱摇滚"},
-{ "op" : "replace", "path" : "/text", "value" : "好久不见！我的烟花表演取得了巨大的成功！^green;你愿意帮我找个^orange;石制USCM监狱流放标志^green;么？^white;我想用这个来提醒自己是从哪里来的。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "这就是我想要的！非常感谢！这些给你…"}]

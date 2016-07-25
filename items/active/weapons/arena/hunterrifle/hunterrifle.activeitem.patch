@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个强大的瞄准镜能让这枪轻易的攻击很遥远的目标。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "老式狙击步枪"}]

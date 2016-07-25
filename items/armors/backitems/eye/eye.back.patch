@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个允许你看到后面有什么的披风。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "全视角披风"}]

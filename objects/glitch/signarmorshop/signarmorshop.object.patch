@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"护甲！来这里买盔甲吧！"},
-{"op":"replace","path":"/shortdescription","value":"护甲店招牌"},
-{"op":"replace","path":"/apexDescription","value":"一块木制招牌。 看起来属于盔甲店的。"},
-{"op":"replace","path":"/avianDescription","value":"一个木制招牌，上面画了一个盾牌。"},
-{"op":"replace","path":"/floranDescription","value":"附近有盾、盾牌商、商店。"},
-{"op":"replace","path":"/glitchDescription","value":"鉴定：挂在电子人商店的招牌，看起来是一家护甲店。"},
-{"op":"replace","path":"/humanDescription","value":"看起来像是挂在护甲店外面的招牌。"},
-{"op":"replace","path":"/hylotlDescription","value":"招牌说明这是一家护甲店。"}]

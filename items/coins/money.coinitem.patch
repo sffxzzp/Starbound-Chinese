@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "像素，用于3D打印；已成为一个通用的货币。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "像素"}]

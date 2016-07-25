@@ -1,2 +1,3 @@
-[{"op":"replace","path":"/bookmarkName","value":"前哨站"},
-{"op":"replace","path":"/destinations/0","value":{"name":"传送到飞船","planetName":"","warpAction":"OwnShip","icon":"beamup"}}]
+[{"op": "replace","path": "/bookmarkName","value": "前哨站—2站传送商店"},
+{"op": "replace","path": "/destinations/0/name","value": "传送至飞船"},
+{"op": "replace","path": "/destinations/1/name","value": "光一的博物馆"}]

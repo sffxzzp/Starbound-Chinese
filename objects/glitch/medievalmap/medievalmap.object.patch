@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一幅世界地图。"},
-{"op":"replace","path":"/shortdescription","value":"电子人地图"},
-{"op":"replace","path":"/apexDescription","value":"一幅古老的地图， 经过飞船的扫描表明其并不准确。"},
-{"op":"replace","path":"/avianDescription","value":"一幅不准确的古老地图。"},
-{"op":"replace","path":"/floranDescription","value":"大铁人的地图，走，打、打猎去！ "},
-{"op":"replace","path":"/glitchDescription","value":"评价：电子人的制图师仍然有许多东西要学，这地图根本就不靠谱。"},
-{"op":"replace","path":"/humanDescription","value":"我的飞船传感器告诉我地图是错的。"},
-{"op":"replace","path":"/hylotlDescription","value":"比起陆地，鲛人的地图更关注海洋。"}]

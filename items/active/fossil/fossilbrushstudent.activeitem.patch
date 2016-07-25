@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "只能使用一次来发掘化石，成功率中等。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高级化石刷"}]

@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "岩浆岩，热热哒。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "岩浆岩"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。岩浆岩。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "发烫的石头，哎呦好烫！"}]

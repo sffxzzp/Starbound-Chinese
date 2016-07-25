@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "蜡烛的灯光，以最可怕的方式向外发散着。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式烛台"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个精致的哥特式台座。头骨的部分则是太令人遗憾了。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "没有什么地方比盛放头骨的台座更能述说主人的骄傲了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人同同同样也把那些砍砍砍下来的头中最中意的放在台座上。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞叹。一个很有价值的台座。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这显然是把他人放在台座上的一种方法…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个非常有哥特风的台子。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我在想有这样一个玩意儿在你脑袋里是啥感觉。"}]

@@ -1,5 +1,0 @@
-[{"op": "replace","path": "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default","value": ["我家现在感觉比以前少了点沥青了…","这里发生了变化，这不对…","我保证这里以前有很多沥青的…"]},
-{"op": "replace","path": "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default","value": ["我的沥青井需要修复…","这里毁坏了，你能搞定么？","我需要修复！"]},
-{"op": "replace","path": "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default","value": ["这是我的沥青井！没人能来这！","这沥青井是我的！"]},
-{"op": "replace","path": "/scriptConfig/dialog/tenant/grumbles/severe/default/default","value": ["我无法接受这样的沥青井！","这是无法接受的情况…","我不会继续站着看这种情况持续下去！"]},
-{"op": "replace","path": "/scriptConfig/dialog/tenant/grumbles/final/default/default","value": ["我受够了这些！","就这样，我放弃了。该离开了！","我放弃了，我要给自己找个新的沥青井！"]}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"我想知道这面旗帜见证了多少战争。"},
-{"op":"replace","path":"/shortdescription","value":"战旗"},
-{"op":"replace","path":"/apexDescription","value":"这个方格旗帜象征了一种意义。"},
-{"op":"replace","path":"/avianDescription","value":"色彩鲜艳的旗帜。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人喜欢花花绿绿的旗子。"},
-{"op":"replace","path":"/glitchDescription","value":"教学：电子人的战旗在发生战争的时候，会在战场上飘扬。"},
-{"op":"replace","path":"/humanDescription","value":"战旗，甚至在现代战争中都有一席之地。"},
-{"op":"replace","path":"/hylotlDescription","value":"一面旗子，看起来可以扛起来，也可以插在地上。"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"所有权不明的更衣室."},
-{"op":"replace","path":"/shortdescription","value":"前哨储物柜"},
-{"op":"replace","path":"/apexDescription","value":"我不知道谁的更衣室是这样的?"},
-{"op":"replace","path":"/avianDescription","value":"我不知道我能不能适应这个更衣室."},
-{"op":"replace","path":"/floranDescription","value":"叶族人不能塞进这个更衣室,但是叶族人能把鲛人塞进这个更衣室."},
-{"op":"replace","path":"/glitchDescription","value":"陈述。一个储物柜，把你想锁住的东西锁住."},
-{"op":"replace","path":"/humanDescription","value":"啊，这让我想起高中的我."},
-{"op":"replace","path":"/hylotlDescription","value":"一个基本的，丑陋的更衣室."}]

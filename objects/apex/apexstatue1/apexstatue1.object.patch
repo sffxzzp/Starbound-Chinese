@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一尊大猿人的半身像。光荣的猿人领袖。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人半身像"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人…他的形象无处不在，但我却不曾见过他。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个廉价的石头半身像。它看起来是机器做的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的石头脸。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。我的传感器提示里面有什么设备。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "大猿人。不知道真人是否也这个儿？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "那只猴子自己，如果真的是他的话。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个大猿人一定很自恋。"}]

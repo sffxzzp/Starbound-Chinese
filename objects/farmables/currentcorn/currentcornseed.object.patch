@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"液体玉米，太酸了，对肉质生物不好。"},
-{"op":"replace","path":"/shortdescription","value":"液体玉米种子"},
-{"op":"replace","path":"/apexDescription","value":"我听说过在古怪的酷刑才会用上液体玉米。"},
-{"op":"replace","path":"/avianDescription","value":"酸玉米，令人不愉快并且很危险。"},
-{"op":"replace","path":"/floranDescription","value":"美味、如火的玉米~~会对肉质造成伤害~~"},
-{"op":"replace","path":"/glitchDescription","value":"警惕模式。酸和电子人不是一个好的组合。"},
-{"op":"replace","path":"/humanDescription","value":"它看起来像玉米，但它不是，真的不是。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个毫无价值的变种酸玉米，不能做任何菜。"}]

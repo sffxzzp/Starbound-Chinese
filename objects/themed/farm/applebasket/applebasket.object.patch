@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个装满苹果的篮子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "苹果篮"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "包装好的富含营养的甜美红苹果。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "在太阳祝福中成熟的优良红苹果。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "水水水果太多了，没有足够的肉肉肉。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这些苹果似乎拥有完美的对称性。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "进一步调查发现，这些苹果是用蜡做出来的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一篮陆地苹果。虽然不像海洋苹果那样有着咸味，但美味程度并不逊色分毫。"}]

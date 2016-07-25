@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/description","value": "你可以使用瞬间移动来越过陷阱和敌人！冷却：2.5s"},
+{"op": "replace","path": "/shortDescription","value": "瞬间移动"}]

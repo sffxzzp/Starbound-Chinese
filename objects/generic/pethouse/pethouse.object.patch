@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "对于小动物来说足够大且舒适的居住。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "宠物屋"}]

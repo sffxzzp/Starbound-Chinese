@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/title","value": "^orange;一起来搞科技吧！"},
+{"op": "replace","path": "/text","value": "我一直在研发一种可以让使用者迅速地从一个点冲刺到另一个点上的技术，可我缺乏一些关于这个^orange;技术原型^white;的重要零件。你能帮我^green带^orange;10个铜锭回来吗^white;？"},
+{"op": "replace","path": "/completionText","value": "太好了！你真的给我带回来了！有了这些，^orange;能量猛冲技术^white;马上就能实现了，但只有一种方法可以验证它能够运行。。。"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "在^orange;前哨站^reset;和^orange;埃利奥特^reset;交谈。"}]

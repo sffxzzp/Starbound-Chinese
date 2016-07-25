@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个华丽的钢铁书柜。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大型钢铁书柜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这书柜似乎是用来保护其中的藏品的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人收集到的书不是很多。因此所有翼族人收集到的书籍都是神圣的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "结结结实的书柜。叶族人不懂懂懂为何要那么结结结实。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。翼族人似乎非常重视书籍。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这书柜造得和坦克一样结实。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "所有的书籍都值得保护。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个结实的书柜。我被感动了。"}]

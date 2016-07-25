@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"好像是一个统计图表。"},
-{"op":"replace","path":"/shortdescription","value":"原始的笔记"},
-{"op":"replace","path":"/apexDescription","value":"一个没有标签的统计图标，这里有很多的标记。"},
-{"op":"replace","path":"/avianDescription","value":"好像是用来计数的图表。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人用纸记录杀掉的生物，叶族人的记忆不太好。"},
-{"op":"replace","path":"/glitchDescription","value":"无视：一个以10进制为基础的简单系统。"},
-{"op":"replace","path":"/humanDescription","value":"一个古老的统计图表，我有时候也用用。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个统计图标，我希望这些标记不是杀戮。"}]

@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "乌龟壳。披萨不包括在内。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "龟壳"}]

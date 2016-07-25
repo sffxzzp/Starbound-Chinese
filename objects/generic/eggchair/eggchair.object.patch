@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这把椅子是鸡蛋形的。我不知道这是谁的主意。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蛋椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这真是个疯狂的创意。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个蛋形椅。我觉得自己像一个孩子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "蛋椅看起来好好吃。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "考虑。背部疼痛的几率很高。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "它不是很实用，但它看起来很酷！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "比起材料，风格更佳。"}]

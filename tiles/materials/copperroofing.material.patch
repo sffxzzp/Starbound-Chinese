@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "铜屋顶。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铜屋顶"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。这个屋顶是用铜做的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢这个个屋顶。"}]

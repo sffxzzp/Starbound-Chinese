@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^orange;让球滚起来"},
+{"op": "replace","path": "/text","value": "我的^orange;变形球^white;随时都可以滚起来了！我希望你去^green;新建好的测试房间完成最后的试验。^white;那些狭窄的通道对你来说一定没问题的，^green;你准备好的话记得告诉我哦。"},
+{"op": "replace","path": "/completionText","value": "很棒！^orange;变形球^white;表现的正如我期待的那样！请你收下—实在太感谢你了，我的研究已经取得重大进展！"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "与^orange;埃利奥特^reset;对话，并进入^orange;测试房间^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "完成^orange;科技球技术的测试^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "回到^orange;前哨站^reset;，并找到^orange;埃利奥特^reset;"}]

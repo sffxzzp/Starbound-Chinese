@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这面具看起来很生气。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "装饰用异域面具"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "等一下，这是一个猿人？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个面具是对猿人的警告。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人让猿人看起来很傻傻傻。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。看起来这面具上的形象是猿人。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我认为这应该是一个猿人。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个猿人面具并不是很准确。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个对猿人毫无谄媚形象描画。"}]

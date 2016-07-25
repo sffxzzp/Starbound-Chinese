@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"嘀，嗒，嘀，嗒。"},
-{"op":"replace","path":"/shortdescription","value":"电子人挂钟"},
-{"op":"replace","path":"/apexDescription","value":"小闹钟，钟摆安静地晃着。"},
-{"op":"replace","path":"/avianDescription","value":"看起来是一种确定时间的装置，翼族人是利用太阳来确定时间的。"},
-{"op":"replace","path":"/floranDescription","value":"嘀，嗒，嘀，嗒，呵呵呵。"},
-{"op":"replace","path":"/glitchDescription","value":"观察：这个钟的时间从来都没变过，所有电子人的钟都是这样。"},
-{"op":"replace","path":"/humanDescription","value":"一个漂亮的小摆钟。 钟摆虽然在摇摆但时间却没有变化。"},
-{"op":"replace","path":"/hylotlDescription","value":"钟上的时间恒久不变。"}]

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^green;猎人的脸"},
+{"op": "replace","path": "/text","value": "嗯，看起来叶族人其实对博物馆并不感兴趣；之前我对努鲁谈起我的计划时她问我啥是“薄雾馆”…^green;如果你能帮我从叶族村庄或狩猎场带一个^orange;叶族雕像^white;来，这可能会让努鲁觉得博物馆更吸引一点？"},
+{"op": "replace","path": "/completionText","value": "他还拿着矛—努鲁一定会喜欢这个！真不知该怎么谢你。"}]

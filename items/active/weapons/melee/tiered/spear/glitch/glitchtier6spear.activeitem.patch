@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "反向追踪。这根长矛很适合反击。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "反向追踪"}]

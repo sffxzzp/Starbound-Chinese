@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最先进的微推进器保证它总是能够返回。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞镖"}]

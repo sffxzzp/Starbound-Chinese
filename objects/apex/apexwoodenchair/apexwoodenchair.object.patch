@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张普通的木质餐椅。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "标配木椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这些简单的椅子是科学发展部的囚犯做的。我曾看到一张椅子框上刻有“救救我们”的字样。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这椅子的腿摇摇晃晃的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能做更好的椅子，大大大师级的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "强迫症。一条腿凳比其它三条长了三毫米。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个不舒服的摇摇晃晃的椅子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这不是爱的产物。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张单纯用来坐的椅子。"}]

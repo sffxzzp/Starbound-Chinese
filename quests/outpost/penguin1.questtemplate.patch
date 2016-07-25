@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;企鹅骇翼"},
+{"op": "replace","path": "/text","value": "帮帮我们，可以吗？自从我所有的常客开始逃避^orange;骇翼^white;和他的强盗团伙以来，这里就从没有做过大买卖了！你能否帮我^green;打败骇翼^white;？你准备好之后就来和我说一声，我会带你去见他！"},
+{"op": "replace","path": "/completionText","value": "你已经好好教训了他一番？谢了，现在我又可以做买卖了！^green;如果你想要一个用于雇佣企鹅摩西的^orange;企鹅币^green;，那么就来和我说一声^white;。"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "与^orange;调酒师^reset;对话以挑战^orange;骇翼^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "打败^orange;骇翼^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "回到^orange;前哨站^reset;向^orange;调酒师^reset;汇报情况"}]

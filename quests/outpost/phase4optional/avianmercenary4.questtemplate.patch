@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;黄金鸭"},
-{ "op" : "replace", "path" : "/text", "value" : "嗨。你有没有见识过翼人的工艺品？翼人的寺庙非常宏伟，但是他们的工匠对制作精美小饰品也非常在行。^green;如果你能带个我一个^orange;黄金鸭子^green;雕像，我会给你些好东西作为回报。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "完美的工艺，真是美啊。这是我获得的第500只黄金鸭子，我终于收集齐了！"}]

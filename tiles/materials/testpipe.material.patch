@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "测试管道"},
-{ "op" : "replace", "path" : "/description", "value" : "一种常用于测试的管道。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个管道。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "管道！"}]

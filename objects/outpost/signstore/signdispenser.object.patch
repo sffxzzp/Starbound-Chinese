@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是标志出来的地方。也许我可以放一个进去？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "图架柜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "充满了宝贵的知识。或糟糕的双关语。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这就是标志出来的地方。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "前面是玻璃。不容易隐藏身体。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这就是标志出来的地方。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这就是标志出来的地方。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "充满了宝贵的知识。或糟糕的双关语。"}]

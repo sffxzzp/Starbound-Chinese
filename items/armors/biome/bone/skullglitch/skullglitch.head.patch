@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个电子人骷髅。嗯，不完全是一个骷髅，但是他们尝试过了。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "电子人头骨"}]

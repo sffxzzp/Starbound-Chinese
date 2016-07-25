@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个徽章象征着水那宁静和富有生机的特性。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族水之徽章"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是翼族水之徽章。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "噢，水之徽章，那前面一定有水。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "某种符符符号，叶族人认为它代表水。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "犹豫。这个符号表示的是水还是火？水。一定是水。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "它看起来有点像一张暴躁的鲛人面孔。这就是我记住它意味着水的方法。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个描绘水元素，并告知有水存在的字符。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我并不知道它想告诉我什么。但它让我感到口渴。"}]

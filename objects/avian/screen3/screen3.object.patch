@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张星图！有点原始。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "星图显示屏"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一张周边星系的星图。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "水晶共振被用来绘制星系图。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这是周周周围的星星星星。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观说明。这是目前的星系。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "本星系的独特模型。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些星星汇聚成了星之海洋。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我正看着群星。就是字面上的意思。这上面一定是我现在所处的星系。"}]

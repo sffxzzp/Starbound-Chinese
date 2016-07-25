@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "不想落在其中的任何一个上面…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "冰刺。"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "尖刺，冰做的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这冰块看起来很锋利。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "十分尖锐。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。尖锐的冰可以刺穿电子人的表皮。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我最好不要碰这些。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我会优雅的避开这些冰块。"}]

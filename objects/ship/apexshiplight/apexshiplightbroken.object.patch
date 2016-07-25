@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"发生故障的灯."},
-{"op":"replace","path":"/shortdescription","value":"破旧的船灯"},
-{"op":"replace","path":"/apexDescription","value":" 这盏灯没有足够的电力."},
-{"op":"replace","path":"/avianDescription","value":"闪烁的灯光."},
-{"op":"replace","path":"/floranDescription","value":"这光让人头晕!"},
-{"op":"replace","path":"/glitchDescription","value":"分析. 这是一个发生故障的灯."},
-{"op":"replace","path":"/humanDescription","value":"这个灯的灯光在不停的闪烁."},
-{"op":"replace","path":"/hylotlDescription","value":"电力不足的灯."}]

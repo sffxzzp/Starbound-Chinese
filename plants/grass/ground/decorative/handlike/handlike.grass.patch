@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个看起来和手一样的树根。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "一个看起来和手一样的树根。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "贪婪的树根。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个看起来和手一样的树根。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张蘑菇床，绝对能给你个诡异的梦。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这张床既有趣又有弹性。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这床老是在它的茎上晃。我感觉有点反胃。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人滚床，摔了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "检测。这张蘑菇床会发出些许迷幻孢子。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "单身的时候特别赞，因为床上没有“蘑菇”。Yeah。我“觉醒”了。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张床老是在晃，就和在船里一样。淡定。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "不知道是不是所有这种蘑菇床都是这稳定性..."}]

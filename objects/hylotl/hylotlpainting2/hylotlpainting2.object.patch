@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这是一幅很老的著名油画的复本。"},
-{"op":"replace","path":"/shortdescription","value":"传统山峰画作"},
-{"op":"replace","path":"/apexDescription","value":"这画看起来不错。"},
-{"op":"replace","path":"/avianDescription","value":"不坏，尽管画的有些粗心。"},
-{"op":"replace","path":"/floranDescription","value":"愚蠢青蛙人的画叶族人才不在乎呢。"},
-{"op":"replace","path":"/glitchDescription","value":"评论：扫描显示在这幅画的下面有大量的网格， 是数字绘画设备。"},
-{"op":"replace","path":"/humanDescription","value":"我确定在地球上有相同的画。"},
-{"op":"replace","path":"/hylotlDescription","value":"大气的颜色，深厚的感情。"}]

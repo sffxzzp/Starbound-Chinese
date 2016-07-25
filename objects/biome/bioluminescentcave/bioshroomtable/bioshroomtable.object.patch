@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张巨大的发光蘑茹桌子。适合在黑暗中坐着。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "发光桌"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "如果你太饿，你可以把桌子吃掉。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这桌子太亮了，不合我的口味。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族在把肉切切切片时桌子会摇动。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "眼花撩乱。这巨大的发光桌子看起来很难令人信服像一个蘑茹。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "在这桌子吃东西会感觉像在吃一个神奇的野餐。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用类似地下蘑茹的方式建成，这张桌模仿它们的光彩。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个可以当作桌子的大假蘑茹。"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"哇，那是什么骨头？！"},
-{"op":"replace","path":"/shortdescription","value":"大型骨头装饰"},
-{"op":"replace","path":"/apexDescription","value":"一个巨大的骨头，好像是战利品。"},
-{"op":"replace","path":"/avianDescription","value":"这生物活着的时候该有多大啊？"},
-{"op":"replace","path":"/floranDescription","value":"叶族人只会把叶族吃掉的生生生物的骨骨骨头拿出来摆放。"},
-{"op":"replace","path":"/glitchDescription","value":"推算。根据骨头的大小，这个应该生物比我们电子人住的山洞还大。"},
-{"op":"replace","path":"/humanDescription","value":"这个骨头好大！"},
-{"op":"replace","path":"/hylotlDescription","value":"叶族人到底杀了什么东西弄到这个...战利品？"}]

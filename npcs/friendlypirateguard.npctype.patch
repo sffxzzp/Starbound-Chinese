@@ -1,7 +1,0 @@
-[{"op":"replace","path":"/scriptConfig/dialog/hail/default/default","value":["嘿！兄弟！","近来如何？","吼吼，我是爱岗敬业好青年。","飞船上待过吗？那可是好地方。"]},
-{"op":"replace","path":"/scriptConfig/dialog/hail/apex","value":{"default":["嘿，老兄！","食物卡胡子里了我,老兄！","我就在这陪着你，咱们忘掉烦恼。","别害怕，我会保护你的安全。"]}},
-{"op":"replace","path":"/scriptConfig/dialog/hail/avian","value":{"default":["嘿，老兄！","近来如何？","吼吼，我是爱岗敬业好青年。","飞船上待过吗？那可是好地方。"]}},
-{"op":"replace","path":"/scriptConfig/dialog/hail/floran","value":{"default":["哟，叶族人问问问问候你。","叶族人喜喜喜喜欢你但是你要是惹事儿照样捅捅捅捅你。","朋友打打打打算今天干啥？","叶族人就连叶叶叶叶子都在监视敌情。"]}},
-{"op":"replace","path":"/scriptConfig/dialog/hail/glitch","value":{"default":["欢迎，欢迎。，哟吼，老兄。","犹豫，犹豫。我能给我的关节上点润滑油吗？","自信，自信。谁敢惹我们我就揍丫的。","疑问，疑问。今天你冒险了吗？"]}},
-{"op":"replace","path":"/scriptConfig/dialog/hail/human","value":{"default":["嘿，老兄！","今天过得咋样？","别怕老兄，我盯着呢，没人会剥了你的皮。","临兵斗者皆阵列在前，啊哈，我开玩笑呢。"]}},
-{"op":"replace","path":"/scriptConfig/dialog/hail/hylotl","value":{"default":["哟吼，见到你很高兴唷。","整天蹲在这儿，操蛋工作！","我的翅膀感觉到，有杀气！","你不觉得我该加薪了吗？"]}}]

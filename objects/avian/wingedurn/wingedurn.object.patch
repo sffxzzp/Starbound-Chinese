@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个带有翅膀的骨坛，也许被认为可以将死者带去来世。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "带翅骨坛"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个带有翅膀的骨坛。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这些骨坛是给那些在战斗中残废了的翼族人使用的。这个骨坛被期望能将死者带入神国。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "带翅翅翅膀的壶。壶可不不不会飞。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这些翅膀一定有某种宗教意义。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我想这是一个带有翅膀的骨坛。装满了骨灰。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道，这双翅膀会把死者带到哪里？"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个带有翅膀的骨坛。它会飞去哪里？"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"古老的落石。"},
-{"op":"replace","path":"/shortdescription","value":"古老落石标记"},
-{"op":"replace","path":"/apexDescription","value":"可能是三个指头的脚印，或者是落石。"},
-{"op":"replace","path":"/avianDescription","value":"一个说明有什么会掉下来的标记，希望不是月亮。"},
-{"op":"replace","path":"/floranDescription","value":"一个说明天花板不牢靠的标志。"},
-{"op":"replace","path":"/glitchDescription","value":"疑惑。或许这说明这洞穴不太安全？"},
-{"op":"replace","path":"/humanDescription","value":"落石。为什么就不能来个安全的洞穴呢？"},
-{"op":"replace","path":"/hylotlDescription","value":"也许画这个的人是想警告别人。"}]

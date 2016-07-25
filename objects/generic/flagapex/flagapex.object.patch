@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个猿族旗帜，科学发展部的象征。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "猿族旗帜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个猿族旗帜不是一个能让我们这类反抗者能够有良好反应的物品。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "压迫的猿族旗帜。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族认为这个猴子旗帜意味着加速！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。猿族旗帜。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这猿族旗帜有点熟悉。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这猿族旗帜提醒我们他们野蛮的层次结构。"}]

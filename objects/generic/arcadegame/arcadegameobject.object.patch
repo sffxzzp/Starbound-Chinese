@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "本机运行一个叫'Mazebound64'的游戏。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "街机游戏"}]

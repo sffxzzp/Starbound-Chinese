@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "谁知道它可能会激活什么…按一下！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人按钮"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "按！按！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "诱惑。一个按钮，渴望被按下。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个相当诱人的按钮。"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "在一个简单的按钮中的巨大力量。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个超大的按钮。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个制作精良的按钮。"}]

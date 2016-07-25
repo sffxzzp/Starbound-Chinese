@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"出现故障的灯。"},
-{"op":"replace","path":"/shortdescription","value":"残破的红灯"},
-{"op":"replace","path":"/apexDescription","value":"此灯没有得到足够的电能。"},
-{"op":"replace","path":"/avianDescription","value":"闪烁的灯。"},
-{"op":"replace","path":"/floranDescription","value":"灯让我晕晕乎乎！"},
-{"op":"replace","path":"/glitchDescription","value":"分析。这灯是故障。"},
-{"op":"replace","path":"/humanDescription","value":"这个灯一直在闪烁。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个能源不足的灯。"}]

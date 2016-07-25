@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "漂亮的发光花丛。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "发光花丛"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "漂亮的发光花丛。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这些发光的花真漂亮。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人会穿戴发光的花花花...但这样会被别人发现。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "感到兴趣。这些花出奇地适应这种恶劣环境。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我喜欢种这些花在我的花园内，但它们看起来很难移植。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些花发出淡淡的光芒。它们似乎被遗弃在这片雪原。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这难道不是一种漂亮的植物。"}]

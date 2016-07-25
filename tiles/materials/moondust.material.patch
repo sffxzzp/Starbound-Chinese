@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "月尘，组成梦的一种美好物品。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "月尘"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "喜悦。尘土。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢亮闪闪的*打喷嚏*尘。"}]

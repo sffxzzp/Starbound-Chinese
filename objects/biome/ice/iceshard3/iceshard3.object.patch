@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一大块冰。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "冰块"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一部分的冰。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一块冰冻的冰的一部分。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "砸砸砸碎的冰。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "声明。一块冷碎片。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一些冰。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "冰的断裂块。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是一大块冰。"}]

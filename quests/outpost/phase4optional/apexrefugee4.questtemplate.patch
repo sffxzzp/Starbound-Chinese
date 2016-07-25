@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;迷宫的束缚"},
-{ "op" : "replace", "path" : "/text", "value" : "你有没有试试Terramart旁的游戏机？我打赌它是不可能通关的，我愿意赌上我所有的积蓄。^green;如果你能把从机器里得到的^orange;通关小票^green;给我，我会给你我所有的积蓄..."},
-{ "op" : "replace", "path" : "/completionText", "value" : "你做到了？！难以置信！好吧，现在没有人能说我不是猿人的一份子了。这是我所有的积蓄..."}]

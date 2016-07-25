@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一面用昂贵的丝绸编织的翼族旗帜。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族多彩旗帜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一面精致的、充满活力的旗帜。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者用这种旗帜装饰他们的小镇。他们用色彩装点他们的生活。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的颜颜颜色，让叶族人想起了花。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷人。做工粗糙，但很漂亮。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "明亮欢快的颜色！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样的活力只存在于海洋之上。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这面旗帜蕴含着某种精神。我喜欢。"}]

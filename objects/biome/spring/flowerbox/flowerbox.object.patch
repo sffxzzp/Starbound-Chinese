@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "奇怪的巨大花朵，你可以藏身其中！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "奇怪的花朵箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "注意，也许会有人藏在这些花朵后面。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这些花看起来很舒服。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢藏在花花花里。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。它可能是一张叶族人的床。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个躲猫猫的好地方。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大大的奇怪花朵。我可以试着藏在它们后面。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "在棘手的情况下，也许会有人用这个花箱作为藏匿点。"}]

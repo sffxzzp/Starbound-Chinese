@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个坚实的木架。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木架"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木架。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "由一块坚实的木头雕刻而成。或许用于展示物品。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这是啥？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "识别。一个用于显示对象的对象。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个小小的展示架。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "展示艺术。"}]

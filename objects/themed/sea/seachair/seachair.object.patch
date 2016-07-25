@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "贝壳形状的扶手椅。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "贝壳扶手椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "由一个大贝壳成形的漂亮椅子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道这个壳里原来住的是什么海洋生物。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "贝贝贝壳做的好椅椅椅子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。这把椅子是用一个巨大的蛤壳做的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "有人用这个巨大的贝壳做了一把时尚的椅子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "为了这件罪恶的东西一只美丽的贝壳被屠杀了。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "用巨大贝壳做的结实椅子。"}]

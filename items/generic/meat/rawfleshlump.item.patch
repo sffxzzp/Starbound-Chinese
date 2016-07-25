@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "来源可疑的肉块。煮熟后会更美味。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "生肉块"}]

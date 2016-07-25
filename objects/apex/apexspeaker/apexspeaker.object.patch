@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "大猿人的通告都是通过这些喇叭广播的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人广播"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "小时候，对讲机的滋滋声令我充满恐惧。那种要来消息的声音。每次都担心是轮到我父母被叫去科学发展部，去了便再也回不来了那种。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个单调低沉的嗡嗡声从这个设备里传出来。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "喂喂喂…？叶族人知知知道有人在听…"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。它正在从某处接收着无声信号。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个对讲系统。不知道如果我对它讲句话，会不会有人回应。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这对讲机看起来像藏了一个内置摄像头。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个发号施令而非播放音乐的设备，真不知羞耻。"}]

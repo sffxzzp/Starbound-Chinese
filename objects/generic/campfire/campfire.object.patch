@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/subtitle", "value" : "营地野炊。"},
-{ "op" : "replace", "path" : "/description", "value" : "火种飞离篝火，温暖空气。我能用这热量来简单的加工食物…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;篝火^white;"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "旺盛的篝火。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "温暖，光明。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族怕火。但叶族喜欢做饭。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "想法。我想烤棉花糖。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直很喜欢看篝火的火焰飞舞的样子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一堆篝火，适合烹饪食物。"}]

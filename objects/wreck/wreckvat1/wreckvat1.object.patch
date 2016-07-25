@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "打碎了的培养舱，里面被干泥覆盖…是什么东西从里面打破出来的么？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "破碎的培养舱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "有什么东西…挣脱出来？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这是不详的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "碎碎碎…阿欧。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "扫描。迹象显示一个生命形式从这个机器中逃出。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "上帝啊，这让我想起我看过的一个电影。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有一种粘糊糊的绿色物质在破碎的玻璃上…"}]

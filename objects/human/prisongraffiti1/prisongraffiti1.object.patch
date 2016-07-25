@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"Waz。"},
-{"op":"replace","path":"/shortdescription","value":"'Waz'涂鸦"},
-{"op":"replace","path":"/apexDescription","value":"上面写着'WAZ'。令人感到辛酸。"},
-{"op":"replace","path":"/avianDescription","value":"这个词是什么意思? 我的翻译器拿它没办法。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人用血在墙上写字字字。"},
-{"op":"replace","path":"/glitchDescription","value":"学者范儿：有可能这是为了传达进化的数学方程式。"},
-{"op":"replace","path":"/humanDescription","value":"Waz，呵呵，这家伙。"},
-{"op":"replace","path":"/hylotlDescription","value":"我和我的翻译器都不明白这个词。"}]

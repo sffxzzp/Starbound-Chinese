@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "螺旋形的岩石。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "螺旋形的岩石。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "灌木林岩。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。螺旋形的岩石。"}]

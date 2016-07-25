@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个被损坏的巨大书架。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的图书馆巨型书架"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "谁会去抢劫一个图书馆呢？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个书架也曾有过美好的时光。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "更少的书能让架子子子更容易爬上去。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这不是一个书架应该有的样子。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "真是一团糟。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个书架是随着时间流逝而损坏还是被人为破坏的？"}]

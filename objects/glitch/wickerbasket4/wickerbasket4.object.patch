@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个柳条篮子，里面可能有很棒的东西！"},
-{"op":"replace","path":"/shortdescription","value":"手提柳条篮子"},
-{"op":"replace","path":"/apexDescription","value":"一个柳条篮子，很容易坏。"},
-{"op":"replace","path":"/avianDescription","value":"一个编织篮，也许里面有好东西。"},
-{"op":"replace","path":"/floranDescription","value":"把篮、篮子砸、砸了！"},
-{"op":"replace","path":"/glitchDescription","value":"调查：一个柳条篮子，我想知道里面有什么？"},
-{"op":"replace","path":"/humanDescription","value":"一个很赞的柳条篮子。"},
-{"op":"replace","path":"/hylotlDescription","value":"在篮子里可能有一些东西。"}]

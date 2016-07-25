@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一扇坚固的气锁门。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "气锁门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇巨大的气锁门。很坚固。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇大得惊人的金属门。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "住在水底的人建造了巨大坚固的门把叶族人挡在外面。他们害怕怕怕叶族人。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑问。门把手在哪？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是根据鲛人的传统美学造的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇气锁门提供了最好的安全性。"}]

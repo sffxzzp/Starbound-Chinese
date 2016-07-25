@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;荣耀蕴藏其中"},
+{"op": "replace","path": "/text","value": "有有有个人在竞技场中向你发出了挑战！他是一位名叫^orange;沃洛^white;的叶族驯兽师。^green;当你准备好应战时过来告诉我^white;。"},
+{"op": "replace","path": "/completionText","value": "你打败了沃洛！真是一场有意思的决斗。这是你取得第二场胜利的奖品！"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "跟^orange;努鲁^reset;交谈以传送到^orange;竞技场^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "在竞技场中获胜"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "回到^orange;前哨站^reset;去找^orange;努鲁^reset;"}]

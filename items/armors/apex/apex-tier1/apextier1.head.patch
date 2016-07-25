@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "批量生产的铁面具，一定程度上掩盖了佩戴者的身份。"},
+[{ "op" : "replace", "path" : "/description", "value" : "铁面具，一定程度上掩盖了佩戴者的身份。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "反对者的面具"}]

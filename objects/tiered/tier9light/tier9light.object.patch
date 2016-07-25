@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"鲁宾灯,在黑暗中有一双眼睛."},
-{"op":"replace","path":"/shortdescription","value":"鲁宾灯"},
-{"op":"replace","path":"/apexDescription","value":"这个眼球创造了奇异的光亮."},
-{"op":"replace","path":"/avianDescription","value":"这个光一直跟着我."},
-{"op":"replace","path":"/floranDescription","value":"叶族人盯着灯,灯盯了回来."},
-{"op":"replace","path":"/glitchDescription","value":"警告.这个灯是一个巨大的眼球."},
-{"op":"replace","path":"/humanDescription","value":"哇,酷!一个巨大的眼球."},
-{"op":"replace","path":"/hylotlDescription","value":"这个灯有一个独特的风格."}]

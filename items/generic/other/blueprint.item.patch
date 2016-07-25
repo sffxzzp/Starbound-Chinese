@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用于制作"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝图"}]

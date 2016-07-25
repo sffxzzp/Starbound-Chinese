@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "小木屋的简易屋顶。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木屋屋顶块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。舒适的小屋屋顶。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族收集木屋屋顶。"}]

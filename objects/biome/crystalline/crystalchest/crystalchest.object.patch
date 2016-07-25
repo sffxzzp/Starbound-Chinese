@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个水晶箱子。也许这箱子本身就是一个宝藏？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个惊人的水晶箱子。单是这点就已经是一个值得的发现。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "无论怎样这箱子都肯定是令人印象深刻的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这水晶箱子很重而且很冻，就是一台冰箱。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "多愁善感的。这个箱子曾经储存过伟大的秘密。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我敢打赌的说这箱子一直装着最好的财宝。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个美丽的箱子。它的光泽就像大海一样。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这箱子很冻，它很适合用来储存容易腐坏的东西。"}]

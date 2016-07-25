@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个杯子！可能是神圣的！"},
-{"op":"replace","path":"/shortdescription","value":"圣杯"},
-{"op":"replace","path":"/apexDescription","value":"一个金杯，用来喝水很不错。"},
-{"op":"replace","path":"/avianDescription","value":"这圣杯呢喃中散发着强大的能量。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人从闪亮的杯子喝水，然后扔在地板上，碎了！"},
-{"op":"replace","path":"/glitchDescription","value":"观察。一个巨大的圣杯。"},
-{"op":"replace","path":"/humanDescription","value":"圣杯！我只是偶然发现了它。是谁在笑，加拉哈德？"},
-{"op":"replace","path":"/hylotlDescription","value":"一个基本的，功能性的金杯。"}]

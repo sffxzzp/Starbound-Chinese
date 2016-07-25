@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/gui/windowtitle/title","value": "古门控制台"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "用星核碎片激活"},
+{"op": "replace","path": "/gui/costDescription/value","value": "需要碎片"}]

@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个多彩的飞船支撑块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船支撑块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。一个飞船支撑块。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "用来支撑的。"}]

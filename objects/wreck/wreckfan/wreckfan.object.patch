@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "污浊的空气从这个旧风扇的嘎吱声中产生。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的风扇"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个生锈的旧风扇。它几乎没什么变化。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "空气经过时仍然会发出呼啸声。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "旋转已经停止。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这玩意儿曾经提供过清洁的空气。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "生锈的叶片。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它不再令空气循环。"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"灯."},
-{"op":"replace","path":"/shortdescription","value":"船灯"},
-{"op":"replace","path":"/apexDescription","value":"这些船灯通常用在飞船上. 它在不停地闪烁."},
-{"op":"replace","path":"/avianDescription","value":"灯. 它在不停地闪烁."},
-{"op":"replace","path":"/floranDescription","value":"冷光! 它在不停地闪烁."},
-{"op":"replace","path":"/glitchDescription","value":"分析. 这个灯产生的光没有温度. 它在不停地闪烁."},
-{"op":"replace","path":"/humanDescription","value":"酷的灯. 它在不停地闪烁."},
-{"op":"replace","path":"/hylotlDescription","value":"勉强还行的灯. 它在不停地闪烁."}]

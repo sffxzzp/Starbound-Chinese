@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个破旧的桌子。尽可能的话仍然可以使用！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的桌子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我想它仍然还能用…这毕竟是个桌子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这似乎是空心的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族从中间听到了声音。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "扫描。桌子中间有生命迹象。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "桌子上有种奇怪的气味。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我感觉桌子里面有东西。"}]

@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个打开的纸箱。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "打开的纸箱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个纸板箱。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个纸板箱。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "纸板箱。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "识别。一个纸板箱。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个纸板箱。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个纸板箱。"}]

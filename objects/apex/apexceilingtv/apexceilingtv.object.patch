@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个令人毛骨悚然的监视器. 一张脸以眼睛几乎察觉不到的速度在屏幕上闪烁。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人吊顶电视"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "每个猿人家里都有一台这样的电视，播的尽是些充斥着“教育意义”的节目。如果你看得足够久，你也许能看到你自己…在看电视的样子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的电视画面还没有达到如此高的清晰度。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好多毛茸茸的美味。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "同情。这些生物甚至还不如电子人自由。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这宣传真直接。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些猿人和我一样身处困境。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不认为这上面是在播娱乐节目。"}]

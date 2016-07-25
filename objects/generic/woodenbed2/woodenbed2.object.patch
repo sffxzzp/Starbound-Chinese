@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "带床头板的舒适木制床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木制的床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个简单的木制床，很舒服。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "木质框架和舒适的床垫。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族很少在这么好的床上睡觉。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "昏昏欲睡。功率低。睡眠模式。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "你简单的舒适的床。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "闭上眼睛的好地方。"}]

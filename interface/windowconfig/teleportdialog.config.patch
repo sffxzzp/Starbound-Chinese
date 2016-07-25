@@ -1,3 +1,4 @@
-[{"op":"replace","path":"/paneLayout/windowtitle/title","value":"传送"},
-{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":"选择一个目的地"},
-{"op":"replace","path":"/paneLayout/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value","value":"标签名"}]
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "传送器"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "选择一个目的地"},
+{"op": "replace","path": "/paneLayout/btnTeleport/caption","value": "传送"},
+{"op": "replace","path": "/paneLayout/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value","value": "标签名"}]

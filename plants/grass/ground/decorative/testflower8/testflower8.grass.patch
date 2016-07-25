@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个可怕的，没有灵魂的花。我能感觉到我的血液都开始变冷。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "一个可怕的花。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不接受花的存在。不不不。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "[错误]。无法描述。重置内存。"}]

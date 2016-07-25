@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张以未来复古主义样式制造的蛋型座椅。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "复古椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "集舒适、优雅、理想这三种品质于一体的座椅。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个悬浮的座椅，好有趣。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不信信信任悬浮的座椅。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。这张椅子是如何保持平衡的？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直想要形如鸡蛋的悬空椅。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个悬浮的座椅，就像小说里一样。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这座椅看起来很舒适，就像是坐在一个蛋壳里一样。"}]

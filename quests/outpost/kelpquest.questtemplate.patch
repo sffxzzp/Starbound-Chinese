@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;绿色"},
-{ "op" : "replace", "path" : "/text", "value" : "嗨。在叶族迫使鱼人进入海洋后，我们开始使用海藻作为货币。这让我更爱海藻。^green;如果你能够从海洋星球的海底给我带来^orange;300份海藻^green;，我将把能够^orange;让你在辐射星球生存的纳米皮肤^green;给你。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "如此美丽的海藻！你已经超越自我。^green;我会给你一个能够让你在辐射星球上生存的^orange;生物芯片^green;。"}]

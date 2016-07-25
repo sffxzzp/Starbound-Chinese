@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个可爱的板凳。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "板凳"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小板凳。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "凳子。也许是一个休息爪子的地方。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "小座位。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个很小的凳子。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可爱的小凳子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个迷人的凳子。"}]

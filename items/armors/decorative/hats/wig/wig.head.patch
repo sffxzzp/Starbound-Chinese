@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "它是毛茸茸的、粉粉的，但最好别吃它。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "非常微妙的假发"}]

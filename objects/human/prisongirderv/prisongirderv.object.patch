@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"老旧生锈的横梁 - 看起来不太安全。"},
-{"op":"replace","path":"/shortdescription","value":"生锈的垂直横梁"},
-{"op":"replace","path":"/apexDescription","value":"生锈的横梁。"},
-{"op":"replace","path":"/avianDescription","value":"看起来不太安全的横梁。"},
-{"op":"replace","path":"/floranDescription","value":"大铁块!"},
-{"op":"replace","path":"/glitchDescription","value":"小心：这条横梁塌陷的可能性很高。"},
-{"op":"replace","path":"/humanDescription","value":"看起来爬上去应该没什么事儿。"},
-{"op":"replace","path":"/hylotlDescription","value":"一条生锈的金属梁"}]

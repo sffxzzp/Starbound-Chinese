@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这块地砖的姿势不对。"},
-{"op":"replace","path":"/shortdescription","value":"隐藏开关"},
-{"op":"replace","path":"/apexDescription","value":"这块砖似乎松了。"},
-{"op":"replace","path":"/avianDescription","value":"这块砖拼的很马虎。"},
-{"op":"replace","path":"/floranDescription","value":"地砖晃动了。"},
-{"op":"replace","path":"/glitchDescription","value":"扫描：一块奇怪的地砖。"},
-{"op":"replace","path":"/humanDescription","value":"嘎嘎响的地砖。"},
-{"op":"replace","path":"/hylotlDescription","value":"一块奇怪的地砖。"}]

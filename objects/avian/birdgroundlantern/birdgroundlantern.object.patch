@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个闪烁不定的火炬所投下的阴影向远处延伸。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "火炬台"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这火炬提供了柔和的光照。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族神庙只允许使用自然光线照明。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "火火火焰让叶族人紧张。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。这个火炬朦胧地照亮了这片区域。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个看起来很古老的火炬。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人不点火炬。在海底，空气十分宝贵，不能这样浪费。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个火炬有着不俗的火焰，当然并不足以用来烧烤。"}]

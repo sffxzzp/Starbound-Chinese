@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一尊叶族雕像。它看起来像一个伟大的猎手。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "叶族冠军雕像"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "雄伟，壮丽的叶族。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "毫无疑问，这是一个英勇的叶族战士。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "成功的叶族猎人得到大雕像。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "假说。这里所描述的叶族是一个各个方面都成功的猎人。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "如果是我的话，这座雕像会看起来更好。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我对于叶族雕像被永久地传颂感到不太舒服。"}]

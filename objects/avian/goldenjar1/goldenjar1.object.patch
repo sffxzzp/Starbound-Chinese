@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个拥有锐利目光的鸟形罐子是由纯金制成的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金鸟型罐子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来这罐子是用来装重要物品的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个壶里存放着一位已故观星者的器官。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "奢华的鸟人罐子，都是金子的还闪着光。里面飘出了香香香香的味道。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "恶心。这壶里装的好像是一位翼族人的心脏、肺部和大脑。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "闻起来像是腐肉。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它的气味表明里面有遗体残骸。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个来自翼族陵墓的罐子，里面很可能还装着一些翼族人的内脏。"}]

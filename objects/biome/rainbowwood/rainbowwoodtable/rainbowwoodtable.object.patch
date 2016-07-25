@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张彩虹木制成的桌子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹木桌子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "那种你会坐在旁边写奇葩诗歌的桌子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌子很好地展示了彩虹的木纹。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢数木头里的条条条纹。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣喜。看那彩色条纹！"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这种木材无论什么形式看起来都很棒。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "拥有这样一张桌子能点亮任何人的日子。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张桌子能给任何人的生活带来更愉快的展望。"}]

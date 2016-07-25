@@ -1,9 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个涂鸦信息。"},
-{"op":"replace","path":"/shortdescription","value":"此路不通"},
-{"op":"replace","path":"/apexDescription","value":"不通，呃？我们走着瞧！"},
-{"op":"replace","path":"/avianDescription","value":"噢不，也许我不该无视这东西。"},
-{"op":"replace","path":"/floranDescription","value":"嘿嘿嘿…"},
-{"op":"replace","path":"/glitchDescription","value":"疑问。这是真还是假？"},
-{"op":"replace","path":"/humanDescription","value":"什么时候这些涂鸦当真过？"},
-{"op":"replace","path":"/hylotlDescription","value":"这些涂鸦的作者是谁都不知道，可信度值得斟酌。"},
-{"op":"replace","path":"/novakidDescription","value":"管他呢！"}]

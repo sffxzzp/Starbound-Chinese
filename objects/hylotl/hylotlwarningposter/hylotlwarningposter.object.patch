@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"是个警告，内容是用鲛人的语言写的。"},
-{"op":"replace","path":"/shortdescription","value":"鲛人警告标志"},
-{"op":"replace","path":"/apexDescription","value":"警告我某些事情，不明觉厉..."},
-{"op":"replace","path":"/avianDescription","value":"其它消息他们都可以不翻译，他们却偏偏选择了不翻译警告，啧啧。"},
-{"op":"replace","path":"/floranDescription","value":"警告巴拉巴拉（胡诌）。"},
-{"op":"replace","path":"/glitchDescription","value":"担心：我不知道这上面的警告是否与我有关。"},
-{"op":"replace","path":"/humanDescription","value":"这是一个警告标志，虽然我读不懂。"},
-{"op":"replace","path":"/hylotlDescription","value":"这个警告说的是边走路边发短信是很危险的。"}]

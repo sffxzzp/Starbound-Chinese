@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一种分发原料的吊舱。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "分发舱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个吊舱分发可以用来制作的材料。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "免费的锻造材料。棒棒哒。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这机器给叶族吐出锻造材料。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "奇迹。一个提供免费材料的机器。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这就像一个扭蛋机，但十分有用！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个提供基本材料的吊舱。"}]

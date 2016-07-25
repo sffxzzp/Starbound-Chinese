@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个石头散发着荧光。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "废料石"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这块黄色的石头散发着荧光。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢发光的黄色石头。"}]

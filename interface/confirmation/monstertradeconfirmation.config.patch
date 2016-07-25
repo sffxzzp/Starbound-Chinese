@@ -1,0 +1,5 @@
+[{"op":"replace","path":"/title","value":"交易一个怪物"},
+{"op":"replace","path":"/subtitle","value":"<questGiver>想要交易！"},
+{"op":"replace","path":"/message","value":"<questGiver>想用<questGiver.pronoun.possessiveDet><tradedMonster>换你的<monster>。这交易将是永久的。\n\n是否交易？"},
+{"op":"replace","path":"/okCaption","value":"是"},
+{"op":"replace","path":"/cancelCaption","value":"之后再说"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "装采矿物资的旧箱子 - 专为新人矿工打造！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "矿业物资箱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我觉得这些工具用起来太落后了。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "里面有一种陈旧生锈的气息。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想要要要藏在旧箱子里！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇我想知道是什么人做了这个东西。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "嘿-吼！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些工具都是手工制作的，我给这种品质点个赞。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个老旧的箱子里装满了挖掘工具。"}]

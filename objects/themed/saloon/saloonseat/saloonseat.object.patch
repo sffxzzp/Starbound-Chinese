@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一种看上去不舒服的沙龙椅。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龙椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一把木制的沙龙式的椅子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个粗糙的沙龙椅，有红色的垫子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "有有有枕头的椅子。叶族可以坐坐坐。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "简明。相对来说不怎么舒服。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来很不舒服，但至少有一个坐垫。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "为了让这个椅子舒适，已经做出了一些小小的改进。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这不是一个马鞍，而是坐的座位。"}]

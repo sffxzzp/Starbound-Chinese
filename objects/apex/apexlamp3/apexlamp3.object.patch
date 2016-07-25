@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一盏纸质吊灯。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "标配吊灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "众所周知，这些吊灯很容易着火。然而它们的主人却不被允许更换它们。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这灯是用纸罩着的。看起来不是很安全。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人觉得这灯像太太太阳一样在在在燃烧。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。纸面温度过高。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏纸吊灯。但愿它是安全的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人也使用纸和火做的类似的灯。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一种吊在天花板上的纸灯。"}]

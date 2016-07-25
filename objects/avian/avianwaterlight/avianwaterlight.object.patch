@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "嵌入到灯具里的水晶散发着黯淡的光芒。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族水晶灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏看上去或许设计得有些太浮华的灯…"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "水晶对所有东西都是有用的。这盏灯营造了完美的气氛。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一盏由石石石块塑造的闪亮小灯。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。多么漂亮的灯。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "抛开灯的身份，这可是一颗真正的宝石。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多奇妙的一盏由经典宝石塑造的灯啊。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盏疯狂的灯看起来是用石头做成的。"}]

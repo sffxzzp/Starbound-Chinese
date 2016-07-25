@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "当他们走向猎物时，采集者裙子使叶子发出沙沙的响声。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "采集者裙子"}]

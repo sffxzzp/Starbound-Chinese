@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个发光的蘑菇。可能是有毒的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "一个发光的蘑菇。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的蘑菇。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个发光的蘑菇。"}]

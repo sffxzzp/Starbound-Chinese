@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个有一个蛋在里面的鸟巢。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "鸟巢"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有一个蛋在里面的鸟巢。我想知道这蛋能孵化出东西么？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个可爱的小鸟巢。多么可爱！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "蛋和肉差不多…嗯，嗯！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "破坏性。扔蛋挺好玩的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个鸟巢。我想知道里面有没有鸟的小宝宝。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个鸟巢。自然。"}]

@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "罐头食品。不是最好的，但它会在紧要关头发挥作用。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "罐头食品"}]

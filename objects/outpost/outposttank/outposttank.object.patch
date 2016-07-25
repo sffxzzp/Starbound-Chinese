@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个不知道有什么用的罐子."},
-{"op":"replace","path":"/shortdescription","value":"前哨罐"},
-{"op":"replace","path":"/apexDescription","value":"一个神秘的罐."},
-{"op":"replace","path":"/avianDescription","value":"我不知道什么在这个罐里."},
-{"op":"replace","path":"/floranDescription","value":"叶族人倾向于多茎罐."},
-{"op":"replace","path":"/glitchDescription","value":"分析。该罐包含一些不明气体."},
-{"op":"replace","path":"/humanDescription","value":"一个奇怪罐."},
-{"op":"replace","path":"/hylotlDescription","value":"难看的罐."}]

@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这看起来像是星门的操作面板。它好像还能工作。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古代控制台"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一件极其古老的科技造物。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这控制台一定和星门本身一样古老，那可真是够老的！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "适用于古代星门的古代操操操作面板。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "感动。星门的操作面板，它看起来确实很古老。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "星门的操作面板，它一定和星门本身一样古老。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "让我来看看我能不能让这古老的设备开始工作。"}]

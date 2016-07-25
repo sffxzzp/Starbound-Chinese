@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "羽毛笔和墨水。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "羽毛笔和墨水"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个适合旧式写作的羽毛笔和墨水。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一个翼族的羽毛么？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "棍子用来做更好的笔。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。适合电子人王的书写工具。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我会选择带一支圆珠笔而不是羽毛笔。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人从很小的时候开始练习书法。"}]

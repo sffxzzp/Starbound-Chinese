@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个用来放书和其他东西的令人毛骨悚然的书架。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式书架"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这种书架良好的开放性意味着它的防盗能力并不出色。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我不喜欢这倒霉书架的样子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "书书书超无聊，真是浪费树树树。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这些尘封的书籍里都写了些什么？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来全都是些吸血鬼小说…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "书是所有知识的来源！不过对这些吸血鬼的书也许并不适用。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我感觉如果不是这些黑色外漆的话，它会变得更好看。"}]

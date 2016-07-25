@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "和雪人相似，不过是黏糊糊的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "沥青人"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个看起来很不幸的造物。我为这个沥青人感到难过。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我不曾知道沥青可以这样有创造性地使用。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "沥青人好黏黏黏的。叶族讨厌黏黏黏的东西西西。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。为什么要把沥青人做得像是雪人一样？它明明可以做成电子人的模样。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "谁会把那些黏呼呼的东西做成一个人偶？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个沥青人被做得酷似它的雪人兄弟。这确实很惊人。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "不管是谁造了这个丑东西，他肯定需要多去玩玩雪。"}]

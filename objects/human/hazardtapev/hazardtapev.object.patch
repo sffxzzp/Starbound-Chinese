@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这种明亮的、色彩鲜艳的标志明确地指出，这块区域不安全。"},
-{"op":"replace","path":"/shortdescription","value":"垂直危险标志带"},
-{"op":"replace","path":"/apexDescription","value":"这个标志警告人们这里危险。"},
-{"op":"replace","path":"/avianDescription","value":"附近有危险的事物。"},
-{"op":"replace","path":"/floranDescription","value":"也许叶族人就是危险的化身。"},
-{"op":"replace","path":"/glitchDescription","value":"回忆：曾经有类似的标记指明了有自我意识的电子人埋伏的区域。"},
-{"op":"replace","path":"/humanDescription","value":"在ID闪烁的时候，我总想把这种标志画在旁边。"},
-{"op":"replace","path":"/hylotlDescription","value":"如果想让这个标志看起来温暖一些, 人类不应该把它的颜色弄得这么鲜艳。"}]

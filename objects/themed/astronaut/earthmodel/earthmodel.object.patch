@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "太阳系中人类的家园―地球的精细模型。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "地球模型"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "地球，地球保护国的家园，一度也是我的家园。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "地球，我的第二个家。我有时会忘记它已经没了…"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "悲伤的想起我在地球上时光。我想它。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。我喜欢在地球学校里的时光。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "家…我实在不敢想象现在剩下些什么。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "地球。这样一个小小的星球，使我现在心中的空洞感也不可估量。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "地球。我们几乎不知道。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "电壁灯。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龙灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯发出的光温暖而舒适。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这铁制品工艺超过了翼族的矛匠。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "里面没有火在烧。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。设计与目的不匹配。灯为火焰提供氧气，然而，设备是电动的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏电灯。为燃烧火焰而制造。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这灯似乎是为火焰而设计的容器但完全是用电的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个很好的老式壁灯，尽管不是由火焰驱动。"}]

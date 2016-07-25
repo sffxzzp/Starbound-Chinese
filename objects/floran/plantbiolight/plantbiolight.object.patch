@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这种灯发出柔和的光。"},
-{"op":"replace","path":"/shortdescription","value":"植物灯"},
-{"op":"replace","path":"/apexDescription","value":"小小的发光植物。"},
-{"op":"replace","path":"/avianDescription","value":"植物发着很柔和的光。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人喜欢冷光。"},
-{"op":"replace","path":"/glitchDescription","value":"惊奇。这些发光植物让人惊讶。"},
-{"op":"replace","path":"/humanDescription","value":"发光的植物。总是那么炫酷。."},
-{"op":"replace","path":"/hylotlDescription","value":"自然总是让人感到敬畏。"}]

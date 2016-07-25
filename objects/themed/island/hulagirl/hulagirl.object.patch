@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个翩翩起舞的草裙舞女孩。啊喽哈！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "草裙舞女孩"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个摇拽的人类来似乎正弹着一把四弦琴。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这舞动着的女孩穿的是草裙。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不确确确定叶族人是否会喜欢…也许它会在叶族人身上生生生长。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这个摇摆的动作几乎有着催眠的功效。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "啊喽哈！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这让我回想起了洁白的沙滩和蔚蓝的大海。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "瞧，她在那胡乱地弹拨着她那超小的四弦琴。"}]

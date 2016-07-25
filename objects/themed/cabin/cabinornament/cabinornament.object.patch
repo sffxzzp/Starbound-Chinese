@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一对显眼的鹿角。它们究竟来自于何种生物？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "鹿角装饰物"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "把鹿角装在墙上是对资源的浪费。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "多么粗野的展示品。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对狩猎纪念品感到满满满足。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。靠近之后检查发现这些鹿角似乎是人造的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "鹿角装饰是经典的装饰品……虽然我也不知道这是为什么。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "虽然这确实是人造的，但它依旧是粗野的装饰。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些鹿角是一个黄铜制展品的一部分，不是么？"}]

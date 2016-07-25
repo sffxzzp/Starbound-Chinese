@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个常见的足球...或者叫英式足球，如果你想这么说的话。"},
-{"op":"replace","path":"/shortdescription","value":"足球"},
-{"op":"replace","path":"/apexDescription","value":"用于某种体育运动的球。"},
-{"op":"replace","path":"/avianDescription","value":"某种弹力球。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人该拿它怎么办?"},
-{"op":"replace","path":"/glitchDescription","value":"好球：为什么球上会有白色和黑色的斑点?"},
-{"op":"replace","path":"/humanDescription","value":"一个足球，在这儿能看到它真让人惊讶。"},
-{"op":"replace","path":"/hylotlDescription","value":"足球，这种运动最近在年轻的鲛人中非常流行。"}]

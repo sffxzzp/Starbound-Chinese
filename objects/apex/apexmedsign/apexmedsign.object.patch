@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个标志标示着附近有和医药有关的东西。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "医疗处标志"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人有全宇宙最一流的医疗技术，但他们的预期寿命却是全宇宙最低的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "猿人当中也有治疗祭司的存在吗？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "把将死的点心吃掉应该没没没关系吧？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一个了解猿人生理学的好机会。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像是医院的标志。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "或许边上有可以治疗的地方。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里存放着医疗设备。"}]

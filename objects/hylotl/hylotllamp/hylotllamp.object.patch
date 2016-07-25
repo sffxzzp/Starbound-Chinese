@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一盏小灯，散发着暗红色的光。"},
-{"op":"replace","path":"/shortdescription","value":"生物灯"},
-{"op":"replace","path":"/apexDescription","value":"汝可识得此灯?"},
-{"op":"replace","path":"/avianDescription","value":"看起来类似于翼族的水晶灯。"},
-{"op":"replace","path":"/floranDescription","value":"闪耀的彩灯。"},
-{"op":"replace","path":"/glitchDescription","value":"感兴趣：我很好奇这灯是什么做的?"},
-{"op":"replace","path":"/humanDescription","value":"看起来像鲛人的眼睛，汝可识得此灯?"},
-{"op":"replace","path":"/hylotlDescription","value":"中间缺口上的宝石像鲛人的眼睛， 它放出万丈光芒。."}]

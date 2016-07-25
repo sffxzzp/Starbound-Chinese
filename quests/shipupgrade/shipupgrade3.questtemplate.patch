@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;猎鹰级飞船升级"},
+{"op": "replace","path": "/text","value": "恭喜！随着拥有六名船员，现在你有资格取得猎鹰级飞船的执照！带着六个^orange;升级模块^reset;^green;去见企鹅皮特^reset;来升级你的飞船吧。"},
+{"op": "replace","path": "/completionText","value": "又有一艘船要进行升级了！"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "企鹅皮特"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "提供^orange;升级模块^reset;给位于^orange;前哨站的^reset;^orange;企鹅皮特^reset;。"},
+{"op": "replace","path": "/scriptConfig/conditions/0/description","value": "寻找^orange;<itemName>^reset;：^green;<current> / <required>^reset;"}]

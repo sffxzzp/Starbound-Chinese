@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张肉质的椅子，它在发出很恶心的声音。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "血肉椅子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我无话可说。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "多么糟糕的座位。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不肯肯肯定该坐坐坐下还是刺刺刺。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "犹豫。坐在这里会不安。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "为什么我这么想试试这把椅子？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "庸俗。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我连触摸它都不想更何况坐在上面。"}]

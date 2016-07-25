@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"有玻璃罩子保护的灯。"},
-{"op":"replace","path":"/shortdescription","value":"防水灯"},
-{"op":"replace","path":"/apexDescription","value":"一个普通的灯泡，因为做了防水所以可以在水下照明。"},
-{"op":"replace","path":"/avianDescription","value":"这灯看起来是防水的，所以可以在开阔水域使用。"},
-{"op":"replace","path":"/floranDescription","value":"灯泡。"},
-{"op":"replace","path":"/glitchDescription","value":"心不在焉： 防水灯"},
-{"op":"replace","path":"/humanDescription","value":"这个灯的设计是用来在水下使用的。"},
-{"op":"replace","path":"/hylotlDescription","value":"只是一个防水灯罢了。"}]

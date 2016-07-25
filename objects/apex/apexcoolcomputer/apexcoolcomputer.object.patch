@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这台酷炫的电脑正发出许多“哔~啵~啵~哔~”的在噪音。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "酷酷哒电脑"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一个相当强劲的电脑。猿人市民是摸不到电脑的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这台电脑的屏幕有这么多种颜色。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人靠剽剽剽窃科技存活。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "赏识。这台机器让我惊呆了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来很像人类曾今拥有的计算机技术。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一台基本的电脑。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是个电脑屏幕。"}]

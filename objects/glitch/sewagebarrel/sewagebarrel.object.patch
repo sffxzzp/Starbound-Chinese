@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一桶污水，可以肯定水里有毒。"},
-{"op":"replace","path":"/shortdescription","value":"污水桶"},
-{"op":"replace","path":"/apexDescription","value":"自我提醒：不要喝发光桶里的水。"},
-{"op":"replace","path":"/avianDescription","value":"污染，真是太遗憾了。"},
-{"op":"replace","path":"/floranDescription","value":"这是绿手指倒的。"},
-{"op":"replace","path":"/glitchDescription","value":"果断： 最好离这桶远点，里面的液体还未解析。."},
-{"op":"replace","path":"/humanDescription","value":"在地球上，倾倒污水是要被罚款的。"},
-{"op":"replace","path":"/hylotlDescription","value":"还好没被扔在海里。"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"金属牌子，上面写着“危险！”"},
-{"op":"replace","path":"/shortdescription","value":"矿业危险标志"},
-{"op":"replace","path":"/apexDescription","value":"一个写着“危险”的标志."},
-{"op":"replace","path":"/avianDescription","value":"该标志是在对什么东西发出警告."},
-{"op":"replace","path":"/floranDescription","value":"不管这上面说什么,叶族人才不管！."},
-{"op":"replace","path":"/glitchDescription","value":"阅读。危险！"},
-{"op":"replace","path":"/humanDescription","value":"这个表示关注我的安全,想的真周到."},
-{"op":"replace","path":"/hylotlDescription","value":"一个标志，提醒附近的人一些可以避免的危险."}]

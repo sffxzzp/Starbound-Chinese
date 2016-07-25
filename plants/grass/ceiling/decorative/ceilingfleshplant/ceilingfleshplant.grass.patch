@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "球状肉块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "球状肉块。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "肉！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "排斥。球状肉块。"}]

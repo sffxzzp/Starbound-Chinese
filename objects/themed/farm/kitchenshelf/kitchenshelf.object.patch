@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个便于取放调味料的漂亮厨房搁板。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "厨房搁板"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这些调味料看起来很美味！"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这搁板看起来是完美厨房的必备品。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "有这一小株植物总总总比没有植物要强！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这盆植物是用作装饰的、还是其本身就是一种调味品？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望有人一直在帮这株植物浇水……"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这小小的厨房搁板让厨房不再杂乱。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "让我不禁想立刻就做一些好吃的料理！"}]

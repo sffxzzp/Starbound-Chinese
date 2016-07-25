@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "由水晶制成的闪亮的蓝色方块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "水晶块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。由水晶制造的方块。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "亮闪闪的方块。"}]

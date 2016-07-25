@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "纳米绷带，更高效的恢复伤口。使用恢复100点生命。"},
+[{ "op" : "replace", "path" : "/description", "value" : "纳米绷带，更高效的恢复伤口。使用后1秒恢复100点生命。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "纳米绷带"}]

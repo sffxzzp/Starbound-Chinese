@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "星之子旗帜。城里有了一个新警长！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "星之子旗帜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "星之子旗帜。他们的记忆很短以至于可能不记得把它放在这了。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "星之子旗帜。星人把星星画在旗帜上是有多适合。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不确定星之子是什么。闪光，气囊。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。星之子旗帜，承载着一个警长的符号。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "星之子旗帜。有一个警长徽章。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "星之子旗帜。奇怪，但有趣的动物。"}]

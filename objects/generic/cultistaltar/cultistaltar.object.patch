@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个邪教祭坛。邪恶的崇拜在这里继续。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教祭坛"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个奇怪的祭坛。这里秘密崇拜着什么？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "没有一个是翼神的祭坛，这是肯定的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族在桌子上闻到了血腥味。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "评估。我弄不明白这个祭坛是干什么的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个令人毛骨悚然的祭坛。正是我一直想要的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个黑暗和可怕的东西潜伏在这里。"}]

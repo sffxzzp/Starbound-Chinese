@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个随机的喷泉。最不可预测的喷泉。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "随机喷泉"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个喷泉！"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个喷泉。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喝引人注目的东西。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "犹豫。一个喷泉。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望我能倒一些洗洁精进去。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个愉快的喷泉。"}]

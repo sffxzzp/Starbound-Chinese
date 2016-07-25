@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "宝库块"},
-{ "op" : "replace", "path" : "/description", "value" : "用宝藏做成的块！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。我想要这个！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族把持不住了。"}]

@@ -1,8 +1,8 @@
-[{"op":"replace","path":"/paneLayout/windowtitle/title","value":" 熔炉"},
-{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":" 融化东西！"},
-{"op":"replace","path":"/paneLayout/lblSchematics/value","value":"蓝图"},
-{"op":"replace","path":"/paneLayout/lblProducttitle/value","value":"产品"},
-{"op":"replace","path":"/paneLayout/btnCraft/caption","value":"锻造"},
-{"op":"replace","path":"/paneLayout/lblProduct/value","value":"可用材料"},
-{"op":"replace","path":"/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value","value":"替换我"},
-{"op":"replace","path":"/tooltip/itemList/schema/listTemplate/itemName/value","value":"金胡子"}]
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "熔炉"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "熔炼东西！"},
+{"op": "replace","path": "/paneLayout/lblSchematics/value","value": "^#b9b5b2;蓝图"},
+{"op": "replace","path": "/paneLayout/lblProducttitle/value","value": "^#b9b5b2;生产"},
+{"op": "replace","path": "/paneLayout/btnCraft/caption","value": "冶炼"},
+{"op": "replace","path": "/paneLayout/btnStopCraft/caption","value": "停止"},
+{"op": "replace","path": "/paneLayout/lblProduct/value","value": "可用材料"},
+{"op": "replace","path": "/paneLayout/filter/hint","value": "搜索"}]

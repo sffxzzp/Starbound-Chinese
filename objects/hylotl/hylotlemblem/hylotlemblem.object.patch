@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是常见的鲛人徽章。三颗晶体代表他们的三只眼…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人徽章"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "鲛人的象征。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族喜欢相对于眼睛徽章更喜欢羽翼徽章一点儿。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "我希望这些眼睛是真的，这样我就可以吃掉它们了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "关键。这鲛人徽章有太多的眼睛令人感到不安。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "鲛人符号象征着鲛人。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我们人民的象征。"}]

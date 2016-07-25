@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "USCM旗帜。敬礼！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "人类旗帜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "人类的旗帜。看起来像是代表了他们的军事。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我经常看到这个人类的象征。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢屠夫旗帜！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。人类的旗帜，描绘了USCM的象征。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "呼哈！USCM直到我死，宝贝儿！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "原油和花哨的人类旗帜。"}]

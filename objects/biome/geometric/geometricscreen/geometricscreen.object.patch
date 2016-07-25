@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一大堆数据在上面跳动着，到底是什么意思？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "几何显示器"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "监视器。这些信息对我没有意义。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "监视器，充满神秘的数据。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人懂看文字。说说说“刺刺刺一个肉人'。呵呵呵。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这显示二进制的“刺屠夫”。多么不寻常的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这让我想起一部老电影。我不记得它的名字。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "无意义的数据。"}]

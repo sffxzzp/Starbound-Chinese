@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个传送门应该在当我准备好离开的时候让我回到船上。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "出口传送门"}]

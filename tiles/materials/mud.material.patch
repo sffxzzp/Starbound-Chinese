@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "厚而且黏的泥浆。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "泥"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。泥泞的烂泥。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "烂泥，叶族人喜欢弄得不整洁。"}]

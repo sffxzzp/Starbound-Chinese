@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个用竹子和树叶做成的椅子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "海岛椅子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个更高效的椅子不会在美观方面花那么多心思。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一张能唤起自然思潮的椅子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这张椅子是是是用植物做成的。是是是个好选择。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。这椅子很好闻，但看起来并不那么舒适。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "是的它看起来很棒，不过我可以确定它在制造者并没有考虑它的舒适度。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不禁想于海边、坐在一张这样椅子上看那潮起潮落。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "也许休息一小会儿也不错。"}]

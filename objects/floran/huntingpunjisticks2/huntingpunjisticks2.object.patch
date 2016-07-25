@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"锋利的，尖尖的刺。千万不要落在上面。"},
-{"op":"replace","path":"/shortdescription","value":"木刺"},
-{"op":"replace","path":"/apexDescription","value":"致命的刺。"},
-{"op":"replace","path":"/avianDescription","value":"危险的刺。"},
-{"op":"replace","path":"/floranDescription","value":"尖尖尖刺，好有趣。."},
-{"op":"replace","path":"/glitchDescription","value":"紧张。这些尖刺甚至可以刺穿一个电子人。"},
-{"op":"replace","path":"/humanDescription","value":"我应该跳过这些尖刺。"},
-{"op":"replace","path":"/hylotlDescription","value":"好残酷的尖刺。"}]

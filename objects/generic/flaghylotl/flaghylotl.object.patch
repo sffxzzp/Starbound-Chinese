@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "鲛人旗帜。展示你对这一爱好和平物种的忠诚。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人旗帜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "鲛人旗帜。漂亮而平滑。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "鲛人旗帜。周围可能有鲛人。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族认为这意味着“打倒鱼类”。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "嘲讽。鲛人旗帜。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "鲛人旗帜。有鱼腥味。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人旗帜骄傲的飞扬。我有点想哭。"}]

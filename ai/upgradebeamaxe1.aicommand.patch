@@ -1,4 +1,0 @@
-[{"op":"replace","path":"/speciesText/default/buttonText","value":"升级物质枪 - 效率"},
-{"op":"replace","path":"/speciesText/default/selectSpeech/0","value":{"animation":"talk","text":"^white;如果你有^orange;1个物质枪模块^white;，我可以升级你的物质枪^green;使它的采矿能力稍微提升一点^white;。","speedModifier":1.0}},
-{"op":"replace","path":"/speciesText/default/successSpeech/0","value":{"animation":"talk","text":"^white;成功啦！你的物质枪已经升级了^green;采矿能力！^green;","speedModifier":1.0}},
-{"op":"replace","path":"/speciesText/default/failSpeech/0","value":{"animation":"talk","text":"^white;失败。我们需要^orange;1个物质枪模块^white;才能完成这次升级。","speedModifier":1.0}}]

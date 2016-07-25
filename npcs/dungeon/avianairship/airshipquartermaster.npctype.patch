@@ -1,5 +1,0 @@
-[{"op":"replace","path":"/scriptConfig/dialog/merchant/start","value":{"default":["嗯，你需要什么？","有什么吸引你的么？","我们来交易吧！","看看吧！","我们卖的货物都是最好的。","我知道我这里有一些对你有用的东西。"],"avian":{"default":["嗯，你需要什么？","有什么吸引你的么？","我们来交易吧！","看看吧！","我们卖的货物都是最好的。","我知道我这里有一些对你有用的东西。"]}}},
-{"op":"replace","path":"/scriptConfig/dialog/merchant/end","value":{"default":["当你需要更多补给时来找我们吧！","如果你还需要什么，就来找我！","如果你有像素，我们就有你需要的一切。"],"avian":{"default":["当你需要更多补给时来找我们吧！","如果你还需要什么，就来找我！","如果你有像素，我们就有你需要的一切。"]}}},
-{"op":"replace","path":"/scriptConfig/dialog/merchant/follow","value":{"default":["来交易的吗？跟我来。","想买些东西吗？我可以帮助你，跟我来。","啊，你要买东西，是吗？这边走。"]}},
-{"op":"replace","path":"/scriptConfig/dialog/merchant/welcome","value":{"default":["到这里来！","那么，你要买些什么呢？","请进！"]}},
-{"op":"replace","path":"/scriptConfig/dialog/merchant/tout","value":{"default":["想买什么？本店商品质量您尽可放心。","如果你想交易的话，找我好了！"]}}]

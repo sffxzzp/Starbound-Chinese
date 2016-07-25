@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用于观察细菌危害的大型显微镜。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "危害显微镜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "显微镜――一个用于研究和研究的经典通用工具。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "看小东西并不像仰望星空一样有趣。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族可以非常接近的看一些植物了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "教育。在你非常接近有机材料时用显微镜看起来会非常令人好奇。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "显微镜！我想看那些令人头皮发痒的小东西！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这物体似乎用于观察那些非常小的东西。"}]

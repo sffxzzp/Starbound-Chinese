@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是一个灯还是个军刀？也许都有。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铁灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个不寻常的散发出光的剑。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "奇怪。这把剑只是发光，而不是武器。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "锐利的光线，穿过阴影。令叶族紧张。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "实用。这可以作为一个火炬和武器。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一把亮的剑。我在玩摇滚的时候拥有一个相似的东西。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "武器被重新利用来照亮屋子。我赞成。"}]

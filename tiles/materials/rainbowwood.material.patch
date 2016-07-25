@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "粗糙且未经提炼，这种木材的中心是五颜六色的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "未处理的彩虹木"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。未处理的彩虹木。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "没刺过的彩虹木。"}]

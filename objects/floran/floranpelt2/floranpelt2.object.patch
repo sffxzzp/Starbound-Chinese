@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这块皮是给叶族猎人的奖杯，好亮！"},
-{"op":"replace","path":"/shortdescription","value":"黑色的皮毛"},
-{"op":"replace","path":"/apexDescription","value":"一块更小的皮毛，也许是奖品或者是装饰。"},
-{"op":"replace","path":"/avianDescription","value":"让我想起我曾经捕杀过的某些猎物。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人给叶族人看打猎的奖杯，赢得尊敬。"},
-{"op":"replace","path":"/glitchDescription","value":"感觉：这个皮很软，叶族人一定很仔细的剥下战利品的皮。"},
-{"op":"replace","path":"/humanDescription","value":"可怜的动物啊。"},
-{"op":"replace","path":"/hylotlDescription","value":"残忍的叶族人。."}]

@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "干燥，脆弱的草。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "干草。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "死去的草。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。干草。"}]

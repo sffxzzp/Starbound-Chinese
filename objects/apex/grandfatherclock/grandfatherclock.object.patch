@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我从来不晓得钟还可以当爷爷。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "老爷钟"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人的钟都是用无线电自动设定的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人用影子的朝向看时间。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人只知道日出和日落。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊叹。这个钟似乎能精确到1毫秒之内。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个钟发出的声音既可能预示着凶兆，也可以安抚人心。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "时钟的滴答用于冥想简直完美。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "滴、答、滴、答。你没法忽略钟摆的声音。"}]

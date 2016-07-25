@@ -1,5 +1,5 @@
-[{"op":"replace","path":"/connect/caption","value":"加入服务器"},
-{"op":"replace","path":"/address/hint","value":"服务器地址"},
-{"op":"replace","path":"/port/hint","value":"端口"},
-{"op":"replace","path":"/account/hint","value":"服务器帐号"},
-{"op":"replace","path":"/password/hint","value":"服务器密码"}]
+[{"op": "replace","path": "/connect/caption","value": "加入服务器"},
+{"op": "replace","path": "/address/hint","value": "服务器地址"},
+{"op": "replace","path": "/port/hint","value": "端口"},
+{"op": "replace","path": "/account/hint","value": "帐号"},
+{"op": "replace","path": "/password/hint","value": "密码"}]

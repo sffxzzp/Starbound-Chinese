@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这种荧光灯可以在美好的日子里看见。"},
-{"op":"replace","path":"/shortdescription","value":"闪光灯"},
-{"op":"replace","path":"/apexDescription","value":"耀眼的灯光. 让我想起了科学进展部的牢房。"},
-{"op":"replace","path":"/avianDescription","value":"这灯光太刺眼了。"},
-{"op":"replace","path":"/floranDescription","value":"流行的闪烁光。"},
-{"op":"replace","path":"/glitchDescription","value":"计算：这种灯的亮度对于人类的眼睛来说有些太刺眼了。"},
-{"op":"replace","path":"/humanDescription","value":"这么亮的灯光让我很不爽。"},
-{"op":"replace","path":"/hylotlDescription","value":"发明这种灯的人有些得意忘形了。"}]

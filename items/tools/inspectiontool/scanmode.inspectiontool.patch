@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "描述世间万物和扫描用于打印的东西。^green;用[N]键快速选择。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "扫描模式"}]

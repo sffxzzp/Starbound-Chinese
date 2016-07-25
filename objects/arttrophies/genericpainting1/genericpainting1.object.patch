@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "啊人类之子，你让我感到饥饿！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "奇妙的画"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这相当抽象。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这是什么生物？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人很困惑惑惑。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。在这个苹果后面有什么更深的含义么？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "多么抽象。好吃，但抽象。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊…我明白了。这幅画让你深思。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "他正戴着个很奇怪的苹果帽子。"}]

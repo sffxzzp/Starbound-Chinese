@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "门上升…下降…上升…下降…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "滑动门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个没有把手的门。它似乎可以上下滑动。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这门向上开。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这愚蠢的门让叶族感到困惑。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。在这扇门背后的机制是复杂的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这门移动太快形成了一股风。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样的门是用来控制鲛人城市中的水流。"}]

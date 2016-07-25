@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一对破旧的沾满灰尘的涡轮机。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的涡轮"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一对涡轮机。我认为快倒了。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我不知道这些勉强不倒的机器是用来做什么的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "不稳定的神秘机器。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "调查。两个涡轮意味着串联。没有一个在动。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "两个破旧的涡轮机。他们已经坏了。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人使用这样的水下涡轮机发电。"}]

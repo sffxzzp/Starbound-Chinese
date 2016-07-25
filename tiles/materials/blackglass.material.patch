@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个黑色玻璃材料。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黑色玻璃"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。黑色玻璃。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在黑色的玻璃中看到叶族人自己。"}]

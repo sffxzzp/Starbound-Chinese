@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这罐子经历过更美好的时光。它看起来可以打碎…"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "奢华的翼族罐子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这上面的雕刻已被磨损了。这个壶看起来做好被打破的准备了。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这罐子上面曾经装饰着克鲁西斯的图像。里面可能装着充当祭品的东西。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "罐子已经很破旧了，该打打打碎它了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。材料非常脆弱、很容易被打碎。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这东西看起来只要轻轻一碰就会土崩瓦解。我想知道里面是否还有东西。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "罐子上面的标志已经不明显了。尽管那可能包含了一些有用的信息。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个脆弱的罐子看起来是一个完美的射击目标。"}]

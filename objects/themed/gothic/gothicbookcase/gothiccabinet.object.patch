@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个相当标新立异的柜子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式柜子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可以为之付诸生命的柜子…"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一种存储你东西的方式。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢这样的柜子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这棺材被用作存储。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "只是普通棺材为主题的柜子…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个放置书籍的有趣地方，我认为。"}]

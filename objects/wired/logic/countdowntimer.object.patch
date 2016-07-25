@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "<一个在持续时间内保持活动的定时器。>"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "倒计时计时器"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是一条发光的藤蔓！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "发光藤"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "发光的枝蔓。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这些藤蔓从某些方面来看还是蛮漂亮的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "发光的绿色藤藤藤蔓。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。我希望这些发光藤蔓在每个洞穴内生长。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "令人毛骨悚然的发光藤蔓。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些藤蔓好像浮海的海藻，它发出淡淡的光芒令人振奋。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "你可以用这些藤蔓做出种种有用的东西。"}]

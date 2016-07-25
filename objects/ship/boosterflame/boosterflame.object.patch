@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"我不知道这会多快的做出一个汉堡."},
-{"op":"replace","path":"/shortdescription","value":"火焰推进器"},
-{"op":"replace","path":"/apexDescription","value":"推进器. 存在一些已知的故障和爆炸."},
-{"op":"replace","path":"/avianDescription","value":"推进器, 飞船的翅膀."},
-{"op":"replace","path":"/floranDescription","value":"可.可……可怕的火焰."},
-{"op":"replace","path":"/glitchDescription","value":"分析. 温度超过测量范围."},
-{"op":"replace","path":"/humanDescription","value":"它的食物是燃料."},
-{"op":"replace","path":"/hylotlDescription","value":"推进器."}]

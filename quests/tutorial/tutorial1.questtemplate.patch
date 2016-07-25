@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^yellow;教程 I: 一束光"},
-{ "op" : "replace", "path" : "/text", "value" : "首先，我需要做的事情是^green;检查^orange;飞船储物仓^white;。我至少^green;需要带上一把^orange;手电筒^white;，除此之外应该还能在储物仓中找到些物资。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "一把^orange;手电筒^white;，一把^orange;武器^white;，以及一些^orange;火把^white;，带上它们以防万一...是时候让我^green;登陆星球^white;了！"}]

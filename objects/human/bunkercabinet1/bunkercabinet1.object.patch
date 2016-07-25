@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"看起来里面塞满了危险的材料"},
-{"op":"replace","path":"/shortdescription","value":"金属柜子"},
-{"op":"replace","path":"/apexDescription","value":"金属柜子. 里面的味道闻起来怪怪的"},
-{"op":"replace","path":"/avianDescription","value":"这里面看上去很危险。很可能有毒，要么就是会爆炸，一定是这样的"},
-{"op":"replace","path":"/floranDescription","value":"危险险险的金属柜子。 好吃吃吃吗?"},
-{"op":"replace","path":"/glitchDescription","value":"有趣： 尽管有危险标志, 这柜子里面可能只是一些不成对的袜子"},
-{"op":"replace","path":"/humanDescription","value":"一股令人作呕的气味从盖子下面渗出。 唤起了我十几岁时的回忆。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个危险的容器。显然，人类经常把这类东西扔到海里"}]

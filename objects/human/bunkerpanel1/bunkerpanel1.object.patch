@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"看起来好像在对堡垒的外部环境进行分析。"},
-{"op":"replace","path":"/shortdescription","value":"环境数据面板"},
-{"op":"replace","path":"/apexDescription","value":"从这些数据来看，外面的环境适于居住。"},
-{"op":"replace","path":"/avianDescription","value":"这看起来一点都不科学，我猜这些数据在说环境是极好的。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人才不在乎这些愚愚愚蠢的数据。"},
-{"op":"replace","path":"/glitchDescription","value":"不屑：不管这上面说了什么，这环境对电子人来说是极好的。"},
-{"op":"replace","path":"/humanDescription","value":"外部环境对人类来说是安全的。 真令人高兴，哼，我已经在外面逛了很久。"},
-{"op":"replace","path":"/hylotlDescription","value":"和我们鲛人一样，人类也必须对他们要访问的区域小心一些。"}]

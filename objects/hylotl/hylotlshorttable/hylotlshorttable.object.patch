@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个桌子，适于跪坐的高度。"},
-{"op":"replace","path":"/shortdescription","value":"传统矮桌"},
-{"op":"replace","path":"/apexDescription","value":"一张小桌子，看起来非常不牢靠。"},
-{"op":"replace","path":"/avianDescription","value":"这桌子的小短腿看起来随时会咔嚓一声断掉。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人用青蛙人的桌子切肉容易把桌子弄碎。"},
-{"op":"replace","path":"/glitchDescription","value":"挖苦：一脚就能把桌子弄散架。"},
-{"op":"replace","path":"/humanDescription","value":"这桌子太容易晃。"},
-{"op":"replace","path":"/hylotlDescription","value":"在这样的桌子上吃饭，每一顿都是快乐的体验。"}]

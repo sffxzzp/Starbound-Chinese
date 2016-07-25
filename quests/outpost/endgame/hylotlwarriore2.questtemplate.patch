@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;鱼人最好的朋友"},
-{ "op" : "replace", "path" : "/text", "value" : "嗯，我想我需要一些比骨头更好的东西。^green;请^orange;使用这张蓝图然后做一个犬舍给我^white;，这样狗狗会觉得我真棒！"},
-{ "op" : "replace", "path" : "/completionText", "value" : "你帮我做了个犬舍！现在我要装饰一下让它看起来更好…谢谢你的帮助！"}]

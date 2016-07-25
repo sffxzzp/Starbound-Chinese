@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是个狂拽酷炫吊炸天的椅子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "酷酷哒椅子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "时髦的椅子。也只有科技发展部才会有这样的家具。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个蛋？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "松松松软的皮革。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。这椅子真的非常带感。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "那是一张非常酷炫的椅子。看来猿人还是有些品位的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这椅子像纸上的字一样在流动。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个蛋形的座椅我猜它非常地酷炫。"}]

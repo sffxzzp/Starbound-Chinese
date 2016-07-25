@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个正放着音乐的老旧鲛人收音机。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人收音机"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我很惊讶这收音机居然还能用。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这老收音机放出来的小曲听起来有些莫名的忧伤。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "怪异的鲛人音音音乐盒子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。这个旧鲛人收音机正放着舒缓的音乐。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个旧收音机营造了一种旧时光的氛围。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个古董收音机，勾起了去年的回忆。"}]

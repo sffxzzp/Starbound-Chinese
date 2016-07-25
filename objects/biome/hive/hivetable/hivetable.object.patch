@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张黏糊糊的桌子，看起来更像蜂巢而不是家具。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂巢桌"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来是用几种有机材料制成的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这桌子是用人做的，还是几种其他生物做的？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "桌子黏黏黏糊糊的…叶族人迷惑了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。桌子看起来像昆虫的巢穴。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我想在这桌子上吃饭极不卫生。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这桌子因为某种原因，做得像一个生物巢穴。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我觉得我不大愿意在这上面吃炖肉。"}]

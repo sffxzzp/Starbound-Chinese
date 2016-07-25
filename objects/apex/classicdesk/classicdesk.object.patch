@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用来做重要决定的专用书桌。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古典书桌"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "在这张桌子上曾诞生过怎样可怕的决定？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "虽然翼族人不像某些种族那样把金子看的那么重要，我还是不得不说这做工让我震精鸟。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好一张金闪闪地桌子。 大概猴猴猴子们在做决决决定时都被亮亮亮瞎了眼。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。电子人非常看重金子。这样一张桌子基本可以换得一阵子衣食无忧了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我觉得使用像这样的桌子我还不够格。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有时候低调才能做出最好的决策。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这书桌看上去华而不实。"}]

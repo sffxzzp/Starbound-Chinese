@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/title","value": "^orange;卷起来！"},
+{"op": "replace","path": "/text","value": "这项^orange;技术^white;连我自己都觉得很荒唐！他可以让你变成一个球体，让你可以在狭小的空间移动。我还需要一些素材才能完成它。^green;你能给我带^orange;10个金锭^white;回来吗？"},
+{"op": "replace","path": "/completionText","value": "太赞了！现在剩下的就只有测试这个^orange;变形球技术^white;了，我也有了它的专属测试房间。"},
+{"op": "replace","path": "/scriptConfig/turnInDescription","value": "和^orange;前哨战^reset;的^orange;埃利奥特^reset;交谈"}]

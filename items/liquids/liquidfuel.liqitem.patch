@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "液态能源"},
-{ "op" : "replace", "path" : "/description", "value" : "一种危险的、不稳定的同位素，通常用作星际飞船燃料。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个用古代翼族艺术装饰的箱子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族大型宝箱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个宝箱！我该打开看看。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "通常这种宝箱造得这么大是为了存放值钱的物品。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "巨大的宝箱！叶族人要搜搜搜刮！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "期盼。如此巨大的宝箱里会装着什么呢？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个相当巨大的宝箱！来打开它。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "没有什么东西能同一个未经开启的宝箱一样令人兴奋了。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个大宝箱，也许我能搜刮到一些补给。"}]

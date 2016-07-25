@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"简单的长椅, 除了一个事实，长椅的腿儿被紧紧地钉在地上。"},
-{"op":"replace","path":"/shortdescription","value":"监狱长椅"},
-{"op":"replace","path":"/apexDescription","value":"长椅，比想象的要舒服的多。"},
-{"op":"replace","path":"/avianDescription","value":"比较舒适的监狱长凳。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人坐坐坐下来等待，但等什么呢?"},
-{"op":"replace","path":"/glitchDescription","value":"陈述：一张比较舒服的长凳。"},
-{"op":"replace","path":"/humanDescription","value":"长椅，被紧紧地钉在地板上，失望，我可以做一个新的。"},
-{"op":"replace","path":"/hylotlDescription","value":"一张安全的长椅。没人会急着抢座儿。"}]

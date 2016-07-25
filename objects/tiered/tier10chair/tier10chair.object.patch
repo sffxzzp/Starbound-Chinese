@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个帝合金椅子,让你再也不想站起来."},
-{"op":"replace","path":"/shortdescription","value":"帝合金椅子"},
-{"op":"replace","path":"/apexDescription","value":"坐在这个椅子上会让你所有的担心融化掉."},
-{"op":"replace","path":"/avianDescription","value":"坐在这个椅子上会让我忘记我被禁足的事实."},
-{"op":"replace","path":"/floranDescription","value":"坐坐坐着."},
-{"op":"replace","path":"/glitchDescription","value":"放松.所有人都应该有个这样的椅子."},
-{"op":"replace","path":"/humanDescription","value":"终极的舒适."},
-{"op":"replace","path":"/hylotlDescription","value":"一个大师级水平制造的椅子,如此舒适."}]

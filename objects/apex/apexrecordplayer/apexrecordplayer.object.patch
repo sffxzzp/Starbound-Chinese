@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "它正聒噪地播着大猿人NO.1专辑《丛林之恋》中放荡的旋律。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "标配唱片机"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个唱片传闻包含了潜意识的信息。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这机器发出很多尖锐的不堪入耳的噪音。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族是鼓和节奏的大师，但是猿人第二厉害。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "关注。这音乐毫无章法，却暗藏信息。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "是这个在这里冒充音乐么？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "压迫之音。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个播放音乐的设备。"}]

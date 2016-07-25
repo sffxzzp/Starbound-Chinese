@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "人类夫妻的肖像画。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式肖像画"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "他们看起来是…人类？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一幅个奇怪的画。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这样庄庄庄严的人类。 "},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "推理。这一定描绘了他们在被宇宙中其他种族熟知前的人性。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个非常旧的人类画。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "捕捉情感的杰作。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我喜欢这画。就是简单的一对农民。"}]

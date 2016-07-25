@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "彩虹木。"},
+[{ "op" : "replace", "path" : "/description", "value" : "彩虹木。最多彩的一种木头。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "彩虹木"}]

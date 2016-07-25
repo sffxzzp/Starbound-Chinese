@@ -1,6 +1,0 @@
-[{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["我是一名艺术商人。你有这方面的修养吗？","我名声在外，甚至连大猿人都和我结交！","我的同类们放任自己过着肮脏的生活。多么可怜。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["我希望他们尽可能多地拯救地球上的艺术品，嗯，你懂的...","在我访问过的所有设施之中，我是最精于穿衣之道的人！","我太美了。看到这蝴蝶结了吗？很漂亮，不是吗？"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["戴上这这这顶假发叶族人经经经常成为关注的焦点。","当叶族人戴戴戴假发的时候，人们和叶族人说话。叶族人不知道为什么。","叶族人一旦戴戴戴上假发，每个人都觉觉觉得叶族人漂亮。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["我实在太引人注目了，不是吗？","这顶假发让我的喙发痒 - 但我感觉很高贵！","这身西服弄皱了我的羽毛。但它值得我关心！"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["我对艺术很感兴趣。不，我只对最好的艺术感兴趣。","我希望附近没有叶族人弄脏我可爱的家。","我甚至比我的同乡更文雅。真令人自豪。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["炫耀。我正练习傲慢地笑。","自命不凡。当我戴上这顶假发，人们认为我很有钱。","愉悦。人们盯着戴上假发的我—一定是因为我戴上它很漂亮。"]}]

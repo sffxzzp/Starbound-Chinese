@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张雕刻精美的翼族床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一张铺着鲜艳又暖和的床单的、看起来很舒适的床。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "即使是睡觉的时候，折翼者也喜欢让鲜亮的颜色包围自己。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "柔柔柔软的床。叶族人要在这里休休休息。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "感伤。这和我以前常睡的那张床一样。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这张床看起来非常舒服。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一套温暖的优质床铺。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我必须承认，这是张看起来极好的床。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "微型导弹发射器，由科学发展部的顶级科学家开发。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科学发展部发射器"}]

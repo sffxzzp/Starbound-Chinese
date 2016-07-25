@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个毒果，有毒，但还是可以吃的！"},
-{"op":"replace","path":"/shortdescription","value":"毒果种子"},
-{"op":"replace","path":"/apexDescription","value":"这种植物令我恶心，或许还是可能治病？"},
-{"op":"replace","path":"/avianDescription","value":"酸甜可口。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人开玩笑般将毒果给朋友们。"},
-{"op":"replace","path":"/glitchDescription","value":"分析模式。吧台企鹅知道这种植物是有毒的。"},
-{"op":"replace","path":"/humanDescription","value":"一种带毒的菠萝，我最喜欢的菜肴。"},
-{"op":"replace","path":"/hylotlDescription","value":"这种毒性可以巧妙地用来治疗疾病。"}]

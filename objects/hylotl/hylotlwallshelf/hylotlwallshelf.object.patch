@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个用来放东西的蓝色架子。"},
-{"op":"replace","path":"/shortdescription","value":"鲛人墙架"},
-{"op":"replace","path":"/apexDescription","value":"一个墙架。"},
-{"op":"replace","path":"/avianDescription","value":"一个简单的墙架。"},
-{"op":"replace","path":"/floranDescription","value":"无聊：架子。"},
-{"op":"replace","path":"/glitchDescription","value":"烦人，一个架子。"},
-{"op":"replace","path":"/humanDescription","value":"是一个墙架。"},
-{"op":"replace","path":"/hylotlDescription","value":"用来放古玩的蓝色墙架。"}]

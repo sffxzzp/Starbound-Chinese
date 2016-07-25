@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"用来制作纯正风味料理的工具。"},
-{"op":"replace","path":"/shortdescription","value":"厨具"},
-{"op":"replace","path":"/apexDescription","value":"厨房用具，我想知道电子人是怎么做饭的。"},
-{"op":"replace","path":"/avianDescription","value":"一套工具，看起来好像是做食物的。"},
-{"op":"replace","path":"/floranDescription","value":"尖、尖尖的小刀用来切肉。"},
-{"op":"replace","path":"/glitchDescription","value":"教学：这些工具是用来做饭的， 电子人掌握着将食物转化为能量的技术。."},
-{"op":"replace","path":"/humanDescription","value":"我想知道电子人切菜能有多快。"},
-{"op":"replace","path":"/hylotlDescription","value":"鲛人用太刀剁食物，才怪。"}]

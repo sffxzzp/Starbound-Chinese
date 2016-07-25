@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这个招牌表面我可以在这里休息一下。"},
-{"op":"replace","path":"/shortdescription","value":"旅馆招牌"},
-{"op":"replace","path":"/apexDescription","value":"木制招牌，看起来属于一家旅馆。"},
-{"op":"replace","path":"/avianDescription","value":"一个木制招牌，上面写着‘旅馆’。"},
-{"op":"replace","path":"/floranDescription","value":"附近有饮料商、商店？"},
-{"op":"replace","path":"/glitchDescription","value":"鉴定：这个招牌表明这里是电子人旅馆。"},
-{"op":"replace","path":"/humanDescription","value":"看起来是挂在旅馆外面的招牌。"},
-{"op":"replace","path":"/hylotlDescription","value":"招牌表明这是一家旅馆。."}]

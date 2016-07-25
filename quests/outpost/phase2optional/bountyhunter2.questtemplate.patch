@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;处理垃圾"},
-{ "op" : "replace", "path" : "/text", "value" : "嘿！谢谢你之前的帮助！话说…你能帮我把这袋…肉…处理一下么？^green;把它扔进熔炉，把剩下的^orange;灰烬^green;带给我，我会给你奖励。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "干得好！拿着这个，这是给你的。"}]

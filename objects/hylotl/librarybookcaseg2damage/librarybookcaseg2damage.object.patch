@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个被损坏的大书架。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的图书馆大型书架"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个书架破损的非常厉害。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道这个书架怎么会变得如此残破。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人早就把书架砸啊啊掉了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这个书柜是怎么受到的这种损害？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个损毁了的书架。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "破损的书架入眼满是悲凉。"}]

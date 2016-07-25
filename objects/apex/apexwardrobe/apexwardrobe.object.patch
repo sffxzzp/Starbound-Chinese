@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "每个猿人的卧室都有一个同样的衣柜。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "标配衣柜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "反抗者们曾用衣柜作掩饰在里面藏东西…"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "没有标记，没有装饰。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "衣柜？叶族人对这这这种东西没兴趣。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "无聊。苍白的猿人家具。每个里面貌似都藏有一个摄像头。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来某人废了不少工夫刻意让这些衣柜这么无趣。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "或许里面有什么有趣的也说不定。外观是会骗人的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这衣橱用来挂我的汗衫相当不错。"}]

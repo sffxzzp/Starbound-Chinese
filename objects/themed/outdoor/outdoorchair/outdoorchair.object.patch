@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张座椅，能经受恶劣天气的考验。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "户外椅"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一把好椅子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一张椅子，设计得可以承受气候考验。"}]

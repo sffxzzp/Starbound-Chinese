@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个灭火器.并不有趣也不是用来玩乐的."},
-{"op":"replace","path":"/shortdescription","value":"灭火器"},
-{"op":"replace","path":"/apexDescription","value":"一个顺手的灭火器."},
-{"op":"replace","path":"/avianDescription","value":"一个灭火器."},
-{"op":"replace","path":"/floranDescription","value":"叶族人用泡沫杀死火焰!"},
-{"op":"replace","path":"/glitchDescription","value":"警告.这个灭火器并不符合安全标准."},
-{"op":"replace","path":"/humanDescription","value":"一个灭火器.希望我不会用到它."},
-{"op":"replace","path":"/hylotlDescription","value":"某种喷射泡沫的设备."}]

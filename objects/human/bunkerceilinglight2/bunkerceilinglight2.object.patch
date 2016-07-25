@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个金属制的吊灯"},
-{"op":"replace","path":"/shortdescription","value":"金属吊灯"},
-{"op":"replace","path":"/apexDescription","value":"一个金属吊灯。"},
-{"op":"replace","path":"/avianDescription","value":"一个彩色的吊灯。"},
-{"op":"replace","path":"/floranDescription","value":"安全的光源, 没有火。叶族人好喜欢。"},
-{"op":"replace","path":"/glitchDescription","value":"无聊： 一个光源固定装置"},
-{"op":"replace","path":"/humanDescription","value":"一个你用来连接到头部的设备, 还有... 等等, 不，这只是一盏灯。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个无聊的吊灯。"}]

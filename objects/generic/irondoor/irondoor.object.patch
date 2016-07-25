@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "交叉刀片组成的门，看起来刀片可以撤回。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铁门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个险恶的铁门。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这门看起来是为了不让某些人进来…或出去。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢有刺的门，这样叶族可以用门板捕鱼。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。这门似乎是电子人的起源。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这让我想起了我探索古老城堡的日子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "什么野蛮人会用刀片做一个门？"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这尖尖的门我不怎么喜欢。"}]

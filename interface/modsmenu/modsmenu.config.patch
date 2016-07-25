@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;当前已加载的资源文件"},
+{"op": "replace","path": "/paneLayout/selectmodlabel/value","value": "选择Mod"},
+{"op": "replace","path": "/paneLayout/lblDescription/value","value": "描述"},
+{"op": "replace","path": "/paneLayout/modauthorlabel/value","value": "作者"},
+{"op": "replace","path": "/paneLayout/modversionlabel/value","value": "版本"},
+{"op": "replace","path": "/paneLayout/linklabel/value","value": "打开MOD主页"},
+{"op": "replace","path": "/paneLayout/copylinklabel/value","value": "复制MOD主页链接"}]

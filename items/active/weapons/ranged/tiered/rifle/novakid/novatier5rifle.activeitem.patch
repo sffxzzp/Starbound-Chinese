@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "含有一击！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "红巨星"}]

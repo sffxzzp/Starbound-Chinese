@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这扇重型铁闸门关闭的时候会发出“砰”的一声巨响。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大型闸门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我厌倦了这些栅栏和链条。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇坚实的门，能够有效地阻挡入侵者。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "结结结实的金属门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀念。这扇闸门让我想起了组装我的地方。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇闸门，就好像回到了旧时光！很有代入感。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门非常不受欢迎。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是扇看起来极度坚固的门。"}]

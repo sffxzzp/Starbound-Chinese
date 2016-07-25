@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个强大的钢拉杆.需要被拉动."},
-{"op":"replace","path":"/shortdescription","value":"钢拉杆"},
-{"op":"replace","path":"/apexDescription","value":"此杆可用于许多事情."},
-{"op":"replace","path":"/avianDescription","value":"一个有用的杠杆."},
-{"op":"replace","path":"/floranDescription","value":"叶族人拉动杠杆来让事情发生!"},
-{"op":"replace","path":"/glitchDescription","value":"印象深刻,一个简单的杠杆能控制这么多不同的机械装备."},
-{"op":"replace","path":"/humanDescription","value":"杠杆,只是用来拉."},
-{"op":"replace","path":"/hylotlDescription","value":"一个钢杆."}]

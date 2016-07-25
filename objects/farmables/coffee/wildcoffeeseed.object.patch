@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"长出咖啡豆，烘干，然后碾碎，冲泡他们吧。"},
-{"op":"replace","path":"/shortdescription","value":"咖啡豆种子"},
-{"op":"replace","path":"/apexDescription","value":"咖啡能使你清醒更长的时间。"},
-{"op":"replace","path":"/avianDescription","value":"咖啡看起来很有享受的诱惑力，但是非常苦。"},
-{"op":"replace","path":"/floranDescription","value":"咖啡使叶族人保持清醒。"},
-{"op":"replace","path":"/glitchDescription","value":"沉重模式。电子人认为没有很好地利用这些苦豆子。"},
-{"op":"replace","path":"/humanDescription","value":"咖啡，人类已知的神奇植物。"},
-{"op":"replace","path":"/hylotlDescription","value":"咖啡的用途超过了它的苦味。"}]

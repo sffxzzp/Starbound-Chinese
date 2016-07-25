@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"有各种按钮的触屏控制台。"},
-{"op":"replace","path":"/shortdescription","value":"高科技控制台"},
-{"op":"replace","path":"/apexDescription","value":"我想知道如果我按了...这个按钮会怎么样？"},
-{"op":"replace","path":"/avianDescription","value":"这样按按钮很容易..."},
-{"op":"replace","path":"/floranDescription","value":"叶族人想按、按所有漂亮的按、按钮。"},
-{"op":"replace","path":"/glitchDescription","value":"好奇：我很想按这些按钮..."},
-{"op":"replace","path":"/humanDescription","value":"也许按一两个按钮会发生点有趣的事。"},
-{"op":"replace","path":"/hylotlDescription","value":"我不应该碰这些按钮...谁知道会发生什么呢？"}]

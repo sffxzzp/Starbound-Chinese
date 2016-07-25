@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个巨大的菌囊，里面好像有一个野兽。"},
-{"op":"replace","path":"/shortdescription","value":"巨大的菌囊"},
-{"op":"replace","path":"/apexDescription","value":"这个凶残的东西是什么？"},
-{"op":"replace","path":"/avianDescription","value":"这个巨大的菌囊里面一定有一个巨大的野兽。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人用刀刺刺刺进去...不，叶族人要逃走..."},
-{"op":"replace","path":"/glitchDescription","value":"分析： 这里面的东西好像要孵化了。"},
-{"op":"replace","path":"/humanDescription","value":"我不想看见这里面的东西。"},
-{"op":"replace","path":"/hylotlDescription","value":"走开，走开，叶族人不能伤害我。"}]

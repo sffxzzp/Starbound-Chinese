@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "猿族公务员裤子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "猿族公务员裤子"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "公务员裤子"}]

@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一整个块都是由银做成的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "银块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个银块。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "银。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个象征着个体成长的古老羊驼符文。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "羊驼生长符文"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是个表达了个体成长的古代符文。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个古代符文，类似我们翼族人的符文。这个意思是个体的成长。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人觉得很难理理理解这个符文。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "空灵。羊驼通过这个符号表达个体成长的内容。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个符文用仅仅一个符号表示了个体成长的含义。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "个体成长的内容被完美捕捉到这个古老的记号里了。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "个体成长的符号，恩？挺高端的东西。"}]

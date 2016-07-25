@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个坚固的铜制窗框。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铜制窗户"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个铜制的窗框。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "窗窗窗子。"}]

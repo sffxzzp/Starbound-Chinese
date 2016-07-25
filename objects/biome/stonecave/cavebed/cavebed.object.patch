@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张石头做成的床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "石头床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这张床制作的时候并没有考虑舒适性。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这是张又冷又硬的床。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一张石石石头做成的床。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。这坚固的床将能流传好几代。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我猜这总比睡在地板上要好…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "据说，睡在坚硬的表面上对背部有好处。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "突然，我觉得我不再那么累了。"}]

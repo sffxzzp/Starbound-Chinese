@@ -1,9 +1,0 @@
-[{"op":"replace","path":"/subtitle","value":"自动基地防御"},
-{"op":"replace","path":"/description","value":"保护你用的炮台！只能一次性放置。"},
-{"op":"replace","path":"/shortdescription","value":"防御炮台"},
-{"op":"replace","path":"/apexDescription","value":"永远保持警惕。"},
-{"op":"replace","path":"/avianDescription","value":"怪物一点机会也没有，呃...除非它们能飞。"},
-{"op":"replace","path":"/floranDescription","value":"对活物物物有奇效效效。"},
-{"op":"replace","path":"/glitchDescription","value":"当心。别在我兄弟警惕的时候去打扰它。"},
-{"op":"replace","path":"/humanDescription","value":"一个全自动防御系统。"},
-{"op":"replace","path":"/hylotlDescription","value":"看起来像是某种炮台。"}]

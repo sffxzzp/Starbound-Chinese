@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个精雕细琢的宝座，适合克鲁西斯本人。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族宝座"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有雕刻装饰的宝座。真是特别的景象。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "观星者的宝座。每一个观星者都会为了保护这件东西而建一座神庙。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人宝座将成为叶族人满意的战利品。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "认同。电子人领主同样也坐在宝座上。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "石头（stone）宝座（throne）。真押韵。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张宝座看起来很不舒适。而且它看起来很少被使用，也许这只是用来彰显权力的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张椅子是用石头做的，看上去非常的不舒适。"}]

@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "堆叠起来的花岗岩。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "花岗岩块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。花岗岩石。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "堆堆堆叠起来的花岗岩石石石。"}]

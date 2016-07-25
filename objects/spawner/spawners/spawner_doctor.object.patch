@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"创建你自己的医生！"},
-{"op":"replace","path":"/shortdescription","value":"医生生产机"},
-{"op":"replace","path":"/apexDescription","value":"一个医生在这附近是非常方便的。"},
-{"op":"replace","path":"/avianDescription","value":"我希望这些医生现在不忙"},
-{"op":"replace","path":"/floranDescription","value":"叶族人想要一个医生来修理刺！"},
-{"op":"replace","path":"/glitchDescription","value":"有趣.也许我能学习一些医学奇观。"},
-{"op":"replace","path":"/humanDescription","value":"一个无限制的医生补给！谢谢，奥巴马！"},
-{"op":"replace","path":"/hylotlDescription","value":"这些医生最好受过正规的医学训练。"}]

@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "如果我再继续看这些灯的话，可能会亮瞎狗眼。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "泛光灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "极明亮的灯光。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个可能将黑夜变成白天的灯！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "明亮的光线伤害叶族的眼睛。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "卖弄。明亮的灯光没法给电子人任何干扰。电子人可以处理任何光。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "泛光灯，辜负他们的名字。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人使用类似的灯光照亮海洋。"}]

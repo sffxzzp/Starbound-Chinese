@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"垂直舱口门道."},
-{"op":"replace","path":"/shortdescription","value":"矿井舱门"},
-{"op":"replace","path":"/apexDescription","value":"一个垂直门."},
-{"op":"replace","path":"/avianDescription","value":"一个粗制滥造的工程舱口."},
-{"op":"replace","path":"/floranDescription","value":"门在上下运动..."},
-{"op":"replace","path":"/glitchDescription","value":"细心。这个舱口是垂直接入的."},
-{"op":"replace","path":"/humanDescription","value":"一个没法水平放置的舱门."},
-{"op":"replace","path":"/hylotlDescription","value":"一个考虑功能做出来的生锈的舱口."}]

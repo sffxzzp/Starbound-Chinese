@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/attack/default/default",
-    "value": [
-      "死吧，异教徒！"
-    ]
-  }
-]

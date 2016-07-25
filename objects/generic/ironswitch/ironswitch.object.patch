@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "剑在…控制台里面？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铁控制台"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这些刀剑作为杠杆。我想知道他们是如何运作的？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个聪明的使用破旧武器的方法。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族强行拉动这些剑。剑让灯光嗡嗡的响。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象。一个好的刀片有许多用途，即使它变钝了。在这里，它作为一个杠杆。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我在拉动杠杆和担心被割伤自己之间徘徊。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样的设备可能是迈向和平的一步？或者它们是一种暴力威胁？"}]

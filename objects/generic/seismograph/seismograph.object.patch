@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用于监测地震活动的装置。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "地震仪"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "该装置可用于记录地震。对某些人有用的工具。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "它在画一根线，偶尔上下移动。好奇。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "金属物是红色的。红色是一种很好的颜色。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "通知。这个设备在监控当地的区域运动。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个东西用于监测地震活动。非常利落。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "仪器测绘出的波形让我想起了海洋的起伏。"}]

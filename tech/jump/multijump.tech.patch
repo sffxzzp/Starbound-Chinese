@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/description","value": "你在空中可以使用三次额外的跳跃!"},
+{"op": "replace","path": "/shortDescription","value": "四段跳"}]

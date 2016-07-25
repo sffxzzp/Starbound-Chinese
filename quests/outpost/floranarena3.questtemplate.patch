@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;烈焰竞技场"},
+{"op": "replace","path": "/text","value": "我已经为你准备好最后一场挑战了！一个全副武装的，叫^orange;“圣殿骑士·炼狱”^white;的家伙想要和你决斗。他喜欢欢欢火焰，我是说真的。或许你该带上一些防烧伤喷雾来从他的那一大群燃烧怪怪怪物那保护自己…^green;不管怎样，当你准备好之后告诉我，我会将你传送到那里^white;。"},
+{"op": "replace","path": "/completionText","value": "在那熊熊烈焰之后你做到了！令人印象深刻！来，拿走圣殿骑士·炼狱的剑吧——这是你应得的，冠军！不要问我是从搞到它的。"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "跟^orange;努鲁^reset;交谈以传送到^orange;竞技场^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "在竞技场中获胜"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "回到^orange;前哨站^reset;去找^orange;努鲁^reset;"}]

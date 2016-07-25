@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;煎炸"},
-{ "op" : "replace", "path" : "/text", "value" : "在这周围没有人像我一样急切地想弄些鱼！^green;你能为我^orange;烹饪些鱼^green;么？^white;那样就太好了！"},
-{ "op" : "replace", "path" : "/completionText", "value" : "真棒！这样就能填饱肚子了。这些像素和这个物质枪模块作为感谢，给你了。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个里面有只企鹅的水晶球。它看起来很生气。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "企鹅水晶球"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一只可爱的企鹅在水晶球内。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "额，一只企鹅。我同情你，不会飞的同类。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢有零零零食的玻玻玻璃。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "警报。水晶球内有微弱的生命反应。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "噢，一只可爱的小企鹅。我想拥抱它。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一只小企鹅被关在玻璃监狱。野蛮。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "企鹅是很可爱，但我不会上当的。它们都是恶棍，即使过了很久！"}]

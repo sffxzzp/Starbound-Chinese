@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "火山植物。很少有绿色枝叶，更多的是被烧过的枝叶。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "火山植物"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个看起来危险的植物。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "浇水可能有用。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "甚至是叶族都不喜欢这种植物。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。一个爆裂的植物。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "想象一下意外踩上去会怎样。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然是残酷的。"}]

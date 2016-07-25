@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张由管子做成的框架支撑的床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽朋克床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这张床有一个由旧铜管制成的框架。有意思。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一张非常可爱奇幻的床。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想把管子子子拆开，用它们当武器器器。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这些管子有什么用处吗？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一张用管子做的床！多让人愉悦的复古风啊。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张床的功能没有看上去那么强大。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里有一张适合我的床。"}]

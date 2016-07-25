@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个简单的木质椅子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个很普通的木椅。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个带着一个红色垫子的木椅。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "垫子让椅子软软的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "无视。无趣的对象。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个简单的小椅子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个不起眼的木椅。"}]

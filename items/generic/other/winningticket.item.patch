@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这些都是授予那些打游戏通关的奖励。"},
+[{ "op" : "replace", "path" : "/description", "value" : "这些都是授予那些通关《迷宫边境64》人的奖励。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "通关小票"}]

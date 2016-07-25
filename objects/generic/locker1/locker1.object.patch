@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "下课后被困在其中的美好回忆。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "高储物柜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个储物柜。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个金属盒子，可能是建造来存储东西用的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "存储。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "测量。少量存储。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个柜子上没有锁…"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有用的存储。"}]

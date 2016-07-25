@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个垂直开口的舱门。"},
-{"op":"replace","path":"/shortdescription","value":"生锈的舱门"},
-{"op":"replace","path":"/apexDescription","value":"一个古老的舱门。"},
-{"op":"replace","path":"/avianDescription","value":"一个工艺粗糙的舱门。"},
-{"op":"replace","path":"/floranDescription","value":"舱门上上下下…"},
-{"op":"replace","path":"/glitchDescription","value":"观察。这舱门是用来垂直通行的。"},
-{"op":"replace","path":"/humanDescription","value":"当左右移动不再能满足需要时的舱门。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个生锈的舱门通道。用原始的技术制作。"}]

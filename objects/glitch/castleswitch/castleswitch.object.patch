@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"我打。"},
-{"op":"replace","path":"/shortdescription","value":"宝石开关"},
-{"op":"replace","path":"/apexDescription","value":"一个水晶，看起来好像有什么用途。"},
-{"op":"replace","path":"/avianDescription","value":"这是水晶共振技术么？不对...是别的什么东西。"},
-{"op":"replace","path":"/floranDescription","value":"亮、亮闪闪的水晶，你在做什么？"},
-{"op":"replace","path":"/glitchDescription","value":"教学：电子人把开关像这样藏在水晶里。"},
-{"op":"replace","path":"/humanDescription","value":"一大块水晶！看起来好像有什么用途。"},
-{"op":"replace","path":"/hylotlDescription","value":"这块水晶一定有什么作用。"}]

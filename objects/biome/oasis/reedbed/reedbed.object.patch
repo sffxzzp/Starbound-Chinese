@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一张用芦苇制成的床"},
-{"op":"replace","path":"/shortdescription","value":"芦苇床"},
-{"op":"replace","path":"/apexDescription","value":"用木头和芦苇做的床。"},
-{"op":"replace","path":"/avianDescription","value":"用木头和芦苇做的床。"},
-{"op":"replace","path":"/floranDescription","value":"用木头和芦苇做的床。"},
-{"op":"replace","path":"/glitchDescription","value":"用木头和芦苇做的床。"},
-{"op":"replace","path":"/humanDescription","value":"用木头和芦苇做的床。"},
-{"op":"replace","path":"/hylotlDescription","value":"用木头和芦苇做的床。"}]

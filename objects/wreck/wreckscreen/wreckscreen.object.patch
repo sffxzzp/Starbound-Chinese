@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个破碎的监视器，没多大用现在。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的显示器"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "完全破碎，没多大用。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这里没什么好看的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "破碎的玻璃。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。没什么好观察的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个破碎的显示器。不可修复。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "玻璃是尖锐的，我最好还是小心点。"}]

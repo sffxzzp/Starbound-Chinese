@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "黑滑石"},
-{ "op" : "replace", "path" : "/description", "value" : "一个黯黑，光滑的石头。很神秘。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。来历不明的黑色方块。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "光滑的方块。"}]

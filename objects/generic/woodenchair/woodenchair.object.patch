@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个看起来不舒服的木椅。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个很简单的木椅。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个粗糙的木椅。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "椅子需要垫子。叶族屁股痛。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "简洁。不舒服。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我不能长时间坐在这里。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一些作出了一些小的为了让这个变的更加舒适的努力。"}]

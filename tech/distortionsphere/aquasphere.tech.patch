@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/description","value": "按下^green;[F]^white;变成一个可以在液体中快速移动的球体！"},
+{"op": "replace","path": "/shortDescription","value": "浮水球"}]

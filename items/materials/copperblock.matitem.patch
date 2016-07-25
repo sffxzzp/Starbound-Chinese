@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个铜块具有鲜明的齿轮状印记。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铜齿轮块"},
-{ "op" : "replace", "path" : "/humandescription", "value" : "让我想起了家边医疗中心的里面。"}]

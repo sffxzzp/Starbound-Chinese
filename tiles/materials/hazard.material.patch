@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "墙上的一个显示出潜在危害的标记。保持清醒。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "危险方块"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。危险。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "危险！"}]

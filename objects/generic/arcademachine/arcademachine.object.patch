@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个古老的街机游戏机。这一个有“超级特拉法加冲击波2”游戏。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "游戏机"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "猿族很少玩游戏。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人不太熟悉这样的机器。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族按哪个按钮才能开始游戏？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。得分最高的玩家有一个CF的前缀。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我需要15分钟来搞定。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我将维持禅境并凭借它来获得高分。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "从怪物身上收获肉和其他物品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "复合弓"}]

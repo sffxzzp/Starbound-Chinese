@@ -1,9 +1,0 @@
-[{"op":"replace","path":"/description","value":"一扇门. 它坏了. 有些用处."},
-{"op":"replace","path":"/shortdescription","value":"破损的飞船门"},
-{"op":"replace","path":"/apexDescription","value":"我们能把它安装在飞船上. 它是坏的."},
-{"op":"replace","path":"/avianDescription","value":"坏的门."},
-{"op":"replace","path":"/floranDescription","value":"砸坏的门!"},
-{"op":"replace","path":"/glitchDescription","value":"声明. 坏的门."},
-{"op":"replace","path":"/humanDescription","value":"我打赌是鲛人破坏的!"},
-{"op":"replace","path":"/hylotlDescription","value":"我打赌是人类破坏的."},
-{"op":"replace","path":"/novakidDescription","value":"被毁的门. 可能是在一场枪战中损坏."}]

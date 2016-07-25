@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个黏液制成的火炬。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黏液火炬"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个黏液火炬。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个黏液火炬。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一个滑溜溜的火炬。危危危险。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个黏液火炬。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个黏液火炬。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个黏液火炬。"}]

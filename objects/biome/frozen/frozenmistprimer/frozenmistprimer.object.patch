@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一块很大的冰。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "冰块"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一块冰的一角。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "冷冷冷冰冰的冰。叶族感觉冷若冰霜了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "无感觉。冰冻了的水。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "冰冷！如果我舔它，我的舌头会粘着。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一块冰的碎片。直到核心都是冰冷的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一块冰碎片。完美的凶器。"}]

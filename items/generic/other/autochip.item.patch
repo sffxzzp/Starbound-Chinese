@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这应该在制造和修复载具时很有用！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "汽车芯片"}]

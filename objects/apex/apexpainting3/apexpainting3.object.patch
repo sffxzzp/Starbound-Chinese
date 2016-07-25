@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张裱在框里的大猿人的主打专辑复制唱片，“丛林之恋”。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大猿人唱片"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是猿人被允许拥有的唯一的唱片。有人说它包含了潜意识的信息。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一张奇怪的碟。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "黑色圆圆圆盘。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。一种未知的媒体。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是…唱片？还是屁股？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张碟片上有些凹槽。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张碟上刻有精细的图案。"}]

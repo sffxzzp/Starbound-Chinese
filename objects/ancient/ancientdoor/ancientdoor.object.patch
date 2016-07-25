@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一扇看起来很古老的门."},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古代门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇由古代石头制作的门。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇有着古老起源的，坚硬的门."},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "看看看起来像是一扇古代的门"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。我可不会惊讶于这扇古代的门无法打开。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我猜这些符文的意思是“打开”和“关上”。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门是自远古遗留下来的遗迹。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这扇门堪称一件文物。"}]

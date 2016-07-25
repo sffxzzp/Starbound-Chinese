@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个沾满灰尘的普通翼族石制棺材。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族石制棺材"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个没有装饰的棺材。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个为那些买不起木乃伊石棺的人准备的棺材。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人认为死者应应应该变回肥肥肥料。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观说明。电子人将尸体回收用作备用零件而不是掩埋掉。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个令人沮丧的长眠之地。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "尸体应该获得更好的待遇。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张为死者准备的床。"}]

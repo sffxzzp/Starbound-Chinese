@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "黏黏的粘液。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黏黏的粘液。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "黏黏的。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。有用的粘液。"}]

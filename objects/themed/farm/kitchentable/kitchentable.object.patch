@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个乡村厨房桌子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "厨房桌子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "没有多余的装饰，仅仅是一个制作精良的厨房桌子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "不论制造者是谁，他都一定希望这张桌子能流传下去。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "用于盛放极重肉肉肉块的漂亮的结结结实桌子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "任何小镇每个家庭里都能见到的结实餐桌"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "哈，若是食物不小心掉在这桌子上，我不介意捡起来继续吃。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个厨桌的厚木板很好的兼顾了外形和功能。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这并不是什么花俏的物品，但我会在任何时候都乐于使用它。"}]

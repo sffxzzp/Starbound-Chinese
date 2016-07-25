@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "回火技术再好也超不过铸铁的硬度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "平底锅"}]

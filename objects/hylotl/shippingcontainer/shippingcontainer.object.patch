@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个非常大的集装箱。"},
-{"op":"replace","path":"/shortdescription","value":"集装箱"},
-{"op":"replace","path":"/apexDescription","value":"这个大箱子用来运输大型货物。"},
-{"op":"replace","path":"/avianDescription","value":"我猜这是为了运非常大的物品。"},
-{"op":"replace","path":"/floranDescription","value":"里面也许有吃的。"},
-{"op":"replace","path":"/glitchDescription","value":"好奇： 里面装的是什么？"},
-{"op":"replace","path":"/humanDescription","value":"这集装箱真大啊。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个相当大的容器，用来运输大量货物。"}]

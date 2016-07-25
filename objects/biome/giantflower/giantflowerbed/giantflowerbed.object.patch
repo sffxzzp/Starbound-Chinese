@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张花做成的床，但愿你不会花粉过敏。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型花瓣床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这张床很有趣而且富有弹性。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "睡在这里让我的羽毛痒痒的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族在植物上容容容易入睡睡睡。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "不舒服。床是由肉食性植物做出。当心。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "植物上病态的甜香味并不能帮助我睡眠。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这性质比较适合其他用途。记录。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张带有香味的床。人们可以梦想到在一片华丽的花原。"}]

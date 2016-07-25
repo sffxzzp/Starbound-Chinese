@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个假的塑料植物,不是一棵树."},
-{"op":"replace","path":"/shortdescription","value":"塑料植物"},
-{"op":"replace","path":"/apexDescription","value":"这种植物不是真的!"},
-{"op":"replace","path":"/avianDescription","value":"一个假的植物。不错."},
-{"op":"replace","path":"/floranDescription","value":"叶族人捅骗子植物!"},
-{"op":"replace","path":"/glitchDescription","value":"逗乐。这个假的植物里面有一个真正的植物。"},
-{"op":"replace","path":"/humanDescription","value":"让我想起了候车室."},
-{"op":"replace","path":"/hylotlDescription","value":"一个恶心的塑料假植物."}]

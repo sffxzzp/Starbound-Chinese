@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个由骨头制成的箱子。幸好他不是装满了骨髓。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "骨箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这箱子看起来似乎完全是用骨制成的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用骨塑造成的箱子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对这箱箱箱子印象深刻。看看看起来把它打碎十分有趣。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "异样。这箱子是用骨雕刻而成。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以用它来储藏我所有的五角星形珠宝和黑色蜡烛！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不管怎样这些骨头应该有个比造成箱子更好的结局。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个骨箱子。也许是用肋骨制成的。"}]

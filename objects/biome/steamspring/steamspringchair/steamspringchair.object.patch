@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张迷人的椅子，用上好的木头和铜管制成。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽春天椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这张椅子似乎装载了真正的、正常运作中的管道。真是奇怪。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这张椅子闻起来像是刚砍下来的新鲜木料。太美妙了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "为什么椅子在在在发出嘶嘶嘶的声声声响？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "纠结。为什么要在管道外围造一张椅子？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "如果忽略这些奇怪的管道，这看起来是一张相当不错的椅子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "把这些管道装在这张椅子上是有什么特殊的目的吗？"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "有些人可能会觉得这些装在椅子上的管道挺倒胃口的，不过我倒是有点喜欢这样的设计。"}]

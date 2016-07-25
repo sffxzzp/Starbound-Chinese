@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一串挂在天花板上的骨头好像是一串很恐怖的风铃"},
-{"op":"replace","path":"/shortdescription","value":"骨风铃"},
-{"op":"replace","path":"/apexDescription","value":"在风中会响的骨头。"},
-{"op":"replace","path":"/avianDescription","value":"这些发出沙沙响声的人骨制品令我毛骨悚然。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人喜欢骨骨头在风中的声声音。"},
-{"op":"replace","path":"/glitchDescription","value":"记录：这些骨头的声音波形跟那些会叫的昆虫很像。"},
-{"op":"replace","path":"/humanDescription","value":"可怕的骨头风铃。虽然没有很多骨头但是他们依然很响。"},
-{"op":"replace","path":"/hylotlDescription","value":"这声音让我起鸡皮疙瘩。"}]

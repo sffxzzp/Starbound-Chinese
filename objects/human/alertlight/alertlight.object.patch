@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"闪烁的灯光是发生紧急事件的信号"},
-{"op":"replace","path":"/shortdescription","value":"警报灯"},
-{"op":"replace","path":"/apexDescription","value":"这些警报装置在猿人的房子里是很常见的, 信号表达了不欢迎的态度."},
-{"op":"replace","path":"/avianDescription","value":"这装置, 吵起来像一只鸟."},
-{"op":"replace","path":"/floranDescription","value":"旋旋旋转的光线就像罐子里的萤火虫"},
-{"op":"replace","path":"/glitchDescription","value":"漠不关心. 一个彩灯."},
-{"op":"replace","path":"/humanDescription","value":"这些玩意儿叫的太吓人."},
-{"op":"replace","path":"/hylotlDescription","value":"一个臃肿的舞灯."}]

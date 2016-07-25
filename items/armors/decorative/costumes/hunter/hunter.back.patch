@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "警告：这是一个道具。不能用于直接战斗。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "猎人的刀"}]

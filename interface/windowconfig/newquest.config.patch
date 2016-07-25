@@ -1,3 +1,3 @@
-[{"op":"replace","path":"/paneLayout/btnAccept/caption","value":"接受"},
-{"op":"replace","path":"/paneLayout/btnDecline/caption","value":"拒绝"},
-{"op":"replace","path":"/paneLayout/labelRewards/value","value":"奖励："}]
+[{"op": "replace","path": "/paneLayout/btnAccept/caption","value": "接受"},
+{"op": "replace","path": "/paneLayout/btnDecline/caption","value": "拒绝"},
+{"op": "replace","path": "/paneLayout/lblRewards/value","value": "奖励："}]

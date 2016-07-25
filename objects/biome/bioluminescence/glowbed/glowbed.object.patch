@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张长着一些发光植物的床。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "发光床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这些亮光让这张床在晚上更容易被找到。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这张床是长出来的么？多么迷人。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜喜喜欢植物床。虽然并不确确确定是否喜欢这些奇奇奇怪的光。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "轻松。这张床发出一种幽幽的，平静的光。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这张床有内建的夜灯？赞。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "平静的光让人觉得躺在这床上很舒适。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张发光的床对我也不错。"}]

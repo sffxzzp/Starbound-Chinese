@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个雪堆。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "雪堆"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一堆雪。雪球大战！"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一堆冰冷的雪。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人藏在雪中。跳出来。捅捅捅向雪雪雪人。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。躺在这雪堆上并做一些雪天使可能会损伤我的内部电路。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这雪分明是在乞求我去踢它嘛。（嘿嘿嘿）"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "冰冷又美丽的雪。也许我应该收集一些。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这就是一堆雪。"}]

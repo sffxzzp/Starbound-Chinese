@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个金蛋！什么！？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "金蛋"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "哇塞！这些金蛋从哪来的？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "传说是真的！看它表面美丽的色泽。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族持有有有美丽的蛋。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊异。这样一个美丽的蛋一定能卖个好价钱。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "真是个漂亮的蛋。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个了不起的闪闪发光的金蛋。一个真正的奇迹。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个真是光滑，我能看到我的倒影。"}]

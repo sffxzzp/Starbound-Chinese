@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "很多人都觉得由风铃引起的钟声十分柔和。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "风铃"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这风铃能够营造气氛。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个有很好听的钟声的风铃。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "风吹吹吹起暗影铃形成动听的声声声音。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣慰。这宜人的钟声就像春天的气息。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这风铃的钟声某方面来说令我不寒而栗。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这怪异的风铃产生空灵的声音。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "甜美动听的风铃。"}]

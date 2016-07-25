@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "粗糙的木门。不是很安全。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个基本的木门。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "手工制作的木制门。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族也做木门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。似乎是一个手工制作的门。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看到这样的门，你将会想看到一个与之相应的小屋。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门仅仅在安全的道路上走出了一小步。"}]

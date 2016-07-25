@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我可不想让自己锁在这些粗铁条后面。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "铁栅门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇铁制的牢门。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人非常小心地保护他们的坟墓。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "沉重的铁门保护着翼族人的宝宝宝贝。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "比较。类似于电子人地牢的牢门。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来是那种你能在监狱里找到的门。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇让人压抑的门。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "在这张有坐垫的装饰椅子上安息吧。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "幽灵墓穴椅"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这把椅子本该造的更舒心一点。我是说，看看它的样子！"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我...猜这把椅子是用来提醒我们来世的？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想藏到石石石头椅子后面。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "受惊。为什么你们把家具做成这样？ "},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我说不准这是不是一张雅致的椅子。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是某种墓穴椅子吗？真野蛮。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我要说，这椅子的品味真差劲。"}]

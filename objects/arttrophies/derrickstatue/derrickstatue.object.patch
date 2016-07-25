@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个雕像是为一只名叫德里克的生物所做的，它好像被主人弄丢了。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "德里克的雕像"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个雕像描绘了一个叫做德里克的生物。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一只怪物的雕像。题字说它叫德里克。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢欢欢德里克的雕雕雕像。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。这座雕像似乎是为了纪念一只走丢的宠物。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一座叫德里克的走失的宠物的雕像。我想知道他的主人找到他没有。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个精致的雕像，刻的是一只特别的叫德里克的生物。我从没见到过这样的东西。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个叫德里克的某只怪物的雕像。他看起来大得都能骑上去了。"}]

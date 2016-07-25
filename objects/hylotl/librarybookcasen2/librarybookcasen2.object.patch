@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个相当大的装满了书籍的书架。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "图书馆书架"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个标准的图书馆书架。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个装满了书籍的旧书架。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "图书馆的书唔唔。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "内容。在电子人国王那里有许多像这样的书架。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个坚固的书架。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个诗歌和散文分别排列的书架。"}]

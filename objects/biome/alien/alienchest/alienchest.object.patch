@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个异域箱子"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "异域的箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我喜欢我的箱子是由金属制造的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个异域箱子。它似乎有温暖的触感。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一个装满了零食给叶族人的紫色箱子？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "鉴赏。这是何其鲜艳的色彩。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这箱子是用什么制成的呢？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我从不认得某些材料制成的箱子。可能是什么呢？"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个紫色的箱子。"}]

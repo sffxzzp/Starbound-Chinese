@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"好像有人在一块皮上画了些象形文字。"},
-{"op":"replace","path":"/shortdescription","value":"原始的象形文字画"},
-{"op":"replace","path":"/apexDescription","value":"叶族人的书面语言好像是最原始的。"},
-{"op":"replace","path":"/avianDescription","value":"这个...很像翼族的字符。叶族人尝试适应过翼族的写法吗？"},
-{"op":"replace","path":"/floranDescription","value":"叶族人开始用文文文字划伤纸张，变得像鲛人一样聪聪聪明。"},
-{"op":"replace","path":"/glitchDescription","value":"翻译： 我的翻译模块努力的解析这些字符，最接近的结果是翼族文字，但是这不科学。"},
-{"op":"replace","path":"/humanDescription","value":"这跟我想像的叶族文字长得不一样。"},
-{"op":"replace","path":"/hylotlDescription","value":"叶族人会用笔吗？这也许是改革开放的开始。"}]

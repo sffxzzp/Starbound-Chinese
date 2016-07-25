@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一堆令人作呕的粪便。恶臭犯规！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大便"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "粪便。这是做什么用的？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我不想走得太近。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族饿了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "现实。生物实体都很恶心。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "请告诉我这是假的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个自然的过程。"}]

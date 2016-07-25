@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个贝壳！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "贝壳"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "贝壳里有时会有宝藏。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "贝壳是自然界真正的宝藏。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "贝壳可以打打打碎！里面有什么呢？"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "伤感。打碎贝壳是一个耻辱。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这贝壳曾经是一个外星生物的家。现在，它里面有个像素！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个贝壳，对我们所有人来说都是来自海洋的反思。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "只要它们变成像素，我不介意打碎几个贝壳。"}]

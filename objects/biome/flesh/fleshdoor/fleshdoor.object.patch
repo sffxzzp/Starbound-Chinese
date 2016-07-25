@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一扇新鲜的门！粘糊糊的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "血肉的门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是噩梦般的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "奇怪的门。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族刺，大门开。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "不舒服。这是有史以来最恶心的门。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我想我最好把它打开。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多么恶心的门。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我会挠开它。"}]

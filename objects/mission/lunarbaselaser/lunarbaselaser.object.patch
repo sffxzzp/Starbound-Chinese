@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"用来在月岩上挖矿的激光。"},
-{"op":"replace","path":"/shortdescription","value":"月球激光"},
-{"op":"replace","path":"/apexDescription","value":"不知道我能不能激活这附近的激光炮…"},
-{"op":"replace","path":"/avianDescription","value":"这看起来是某种大型的金属加农炮。"},
-{"op":"replace","path":"/floranDescription","value":"大武器总是有用用用的！"},
-{"op":"replace","path":"/glitchDescription","value":"观察。这巨大的激光加农可以在这里激活。"},
-{"op":"replace","path":"/humanDescription","value":"我在想我们能不能用这些激光加农炮…"},
-{"op":"replace","path":"/hylotlDescription","value":"这似乎是一个激光加农炮。"}]

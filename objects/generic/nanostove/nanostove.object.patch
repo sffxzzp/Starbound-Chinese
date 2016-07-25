@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/subtitle", "value" : "高科技烹饪。"},
-{ "op" : "replace", "path" : "/description", "value" : "提供特殊的热量和良好的烹饪环境。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "纳米炉"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一种便携式野营炉，环保。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个方便的野营炉。从此再也没有碳排放！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族害怕火炉。烧叶族。用任何方式。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。这炉子节省大量能源。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "太棒了，就像未来的野营！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "花哨但实际的野营炉。"}]

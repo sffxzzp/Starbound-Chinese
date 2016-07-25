@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "自这些喷气孔中释放的气体能让你感觉轻如鸿毛。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "失重气体喷射器"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "来自这个喷气孔的气流是低重力喷雾。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个喷气孔模拟了飞行的感觉！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "喷气孔让让让叶族人能够飞行！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "古怪。一个喷气孔，看起来足够安全。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "快给我低重力喷雾！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "接触来自这个喷气孔的气流有助于我节约能源。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "有些时候，你只是需要生活中的一点点刺激。"}]

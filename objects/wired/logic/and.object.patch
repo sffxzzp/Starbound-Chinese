@@ -1,2 +1,0 @@
-[{"op":"replace","path":"/description","value":"<一个'与门'开关。需要所有的输入同时为'on'才能工作。>"},
-{"op":"replace","path":"/shortdescription","value":"与门"}]

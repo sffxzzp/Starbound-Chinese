@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这家伙看到我好像很惊讶！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "装饰用人类面具"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来像是一个人类面具。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个面具是对人类的警告。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人让人类看起来很愚愚愚蠢。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这面具上的形象很可能是一个人类。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是…人类？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个人类面具并不是很准确。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个人类面具。它可不是用来歌颂人类的。"}]

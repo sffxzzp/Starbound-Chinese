@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个用厚厚的黏性物质制成的箱子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "黏液箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我怀疑一个半透明的箱子会有多大用处。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以通过黏液看到箱子的内容。那是空的！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一个透光的箱子可不够隐隐隐蔽。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。我可以通过黏液外壳看到这个箱子的内容。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我仔细看，我能看穿的黏液。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个箱子看起来就像是绿色的玻璃做的一样。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个不打开就可以看到内容的箱子有什么用？"}]

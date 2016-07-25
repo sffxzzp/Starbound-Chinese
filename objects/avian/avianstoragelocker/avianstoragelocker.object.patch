@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个漂亮、宽敞、壁挂式的存储解决方案。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族飞船储物柜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个金属储物柜。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用来存放你的物品的地方。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人可以把东西塞塞塞进储物柜里。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观说明。一个金属制飞船储物柜。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是个带有工业气息的飞船储物柜。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "存放私人物品的地方。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个置于墙内的储物柜。"}]

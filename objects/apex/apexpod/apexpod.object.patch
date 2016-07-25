@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这里面有一个猿人，身上连接着一簇簇的线路和管子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人生命维持舱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我的天…他们做了什么？我真想放了他，但是他看起来靠这个维持生命。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这是什么逆天的处理？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鲜鲜鲜汤！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "震惊。这是在做什么？！"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这尼玛是什么鬼？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "可怜的灵魂…"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "对我而言这看上去不太正常。"}]

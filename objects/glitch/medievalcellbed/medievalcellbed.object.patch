@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"为罪犯准备的床！"},
-{"op":"replace","path":"/shortdescription","value":"电子人监狱床"},
-{"op":"replace","path":"/apexDescription","value":"一张看起来很不舒服的床，上面除了用于保暖的干草之外没有别的东西。"},
-{"op":"replace","path":"/avianDescription","value":"电子人的睡姿和翼族人一样吗?"},
-{"op":"replace","path":"/floranDescription","value":"嘶嘶嘶，床好硬，叶族人背疼。"},
-{"op":"replace","path":"/glitchDescription","value":"观察：一张囚犯的床，电子人对他们的囚犯不是很好。"},
-{"op":"replace","path":"/humanDescription","value":"一张监狱小号里的床，我无法想象日复一日的睡在上面的感觉。"},
-{"op":"replace","path":"/hylotlDescription","value":"囚犯用的床。"}]

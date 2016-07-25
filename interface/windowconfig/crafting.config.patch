@@ -1,9 +1,8 @@
-[{"op":"replace","path":"/paneLayout/windowtitle/title","value":" 基础合成"},
-{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":" ^#b9b5b2;只有你，你包里的原料和你的手^green;[C]"},
-{"op":"replace","path":"/paneLayout/lblSchematics/value","value":"物品列表"},
-{"op":"replace","path":"/paneLayout/lblProducttitle/value","value":"物品说明"},
-{"op":"replace","path":"/paneLayout/btnCraft/caption","value":"制作"},
-{"op":"replace","path":"/paneLayout/lblProduct/value","value":"仅查看可制作的物品"},
-{"op":"replace","path":"/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value","value":"替换我"},
-{"op":"replace","path":"/paneLayout/filter/hint","value":"搜索"},
-{"op":"replace","path":"/tooltip/itemList/schema/listTemplate/itemName/value","value":"金胡子"}]
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": " 基础合成"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "^#b9b5b2;只有你，你包里的原料和你的手^green;[C]"},
+{"op": "replace","path": "/paneLayout/lblSchematics/value","value": "^#b9b5b2;蓝图"},
+{"op": "replace","path": "/paneLayout/lblProducttitle/value","value": "^#b9b5b2;生产"},
+{"op": "replace","path": "/paneLayout/btnCraft/caption","value": "制作"},
+{"op": "replace","path": "/paneLayout/btnStopCraft/caption","value": "停止"},
+{"op": "replace","path": "/paneLayout/lblProduct/value","value": "可用材料"},
+{"op": "replace","path": "/paneLayout/filter/hint","value": "搜索"}]

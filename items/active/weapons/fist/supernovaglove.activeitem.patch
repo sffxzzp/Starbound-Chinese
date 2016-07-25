@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "具有一颗超新星力量的手套。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "超新星护手"}]

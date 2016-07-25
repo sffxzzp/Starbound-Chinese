@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个裂开的石头中满是钻石。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "小钻石石头"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来这个脆弱的石头里有钻石。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我敲碎这个石头，我应该能弄到里面的钻石。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪发光的石头。砸砸砸碎它！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这个石头中有钻石，上面满是裂纹。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个满是钻石的石头！也许我可以敲碎它。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "对这个石头进行一次快速打击可以释放出里面的钻石。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个富有钻石的石头。我应该敲碎他。"}]

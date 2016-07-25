@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这一徽章象征着大气那自由和流动的特性。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族大气徽章"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "代表大气的翼族徽章。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "那是翼族天空徽章，这我怎么可能会忘记。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "柔软的曲线线线代表大气元素。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "博学。我相信这个徽章是翼族大气徽章。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我猜这个徽章代表着大气或者是风。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个相当粗糙的、用来象征大气元素的装饰物。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来是一个摇摇欲坠的翼族风之雕饰。"}]

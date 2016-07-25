@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这种通风口铃铛在空气经过时叮当作响。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "通风口"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "通风口。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "通风口。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "通风口。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "识别。通风口。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个小的通风口。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "通风。"}]

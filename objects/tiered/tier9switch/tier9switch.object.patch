@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个鲁宾控制台,操作时小心点..它在看着你."},
-{"op":"replace","path":"/shortdescription","value":"鲁宾控制台"},
-{"op":"replace","path":"/apexDescription","value":"此控制台提供了很大程度的控制."},
-{"op":"replace","path":"/avianDescription","value":"一个有用的控制台."},
-{"op":"replace","path":"/floranDescription","value":"叶族人按按钮来让事情发生!"},
-{"op":"replace","path":"/glitchDescription","value":"印象深刻,一个简单的控制台能控制这么多不同的机械装备."},
-{"op":"replace","path":"/humanDescription","value":"一个控制台,只是用来使用."},
-{"op":"replace","path":"/hylotlDescription","value":"一个控制台."}]

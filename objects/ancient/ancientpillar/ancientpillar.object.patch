@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一根在星门旁发现的柱子。它在发光。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古代石柱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一根古代的发光石柱。这让我感到敬畏。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一块发光的石头，就像这个宇宙一样美好。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "发发发光的石头！这让叶族人想起了夕阳。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "感知。这朦胧的光辉是由我不认识的物质产生的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这就像是个古代的路灯柱一样！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这耸立的柱子一定见证了很长一段历史。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这发光的石头让我想起了遥远的月球。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "对一些人而言，一张吊床是才是真正的奢侈景色。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "海岛吊床"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我更愿意使用位于坚实地面之上的床。安全第一。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "在半空中入眠的感觉真是好极了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人更喜欢睡睡睡在地面上。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这张吊床能承受我的重量吗？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "吊床！漂泊者的床。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "睡在这样简陋的床上可谈不上什么优雅。"},
-{ "op" : "replace", "path" : "/novakidlDescription", "value" : "哈，一张吊床？我想我能偷会儿懒了。"}]

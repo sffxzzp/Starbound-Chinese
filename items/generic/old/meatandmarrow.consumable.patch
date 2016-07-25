@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "就像包装罐装上说的一样。当它被装进罐中后。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "罐头肉"}]

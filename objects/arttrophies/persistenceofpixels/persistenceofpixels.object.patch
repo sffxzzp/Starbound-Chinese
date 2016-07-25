@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "有点电子人超现实主义。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "像素的永恒"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一幅奇怪的画。它看起来像在描述了时间的死亡。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这好像描述了熔化有问题的时间阅读器的选择。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不理解解解奇奇奇怪的画。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "推理。我认为电子人在潜意识中已经意识到他们的状况。也许那种意识就是这幅画想表达的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "融化的时钟。为什么电子人会画这个？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "超现实主义艺术。要是能问问艺术家本人就好了。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "能让这些表都熔化，这一定很热。"}]

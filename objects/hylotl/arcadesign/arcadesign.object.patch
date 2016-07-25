@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"游戏厅标志，这里可能有一家游戏厅。"},
-{"op":"replace","path":"/shortdescription","value":"游戏厅标志"},
-{"op":"replace","path":"/apexDescription","value":"一个游戏厅！会不会是科学进展部的陷阱?"},
-{"op":"replace","path":"/avianDescription","value":"一个游戏厅，好高兴！"},
-{"op":"replace","path":"/floranDescription","value":"叶族人认为上面写、写的是' 资本主义'。"},
-{"op":"replace","path":"/glitchDescription","value":"兴奋： 一个电子游乐场！"},
-{"op":"replace","path":"/humanDescription","value":"哦，看哪，一家游戏厅！把我的钱都拿去吧！"},
-{"op":"replace","path":"/hylotlDescription","value":"为麻痹大众而设的幼稚的娱乐活动。"}]

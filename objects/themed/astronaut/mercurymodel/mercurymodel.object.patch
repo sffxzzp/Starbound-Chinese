@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "太阳系中最小的行星―水星的精细模型。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "水星模型"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "水星是太阳系第一行星，同时由于引力锁定，导致水星上一次昼夜循环持续得特别久。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "水星墨丘利，太阳系第一行星。名字来源于罗马神话中古地球中一个以迅捷而闻名的商业之神。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "太阳系中最小小小的行星。也是离太阳最近的行星。荒荒荒凉无比。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "魅力。一个水星日几乎有59个地球日那么久，而过完一个水星年却只需要大约88个地球日。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "它是我的家园星系中最小、也是离太阳最近的行星。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "关于水星，大家知道的最多的，除了它是太阳系的行星之外，也许便是几十年前在它上面发生的一连串的恐怖矿难。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "水星是太阳系中一个不受欢迎的极小型行星。"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这台机器可以玩一款名为'僵尸香蕉大楼'的游戏。"},
-{"op":"replace","path":"/shortdescription","value":"黄色街机"},
-{"op":"replace","path":"/apexDescription","value":"这是猿人的一款经典游戏！让我想起了童年。"},
-{"op":"replace","path":"/avianDescription","value":"僵尸香蕉大楼 - 你必须消灭掉所有的僵尸，保护你放在大楼里面的香蕉，很有趣的概念。"},
-{"op":"replace","path":"/floranDescription","value":"为什么要保、保护恶心的香蕉? 吃僵尸就够了！"},
-{"op":"replace","path":"/glitchDescription","value":"不安：游戏里面的生物在现实中真的存在吗？"},
-{"op":"replace","path":"/humanDescription","value":"僵尸香蕉大楼，把这游戏丢给那些视蕉如命的猿人吧。"},
-{"op":"replace","path":"/hylotlDescription","value":"我理解这种想保护家园的强烈欲望，但我发现这游戏有点野蛮。"}]

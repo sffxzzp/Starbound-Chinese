@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一种带有浆果的植物。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "一种带有浆果的植物。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "紫色的浆果。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一种带有浆果的植物。"}]

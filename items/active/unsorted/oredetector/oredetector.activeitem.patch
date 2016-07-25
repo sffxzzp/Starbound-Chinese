@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "发射脉冲分析附近矿物的组成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "矿石探测器"}]

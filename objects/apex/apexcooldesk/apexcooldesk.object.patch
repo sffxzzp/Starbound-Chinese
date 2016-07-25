@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这个桌子很光滑看起来挺结实的。"},
-{"op":"replace","path":"/shortdescription","value":"酷的桌子"},
-{"op":"replace","path":"/apexDescription","value":"我想知道是什么人在这里工作…"},
-{"op":"replace","path":"/avianDescription","value":"一个金属制桌子 - 有种医务范。"},
-{"op":"replace","path":"/floranDescription","value":"泛着光的桌子。"},
-{"op":"replace","path":"/glitchDescription","value":"冷漠。一张桌子。"},
-{"op":"replace","path":"/humanDescription","value":"看起来很专业的桌子。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个轻薄的金属桌子。"}]

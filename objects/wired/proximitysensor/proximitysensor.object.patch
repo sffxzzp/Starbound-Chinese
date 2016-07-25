@@ -1,9 +1,0 @@
-[{"op":"replace","path":"/description","value":"走过的时候小心点！"},
-{"op":"replace","path":"/shortdescription","value":"近距离传感器"},
-{"op":"replace","path":"/apexDescription","value":"如果我靠得太近这玩意儿就会被触发。"},
-{"op":"replace","path":"/avianDescription","value":"别靠得太近！"},
-{"op":"replace","path":"/floranDescription","value":"叶族要给这东西跳个舞！"},
-{"op":"replace","path":"/glitchDescription","value":"陈述。一个近距离传感器。"},
-{"op":"replace","path":"/humanDescription","value":"一个近距离传感器。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个传感器。"},
-{"op":"replace","path":"/novakidDescription","value":"走的时候小心点。"}]

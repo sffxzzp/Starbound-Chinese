@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这灯是为了照亮某种东西的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "破碎展示灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "也许它只是需要一个新灯泡。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "如果它还亮着会照亮什么？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族已经砸烂了这盏灯。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊骇。多么悲惨的景象，这灯迫切需要更换一个灯泡。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这灯坏了，谁有备用灯泡？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "真可惜，真应该在它造成意外之前把它修好。"}]

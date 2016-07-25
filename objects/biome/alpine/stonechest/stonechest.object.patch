@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个石头做的箱子。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "石箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个重的石头箱子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "箱子上的铰链在打开的时候被碾碎了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石头箱子让叶叶叶族的东西安安安全。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。我不会花费太多的力量去打开这个箱子。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "太重而不能移动的一个箱子，即使它是空的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个由坚硬石头做的箱子，但可能含有精致珍品。可谓之心脏。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个可以放东西进去的岩石。"}]

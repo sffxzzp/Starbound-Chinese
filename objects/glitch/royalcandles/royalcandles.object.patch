@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"闪着壕金。"},
-{"op":"replace","path":"/shortdescription","value":"皇家烛台"},
-{"op":"replace","path":"/apexDescription","value":"一个纯金的烛台。"},
-{"op":"replace","path":"/avianDescription","value":"这种金属做烛台真是浪费。"},
-{"op":"replace","path":"/floranDescription","value":"为什么大铁人要把火放在金色的棍、棍子上? 嘶嘶嘶。"},
-{"op":"replace","path":"/glitchDescription","value":"观察：一个纯金的烛台，仆人将确保在贵族们到来之前点亮烛台。."},
-{"op":"replace","path":"/humanDescription","value":"这个烛台得值一大笔钱。"},
-{"op":"replace","path":"/hylotlDescription","value":"太浪费了，用铁就足够了， 还是用金子填饱肚子吧。"}]

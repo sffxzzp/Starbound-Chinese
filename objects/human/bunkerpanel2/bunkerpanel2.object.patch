@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"上面显示了一份病人的病历.。看起来是个人类,但是... 他有两颗心脏?"},
-{"op":"replace","path":"/shortdescription","value":"医疗数据面板"},
-{"op":"replace","path":"/apexDescription","value":"有两颗心脏的人类。 这世上有什么生物会有这种构造?"},
-{"op":"replace","path":"/avianDescription","value":"有两颗心脏的病人，也许人类进化了吧。"},
-{"op":"replace","path":"/floranDescription","value":"两颗心脏意味着叶族人要戳戳戳两次。"},
-{"op":"replace","path":"/glitchDescription","value":"郁闷： 在我们电子人的文化中, 有这种制造缺陷的家伙会被销毁的。"},
-{"op":"replace","path":"/humanDescription","value":"这个人有两颗心! 我想知道是不是我也有两颗心，我有许多爱要献给别人。"},
-{"op":"replace","path":"/hylotlDescription","value":"一副躯体里有两颗心脏。这个人去看医生一点也不奇怪。"}]

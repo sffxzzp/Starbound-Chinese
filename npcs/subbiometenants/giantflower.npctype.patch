@@ -1,7 +1,0 @@
-[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "自然主义商人"},
-{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "卖蔬果，种子和更多东西！"},
-{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["我将大自然重新带进光明。传播爱心！","向着有机！传播美丽！","你好，朋友！你有兴趣向整个宇宙传播自然之美么？"]},
-{"op": "replace","path": "/scriptConfig/dialog/merchant/start/floran/default","value": ["叶族传传传播自然。卖卖卖植物。","你想要要要自然？叶族卖卖卖种子子子和植物。","叶族想要要要像素素素,能给种种种子。"]},
-{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["下次再见！","再来啊！","你的像素永远都能在这里花掉。","和你做生意很高兴！","感谢来访小店。","见到你真好！","我们以后再做生意。"]},
-{"op": "replace","path": "/scriptConfig/dialog/merchant/end/hylotl/default","value": ["我希望你对这次交易感到满意。","我希望你找到你想找的东西了。","愿你前路光明，朋友。","在心与魂中烙下强壮，朋友。"]},
-{"op": "replace","path": "/scriptConfig/dialog/merchant/end/floran/default","value": ["叶族想要客户来传传传播这爱！","记得回来买更多的植物物物！","叶族喜欢买卖卖卖。","叶族对交易很满意。"]}]

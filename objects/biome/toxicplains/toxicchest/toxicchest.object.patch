@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个毒素宝箱。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "毒素宝箱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我不确定是否值得去打开它。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个宝箱看起来被高度污染了。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "宝宝宝箱闻闻闻起来有毒。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "可疑。从周边环境来看，这个宝箱很可能已经被沾染了毒素。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个宝箱看起来富含毒素。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个古怪的宝箱…"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个奇怪外形的宝箱。也许相比于打开它，更好的选择是别去碰它。"}]

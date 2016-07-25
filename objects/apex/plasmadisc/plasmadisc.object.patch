@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "霍啊啊啊啊啊啊。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "等离子碟"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "又一台猿人设备。实验用还是用来折磨人的，谁知道呢？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这是电吗？翼人通过水晶共振来给我们的科技充能。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "关在笼子里的闪电。对叶叶叶族人没有威胁。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "焦虑。这台设备带几百万伏的电。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "某种古怪的等离子设备。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样一台设备不像是用于正道的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不能盯着那个看太久。"}]

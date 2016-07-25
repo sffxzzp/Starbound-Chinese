@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "碎石。显然是一个古老结构的碎片。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "碎石"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。碎石。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "碎石。"}]

@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "花！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "炎花"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这朵花的花瓣像火焰的舌头。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "花在微风中舞蹈，如火。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "美丽的花朵。看起来像火焰。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "感激。大自然是美丽的女主人。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个美丽柔软的花。我想知道吃了这个能让我搓火球么？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "花的表面是如此充满活力。"}]

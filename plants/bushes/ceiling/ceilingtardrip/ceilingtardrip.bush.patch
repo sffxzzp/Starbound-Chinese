@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "滴落的沥青。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "滴落的沥青。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "黏黏的黑色液滴。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。滴落的沥青。"}]

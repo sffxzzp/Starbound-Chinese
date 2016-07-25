@@ -1,2 +1,0 @@
-[{"op":"replace","path":"/scriptConfig/dialog/attack/default","value":{"default":["入侵者！"]}},
-{"op":"replace","path":"/scriptConfig/dialog/attack/floran","value":{"default":["死亡和眼泪共存！","死亡和眼泪共存！"]}}]

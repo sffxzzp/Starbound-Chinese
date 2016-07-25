@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"科技站. 创造很棒的科技!"},
-{"op":"replace","path":"/shortdescription","value":"科技站"},
-{"op":"replace","path":"/apexDescription","value":"科技站. 用处很大."},
-{"op":"replace","path":"/avianDescription","value":"它启动的时候,我能使用科技站制造物品."},
-{"op":"replace","path":"/floranDescription","value":"叶族人制造神奇的魔法物品!"},
-{"op":"replace","path":"/glitchDescription","value":"赞赏. 非常先进的科技站."},
-{"op":"replace","path":"/humanDescription","value":"科技站. 我能在这儿制造出非常棒的东西!"},
-{"op":"replace","path":"/hylotlDescription","value":"这种科技站看起来非常体面."}]

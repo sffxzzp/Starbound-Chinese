@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"通过风扇叶片转动使空气循环，好枯燥。"},
-{"op":"replace","path":"/shortdescription","value":"燃料库通风口"},
-{"op":"replace","path":"/apexDescription","value":"通风口。"},
-{"op":"replace","path":"/avianDescription","value":"用来循环空气的通风口。"},
-{"op":"replace","path":"/floranDescription","value":"吹气的格栅。"},
-{"op":"replace","path":"/glitchDescription","value":"分析：循环过程并不完善。"},
-{"op":"replace","path":"/humanDescription","value":"看起来很乏味的通风口"},
-{"op":"replace","path":"/hylotlDescription","value":"带风扇的通风口。"}]

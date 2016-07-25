@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"基本的凳子."},
-{"op":"replace","path":"/shortdescription","value":"一个凳子"},
-{"op":"replace","path":"/apexDescription","value":"一个凳子."},
-{"op":"replace","path":"/avianDescription","value":"一个凳子."},
-{"op":"replace","path":"/floranDescription","value":"座座位."},
-{"op":"replace","path":"/glitchDescription","value":"声明.一个凳子."},
-{"op":"replace","path":"/humanDescription","value":"一个凳子."},
-{"op":"replace","path":"/hylotlDescription","value":"一个简单的凳子."}]

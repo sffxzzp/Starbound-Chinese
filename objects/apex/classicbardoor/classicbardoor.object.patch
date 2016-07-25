@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这些门做工很漂亮。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古典栏杆门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇很重的栏杆门。把手看起来是纯金的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门看起来是满怀热爱做的…亦或是满怀恐惧。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "坚坚坚固的门。但没没没什么东西能把叶叶叶族人挡在外面。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。专家级的铸造技术才能造出这样水准的门。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一扇很大很漂亮的门。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "精致的工艺品。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "大而旧的栅栏门上有副锃亮的把手。"}]

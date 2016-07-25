@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"重启科技站让我的飞船重新连接AI!"},
-{"op":"replace","path":"/shortdescription","value":"科技站"},
-{"op":"replace","path":"/apexDescription","value":"我需要重启这个科技站. 一点点的来帮我修复推进器."},
-{"op":"replace","path":"/avianDescription","value":"重启这个科技站有希望让我的飞船重新连接AI."},
-{"op":"replace","path":"/floranDescription","value":"叶族人修复科技站, 叶族人唤醒了飞船."},
-{"op":"replace","path":"/glitchDescription","value":"声明. 重启科技站应该能修复和AI重新沟通."},
-{"op":"replace","path":"/humanDescription","value":"重启科技站应该能让我的飞船AI重新连接!"},
-{"op":"replace","path":"/hylotlDescription","value":"我需要和飞船AI交流, 重启这个科技站."}]

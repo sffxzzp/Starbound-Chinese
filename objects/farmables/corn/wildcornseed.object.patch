@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"玉米！有助消化。"},
-{"op":"replace","path":"/shortdescription","value":"玉米种子"},
-{"op":"replace","path":"/apexDescription","value":"玉米，另一种看起来像香蕉的食物，仅此而已。"},
-{"op":"replace","path":"/avianDescription","value":"玉米棒是一个不错的小吃。"},
-{"op":"replace","path":"/floranDescription","value":"又硬又黄的玉米~最近很流行煮玉米。"},
-{"op":"replace","path":"/glitchDescription","value":"怀疑模式。据说，电子人吃了玉米，它会在我们体内..."},
-{"op":"replace","path":"/humanDescription","value":"稳定供应甜玉米是一件美妙的事。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个常见，无味的小吃。"}]

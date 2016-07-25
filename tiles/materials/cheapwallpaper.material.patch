@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "便宜，俗气的壁纸。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "俗气的壁纸"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。俗气的壁纸。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢墙纸。"}]

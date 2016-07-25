@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个廉价的木门。"},
-{"op":"replace","path":"/shortdescription","value":"下水道门"},
-{"op":"replace","path":"/apexDescription","value":"一个下水道门。"},
-{"op":"replace","path":"/avianDescription","value":"一个下水道门。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人认为这是‘食物门’。"},
-{"op":"replace","path":"/glitchDescription","value":"陈述。下水道门。"},
-{"op":"replace","path":"/humanDescription","value":"这个下水道门看起来有点用处。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个下水道门。"}]

@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;一堆可爱的椰子！"},
-{ "op" : "replace", "path" : "/text", "value" : "嗨，这里！你看起来像是探险家！如果你能找到沙滩，^green;请带三个^orange;椰子^green;给我。^white;我会给你一些有趣的东西！"},
-{ "op" : "replace", "path" : "/completionText", "value" : "嗯，椰子！拿着这个，别弄丢了！"}]

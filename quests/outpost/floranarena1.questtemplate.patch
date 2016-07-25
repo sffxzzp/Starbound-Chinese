@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/title","value": "^green;挑战者征途"},
+{"op": "replace","path": "/text","value": "嘿，冠军！有个伙计邀请我去一个在^orange;角斗士竞技场^white;举办的比赛，但我觉得你可以代代代替我去。如果你觉得自己足够强壮，^green;请告知我，我会送送送你去参加第一轮比赛^white;！"},
+{"op": "replace","path": "/completionText","value": "你活活活活下来了！我就知道是你的话做得到。干的漂亮，冠军！"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "同^orange;努鲁^reset;交谈以传送到^orange;竞技场^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "在竞技场比赛中获胜"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "返回^orange;前哨站^reset;去见^orange;努鲁^reset;。"}]

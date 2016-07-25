@@ -1,6 +1,0 @@
-[{"op": "replace","path": "/text/default/floran","value": ["现在你有了制作所需需需要的材料，^green;帮帮帮叶族人做一个^orange;<craftedItems>吧。","叶族人需需需要^orange;<craftedItems>。^green;可以用^orange;<ingredients>^green;来制作。^white;你能帮帮忙吗吗？"]},
-{"op": "replace","path": "/text/default/glitch","value": ["决心。对于现在手头上的活儿来说，^green;你必须帮我做一个^orange;<craftedItems>^white;。看来你已经有所需要的材料了。我这里先谢过了。","关心。我遇到了一个难题。我的创造能力偏低。能麻烦你^green;帮我造一个^orange;<craftedItems>^white;吗？你可以用我们之前得到的^orange;<ingredients>^white;来制作。"]},
-{"op": "replace","path": "/text/default/default","value": ["接下来你需要^green;做一个^orange;<craftedItems>^white;。你应该可以^green;拿之前得到的^orange;<ingredients>^green;作为原材料。","下一步需要^green;制做一个^orange;<craftedItems>^white;。我本想自己动手的，但我的劳技课是语文老师教的。如果你想试一试的话，你需要先收集齐所需要的原材料。"]},
-{"op": "replace","path": "/completionText/default/floran","value": ["做工真真真棒，<player>！现在叶族人有另另另一个请求。","<craftedItems>将会非非非常有用。叶族人很感谢你做做做了这些！"]},
-{"op": "replace","path": "/completionText/default/glitch","value": ["高兴。你的手工技能是点满的吗？我下次一定还找你！","释怀。等待是痛苦而漫长的，但最终我的计划得以顺利进行。对亏有你！谢谢！"]},
-{"op": "replace","path": "/completionText/default/default","value": ["哇哦！做工真心赞！谢谢你，这对我的计划一定大有帮助！","你看起来很轻易就搞定了。你以前有做过这类活儿吗？有了这个我们就可以继续推进我们的计划了。谢谢！"]}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "大草原上的小房子，无论你在哪里。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "迷你公寓"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这是我见过最小的房子。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一座小小的房子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "敲敲门。叶族进来了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。我不认为电子人可以会住在这里。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我不记得，这会吃我还是喝我？"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道小小的居民在哪里？"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这一定是蚂蚁的房子。"}]

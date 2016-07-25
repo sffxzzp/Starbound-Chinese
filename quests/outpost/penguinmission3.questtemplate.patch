@@ -1,3 +1,0 @@
-[{ "op" : "replace", "path" : "/title", "value" : "^green;骇翼"},
-{ "op" : "replace", "path" : "/text", "value" : "^green;我得把^orange;骇翼飞船的残骸^green;带给在前哨站的那个企鹅，看看他会拿什么东西给我作为回报。"},
-{ "op" : "replace", "path" : "/completionText", "value" : "感谢你的帮助。我从骇翼的飞船残骸里找到了这个^green;处理器^white;。或许这对你有用。"}]

@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"这坨泥土似乎有些不对劲。"},
-{"op":"replace","path":"/shortdescription","value":"泥土陷阱门"},
-{"op":"replace","path":"/apexDescription","value":"这里的地面看起来不怎么值得信赖。"},
-{"op":"replace","path":"/avianDescription","value":"这些泥土看起来不像真的。"},
-{"op":"replace","path":"/floranDescription","value":"这坨泥土闻起来不像其他的泥土。"},
-{"op":"replace","path":"/glitchDescription","value":"扫描。有东西藏在里面。"},
-{"op":"replace","path":"/humanDescription","value":"这些泥土有不寻常的反光。"},
-{"op":"replace","path":"/hylotlDescription","value":"这种泥土的制作方式好奇怪。"}]

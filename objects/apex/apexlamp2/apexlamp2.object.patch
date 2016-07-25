@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一盏高大的木质立式台灯。灯罩用小圆点花纹装饰。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "标配立式台灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "标准样式。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏立式台灯。我想知道它怎么工作的？上面又没有水晶。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "高台灯，光亮亮。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。有光亮就有安全感。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏明亮的立式台灯。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个台灯可以照亮亮一个很大的房间。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一盏高大的立式台灯。"}]

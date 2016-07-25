@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个摇曳的大火炬温暖着周围的空气。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "高大的木火炬"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个长的木制火炬。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个摇曳的长火炬。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "长火炬包含火焰。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "识别。一个高大的火炬。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个长的火炬。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个噼啪作响的火炬。"}]

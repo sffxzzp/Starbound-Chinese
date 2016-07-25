@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "树苗。从一个小小的根会长出一颗大树。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "树苗"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我能种下这个来让它长成一颗树。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以通过种植这棵树苗长成一棵树。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族种可爱的树苗，长大变成又坏又邪恶的树。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "奇迹。我种植这树苗可以让生命成长。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这棵树苗会长成一棵树。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些奇妙的生命，如雨后春笋般从最微小而长大。唉。"}]

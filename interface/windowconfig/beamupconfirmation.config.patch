@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/title","value": "退出任务"},
+{"op": "replace","path": "/subtitle","value": "传送回你的飞船"},
+{"op": "replace","path": "/message","value": "离开这个任务将重设你在这个区域的进度。你确定要开始传送？"},
+{"op": "replace","path": "/okCaption","value": "确认"},
+{"op": "replace","path": "/cancelCaption","value": "取消"}]

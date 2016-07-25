@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "滴，哒，滴，哒。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "猫头鹰挂钟"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可爱的挂钟，它的眼睛在移动。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者喜欢享受创造的乐趣。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人的钟有一双鬼鬼鬼鬼祟祟的眼眼眼睛。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗乐。这双眼睛每过一秒就动一下。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "多可爱的挂钟。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看到这个计时器很难不让人发出会心的笑容。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个猫头鹰形状的钟。它有点可爱。"}]

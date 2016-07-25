@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个炸药金属桶。看起来很危险。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "炸药桶"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "炸药桶。封死的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "爆炸容器。我不能钻进去。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "看起来像火。叶族人要保保保持距离。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这个桶里面装着高爆硝基甲烷物质。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "前面的那个炸药桶提醒我不要打开它..."},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来像一种充满爆炸物的金属容器。这样密封起来一定有原因。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来是一种桶形的新款炸弹。"}]

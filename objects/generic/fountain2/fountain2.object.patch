@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "：一个美丽的石头喷泉。这水看起来让人耳目一新。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "石头喷泉"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个漂亮的喷泉。声音很舒缓。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个大水盆。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "水给叶族带来生命。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "放松。水让我冷静。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我有一分钱我就把它扔进去。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有时，我想念大海。"}]

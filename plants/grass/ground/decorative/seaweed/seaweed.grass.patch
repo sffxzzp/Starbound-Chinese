@@ -1,4 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "海藻。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "海藻。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "臭臭的鱼类杂草。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。海藻。"}]

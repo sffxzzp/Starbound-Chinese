@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"能够搞定所有食物!"},
-{"op":"replace","path":"/shortdescription","value":"微波炉"},
-{"op":"replace","path":"/apexDescription","value":"用来快速烹饪食物的设备。"},
-{"op":"replace","path":"/avianDescription","value":"有点像烤箱, 但更快一些。"},
-{"op":"replace","path":"/floranDescription","value":"叶族人把动物放到里面，动物砰砰～，叶族人吃，好美美美味。"},
-{"op":"replace","path":"/glitchDescription","value":"急躁： 微波炉在一定程度上会毁坏电子人的电路。"},
-{"op":"replace","path":"/humanDescription","value":"我曾经用微波炉做过沙拉，差强人意!"},
-{"op":"replace","path":"/hylotlDescription","value":"为那些不关心烹调质量的人提供的烹饪方法。"}]

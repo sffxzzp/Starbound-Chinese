@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "廉价的电灯泡。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "电灯泡"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小小的电灯泡。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "用电来产生光。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "没有火焰的微弱光亮。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "标识。一盏灯。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个简单的电灯泡。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个普通的电灯泡。"}]

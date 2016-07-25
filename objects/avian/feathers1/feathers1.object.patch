@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "摆放得像花朵一样的艳丽而又充满活力的羽毛。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "活力羽毛束"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我从未见过有着如此巨大羽毛的鸟类。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族神庙通常装饰着一束束来自色彩艳丽的鸟身上的大羽毛。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢大羽羽羽毛。也想想想去这种鸟的栖息地狩猎。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。有着如此巨大羽毛的鸟类、自身一定也很巨大。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我可不愿意遇见会掉落这些巨型羽毛的鸟类。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些羽毛美丽又优雅。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一束很好看的羽毛。"}]

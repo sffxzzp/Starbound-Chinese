@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/title","value": "增加你的船员"},
+{"op": "replace","path": "/subtitle","value": "有个人想加入你的冒险"},
+{"op": "replace","path": "/message","value": "<name>想作为<role>成为你的船员。要邀请<name>上船吗？^gray;\n\n^white;工作：^gray;<role>\n^white;等级：^gray;<rank>\n^white;状态：^gray;<status>"},
+{"op": "replace","path": "/okCaption","value": "雇佣"},
+{"op": "replace","path": "/cancelCaption","value": "之后再说"}]

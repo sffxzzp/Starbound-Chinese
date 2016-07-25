@@ -1,9 +1,0 @@
-[{"op":"replace","path":"/description","value":"生锈的金属格栅，看起来是用来通风的。"},
-{"op":"replace","path":"/shortdescription","value":"水平金属格栅"},
-{"op":"replace","path":"/apexDescription","value":"生锈的金属格栅。"},
-{"op":"replace","path":"/avianDescription","value":"金属制的格栅，生锈了。"},
-{"op":"replace","path":"/floranDescription","value":"格栅。"},
-{"op":"replace","path":"/glitchDescription","value":"测量：敏捷的电子人可以从这里穿过去。,
-  "},
-{"op":"replace","path":"/humanDescription","value":"我一直想从这里爬过通风口。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个通风口。保养的不是很好。"}]

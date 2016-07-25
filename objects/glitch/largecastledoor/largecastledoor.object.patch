@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一扇巨大的门，看起来有些吓人。"},
-{"op":"replace","path":"/shortdescription","value":"电子人大型门"},
-{"op":"replace","path":"/apexDescription","value":"一扇巨大的门，你需要一个攻城锤才能把它拿下。"},
-{"op":"replace","path":"/avianDescription","value":"这可能是我见过的最大的门了。"},
-{"op":"replace","path":"/floranDescription","value":"门好大！ 叶族人感觉自己很小、小。"},
-{"op":"replace","path":"/glitchDescription","value":"识别：这是电子人造的门，在门里可以用一大块木板把门插上。"},
-{"op":"replace","path":"/humanDescription","value":"一扇巨大而坚固的门，需要攻城锤才能把它拿下。"},
-{"op":"replace","path":"/hylotlDescription","value":"这种门是为了防止心怀不轨的人而设置的。"}]

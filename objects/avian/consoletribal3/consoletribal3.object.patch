@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个底部蚀刻着一缕火焰的访问面板。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族火焰控制台"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "在这个控制台里的水晶似乎很重要，但我不能理解这种技术。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个控制台可以使用水晶的振动来与其他装置互交。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "翼族控制台有火焰图案。叶族人讨讨讨厌火。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。为控制台供能的水晶也可用来与其他装置互交。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个访问面板上有着我无法理解的符号。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个控制台上的灯光漂亮得让人想睡觉。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我好想按下这些炫彩的按钮啊。"}]

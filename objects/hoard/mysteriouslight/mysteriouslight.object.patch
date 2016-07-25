@@ -1,8 +1,0 @@
-[{"op":"replace","path":"/description","value":"一个有着奇怪来源的奇怪的光"},
-{"op":"replace","path":"/shortdescription","value":"奇怪的光"},
-{"op":"replace","path":"/apexDescription","value":"这个聚光灯一般被科学发展部用来迫使别人说话.也许还有更糟的用途."},
-{"op":"replace","path":"/avianDescription","value":"一个恼人的炫目的光."},
-{"op":"replace","path":"/floranDescription","value":"叶族人感觉自己正在大家的焦点里."},
-{"op":"replace","path":"/glitchDescription","value":"潜行.通过分析这个聚光灯的规律,想要绕过它很容易."},
-{"op":"replace","path":"/humanDescription","value":"我一直想站在聚光灯之下."},
-{"op":"replace","path":"/hylotlDescription","value":"一个炫目的聚光灯."}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "明亮的发光条纹。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "发光条纹"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "光辉从上面涌入。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "圣洁的光辉。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢阳阳阳光！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "机警。这光源刚好足以让我在遗迹中视物。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "光束―营造气氛的绝佳选择！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "光线穿透黑暗，就像海洋上的阳光一样。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些光辉十分平和。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个会向毫无防备的入侵者投掷巨石的陷阱。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "古代巨石陷阱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "如果我正确地规划我的行动，我就能避开落下的巨石。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我最好正确地规划我的行动，我可不想让巨石落到我的身上。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "巨大的石石石头从这个洞窟中落下。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "不悦。谁会制作一个以如此合适的周期落下巨石的陷阱？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "巨石从这个小小的洞窟中出现。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "凭借良好的行动规划，一个巨石陷阱是很容易避开的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "滚动的巨石！"}]

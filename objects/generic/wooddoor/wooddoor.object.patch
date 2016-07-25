@@ -1,8 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个木质门。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "木门"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这木门不是手工制作的。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门是由机器制造的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不喜欢工厂制造的门。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。似乎是大批量生产的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个廉价制造的门。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门缺乏特点。"}]

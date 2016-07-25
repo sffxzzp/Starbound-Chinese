@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一副薄而短的窗帘。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "标配窗帘"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这些窗帘不会关上。隐私并不是猿人经常能享有的东西。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "薄薄的几篇布料。它们小得遮不住任何的窗户。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的猿人做的窗帘太太太小都遮不住窗。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。窗帘故意做得过小。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这些窗帘不是很宽。你根本不能用它们来盖住窗户。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这块布料颜色沉闷，做工粗糙。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些窗帘。他们看上去太短了，遮不住窗户。"}]

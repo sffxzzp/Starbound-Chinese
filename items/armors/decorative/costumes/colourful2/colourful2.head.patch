@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "代替"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "代替"}]

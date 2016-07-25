@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一张肉做的桌子。适合肉食动物。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "血肉桌子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "谁会选择在这里吃饭？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "多么不寻常的桌子。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族意外的刺刺刺中了桌子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "反感。有人居然会坐在这吃饭。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我觉得这是我看到不寻常的事情中的巅峰之作。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "唉呦。 真的吗？"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "想像一下在这桌上吃牛扒。"}]

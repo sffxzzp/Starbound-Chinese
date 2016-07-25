@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个存储箱，一般用来存储设备和矿物。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地箱子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个用坚硬金属制造的稳固货箱。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这个货箱被用来储存各种样式的装备。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "光溜溜的箱子能装很多东西。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。这个储物箱的抛光和维护做的比我好…"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个箱子看上去足以承受任何太空环境。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个用来给物品归类并保证安全的大箱子。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "好大，大箱子。里面都藏了些什么呢。"}]

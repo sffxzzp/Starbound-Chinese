@@ -1,2 +1,2 @@
-[{"op":"replace","path":"/description","value":"一盏摇曳的提灯。照亮一片。"},
-{"op":"replace","path":"/shortdescription","value":"提灯"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一盏被探险家带着的用来照亮周围区域灯笼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "探险家灯笼"}]

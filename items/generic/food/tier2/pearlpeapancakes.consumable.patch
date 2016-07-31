@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它们看起来像煎饼，但吃过后回味起来像豌豆糊一样。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珍珠豆煎饼"}]

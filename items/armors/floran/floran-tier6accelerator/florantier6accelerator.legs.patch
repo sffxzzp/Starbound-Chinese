@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "因为在你奔跑战斗的过程中你行动不能有太多拘束。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哨兵短裤"}]

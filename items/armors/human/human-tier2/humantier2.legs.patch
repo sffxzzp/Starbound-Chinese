@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件拾荒者的护腿里提供包含数个编织层的保护。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "拾荒者护腿"}]

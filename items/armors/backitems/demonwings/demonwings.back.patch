@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这对黑暗的翅膀散发着威严又邪恶的气息。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "恶魔之翼"}]

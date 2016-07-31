@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能增强你跳跃能力的危险环境保护装置模块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "跳跃增强"}]

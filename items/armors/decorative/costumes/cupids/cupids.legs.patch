@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "丘比特的尿布，它的味道闻起来像爱情！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "丘比特尿布"}]

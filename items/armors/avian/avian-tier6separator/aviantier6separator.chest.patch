@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件胸甲的肩部高度可以让你完美地重击迎面而来的敌人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨嘴鸟胸甲"}]

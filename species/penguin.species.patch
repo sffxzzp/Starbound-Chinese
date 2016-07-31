@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["模式","颜色1","颜色2","喙的颜色","帽子","帽子颜色","上衣","上衣颜色","企鹅","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "企鹅"},
+{"op": "replace","path": "/charCreationTooltip/subTitle","value": "你怎么读到这的？"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "不知道写什么"}]

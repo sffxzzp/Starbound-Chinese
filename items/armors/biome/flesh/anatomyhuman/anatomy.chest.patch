@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "真有教育意义！这衬衫显示了躯干的肌肉结构。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "解剖学衬衫"}]

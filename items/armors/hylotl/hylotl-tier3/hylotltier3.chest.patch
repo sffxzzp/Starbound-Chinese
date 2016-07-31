@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "以丝与金所制。正如一位鲛人武士，这件胸甲糅合了高雅与力量。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "江河胸甲"}]

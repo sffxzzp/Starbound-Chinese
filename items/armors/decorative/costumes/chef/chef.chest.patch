@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "送给每一位通过厨师考试的厨师。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厨师夹克"}]

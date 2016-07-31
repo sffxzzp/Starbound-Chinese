@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "能使穿戴者变得更强的胸甲，就算是最凶猛的猎物都要屈服于此。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "合成器胸甲"}]

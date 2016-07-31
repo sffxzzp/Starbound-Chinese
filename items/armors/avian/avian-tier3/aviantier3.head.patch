@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "常见的鸟类头饰，装饰着华丽的钛羽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鹌鹑头饰"}]

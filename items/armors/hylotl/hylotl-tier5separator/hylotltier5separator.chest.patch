@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件胸甲被设计得可以巧妙的避开大鱼以及其他更为的普通对手的攻击。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "深海胸甲"}]

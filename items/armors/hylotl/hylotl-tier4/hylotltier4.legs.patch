@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用耐钢制成的护胫，可以让穿戴者穿上后连续站几个小时不动。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "湖护胫"}]

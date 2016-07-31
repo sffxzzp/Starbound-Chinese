@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "以独眼雪巨人毛发制成的裤子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "独眼雪巨人裤子"}]

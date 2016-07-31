@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能随着时间流逝缓慢恢复生命值的危险环境保护装置模块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "愈合增强 I"}]

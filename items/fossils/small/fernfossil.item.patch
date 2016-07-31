@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "蕨化石"},
+{ "op" : "replace", "path" : "/description", "value" : "蕨类植物的化石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蕨化石"}]

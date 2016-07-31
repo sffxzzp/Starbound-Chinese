@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "从怪物身上收割肉以及其它物品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NPC钨制弓"}]

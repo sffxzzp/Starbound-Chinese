@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这款胸甲能防护来自刀剑及子弹等的伤害。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "游牧胸甲"}]

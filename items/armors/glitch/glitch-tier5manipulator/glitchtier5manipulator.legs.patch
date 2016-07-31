@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这款轻质菲洛合金护胫能够在战斗中提供足够的灵活性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "枪兵护胫"}]

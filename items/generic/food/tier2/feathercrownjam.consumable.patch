@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一罐甜蜜又美味的果酱，在翼族人中十分珍贵。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "羽冠花果酱"}]

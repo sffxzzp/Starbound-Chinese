@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一栋侏儒风格的房子－因为帽到哪儿，哪儿就是他们的家。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "房屋帽子"}]

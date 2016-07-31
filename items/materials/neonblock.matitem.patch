@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些充满惰性气体的五彩方块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霓虹块"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "着迷。看起来这些方块都充满了惰性气体。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "发着光的鲜鲜鲜艳霓虹块。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这些方块里面肯定填充了某种气体。"}]

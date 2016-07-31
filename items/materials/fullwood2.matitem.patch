@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "粗糙而且未处理的木头，看起来刚被砍下来。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "未处理的木头"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "中立。未经处理的木头。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "未被刺刺刺过的木头。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件胸甲加强了对穿戴者脊柱的保护，用来提防从后方来的袭击。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "透光胸甲"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "面具中的物质不断散发出纯粹的黑暗气息。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黑暗面具"}]

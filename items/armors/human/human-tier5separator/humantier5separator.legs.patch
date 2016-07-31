@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件护腿的活动有点儿僵硬，不过机械化的风格看起来很漂亮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冒险者护腿"}]

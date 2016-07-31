@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "月石"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "感兴趣。这种独一无二的石头有时能在月球上找到。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "光光光滑的月石石石。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "看起来就是一些月亮上的石头。"}]

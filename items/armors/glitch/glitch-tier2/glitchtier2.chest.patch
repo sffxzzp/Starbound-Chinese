@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为了未来的电子人英雄制造――在胸甲上打出个凹痕总比打在身上好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "士兵胸甲"}]

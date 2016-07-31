@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "超一流的头部武装，既可驱眼前之灰尘，亦可防背后之小人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "流氓帽"}]

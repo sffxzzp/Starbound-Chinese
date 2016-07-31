@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一瓶用眼球菜和圣女果制成的香料热饮酒。好喝！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "氰果酒"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种电池可为小型电子设备供能！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "AA电池组"}]

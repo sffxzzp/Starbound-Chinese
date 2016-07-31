@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "没错，它发射烟花！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "柔风星火发射器Z"}]

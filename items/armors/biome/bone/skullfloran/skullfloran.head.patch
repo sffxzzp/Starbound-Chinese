@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个叶族头骨。令人毛毛毛骨悚然。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叶族头骨面具"}]

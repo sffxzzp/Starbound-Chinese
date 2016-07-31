@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "通过在空气中创造电离通道来控制强大的闪电。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "特斯拉的员工"}]

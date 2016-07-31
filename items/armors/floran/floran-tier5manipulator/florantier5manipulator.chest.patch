@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这款胸甲能保护你避免受到那些不满你食人的人的伤害。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "食人魔胸甲"}]

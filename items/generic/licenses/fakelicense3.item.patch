@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "让你的飞船永久升级成更大型的猎鹰级护卫舰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "伪造的猎鹰级执照"}]

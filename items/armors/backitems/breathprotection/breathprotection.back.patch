@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "产生可呼吸的空气。有助于在^red;没有可呼吸空气的环境^reset;中活动。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "供氧EPP"}]

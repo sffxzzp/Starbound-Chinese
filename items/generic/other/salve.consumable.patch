@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用于治疗小伤口的药膏。在10秒内恢复50点生命值。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "药膏"}]

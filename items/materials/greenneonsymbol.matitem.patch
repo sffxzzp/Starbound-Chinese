@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种中央刻有奇怪的绿色符号的砖头。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "绿色霓虹方块"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "心慌。我忘了这个符号的含义 。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人喜喜喜欢绿色的图案。"}]

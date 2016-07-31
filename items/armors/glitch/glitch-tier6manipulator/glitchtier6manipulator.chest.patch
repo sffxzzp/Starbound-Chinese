@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为了保护看守士兵而造的胸甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圣殿骑士胸甲"}]

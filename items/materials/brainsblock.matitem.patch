@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "脑质还在搏动着…我不知道它是不是在思考。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大脑"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "惊慌。在这种物质中还有脑活动吗？"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人想戳戳戳这个黏糊糊的大脑。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些肉质丰满的脑物质。"}]

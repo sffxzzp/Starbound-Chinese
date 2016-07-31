@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/serverAssetsMismatchMessage","value": "该服务器不允许资源不匹配的客户端进行连接"},
+{"op": "replace","path": "/clientAssetsMismatchMessage","value": "客户端和服务端资源不匹配，且并未被设置为忽略"}]

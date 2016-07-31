@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "岩浆岩。这可真烫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "岩浆岩"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "小心。这块岩浆岩温度非常高。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "这些燃烧烧烧的岩浆岩很热热热。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "我最好注意点，远离这些滚烫的岩浆岩。"}]

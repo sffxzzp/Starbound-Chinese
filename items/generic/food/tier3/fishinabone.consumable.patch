@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一整条鱼被随意地塞入了一节骨竹中。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨中鱼"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件带花边的日耀石上衣，提供比你想象得还多的防护。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "篡位者外衣"}]

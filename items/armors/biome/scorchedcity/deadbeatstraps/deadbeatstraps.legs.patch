@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "结实的裤子，因暴露在自然环境中而磨损了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "落魄皮带裤"}]

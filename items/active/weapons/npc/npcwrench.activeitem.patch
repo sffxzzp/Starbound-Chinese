@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "给予沉重的打击，适用于将那些不好好正常工作的机器敲好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NPC扳手"}]

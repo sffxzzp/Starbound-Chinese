@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种专为高压环境制造的承重梁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "承重梁"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "细心。这种特殊设计的承重梁能承受高压。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "坚坚固的承重梁。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这种金属梁看上去十分坚固。"}]

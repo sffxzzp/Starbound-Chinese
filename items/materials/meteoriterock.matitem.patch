@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种坚硬无比的岩石，只在大气层外出现。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "陨石岩"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "敏锐。这个石头由地外物质组成。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人喜欢这些天天天上的石头头头。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这些太空石头和地面上的石头不太一样。"}]

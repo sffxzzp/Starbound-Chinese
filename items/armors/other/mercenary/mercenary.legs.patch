@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "雇佣兵很少在乎时尚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雇佣兵护胫"}]

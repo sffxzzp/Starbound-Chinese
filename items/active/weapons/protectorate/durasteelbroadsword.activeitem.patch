@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把由可靠的耐钢制成的剑。只有很少的金属比它更性能优异。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "耐钢巨剑"}]

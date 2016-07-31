@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "该帽由蒸汽供能。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水管帽"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "大而松垮的牛仔裤。是应急帐篷的合适替代品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "布袋牛仔裤"}]

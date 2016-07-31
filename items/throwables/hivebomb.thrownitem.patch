@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "蜜蜂炸弹"},
+{ "op" : "replace", "path" : "/description", "value" : "当心！这种虫子有致命的毒刺。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "热感应体带。感觉我看上去什么都没穿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "热感应腿带"}]

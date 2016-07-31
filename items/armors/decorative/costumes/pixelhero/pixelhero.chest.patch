@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "带有英雄标志的英雄衬衫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "像素英雄衬衫"}]

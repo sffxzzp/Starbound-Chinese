@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "耐钢矿主要可以在放射性星系的星球上发现。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "耐钢锭"}]

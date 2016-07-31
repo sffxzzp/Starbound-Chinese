@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "珍珠豆被瓦特果包裹在当中。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珍珠豆包"}]

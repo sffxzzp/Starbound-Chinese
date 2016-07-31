@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用打猎中收集的素材制成的胸甲，只提供了低限度的保护，但是穿着它会感到自豪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生存胸甲"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用这柄矛对付刚好够不到的敌人近乎完美。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "精良的矛"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "胸甲旨在加强佩戴者的耐力，以及他们的决心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "湖胸甲"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船修理工具"},
+{ "op" : "replace", "path" : "/description", "value" : "它虽然不怎样，但至少可以让你的飞船正常运作。"}]

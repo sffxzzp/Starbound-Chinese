@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "猎人兜帽被制造得很轻，以便让叶族人能追踪猎物好几英里。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猎人兜帽"}]

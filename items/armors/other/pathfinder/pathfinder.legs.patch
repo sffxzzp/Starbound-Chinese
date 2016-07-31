@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这双靴子似乎已经在数百个星球上留下了足迹。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "探路者裤子"}]

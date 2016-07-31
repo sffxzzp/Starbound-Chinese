@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个附加氙气灯的背包。它提供的光亮比你需要的还要亮！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "氙气灯背包"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "护目镜，经常被用于一些蒸汽朋克的cosplay。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞行护目镜"}]

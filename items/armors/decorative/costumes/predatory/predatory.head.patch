@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个面具完美的引出了你内心里的嗜血猎手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "掠夺面具"}]

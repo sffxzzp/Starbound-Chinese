@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "夹层里的植物能使你保持温暖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "兽皮胸甲"}]

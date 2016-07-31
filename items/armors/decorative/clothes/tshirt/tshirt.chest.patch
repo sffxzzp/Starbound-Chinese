@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件平凡的棉制T恤，无论什么场合穿都行。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "平凡T恤"}]

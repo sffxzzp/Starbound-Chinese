@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["肤色","枝叶","上衣","裤子","叶子颜色","花的颜色","上衣颜色","裤子颜色","叶族","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "叶族"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "别被他们和平的外表所欺骗！整个宇宙都知道叶族具有攻击性，是肉食性的猎人。而自身没有创造性，他们习惯于从他们攻击的人那偷取并适应新技术。"}]

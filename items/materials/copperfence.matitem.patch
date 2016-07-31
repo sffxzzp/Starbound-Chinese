@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个坚固的铜栅栏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜栅栏"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "自信。这铜栅栏要比木头的强得多了。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "坚固固固的铜栅栏。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这里的栅栏是用铜制成的。"}]

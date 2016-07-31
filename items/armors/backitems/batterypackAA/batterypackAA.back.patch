@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "让你时刻充满能量！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "AA电池组"}]

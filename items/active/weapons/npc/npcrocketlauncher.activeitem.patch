@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "足以炸飞那些玩意。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NPC火箭发射器"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由层叠的钨板制成的裹腰布，能有效阻碍小型猎物的反击。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨制裹腰布"}]

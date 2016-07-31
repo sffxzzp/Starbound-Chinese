@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种将光能转化为能量的大型毒花。为什么不把它穿在你的身上呢？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有毒的花卉背包"}]

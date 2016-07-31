@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这次升级为你的危险环境保护装置增加了制冷的能力。有助于在^red;高温^reset;行星活动。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "防高温改良EPP"}]

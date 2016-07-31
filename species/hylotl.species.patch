@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["肤色","鱼鳍","上衣","裤子","腹部颜色","鱼鳍颜色","上衣颜色","裤子颜色","鲛人","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "鲛人"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "崇尚和平的鲛人重视先祖传统，并喜好欣赏艺术。原居住在陆地上的他们由于好善的性情而容易成为叶族的猎物，遂被赶至他们如今繁荣生息的海波之下。"}]

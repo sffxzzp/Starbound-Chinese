@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些原生水晶可以产生能量。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "星核碎片"}]

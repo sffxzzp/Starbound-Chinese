@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块意大利辣香肠热披萨。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一块比萨"}]

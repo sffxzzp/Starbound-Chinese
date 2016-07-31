@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "废土上的乞丐常常会穿坏的皮带。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "落魄乞丐皮带"}]

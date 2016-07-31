@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种人造皮革夹克穿起来让你充满信心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "时尚的夹克"}]

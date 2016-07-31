@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副晶洞宝石面具。让您双眼发亮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "晶洞面具"}]

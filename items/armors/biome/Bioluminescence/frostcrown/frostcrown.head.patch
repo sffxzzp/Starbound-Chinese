@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "戴上这顶皇冠，您的统治简直是太酷了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寒冰皇冠"}]

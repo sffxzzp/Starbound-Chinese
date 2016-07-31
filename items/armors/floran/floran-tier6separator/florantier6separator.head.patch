@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "宇宙的生物见到这种诡异的头盔都会忍不住颤抖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "合成器头盔"}]

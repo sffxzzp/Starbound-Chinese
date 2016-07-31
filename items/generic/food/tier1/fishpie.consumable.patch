@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "仰望星空派！酱汁烤鱼搭配奶油土豆泥。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鱼饼"}]

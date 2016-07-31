@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用鲜花做的美丽花冠，它完全是夏威夷风格的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "夏威夷花冠"}]

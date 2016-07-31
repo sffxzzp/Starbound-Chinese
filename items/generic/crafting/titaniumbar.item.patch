@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "钛矿主可以在温带星系的行星上发现。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钛锭"}]

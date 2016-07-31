@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如果我能像控制额外的手臂一样控制这些藤蔓就好了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲜花藤蔓"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "庆祝仪式上传统的翼族食品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "羽毛食物"}]

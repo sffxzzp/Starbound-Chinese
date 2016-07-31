@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用这瓶染料漂洗剂将任意衣服重置为初始颜色。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "染料漂洗剂"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能随着时间流逝恢复你宠物生命值的项圈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "愈合项圈 II"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种被设计成能够适应压力变化的柱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "承重柱"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "了解。一种能够适应高压调整的柱子。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "闪亮又坚坚坚固的老旧金属柱子。"}]

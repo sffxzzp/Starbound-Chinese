@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件无袖铁板背心，能给你提供可靠的保护。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "侦察兵胸甲"}]

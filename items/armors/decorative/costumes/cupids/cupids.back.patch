@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "丘比特的翅膀可能还没有强到足以携带起你的重量。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "丘比特翅膀"}]

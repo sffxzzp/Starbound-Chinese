@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些丑陋的、散发着恶臭的肉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "肉块"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "厌恶。这些是用黏糊糊的肉做成的。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "黏糊糊的肉。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这是一些肉。"}]

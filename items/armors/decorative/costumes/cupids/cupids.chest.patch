@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "丘比特的腰带，它能固定住翅膀吗？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "丘比特腰带"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "密封的危险品处理组外套，用来防止来自外界的污染。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "危险品处理组的外套"}]

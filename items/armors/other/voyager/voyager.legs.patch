@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "考虑到这条裤子穿起来是如此的舒适，它的耐用性令人惊讶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "旅行者裤子"}]

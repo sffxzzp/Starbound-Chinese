@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "或许质量不是顶尖的，但这罐头能把食物保存很长很长一段时间。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "罐装食品"}]

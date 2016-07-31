@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "窗格"},
+{ "op" : "replace", "path" : "/description", "value" : "由木头制成的简约窗格。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "醒悟。这种窗格所能发挥的作用与栅栏或窗户大同小异。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人喜欢纵横交错的木头。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这些薄木条全都纵横交错穿插在一起。"}]

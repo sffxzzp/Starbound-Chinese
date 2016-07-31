@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些羽翼将克鲁西斯的福音赐予观星者。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "观星者的牧师之翼"}]

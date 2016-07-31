@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用冰透镜制成的透明头盔。并不实用，但很时尚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "棱镜头盔"}]

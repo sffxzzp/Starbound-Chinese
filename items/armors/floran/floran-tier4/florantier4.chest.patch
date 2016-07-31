@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这款胸甲用坚固的耐钢护住猎人的重要器官。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猎人胸甲"}]

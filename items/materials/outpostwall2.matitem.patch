@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一堵专门用于隔绝极端元素辐射的厚墙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨站厚壁"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "满意。没有什么东西能破坏这种结构经过加固的墙。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "这这这种墙壁真真真坚固。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "没什么东西能够破坏这种厚厚的墙。"}]

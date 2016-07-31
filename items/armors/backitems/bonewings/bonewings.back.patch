@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "显然，能飞起来的骨架更令人毛骨悚然！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨翼"}]

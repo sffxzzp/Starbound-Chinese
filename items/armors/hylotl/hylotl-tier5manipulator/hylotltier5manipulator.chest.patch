@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "时尚潜水和防护相结合，没有这件夹克不能穿的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礁石夹克"}]

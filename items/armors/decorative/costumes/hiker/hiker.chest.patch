@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "让穿戴者觉得他们可以攀登上任何一座山。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "徒步旅行者外套"}]

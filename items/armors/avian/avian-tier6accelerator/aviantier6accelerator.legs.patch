@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种纤细的裤子为增加耐用性选取日曜合金丝编织而成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金刚鹦鹉护腿"}]

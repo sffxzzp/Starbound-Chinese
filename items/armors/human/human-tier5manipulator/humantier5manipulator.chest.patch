@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为冒险而生的胸甲！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者胸甲"}]

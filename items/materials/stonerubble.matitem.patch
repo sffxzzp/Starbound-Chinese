@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "古老的建筑上掉下来的碎石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "碎石"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "观察。 这些碎片曾经是一个建筑的一部分。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "旧旧旧建筑的石头碎碎碎儿。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些被压碎的石头。"}]

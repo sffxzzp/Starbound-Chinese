@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "捕捉仓"},
+{ "op" : "replace", "path" : "/description", "value" : "狠狠的丢向一个怪物，然后带他回他的新家。"}]

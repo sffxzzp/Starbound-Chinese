@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "据说穿着这双霓磷盐制靴子绝不会走错一步。这说法还没有得到证实。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "孔雀腿甲"}]

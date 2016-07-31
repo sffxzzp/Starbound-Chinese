@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "传说这件胸甲是被某些强大的存在于死星核心锻造而成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "炎魔之王胸甲"}]

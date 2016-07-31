@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用钨与骨头强化过，并垫上了猎物的皮革。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨制胸甲"}]

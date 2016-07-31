@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副并不能提供实际防护作用的合金面具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "落魄卫兵面具"}]

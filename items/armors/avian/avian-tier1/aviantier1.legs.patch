@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "铁束裹腰布,它看起来轻如羽毛,但它其实不是这样的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雏鸟裹腰布"}]

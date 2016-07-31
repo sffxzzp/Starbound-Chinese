@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "外皮酥脆，里面和熔岩一样烫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "烤土豆"}]

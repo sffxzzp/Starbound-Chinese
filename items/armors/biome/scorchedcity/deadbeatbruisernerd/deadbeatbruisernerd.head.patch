@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "护目镜使合金面具更加显眼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "落魄卫兵眼镜"}]

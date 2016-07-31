@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "夏威夷风格的胸罩，由两颗椰子做成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "夏威夷胸罩"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "即使拥有最勇敢的心，遇见你敏锐的目光也会感到恐惧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "可怕眼睛帽"}]

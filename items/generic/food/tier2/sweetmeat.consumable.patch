@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "叶族人一道罕见的用甜培根做成的菜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "甜肉"}]

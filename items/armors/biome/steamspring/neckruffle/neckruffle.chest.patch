@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件礼服夹克，内衬一件荷叶领衬衫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "荷叶领边夹克"}]

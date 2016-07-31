@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能轻微增强你宠物伤害输出的项圈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "伤害项圈 I"}]

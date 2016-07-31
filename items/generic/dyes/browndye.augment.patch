@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "右键使用这瓶染料来改变盔甲或衣服的颜色。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "棕色染料"}]

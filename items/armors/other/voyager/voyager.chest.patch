@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件低领且肩甲过大的护甲是为了时尚而不是防御设计的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "旅行者胸甲"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种特殊的磁力护腕可以投接特别设计的磁力珠"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "磁力浮游珠"}]

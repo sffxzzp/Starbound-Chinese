@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有传说云，这烈焰附着之剑是由堕落天使所打造的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "炎岚之怒"}]

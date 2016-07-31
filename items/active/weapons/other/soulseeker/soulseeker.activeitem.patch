@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有着极强邪能量的剑，一个强大的魂体曾使用它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "索魂者"}]

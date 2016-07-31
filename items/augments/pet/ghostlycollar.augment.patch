@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能让你的宠物看起来像幽灵的项圈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幽灵项圈"}]

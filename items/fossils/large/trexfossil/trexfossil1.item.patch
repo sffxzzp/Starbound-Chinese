@@ -1,0 +1,3 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "霸王龙头骨"},
+{ "op" : "replace", "path" : "/description", "value" : "霸王龙的头骨化石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霸王龙头骨"}]

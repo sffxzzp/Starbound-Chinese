@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这款裹腰布能让猎人进行长途跋涉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "野蛮裹腰布"}]

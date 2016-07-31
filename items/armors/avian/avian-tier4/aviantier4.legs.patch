@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这条耐钢内衬的腿甲在任何地方都很舒适。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猫头鹰腿甲"}]

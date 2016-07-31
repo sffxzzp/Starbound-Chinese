@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "处理过酥脆的腌制外星肉"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熟肉"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "使用纸张和木头手工制成的装饰性翅膀。它们出乎意料的重！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "纸翅膀"}]

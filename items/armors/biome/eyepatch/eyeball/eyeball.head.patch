@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一只巨大的眼球面具。极大地降低了你的深度知觉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球面具"}]

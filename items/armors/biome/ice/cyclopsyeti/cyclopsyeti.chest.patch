@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "以独眼雪巨人制成的胸甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "独眼雪巨人衬衫"}]

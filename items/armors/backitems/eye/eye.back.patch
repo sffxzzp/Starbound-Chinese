@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件古老的披风用散发着神秘微光的材料制成。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "全视角披风"}]

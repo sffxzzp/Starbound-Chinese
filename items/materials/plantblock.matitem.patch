@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种用植物组织制成的方块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "植物块"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "着迷。这种方块完全由植物组织制成。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人看到这这这种植物块感觉很亲亲亲切。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "就我看来这是用植物制成的方块。"}]

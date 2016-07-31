@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个头饰上的每一根羽毛都是由纯菲洛合金打造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火烈鸟头饰"}]

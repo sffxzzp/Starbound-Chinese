@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件护腿用抛光的维奥合金和纯日曜石加工而成，看起来就跟穿戴者一样精神。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "弱光护胫"}]

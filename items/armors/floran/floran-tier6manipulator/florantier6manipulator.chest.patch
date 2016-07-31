@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件带有回弹力的胸甲下半部分是用日耀石编织而成的锁子甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "萨满胸甲"}]

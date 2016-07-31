@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把以有机物质制成的全自动步枪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NPC叶族突击步枪"}]

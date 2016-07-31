@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个破烂的披肩，是用大地守护团旗帜做的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "撕裂的守护团披肩"}]

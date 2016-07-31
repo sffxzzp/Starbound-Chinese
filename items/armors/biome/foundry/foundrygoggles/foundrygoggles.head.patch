@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来保护你小小眼睛的大号护目镜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造护目镜"}]

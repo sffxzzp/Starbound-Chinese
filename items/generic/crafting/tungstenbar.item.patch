@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "钨矿主要可以在温和星系的行星上找到。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钨锭"}]

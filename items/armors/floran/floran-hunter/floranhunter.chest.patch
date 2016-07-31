@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这款胸甲能让你保持温暖与干爽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "野蛮胸甲"}]

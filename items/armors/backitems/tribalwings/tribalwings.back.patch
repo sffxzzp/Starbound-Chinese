@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "观星者佩戴的这些羽翼通常作为他们信仰的象征。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "观星者的追随者之翼"}]

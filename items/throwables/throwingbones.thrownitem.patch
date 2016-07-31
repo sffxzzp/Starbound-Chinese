@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "可投掷的骨头"},
+{ "op" : "replace", "path" : "/description", "value" : "把骨头扔向敌人是一种原始但有效的方法。"}]

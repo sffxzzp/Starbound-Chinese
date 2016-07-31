@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在干燥的时候增加1%防雨。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "流浪汉纸板帽"}]

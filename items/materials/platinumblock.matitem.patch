@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一整块固态铂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铂块"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "高兴。这个闪亮的东西是用铂制成的。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人喜喜喜欢闪亮的铂。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "我估计这种铂制的大方块对某些人来说很有价值。"}]

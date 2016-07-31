@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可笑的大卷轴，里面写着：“背着这个的人就是想让别人以为他是个法师。”"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "魔法卷轴"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个巧妙设计的胸甲可以抵挡长矛、刀剑和子弹等武器"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "孔雀衬衫"}]

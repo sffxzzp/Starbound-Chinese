@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种粗制滥造的木制梯子。真刺激！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制梯子"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "担心。 这些梯子看起来随时会垮。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人爬危险的梯子。"}]

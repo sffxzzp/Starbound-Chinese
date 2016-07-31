@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "什锦铜味佳肴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "螺母与螺栓"}]

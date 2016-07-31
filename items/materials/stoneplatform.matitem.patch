@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由石头雕刻而成的平台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石平台"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "难忘。 这些平台是由坚固的石头雕刻而成。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "被雕成了平平平台的石石石头。"}]

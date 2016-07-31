@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精细加工后的华丽的木头。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "华丽的木头"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "吃惊。这些木头是经过大师级工匠特殊处理过的。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人喜喜喜欢这些特殊加工的木头。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种灵便的裤子混入菲洛合金提高了韧性，使穿戴者会变得迅速、无声、也更安全。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "间谍的裤子"}]

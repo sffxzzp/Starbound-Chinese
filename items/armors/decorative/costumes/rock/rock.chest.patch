@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "岩石制成的胸甲，多不方便啊！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "岩石胸甲"}]

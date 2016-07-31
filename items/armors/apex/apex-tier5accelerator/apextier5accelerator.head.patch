@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用于遮掩外貌的面罩，制造神秘的气氛－对于秘密行动来说简直完美。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "盗贼面罩"}]

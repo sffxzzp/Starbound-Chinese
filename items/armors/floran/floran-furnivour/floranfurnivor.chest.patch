@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块最近猎获的值得炫耀的动物毛皮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毛皮胸甲"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "很完美的防护...除非对方有牙齿...或者下颚...或者刺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猎人裤子"}]

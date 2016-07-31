@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "你可以把它戴在你的眼睛上，它能让你看得更清楚？不。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "战术目镜"}]

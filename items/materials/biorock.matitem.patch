@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这块石头用散发着生物光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光的黄色石头"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "好奇。这种石头上的微生物泛着一种微弱的黄光。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人喜喜喜欢发黄光的石石石头。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这石头发着黄光，但又不提供一丁点热量。"}]

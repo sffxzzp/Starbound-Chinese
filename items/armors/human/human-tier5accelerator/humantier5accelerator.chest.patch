@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "依靠于它的力量，这件先锋防弹衣在战场上救过很多人的命。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "先锋防弹衣"}]

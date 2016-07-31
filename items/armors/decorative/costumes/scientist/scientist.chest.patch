@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "让怪物黏毛球远离穿戴者。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科学家外套"}]

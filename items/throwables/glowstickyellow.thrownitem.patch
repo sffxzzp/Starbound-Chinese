@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "黄色荧光棒"},
+{ "op" : "replace", "path" : "/description", "value" : "扔出后会发出黄色的生物荧光！"}]

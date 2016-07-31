@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这件胸甲可以承受海洋深处的高压，以及偏转敌人的攻击。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "无光胸甲"}]

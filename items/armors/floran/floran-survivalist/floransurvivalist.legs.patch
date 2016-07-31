@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "装饰着猎获的素材。一个好的猎人能利用好猎物的每个部分。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生存护腿"}]

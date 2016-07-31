@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "日耀石防弹衣，有骨头的特征。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哨兵胸甲"}]

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["毛色","羽毛","上衣","裤子","喙","绒毛","上衣颜色","裤子颜色","翼族","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "翼族"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "翼族是多彩鸟类分支种族，其部落文化是崇拜克鲁西斯—一个以太中有羽翼的神。他们的士兵从出生就开始被培养为凶猛的、会不惜一切带价保护他们神庙的战士。"}]

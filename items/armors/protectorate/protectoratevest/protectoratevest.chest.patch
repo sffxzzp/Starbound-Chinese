@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件背心，上面装饰有大地守护团的Logo。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团背心"}]

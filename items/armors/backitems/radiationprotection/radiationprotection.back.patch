@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这次升级为你的危险环境保护装置提供了中和辐射的能力。在^red;高辐射等级^reset;的行星使用它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "防辐射改良EPP"}]

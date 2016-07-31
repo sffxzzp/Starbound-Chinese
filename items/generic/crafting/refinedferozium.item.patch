@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精炼菲洛合金矿石主要可以在冰冻星系的行星上发现。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "精炼菲洛合金"}]

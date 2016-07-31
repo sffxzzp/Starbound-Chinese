@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用纯银打造并抛光的平台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "银平台"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "高兴。 我可以在银平台上看见自己的倒影。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "银银银子做的平平平台。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "我估计这个平台和其同质量的银一样贵重。"}]

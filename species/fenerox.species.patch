@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["肤色","发型","上衣","裤子","内裤颜色","发色","上衣颜色","裤子颜色","费涅罗","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "费涅罗"},
+{"op": "replace","path": "/charCreationTooltip/subTitle","value": "只有这些人知道…"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "我不知道这里该写什么"}]

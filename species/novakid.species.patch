@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/charGenTextLabels","value": ["气体颜色","发型","上衣","裤子","","烙印","上衣颜色","裤子颜色","星之子","人物性格"]},
+{"op": "replace","path": "/charCreationTooltip/title","value": "星之子"},
+{"op": "replace","path": "/charCreationTooltip/description","value": "星之子是一被戏称为“星际气袋人”的神秘种族。他们没有归属土地也没有记载历史。他们的存在不稳定，也不受过去缚束。没人知道他们究竟是什么组成的，更别说他们的来历了。"}]

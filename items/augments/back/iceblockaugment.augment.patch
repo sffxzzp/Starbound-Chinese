@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能让你对寒冷有高抵抗力的危险环境保护装置模块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "抗寒冷增强"}]

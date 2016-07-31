@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是冰冻至坚硬的泥土。"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "细心。这泥土被牢牢冻住了。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "冻土摸起来很很很冷。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这冻土特别冰冷。"}]

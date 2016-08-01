@@ -1,0 +1,1 @@
+[{"op": "replace","path": "/rotTimeDescriptions","value": [[300,"^red;太过腐烂不能食用^reset;"],[1800,"^orange;开始发出腐烂味^reset;"],[3600,"^yellow;可能会很快坏掉^reset;"],[10800,"^green;应该能够保持一段时间的新鲜^reset;"],[999999,"^green;保存得非常好^reset;"]]}]

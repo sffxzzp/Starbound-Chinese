@@ -1,5 +1,5 @@
-[{ "op" : "replace", "path" : "/description", "value" : "菌类植物组成的方块。"},
+[{ "op" : "replace", "path" : "/description", "value" : "柔软的菌类植物组成的方块。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇块"},
 { "op" : "replace", "path" : "/glitchdescription", "value" : "好奇。 就算被组成了一个方块，这些蘑菇还是顽强的活着。"},
 { "op" : "replace", "path" : "/florandescription", "value" : "可爱的蘑蘑蘑菇。"},
-{ "op" : "replace", "path" : "/novakiddescription", "value" : "这难道不是东西。看起来是用蘑菇做的方块。"}]
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这个莫非是……蘑菇做成的方块。"}]

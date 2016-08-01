@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这根强大的棍子可以支持挥动着它的战士。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "克鲁西斯棍"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这根强大的法杖可以支持挥动着它的战士。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "克鲁西斯法杖"}]

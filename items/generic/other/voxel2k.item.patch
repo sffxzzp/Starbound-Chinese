@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "由2000个像素压缩而来。可以重新解压缩取回部分消耗掉的像素。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "由2000个像素压缩而来。可以重新解压缩取回部分消耗掉的像素。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "2K 像素块"}]

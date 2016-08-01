@@ -13,4 +13,7 @@
 {"op": "replace","path": "/paneLayout/labelstats/value","value": "状态"},
 {"op": "replace","path": "/paneLayout/companionName/value","value": "宠物状态"},
 {"op": "replace","path": "/paneLayout/labeltech/value","value": "当前科技"},
-{"op": "replace","path": "/paneLayout/labelinventory/value","value": "库存"}]
+{"op": "replace","path": "/paneLayout/labelinventory/value","value": "库存"},
+{"op": "add","path": "/paneLayout/companionAtkR","value": {"type" : "label","position" : [145, 159],"hAnchor" : "mid","value" : "攻击","color" : [185, 181, 178]}},
+{"op": "add","path": "/paneLayout/companionDefR","value": {"type" : "label","position" : [145, 150],"hAnchor" : "mid","value" : "防御","color" : [185, 181, 178]}},
+{"op": "add","path": "/paneLayout/companionHPR","value": {"type" : "label","position" : [145, 141],"hAnchor" : "mid","value" : "生命","color" : [185, 181, 178]}}]

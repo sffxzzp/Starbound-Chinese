@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个能提高你抗毒能力的危险环境保护装置模块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "抗毒增强"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "抗毒增强模块"}]

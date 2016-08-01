@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个能让你对火焰有高抵抗力的危险环境保护装置模块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "抗火焰增强"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "抗火焰增强模块"}]

@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个耐用的钨制头盔―一种对“他们不像以前那样造它们了”的驳击。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个耐用的钨制头盔，一种对他们不像以前那样造它们了的驳击。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "士兵头盔"}]

@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "带着信心进入战场，还有这件重型钛制胸甲。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "带着信心进入战场，还有这件重型钛制胸甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骑士胸甲"}]

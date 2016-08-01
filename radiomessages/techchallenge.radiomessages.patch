@@ -4,5 +4,5 @@
 {"op": "replace","path": "/techchallenge_dash2/text","value": "这些门很容易打开。你只需要^#71f2f6;在拨动开关和在冲刺^white;前^#71f2f6;靠近门^white;即可。"},
 {"op": "replace","path": "/techchallenge_dash3/text","value": "这些门的开启^orange;是时间限制的^white;。你打算坚持下去并通过它，这种精神是非常值得称赞的。"},
 {"op": "replace","path": "/techchallenge_dash4/text","value": "数据显示这^orange;温度极低^white;。这虽然不致命，但一旦接触将会使你行动迟缓。"},
-{"op": "replace","path": "/techchallenge_morphball1/text","value": "^#71f2f6;按‘F’键切换^orange;跳跳球科技^white;状态。"},
-{"op": "replace","path": "/techchallenge_morphball2/text","value": "看起来你需要^#71f2f6;跳起来^orange;激活^#71f2f6;跳跳球科技^white;来进入这个通道。"}]
+{"op": "replace","path": "/techchallenge_morphball1/text","value": "^#71f2f6;按‘F’键切换^orange;变形球科技^white;状态。"},
+{"op": "replace","path": "/techchallenge_morphball2/text","value": "看起来你需要^#71f2f6;跳起来^orange;激活^#71f2f6;变形球科技^white;来进入这个通道。"}]

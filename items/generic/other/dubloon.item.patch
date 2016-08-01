@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用来在易喙酒吧招募企鹅雇佣兵的代币。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "用来在易喙酒吧招募企鹅雇佣兵的代币。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "企鹅硬币"}]

@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "未经加工的粗糙的石灰石。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "石灰石"},
-{ "op" : "replace", "path" : "/glitchdescription", "value" : "敏锐。这石灰石有着白垩一样的密度。"},
-{ "op" : "replace", "path" : "/florandescription", "value" : "满是尘尘尘土的石石石灰岩。"},
-{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些看起来像白垩的石灰石。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "敏锐。这石灰石有着白垩一样的密度。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "满是尘尘尘土的石石石灰岩。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起来像白垩的石灰石。"}]

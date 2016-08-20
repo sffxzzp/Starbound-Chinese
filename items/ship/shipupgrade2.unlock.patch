@@ -1,3 +1,2 @@
 ﻿[{"op":"replace","path":"/description","value":"东西"},
-{"op":"replace","path":"/shortdescription","value":"东西"},
-{"op":"replace","path":"/category","value":"升级组件"}]
+{"op":"replace","path":"/shortdescription","value":"东西"}]

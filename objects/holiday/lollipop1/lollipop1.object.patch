@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个巨大的棒棒糖！甜！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大棒棒糖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个特别的美味棒棒糖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个巨大的棒棒糖。美味的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人舔大棒棒糖！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "快乐。一个巨大的棒棒糖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "糖果大战的时间！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个非常甜的棒棒糖。就让我放纵自己一次。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我从未见过如此大的棒棒糖！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在这个控制台配置你的科技。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技配置控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台复杂的机器让我能配置科技。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这控制台让我能配置科技！一旦你克服了怪异的感觉，这机器会十分有用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "着控制制制台让叶族人能配置科技！新科科科技总会非常令人激动。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激动。这控制台让我能配置和移除科技。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我能在这配置科技，多么实用的机器！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "科技在生物工程中有着迷人的推动力。我能在这配置他们。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一点点技能就能让我在这台机器上配置科技。"}]

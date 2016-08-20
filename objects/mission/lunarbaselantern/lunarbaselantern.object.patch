@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这盏电灯发出温和宜人的光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地电灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏很小但非常亮的电灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏设计简单的电灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可以帮叶族人照亮道路的发光装置。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。这盏灯非常亮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏明亮的电灯。也许不应该直接凝视着它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它鼓舞人心的光芒，让我想到了光明的未来。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一盏用电的灯，所以它不会消耗煤油。"}]

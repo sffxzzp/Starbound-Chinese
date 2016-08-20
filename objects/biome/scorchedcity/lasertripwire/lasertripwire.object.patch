@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "穿过这条激光束可能会触发某些东西！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "激光绊线"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根激光绊线。对制作陷阱很有用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这根激光绊线应该会很有用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "激激激光绊线。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。用激光触发的绊线。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "穿过这条激光束可能会触发某些东西！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一根激光绊线，用来愚弄入侵者会很有用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这让我想起了那些银行抢劫案……"}]

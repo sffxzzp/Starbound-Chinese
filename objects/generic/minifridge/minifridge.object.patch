@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来存放食品并保鲜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "迷你冰箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一台迷你冰箱。希望里面有香蕉奶昔。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一台迷你冰箱。理想情况下里面会充满饮料和零食。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人可以闻闻闻到肉味。也许里里里面有肉？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。这台迷你冰箱正以合适的温度运行。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我正因为想象着这里面可能会有的东西而激动地流着口水。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在水下，保鲜更加容易。这些设施是精明的替代品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个小冰箱。"}]

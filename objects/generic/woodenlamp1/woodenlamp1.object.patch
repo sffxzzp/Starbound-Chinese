@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可爱的木灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制台灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏木制小台灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "电力驱动的木制小台灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "甜甜甜蜜的台灯发发发出温暖的光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。简约的台灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "漂亮的小台灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "迷人的台灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这台灯真可爱。"}]

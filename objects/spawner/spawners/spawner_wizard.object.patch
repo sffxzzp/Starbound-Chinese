@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "召唤属于你自己的巫师！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巫师生成器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个巫师肯定能直接传送过来的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "魔法和科技，多么美妙的结合！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想要一个巫师来参加派对！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "猜忌。电子人不喜欢魔法。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "也许我能成为这个魔法师的学徒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这能召唤出一个魔法师，还是一个骗子？"}]

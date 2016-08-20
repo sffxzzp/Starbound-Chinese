@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个巨大晶洞内部的床穴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "晶洞床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这晶洞宽敞得足够在里面睡觉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的床有时也会用石头做，但像这样的一定很不舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "尖尖的石头做不出好床。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "在意。这晶洞里的晶体看起来并不适合舒舒服服地躺在上面睡觉。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "以安全性弥补舒适性的床。居然睡在个石头里！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "安寐于晶洞之中，融入于自然之美。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我可以像蜷缩在自己的小山洞一样蜷缩在这里面。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这东西再没机会启动了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个无用的，损坏的控制台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个控制台。它不能工作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个控制制制台是坏的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沮丧。这个控制台是坏的也不能用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个控制台不能工作。一半的按钮消失了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个控制台损坏到无法修理的程度。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个坏的控制台。我好奇这玩意是否曾经正常运作过。"}]

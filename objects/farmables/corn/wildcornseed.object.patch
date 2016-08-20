@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "甜甜的黄玉米。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "玉米种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "玉米。又是一种长得像香蕉的食物，然而并不是。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "啄食玉米棒子是种不错的快餐方式。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "坚硬的黄玉米，炸了它就会变变变成爆米花。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。据说如果电子人食用玉米，它就会在我们体内爆开。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "能稳定供应甜玉米是件棒极了的事情。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "乏善可陈的普通清淡小食。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有很多方式可以享用玉米。"}]

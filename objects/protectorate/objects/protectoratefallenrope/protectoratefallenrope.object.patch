@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一截掉落的缎带。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的守护团缎带"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一截缎带。掉在了地上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这条红色缎带掉在地上了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "红缎带栏杆座已被折断……"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "伤心。破碎的物品散落一地……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这条缎带掉下来了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多么悲伤。这条缎带肯定是在骚乱中掉下来的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这条绳子不再立起来了。"}]

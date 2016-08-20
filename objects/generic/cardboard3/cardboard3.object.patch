@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个打开了的纸板箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "打开的纸板箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个被打开了的纸板箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个中号的纸板箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用来存存存放东西的纸板箱箱箱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这个纸板箱很轻，但是大得足够存放很多东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个纸板箱，看上去已经被打开过了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个基础的纸板箱。并不可爱，但是善于让东西井井有条。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个可以用来存放几乎所有东西的薄皮箱子。"}]

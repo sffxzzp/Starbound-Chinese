@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "彩灯拼出“Waz”，不知道是什么意思。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "Waz灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不知道是什么使这些灯组成……“waz”？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "“waz”是什么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "Waaaazzzz? Wazzat。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。什么是“waz”？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "Waaaaaaaz。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个“waz”有什么更深沉的意思么？"}]

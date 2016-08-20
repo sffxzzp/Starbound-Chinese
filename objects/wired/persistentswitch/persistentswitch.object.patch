@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个开关一旦被触发就会一直保持它的开关状态。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "持续开关"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个开关一旦被触触触发就会一直保持它的开关状状状态。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。这个开关一旦被触发就会一直保持它的开关状态。"}]

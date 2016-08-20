@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个来自铸造厂的工业级风箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造风箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "工业级风箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个巨大的风箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "超超超大的风箱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震惊。我从未见过有如此巨大的风箱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这一定是一副锻造风箱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "巨大而又难看的风箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "大风箱。"}]

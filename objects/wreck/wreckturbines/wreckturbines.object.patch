@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一对破旧的沾满灰尘的涡轮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的涡轮组"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一对涡轮。看上去快倒了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些旧涡轮几乎无法立着放。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "摇晃的旧机器器器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这两个涡轮串联进行工作。现在没一个能工作了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "两个坏涡轮。它们嘎吱作响。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人使用这样涡轮机进行发电。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它们被厚厚的灰尘掩盖，感觉被放在这里已经很久很久了。"}]

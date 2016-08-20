@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个笨重的金属制椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "重型椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这椅子看起来像是铸造机器的一部分。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个工业风格的椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "机械椅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "开心。一个令人愉快的椅子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来不用个垫子就坐上去会感觉非常冰冰。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这椅子看起来像是要被回收处理的机械。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "太棒了！一张看起来像是机械的椅子。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标准的守护团宿舍马桶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团宿舍马桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个马桶配备了自动冲水系统。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个马桶！坐在上面我总能想到一些好主意。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不喜欢和其他人共用一个马桶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这个马桶非常干净！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你听过关于马桶的笑话吗？还是别提了，它太脏了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不需要用这个。我得赶紧去参加毕业典礼！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "嗯。这就是个马桶。"}]

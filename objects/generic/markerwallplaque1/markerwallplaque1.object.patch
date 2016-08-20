@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "简约，然优雅。像这样的铭牌可以为此地带来真正的高贵感。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁铭牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以用这个标志来最终确定属于我的东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用来告诉别人这是我的东西的方便标志。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人放下标志来说说说“离开！”"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。一个方便表明所有权的铭牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有了像这样的铭牌，所有人都会知道这里是我家。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人的住处一般是独一无二的，但这种铭牌会让它变得绝对独一无二。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个告诉陌生人所有权已被占有的奇特铭牌。"}]

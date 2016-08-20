@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "红球饰品上有一个大白星！这些都是受欢迎的节日饰品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "节日装饰用红球"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一颗闪闪发光的红球。漂亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一颗雄伟的红球。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人踢闪亮的球！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "喜悦。一个可爱的装饰。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "要小心不要打碎这小玩意。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有些人对这种闪亮的球着迷。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个漂亮的红球，非常适合装饰。"}]

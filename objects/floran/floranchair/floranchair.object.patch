@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把用骨头点缀的普通木椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把用木头和骨头做的椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我怀疑叶族人是否用过自己族人的骨头来制作家具。叶族人有骨头吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人从来不浪费费费骨头。就算是小骨头也能和椅子组在一起。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。典型的叶族人风格。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "椅子上面的骨头看上去很扎人。我不想坐在上面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这椅子上的骨头…死亡的气息似乎已经融入到了哪怕是叶族人生活中最不起眼的细节中。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不认为椅子应该做的那么尖锐。"}]

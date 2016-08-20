@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小型货箱。毫无疑问里面有货物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型金属货箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "神秘的货箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道这里面有什么。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人把叶族人装进货箱。突然跳出来。惊喜喜喜！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。一个货箱――什么都可能在里面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "喔喔，货箱！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "现代风格的货箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "基本款货箱。里面可能有值钱的货物……"}]

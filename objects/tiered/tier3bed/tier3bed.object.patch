@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张舒适的钛床。看上去相当光滑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钛床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张漂亮、舒适的床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个舒适的场所很适合来休整我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在很棒的床上休息息息。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。我能在这张床上酣然入睡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张优质的床。很适宜在这里好好休息一下。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "做工很体面。够用了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来是一张织补地相当整洁的床！"}]

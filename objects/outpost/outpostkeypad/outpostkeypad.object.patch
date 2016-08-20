@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "键盘。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "墙面键盘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "键盘。让人听不见周围的噪音。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "键盘。大多数翼族人不用这个。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用键盘输入脏脏脏话。但是什么也没发生生生……"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激动。键盘，我能破解密码么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "键盘！我能破解密码么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "键盘。正确使用时是有效的上锁工具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这键盘有什么用么？"}]

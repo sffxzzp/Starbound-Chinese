@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "里面有一粒蛋的鸟巢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鸟巢"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "里面有一枚蛋的鸟巢。我想知道这蛋能孵化出东西么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一只小小的甜美鸟巢。多可爱啊！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蛋蛋蛋几乎可以算肉……呀呣呀呣！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "了解。这样的鸟巢是鸟类安置后代的方式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是个鸟巢。我在想里面有没有小鸟宝宝。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一只鸟巢。多么自然啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这得是一只小小的鸟儿才能住进这么小小的窝。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一款时尚风格的电视。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "时尚电视"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一台经典型号的电视。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一台电视，这种电视在都市家庭里很常见。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "电电电视机。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一台现代化电视机。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一台电视！所有频道依旧没什么好看的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一款都市风格的电视。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是来自大城市的电视中的一员。"}]

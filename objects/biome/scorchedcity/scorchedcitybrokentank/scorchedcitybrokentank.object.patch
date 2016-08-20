@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个生锈的蓄水罐。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生锈蓄水罐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个生锈的水罐。可能曾用于储存水。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个生锈的水罐，我不敢向里看。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "罐子生生生锈了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。一个生锈的水罐。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这老旧水罐上的锈斑和霉点发出阵阵恶臭。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个生锈的水罐。我不想看里面有什么。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来是一个生锈的水罐。"}]

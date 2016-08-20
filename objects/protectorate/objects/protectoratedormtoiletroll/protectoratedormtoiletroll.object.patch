@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个卷纸架。希望纸还没用完！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团卷纸架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个卷纸架。最近刚换过。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "优质的厕纸！如此柔软。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "卷纸架快要空空空了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "同情。卷纸架做着一份不体面的工作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "最恐怖的事莫过于卷纸架里面没有纸！幸运的是，这个还有。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个卷纸架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个还剩了一大截纸的卷纸架。"}]

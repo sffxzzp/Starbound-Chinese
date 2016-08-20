@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个‘异或’逻辑门。当其中只有一个是‘1’的时候会输出信号。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造异或门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个‘异或’逻辑门。当其中只有一个是‘1’的时候会输出信号。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个‘异或’逻辑门。当其中只有一个是‘1’的时候会输出信号。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个‘异或’逻逻逻辑门。当其中只有一个是‘1’的时候会输出信号。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "牢记。一个‘异或’逻辑门。当其中只有一个是‘1’的时候会输出信号。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个‘异或’逻辑门。当其中只有一个是‘1’的时候会输出信号。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个‘异或’逻辑门。当其中只有一个是‘1’的时候会输出信号。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个‘异或’逻辑门。当其中只有一个是‘1’的时候会输出信号。"}]

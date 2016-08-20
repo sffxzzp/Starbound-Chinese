@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用翼族晶体驱动的大型控制台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型雕刻控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个控制面板似乎非常古老了，但我不明白其中的技术。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个控制面板可以通过水晶振动来发送信号激活其他设备。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的鸟人技术。也许叶族人应该据为己有。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。无法理解这种以晶体为基础的技术。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个控制台看起来是由晶体驱动的，它是怎么工作的呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它看起来像是一个控制面板，设计得非常美观。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像是一个有花哨灯光的控制面板。"}]

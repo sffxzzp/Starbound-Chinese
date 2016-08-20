@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个‘异或’逻辑门。需要一个输入为‘1’，一个输入为‘0’才能工作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "异或门"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个‘异或’逻辑辑辑门。需需需要一个输入为‘1’，一个输入为‘0’才能工作。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个‘异或’逻辑门。需要一个输入为‘1’，一个输入为‘0’才能工作。"}]

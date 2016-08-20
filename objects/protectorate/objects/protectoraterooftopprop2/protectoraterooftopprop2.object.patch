@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个来自守护团学院的屋顶通风口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团屋顶通风口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某种通风设施。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一个通风口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这个东西是通风设施。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一个标准的通风系统。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想它是一个通风口。但谁在乎呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个通风口。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像个一个通风口。"}]

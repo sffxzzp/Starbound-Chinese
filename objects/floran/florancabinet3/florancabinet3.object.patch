@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用四根巨大的尖牙拉住中间的皮革做成的柜子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始巨型柜子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个用处理过的兽皮和尖牙制成的柜子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个柜子是用拉伸的皮革制作而成的。在受力的时候会变形。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢皮革制的柜子。柜子在装满的时候会变变变形。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "灵感。一个创新的设计，皮革在需要的时候可以拉伸。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用皮革做柜子。不错的想法。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个创新的柜子设计，可惜出自屠夫的手中。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些柜子上的尖牙很漂亮，让人印象深刻。"}]

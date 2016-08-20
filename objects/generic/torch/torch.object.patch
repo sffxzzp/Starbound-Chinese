@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这火把闪着柔和的亮光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火把"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "野外生存的优秀工具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "火把是必不可少的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火把吓吓吓到了叶族人，但叶族人必须要掌掌掌控火把。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感想。火把是不可或缺的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "照亮前路的火把。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "廉价的火把，然而在野外是无价之宝。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一只火把。没它们的话要活不下去了！"}]

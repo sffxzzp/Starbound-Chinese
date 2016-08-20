@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个高高的石柱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石柱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个柱子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个柱子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "高大的石石石头。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一个柱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个柱子当然很让人感兴趣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个不达标的柱子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个高高矗立的柱子。"}]

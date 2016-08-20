@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个小小的封闭排风口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "封闭排风口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个标准的排风口。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "通风设备。我可以感到微风拂过我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这是个排风口！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "确认。排风口。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去像个排风口。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "简约而坚固的通风设施。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去很坚实的排风口。"}]

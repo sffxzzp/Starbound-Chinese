@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些锈蚀的老车子，损坏远超出能修理的范围。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "休闲车"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一台老机器，曾经一度很时尚，但现在损坏了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台机器一点都不酷。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻闻闻起来很奇怪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无兴趣。又破又旧的交通工具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些古老破旧的车子，相当垃圾。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一台古老的陆用交通工具，损坏有些年头了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这看上去像个马车，没有马的那种。或者就是个车厢。"}]

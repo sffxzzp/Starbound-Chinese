@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来治愈捕获的生物的生物治疗站。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;宠物治疗站^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "像这样的机器是用来治疗捕获的生物的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这真有用，我能用这个治疗所有我捕捉到的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能用这个把生生生物治好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这个仪器能治愈任何捕获的生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我能用这个治疗任何我捕捉到的生物。棒！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种东西能用来确保生物的健康状况处于最佳状态。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能用这个小玩意治疗捕捉到的生物。"}]

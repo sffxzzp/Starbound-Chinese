@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "生存所需的一切。差不多吧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "避难品架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个架子上有些有用的东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个架子上有些医疗物品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "架子上放放放了些东西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。这个架子上有很多有用的东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些东西会在发生某种灾难时派上用场。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "为了实用性而设计的架子，不是很美观。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个在危机关头应该很有用！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张定位猿首位置的杂乱无章的地图。绘制这张图的人应该很生气。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿首定位图"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张地图上满是对猿首去向猜测的笔记和箭头。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这上面似乎有大量有关猿首的位置的笔记和信息。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不确确确定这张地图是是是干什么的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这张地图上显现的信息是为了定位猿首，猿人真正的领导者。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张地图似乎有很多关于猿首下落的潦草笔记，显然作者是想对独裁者进行报复。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张地图上有很多关于猿首位置的潦草笔记和情报。显然有人想要找出他。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张海报上有些关于猿首下落的资料－显然，出自某位愤怒的人民之手。"}]

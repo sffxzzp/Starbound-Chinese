@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张厚厚的、有光泽的皮毛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "棕色的大毛皮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张很厚的毛皮，可能是用来保温的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这么厚的毛皮可以用来做一条很好的披肩。叶族人好像把它们挂在了墙上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人的村庄总是很冷。叶族人用毛皮来保保保暖。用它堵住墙上的缝隙。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这张大毛皮的主人可能已经超过两百岁了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "好大一块皮。叶族人能捕杀这么大的动物吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张毛皮应该很能使它以前的主人保持暖和。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张毛皮。可以使墙面保持暖和。"}]

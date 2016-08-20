@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张来自守护团学院的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团大堂桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张简单的桌子。我喜欢。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌子非常白。让我想起夏日的云彩。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "整洁的白色桌子。叶族人看看看到了表面的倒影。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。一张设计朴素的白色桌子。有可能是猿人的杰作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "真是一张出色的桌子！坐在它旁边让我心情畅快。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张有着光滑表面的现代化桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我并不是桌子狂热者，但我觉得这看起来是张不错的桌子。"}]

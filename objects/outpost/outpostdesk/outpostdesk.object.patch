@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最基本的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基础金属桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来能用的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "足够好看的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "桌桌桌子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "面无表情。一张桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "桌子。看起来还好。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "基本的桌子。看起来不合我的口味。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "桌子。给那些喜欢坐着写文书材料的人用的。"}]

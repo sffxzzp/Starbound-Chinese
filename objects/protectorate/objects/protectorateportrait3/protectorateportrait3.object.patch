@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张历代大守护者的肖像画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大守护者肖像画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这位大守护者是第一位非人类的任职者。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这位鲛人尽管不是人类但还是成为了大守护者。多么令人欣喜！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鱼鱼鱼人好像像像被困在画里了。叶族人不能把他弄出来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。那时候鲛人要成为一名大守护者肯定很不容易。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "第一位非人类的大守护者。我肯定他是个运筹帷幄、足智多谋的人物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多么鼓舞人心！目前为止唯一一位鲛人的大守护者。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是第一副非人类的肖像画。太棒了。"}]

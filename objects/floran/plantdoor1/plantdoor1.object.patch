@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇由交织在一起的藤蔓做成的门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藤蔓门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些藤蔓就像一扇门一样打开来让人通过。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "让叶族人用藤蔓做一扇门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人的藤藤藤蔓可以受控控控打开。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。这些藤蔓似乎能刻意移动以供进出。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇门看起来就像长在框子里面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人控制植物的能力让人惊叹，这些藤蔓能够像一扇门一样打开。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是什么门？我甚至都看不见一个把手。"}]

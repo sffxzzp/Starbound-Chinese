@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "虹膜是这种奇怪的水果最棒的部分。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球菜种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "眼球菜让我想起了猿首。那目光永远警惕的眼睛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个有着尖锐目光的酸味水果。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "仅次于眼球球球的最棒的东西。叶族人喜欢它们，其他人都感到不不不安。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反省。这个水果也许是它自己内心的一扇窗户？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在全宇宙的所有水果之中，眼球菜也许就是最令人毛骨悚然的了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "眼球菜的一些部分是致命的，除非被精心料理过。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "水果应该回头看你么？我不知道……"}]

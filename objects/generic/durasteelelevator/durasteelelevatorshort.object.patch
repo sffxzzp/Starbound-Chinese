@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个耐钢电梯会完成任务的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "短耐钢电梯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个坚固的电梯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在多层设施间穿行最简便的方法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "上上上下下的电梯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无聊。平常无奇的电梯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用来在多层间上上下下的电梯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "井井有条的耐钢电梯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种电梯，它很有用！"}]

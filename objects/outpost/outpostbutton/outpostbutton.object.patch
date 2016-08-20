@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "按钮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "墙面按钮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "吸引人的按钮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用来按的按钮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢按按钮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激动。按钮！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "真吸引人……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "按钮。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "想按一下。"}]

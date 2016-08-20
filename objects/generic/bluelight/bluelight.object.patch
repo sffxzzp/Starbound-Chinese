@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "蓝色的冷光灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝光灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些灯发出蓝色调的冷光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些蓝光灯让我打冷颤，哪怕这里并不是真的冷。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人认认认为蓝色是不错的颜色。但并不像绿色或者红色那那那样好！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。为什么这灯光让我感到如此寒冷？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "蓝光灯，为当你想为房间增添寒冷气氛时而准备。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些蓝光灯让我想到了穿透蓝宝石般大海的阳光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些灯就像冰冷闪耀的星星，虽然小了点。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "葡萄，天然的休闲食品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "葡萄种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "奢侈的水果。悲伤的是，很多猿人一辈子都尝不上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "小巧，简单，可啄食的葡萄。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "葡萄饱饱饱满多汁，像紫色的眼球球球一样。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厚脸皮。葡萄不仅是不错的零食，也是良好的弹药。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "葡萄。探望病人的传统礼物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "海葡萄比这好太多了，这些都甜过头了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "葡萄当零食很不错。"}]

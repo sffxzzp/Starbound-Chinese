@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个圣杯！他可能是神圣的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圣杯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个金色杯子。也许用来喝东西是个不错的选择。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "圣杯的强大的能量嗡嗡作响。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用闪亮的杯子喝东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。某种酒杯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来很精美的杯子。这是不是意味着这是特别的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个基本的、功能性的金色杯子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这给我一种很特别的意味，不过我不明白这是为什么。"}]

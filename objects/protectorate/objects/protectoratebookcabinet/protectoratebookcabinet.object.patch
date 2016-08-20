@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "如此多的书籍，如此有限的时间！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团书柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一些消遣用的读物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我们能从这里借到书。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "书里有文字、文字以及更多的文字字字。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。这些书是供公众阅读的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个书柜。你能在这里免费借到书。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此多的书籍，如此有限的时间！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个书柜。"}]

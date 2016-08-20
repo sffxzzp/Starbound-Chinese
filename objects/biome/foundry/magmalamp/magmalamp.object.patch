@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏内置悬浮岩浆球来照明的灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熔岩灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这灯内部的悬液区域里有着发光的岩浆。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些岩浆小球非常热以至于发出明亮的光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "灯里悬悬悬着发光的岩浆。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陶醉。这盏灯里的熔岩形态让人无法移开视线。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我曾听说过熔岩灯，但从没亲眼见过实际用熔岩造的灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这盏灯内的岩浆营造出一种柔和的光氛围。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在这小灯里封存着发光的熔岩。"}]

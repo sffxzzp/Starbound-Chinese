@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一份礼物！用青色纸包起来并用金丝带装饰！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "青色礼包"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个礼包！这是给我的吗？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道这是给谁的礼物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想要礼物!能能能刺的一切东西！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "周到。礼物里面的东西一直在躲着我。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "礼包！礼物！包装纸！棒！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个包装精美的礼物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人花费了大量的精力在包装上。"}]

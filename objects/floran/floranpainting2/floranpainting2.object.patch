@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "好像有人在一块皮革上画了些象形文字。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始的符文画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "叶族人的书面语言顶多处于基础阶段。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个…看起来很像翼族人的符文。叶族人尝试适应过翼族人的语言吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个叶族人曾在纸上书写着文字字字。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。我在努力尝试翻译这字符。最接近的结果是翼族文字。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这跟我想像中的叶族人文字长得不一样。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人会用笔吗？这也许会是改革的第一步。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "兽皮上的一些胡乱的涂鸦。没什么特别的。"}]

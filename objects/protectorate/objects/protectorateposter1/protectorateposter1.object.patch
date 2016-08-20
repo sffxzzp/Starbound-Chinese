@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "海报"},
+{ "op" : "replace", "path" : "/description", "value" : "一张关于物质枪的海报。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张关于物质枪的很有戏剧性的海报。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这把物质枪是一个守护团毕业生的奖励品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一张关于守护者们至关重要的工具的海报！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激励。这张海报使我想要展开宇宙探险之旅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张海报有物质枪的特写，大地守护团奖励毕业生的一种多功能工具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "物质枪，一个有着多种用途的工具。多么激动人心。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "像我这样的年轻人需要一把像物质枪一样的工具。"}]

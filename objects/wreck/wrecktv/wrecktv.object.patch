@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "屏幕发出不详的闪烁灯光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的屏幕"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看上去它没有信号。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "全是雪花。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "机器上的图案在跳舞，真棒！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。没信号，全是雪花。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "雪花屏。我猜是因为没信号。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个显示器缺少输入信号。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不，没东西显示。"}]

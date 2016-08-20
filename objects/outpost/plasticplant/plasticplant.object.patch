@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "假的塑料植物而已。不是树。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "塑料植物"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这植物是仿真的！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "仿真植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人使使使劲戳仿真植物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。仿真植物是比真植物更好或是更糟？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "让我想起了候车室。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "令人厌恶的仿真塑料植物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "仿真植物――自然天成。"}]

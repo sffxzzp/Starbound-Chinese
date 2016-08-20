@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把简单的钨椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钨椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这不是最舒适的椅子，但我已经很满足了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个还算体面的座位。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人坐坐坐在椅子上想着打猎的事。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "放松。这张椅子对电子人来说十分舒适。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一把硬邦邦的椅子。让我回想起了在学校的日子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "并非鲛人所习惯的奢侈风格，但我已在这里得到满足。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "并不是最好的，但我不挑剔。"}]

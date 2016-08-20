@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "从守护团旗帜上撕裂的一小块布料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团旗帜碎布"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一小块掉在地上的撕裂的布料。我该把它捡起来吗？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这一小块的布料是从上方的旗帜上撕下来的吗？也许我该把它捡起来。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "地上的一堆破破破布。也许叶族人该拿上它？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。一些从守护团旗帜上扯下来的材料。我该把它捡起来吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一堆放在地上旗帜碎布。我该把它捡起来吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一小块从上方守护团旗帜上撕裂的布料。也许我该把它捡起来。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一小块从上方守护团旗帜上撕裂的材料。我该把它捡起来吗？"}]

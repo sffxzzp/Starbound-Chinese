@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着：“一种寄生在能源晶体内的异常存在。”"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "变异晶体手办"}]

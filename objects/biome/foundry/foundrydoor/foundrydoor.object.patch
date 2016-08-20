@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个通常用在铸造厂的厚重金属门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "重型门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个厚重外观的门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我勉强能推开这个门，这门太重了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人抨抨抨门会发出很大的声声声音。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "顽皮。我想知道我抨击这沉重的门是否能发出巨大的回声……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个拥有舷窗的门！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这门类似那些在海底发现的门，厚重得滴水不漏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个带有方便的舷窗的厚重门。"}]

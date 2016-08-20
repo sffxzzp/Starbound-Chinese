@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一大架子的状态舱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "状态舱储物单元架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大地守护团向宇宙中发射了这些状态舱。它们有时会故障。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些状态舱在闲置了许多年之后有时会故障。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪亮的状态舱舱舱。很好的资源，但有时时时候会很危险险险。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这些状态舱被发射进了太空中，并落在了最近的星球上。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些状态舱被发射进太空中并藉此开拓殖民地星球。虽然它们有时候会故障。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种自动化的殖民手段。探险家们常常会发现自己被这些东西挫败。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一组不错的状态舱。无视偶尔出现的故障的话，它们还是很有用的！"}]

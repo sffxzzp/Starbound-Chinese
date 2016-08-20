@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个高科技的枪支容器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "枪箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我看过很多科技发展部的守卫把枪支存放在这样的箱子里。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我相信这些箱子是用来存放火器的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "丑陋的鱼人把枪放在这个箱箱箱子里。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。普遍被认可的用来存放枪支的高科技箱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "枪支的存放容器。我看过电视上的人在用这些。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "枪支存放用的箱子。我以前在哪看过这么一个。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是个存放枪支的奇特方式。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "楼层标记。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "楼层"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "楼层标记。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个楼层标记。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "楼层标标标记。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "了解。楼层标记。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个楼层标记。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个楼层标记。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是楼层标记！唔哈！"}]

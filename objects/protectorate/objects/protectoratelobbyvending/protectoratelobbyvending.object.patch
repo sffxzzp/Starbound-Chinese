@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台守护团大堂的自动贩卖机。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团自动贩卖机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台动贩卖机出售过饮料与零食。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "你能在这台自动贩卖机买到能量饮料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "能量饮饮饮料在叶族人认真备备备考时很有帮助！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。这种能量饮料对电子人没什么用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "噢我的天。我已经喝了太多能量饮料了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一台供应含糖饮料和零食的自动贩卖机。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种能量饮料能让你一整晚都精神焕发。丧心病狂，我跟你们说。"}]

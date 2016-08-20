@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "土豆！煮了它们、捣烂它们、放进锅里炖了它们。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "土豆种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "土豆简直不值一提。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "捣烂的土豆可以做成一道令人欣慰的菜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "新鲜出土的又硬又脆的土土土豆。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。人类用这种普通的东西创造了许多菜肴。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊啊啊，土豆。还有什么是你做不到的吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种单调乏味的普通块茎类蔬菜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "非常适合在寒冷的夜晚放在篝火上烤来吃。"}]

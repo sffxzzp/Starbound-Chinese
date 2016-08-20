@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以长出软绵绵的棉花的植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "棉花种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "棉花易于种植，而且生产用途广泛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "棉花植株！这种资源广泛的农作物有非常多的用途！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人可以用棉花花花做柔柔柔软的纺纺纺织品。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "创意。我可以用棉花做很多东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "棉花，人类最古老的资源之一。用途多大啊！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人织工可以用棉花创造出最柔软的织物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这样的棉花可以被做成一大堆东西。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个小小的安全面板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雕刻安全面板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个安全面板包含的技术我无法理解。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个面板的晶体通过振动向其他晶体器件发送信号。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的鸟人技术。叶族人很乐意霸占它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这种科技甚至对我的创造者来说都是新奇的。晶体内似乎能产生兼容性电流。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来像是某种控制面板。它似乎不需要电源。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多么美丽的技术。我仿佛能触摸到它的线头。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里有一些很闪亮的灯和按钮。"}]

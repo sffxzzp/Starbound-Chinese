@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "考究自动化的标牌工艺平版印刷工。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "EASEL"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以在这打印各种标牌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在这里我能制作和打印标牌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "多少词是很多词？三。三个词词词。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊奇。古登堡机器人会对这个玩意儿感到惊讶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以在这特制一个标志！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "标牌是用来传意和开导的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我不是这么急着冒险的话，我就能制作各式标牌。"}]

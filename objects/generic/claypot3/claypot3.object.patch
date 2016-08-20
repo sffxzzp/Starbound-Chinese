@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个装饰用陶罐。想知道里面会有什么呢？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宽口陶罐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小陶罐。我该砸烂它吗？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个陶罐。里面肯定有些有用的东西！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这是个可以被砸砸砸烂的陶罐！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。打烂这个易碎的陶罐可以露出里面的东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我觉得里面有什么东西，我应该可以砸开它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个陶罐是被精心制作的，但是里面的东西不把陶罐砸破是得不到的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我敢打赌我一枪就能打烂这陶罐。"}]

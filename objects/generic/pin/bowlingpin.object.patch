@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "击倒它！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "保龄球瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是个平衡的保龄球瓶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "竞技比赛用的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想要打翻它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。它们一字排开只为被再次打倒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个保龄球瓶。我想击倒它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它被击倒了很多次，然而又再一次站了起来。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个保龄球瓶乞求被再一次击倒。"}]

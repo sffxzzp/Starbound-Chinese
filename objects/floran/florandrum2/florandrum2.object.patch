@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用皮革和木头做成的手鼓。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型手鼓"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个手鼓。猿人喜欢打击乐器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人更喜欢锣的声音。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人是整个宇宙中最最最厉害的鼓鼓鼓手！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无感。一个简单的乐器。看起来只能发出一种简单的声音。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个手鼓！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "从这个鼓的外观来看，叶族人对音乐的研究估计很肤浅。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个手鼓。手鼓很好玩！"}]

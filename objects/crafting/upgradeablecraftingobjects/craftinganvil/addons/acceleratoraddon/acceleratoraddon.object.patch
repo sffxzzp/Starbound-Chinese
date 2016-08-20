@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能让复制机附加上额外的远程装备的模组。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;加速者组件^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "多么有用，这个能给复制机附加上额外的远程装备。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我能用这个给复制机附加上额外的装备。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用这这这个给复制机附加更多的东西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。使用这个模组能给复制机附加上额外的远程装备。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "使用这个给复制机附加上额外的远程装备！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个有用的模组能给复制机附加上额外的远程装备。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个便利的模组能给复制机附加上更多的东西。"}]

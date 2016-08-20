@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "铭牌上写着“真金不一定闪闪发光。授予英雄般的胜利。”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "勇者奖杯"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个奖杯很小但是是个不错的象征。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "开心。这个小奖杯看上去让人很愉悦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个小奖杯，是做了什么让人印象深刻的事之后赚回来的。"}]

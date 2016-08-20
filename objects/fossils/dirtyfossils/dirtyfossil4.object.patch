@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某种埋在泥土和淤泥中的化石，得仔细清理将其从土块中取出。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "化石"}]

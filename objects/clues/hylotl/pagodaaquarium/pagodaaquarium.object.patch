@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个壮观的水族箱，上面有个小型鲛人宝塔。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宝塔水族箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个水族箱的上面有一个微缩型小岛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多可爱的模型小岛啊！它让这个水族箱变成了一幅立体画。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人没在水箱里看见鱼鱼鱼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这个玻璃鱼缸的顶部有一个小岛模型，用一个金属管连接到底部。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个非常令人印象深刻的鱼缸。我想知道这个模型小岛是复制了一个真实的地方吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个水族箱上的构造精美的小岛一定花了很长时间来制作。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个鱼缸里并没有任何鱼。尽管上面有一个精美的微型小岛。"}]

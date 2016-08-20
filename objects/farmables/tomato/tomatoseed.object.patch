@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "番茄是一种富含汁水的水果。或者说是一种蔬菜。反正是二者之一。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "番茄种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我喜欢成熟的、多汁的番茄。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "番茄种子能使一道菜变得更好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "番茄爆出出出的汁液和血液一样鲜红。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "顽皮。腐烂的番茄可以用作很好的抛掷物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "番茄很适合用来做一顿健康的沙拉……或者更好的，披萨。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果番茄没那么抢眼的话，还是可以接受的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "番茄可以做成可口的小吃，也很适合拿来丢向恶棍糊他们一脸。"}]

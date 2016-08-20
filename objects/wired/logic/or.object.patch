@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个‘或’逻辑门。让你可以有多个独立的输入信号。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "或门"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个‘或’逻辑辑辑门。让你可以以以有多个独立的输入信号。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。一个‘或’逻辑门。让你可以有多个独立的输入信号。"}]

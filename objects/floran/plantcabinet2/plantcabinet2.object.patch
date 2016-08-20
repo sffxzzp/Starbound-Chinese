@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张带有大抽屉的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大柜子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张桌子的表面制作工艺良好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌柜的结构让我印象深刻。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一张桌子子子，叶族人在里里里面存放东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这张桌子的品质对于叶族人的设计水准来说有点不同寻常的高。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "考虑到它来自与叶族人的监狱，这张桌子相当漂亮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个粗糙简陋的叶族人柜子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是张漂亮的桌子，你可以在里面存放东西。"}]

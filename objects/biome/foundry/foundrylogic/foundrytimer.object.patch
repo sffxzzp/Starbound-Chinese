@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个计时器。用在你需要点时间离开的时候。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造0.5秒计时器"}]

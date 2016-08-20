@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个储物柜。何不存点东西进去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船储物柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道这个储物柜里是否有什么秘密？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这储物柜里可能有什么重要的东西么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人搜搜搜寻储物柜来找贵重的东东东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激动。这里面有什么有趣的东西么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "飞船储物柜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "储物柜里可能有什么有用的东西吧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个储物柜，用来放东西。"}]

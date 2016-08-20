@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "来自守护团学院的守护团壁挂旗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团壁挂旗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一面黄色的守护团旗帜。很棒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "犹如灿烂的阳光一样明亮。这颜色能很好地象征大地守护团。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黄色的守护团旗帜让让让叶族人感到高兴。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。标志性的守护团旗帜。我很高兴自己也是这其中的一员。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一面鲜艳的守护团大旗帜！我希望也能在我的寝室里也置办一面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "守护团旗帜代表着许多东西。对我们所有人来说都意义重大。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我喜欢守护团旗帜鲜艳的颜色。"}]

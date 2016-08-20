@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这里曾经是一个整洁的摊位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "关机的迷宫边境６４"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不是迷宫边境６４的粉丝。我听说过科技发展部测试时的恐怖故事……迷宫让我毛骨悚然。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "迷宫边境６４是由一个翼族人团队开发的。翼族人的电子游戏并不多……也许我应该做一些。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人认为为为迷宫边境６４太无聊了。结局竟然没有肉肉肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "决心。我将逃离此地狱般的迷宫，并彻底击败迷宫边境６４！８／１０"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "迷宫边境６４是对地球最早的那些电子游戏的怀旧。真是吸引人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在昏暗的回廊中穿行，离自由仅一步之遥……迷宫边境６４于简约之下有着内在的美丽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "迷宫边境６４？迷宫老浪费时间了。"}]

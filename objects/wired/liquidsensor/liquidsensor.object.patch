@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "别用你的手指！这个可靠的传感器是用于检测液体的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "液体传感器"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "别用你的手指！这个可靠的传感器器器是用于检测测测液体的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这个可靠的传感器是用于检测液体的。"}]

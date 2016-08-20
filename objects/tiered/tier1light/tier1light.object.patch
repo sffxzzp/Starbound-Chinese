@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏方便的手提油灯。小心别打翻了它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁提灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "没什么奇特的，但它能派上用场。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "即使是最黑暗的房间，这盏基本的提灯都能照亮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "提灯对叶族人来说是安安安全的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。一盏耐用的提灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏坚固的、了不起的提灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个实用的光源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个能很好地照亮房间。"}]

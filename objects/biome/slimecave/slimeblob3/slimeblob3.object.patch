@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一滴污秽的粘液泡沫。呸！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粘液泡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一团腐臭的粘液。我到底应该如何保存它？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一大团粘液，这东西为什么会存在呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "像树树树液。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。一大团污秽的黏液。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一块巨大的凝胶。我有点想捅破它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果你也有两栖动物的皮肤，就会知道处理粘液泡是多么难受。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我觉得这东西会派上用场的。"}]

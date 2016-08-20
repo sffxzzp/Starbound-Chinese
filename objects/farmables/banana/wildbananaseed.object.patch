@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "基因强化后的香蕉。树型更小果实更大。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "香蕉种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "因科技发展部的缘故，有个老套说法认为猿人喜爱香蕉。虽然它们是很美味。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些香蕉尝起来有种让我无法弄清楚的不寻常。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻闻闻起来像只猴人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讽刺。猿人喜爱它们，而电子人没看出特别的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它像香蕉，但是甚至比香蕉更有香蕉味。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "基因改造后的香蕉，我能尝出其人工的风味。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "基因强化后的香蕉是最棒的香蕉。"}]

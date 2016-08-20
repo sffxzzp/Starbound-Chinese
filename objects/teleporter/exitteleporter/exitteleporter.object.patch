@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个传送门在当我准备好离开的时候可以将我送回飞船上。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "出口传送门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它可以让我轻易地返回到飞船上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以使用这个返回到飞船上！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "传送门让叶族人可以返回到飞船上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。传送门可以将我送回到飞船上。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "当我准备好返回到飞船上的时候我可以使用它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种快速返回飞船的有效手段。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个返回到我的飞船上继续冒险的便利途径！"}]

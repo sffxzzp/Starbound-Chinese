@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个已经被损坏了的小书架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的小书架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个书架遭受到了非常严重的破坏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道这个书架是怎么被破坏的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "书书书架是被破破破坏了吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这个书架是怎么受到如此严重的破坏的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个书架残骸。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个损坏的书架真是一片悲惨的景象。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里究竟发生了什么？"}]

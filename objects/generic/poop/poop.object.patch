@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一堆令人作呕的粪便。臭气熏天！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大便"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "粪便。这是做什么用的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我最好不要走得太近。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻闻闻起来真难闻。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "决意。生物物质真恶心。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "请告诉我这玩意是假的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然进程的一部分。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "想不出来可对这东西说的好话。"}]

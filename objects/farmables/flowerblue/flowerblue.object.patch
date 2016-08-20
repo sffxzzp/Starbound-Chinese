@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一朵有亮蓝色的花瓣的花，用于制造染料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色花朵"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一朵蓝色的花。它是有用途的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一朵可爱的蓝色花。我可以用这些做出缤纷的染料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这蓝色的话可以用来制造彩色的衣服！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "深思。一朵蓝色的花。在制造染料时很实用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一朵绿色的花。等下，啊不，这是蓝色的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一朵令人愉快的蓝色花朵，美观实用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一朵蓝色的花？它肯定可以派上什么用场。"}]

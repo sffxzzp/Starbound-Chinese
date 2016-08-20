@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个传送门做了一个很好的示范并且还设置了一个很方便的返回点！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "双向传送商店传送门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果我标记它，我就可以随时用其他传送门传送回这里。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一台正常运作的传送门！如果我标记它，我就可以随时用其他传送门传送回这里。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "如果叶族人标标标记这台传送门，叶族人就能使用其他传送门回到这里！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。标记了这台传送门的话，我应该就可以用其他传送门回到这里！ "},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是传送门！如果我标记它，我应该就能随时使用其他传送门回到这里。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "传送门。如果我标记它，我应该就能使用其他传送门回到这里。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只要标记了这台传送门，那么如果我找到了另一台传送门，我就能直接传送回这里。"}]

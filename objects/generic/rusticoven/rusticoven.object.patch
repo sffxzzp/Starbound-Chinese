@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "伴着轻柔的噼啪响声，山核桃木烟雾的香气让人心情愉悦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "田园炉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可爱的小炉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者喜欢在这样的小炉子上烧东西吃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石头炉子烧肉不错。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有益。砖块反射热能，使烹饪快速而均匀。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可爱的炉子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多迷人啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好吧这大概是我见过最可爱的小炉子了！"}]

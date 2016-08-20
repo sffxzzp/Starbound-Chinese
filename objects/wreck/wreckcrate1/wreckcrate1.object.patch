@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个古代的板条箱，我很好奇里面究竟装了什么……"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的板条箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个破旧的板条箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这里面还会有东西吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个破破破碎的旧箱子"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一个旧货箱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个旧板条箱。也许里面还有东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样损坏的板条箱里，会有值得被珍藏的宝藏吗？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我甚至都不确定这板条箱是否值得一看。"}]

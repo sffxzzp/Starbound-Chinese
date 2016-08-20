@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "满足所有你的节日制作的需求！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "玩具商桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张配有制作节日装饰的工具的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个节日的桌子让我传播节日的欢乐。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人要做漂亮的红色蝴蝶结结结。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "喜庆。我要制作最美味的橡皮糖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以用这张桌子制作圣诞装饰品！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用这张桌子，我能制作最通俗的节日装饰。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个能让我制造所有节日装饰品。"}]

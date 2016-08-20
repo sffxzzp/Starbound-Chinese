@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "古老的、被人遗忘的地雷。它或许还在运作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生锈地雷"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个地雷。它或许还在运作。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "哦嚯！我不想踩到它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小心你脚脚脚下！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。一个仍在运作的地雷，我最好小心点。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不想冒这个险，这东西还是有可能爆炸的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "地雷，体积比水雷小但仍然致命。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这东西仍然可能爆炸。"}]

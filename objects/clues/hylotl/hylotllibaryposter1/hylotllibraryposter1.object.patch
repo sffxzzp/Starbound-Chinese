@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "老式图书馆海报"},
+{ "op" : "replace", "path" : "/description", "value" : "一张古代鲛人图书馆的旧海报。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张古老的手绘海报上似乎是一个鲛人图书馆。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张描绘了夕阳下的图书馆的华美的手绘海报。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "日日日落。叶族人狩猎的理想时间。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这是张手绘的海报－我想知道它是用来干什么的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张老旧手绘海报描绘了一个巨大的鲛人图书馆，对花大把时间来建造它的人来说它一定非常重要。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人所作的这幅手绘海报里的艺术性是不可否认的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那夕阳带给我一种哆嗦后的温暖感。这是一张很好的图画。"}]

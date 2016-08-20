@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张用皮革和巨大的骨头做成的沙发。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始沙发"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张用骨头和皮打造而成的沙发。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些骨头有多尖就有多柔软。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人要捕杀大量猎物来制作骨头沙发。其他叶族人坐坐坐在沙发上。赞美叶族人的杀戮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。皮革上面还粘着血。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个沙发看上去应该属于一个特别嗜血的叶族人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "想象叶族人坐在活生生的生物骨头上让我感到十分恶心。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我只是无法想象会有人可以在这么尖锐的沙发上休息。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把奢侈的扶手椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "软扶手椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把被松软的垫子覆盖的扶手椅。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可以整个人陷在这把椅子里。最放松不过了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人像流沙沙沙一样陷陷陷在椅子里。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷静。这把椅子是一支强大的松弛剂。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是你一生中得有的那种椅子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "吸引人的蓝色调。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "软软的，像坐在棉花糖上一样。"}]

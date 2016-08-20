@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇加工过的镶边门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "镶边门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这扇木头门并不是手工做的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门是机器做出来的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不喜欢工厂做的门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这扇门看上去是在产品流水线上加工出来的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇廉价的加工过的门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门缺少手工的痕迹。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇廉价的木头门。"}]

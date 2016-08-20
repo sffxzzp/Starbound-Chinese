@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "煮了它、炒了它，把它丢向新娘子。大米！满足你所有的烹饪需求。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大米种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大米。任何饭菜最好的佐料。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "大米，一种用来啄的美味零食。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用准备好的米饭来当煮心心心脏的美味佐料。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗乐。有个电子人有次吃下了生大米然后成为了一位成功的打击乐手。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "大米。在你饿到想吃成吨东西的时候很适合用来充饥。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大米。味道平淡但却用途广泛。一顿饭简单的基础。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "偶尔吃一顿米饭也不错。搭配辣椒最棒了！"}]

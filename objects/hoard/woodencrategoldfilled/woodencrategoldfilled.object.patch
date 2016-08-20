@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "木制的板条箱里装满了珍宝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "满是宝藏的板条箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木制板条箱。 里面的宝藏多到快要装不下了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个装满金子的木制板条箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "木箱子里有有有宝藏！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这个木箱显然已经放不下如此多的财宝了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个装满宝藏的板条箱，安全性显然没放到优先级中。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个用木制板条箱里面满溢着财宝。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我要如何把我的所有的战利品储存在一个没有盖子的板条箱里呢？"}]

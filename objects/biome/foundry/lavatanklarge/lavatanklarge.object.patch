@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "装满熔融液体的密封罐子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型熔岩罐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "罐子里喷出滚滚云烟。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这罐子装着熔融液体。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这罐子装装装着熔岩液。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难耐。这种尺寸的罐子真棒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这罐子内部装有熔融液。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "气从罐出，似有毒性。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "大罐头里喷出云烟。"}]

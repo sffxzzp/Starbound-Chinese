@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个‘非’逻辑门。能够反转输入的信号。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造非门"}]

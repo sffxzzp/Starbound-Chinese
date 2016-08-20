@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个墙壁上的涂鸦警告。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "道路已封锁"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "啊哈？封锁？咱们走着瞧！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "啊哦，也许我不应该忽视这个。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人没没没有注意这个警告。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这个警告是真的还是假的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "涂鸦什么时候才会变成真的呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这条信息的作者不详，图画的可靠性值得怀疑。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "随你便！"}]

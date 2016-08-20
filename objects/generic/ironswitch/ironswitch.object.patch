@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "……控制台中之剑？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刀锋控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些剑被当成了杠杆。我在想它们会激活什么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "利用损坏武器的明智之举。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人拉动了剑。剑让灯嗡嗡作响。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。一把宝剑可以有很多用途，甚至在它们磨钝之后。这里，它们被当作了杠杆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在拉动杠杆和担心割到自己的手之间犹豫不决。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样的设施会成为迈向和平的一步吗？或者说它们是暴力的威胁？"}]

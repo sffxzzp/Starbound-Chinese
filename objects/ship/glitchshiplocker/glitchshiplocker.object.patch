@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个储物柜。何不存点东西进去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船储物柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "电子人储物柜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "飞船的储物柜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "电子人在这储储储存货物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。很不错的电子人储物柜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "存放贵重物品的好地方。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这让我想起了一句古老的鲛人格言：“勿忘藏物之处。”"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个储物柜，用来放东西。"}]

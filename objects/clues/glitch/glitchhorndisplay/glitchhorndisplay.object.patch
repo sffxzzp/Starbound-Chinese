@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个带旗帜的仪式用喇叭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "喇叭挂旗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它看起来会被用到某种仪式中。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它看起来很重要。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想听吹喇叭！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "骄傲。这样的喇叭是在特殊仪式上使用的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这喇叭看起很重要，为什么其他东西会挂在上面呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不太确定为什么这样的喇叭会在仪式上使用？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "当然这个看起很重要，它值多少？"}]

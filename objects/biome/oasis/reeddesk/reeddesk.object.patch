@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张由木与芦苇制成的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "芦苇桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张芦苇做成的朴素桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张由木头和芦苇做的简单桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一张桌桌桌子。能用来切肉肉肉吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。有什么东西会被放到这张桌子里面呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个有芦苇抽屉的木桌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "显然这个桌子是用拾来的材料精心制成的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不太想坐在这张桌子旁边。"}]

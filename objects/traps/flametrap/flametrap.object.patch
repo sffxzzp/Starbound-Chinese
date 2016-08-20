@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个设计来阻挡入侵者的火焰陷阱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族火焰陷阱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个火焰陷阱，一定要避开。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "噢！火焰和羽毛可不能融洽相处！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火焰陷阱是叶族人的死死死敌！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这只是个小小的火焰陷阱，没什么是克服不了的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个值得信赖的、可靠的火焰陷阱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "敏捷的战士可不畏惧火焰。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "简单而又致命。是我喜欢的类型。"}]

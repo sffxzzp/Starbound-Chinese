@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标牌就是从这制造出来的。或许我可以放一个进去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "EASEL柜机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有一台扫描仪和一台打印机。非常有用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这机器可以扫描和打印标牌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打印标标标牌，扫描标牌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。打印出来的标牌出现在这里，这里也可以拿来扫描标牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这就是个打印机和扫描仪！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "打印出的标牌在这，这里也可以拿来扫描标牌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里是标牌打印出来的地方。你也可以在这里扫描。"}]

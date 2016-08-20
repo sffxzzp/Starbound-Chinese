@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张叶族人监狱的床铺。它的根须在地上蔓延。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "植物床铺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张监狱的床铺。总比睡在地上好一点。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用植物做成的监狱床铺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人的罪犯拥有基基基本的床铺铺铺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。这张床铺是用植物做的，上面爬着许多虫子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张床铺看上去没多大的用处。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看上去像是这些植物长成了床铺的样子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去像是张用植物做成的睡觉用的垫子。"}]

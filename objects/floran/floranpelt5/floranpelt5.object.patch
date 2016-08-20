@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种小型雪地生物的毛皮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雪白的小毛皮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张毛皮看上去属于年幼的野兽。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "年轻又漂亮的野兽的毛皮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "幼年雪地野兽的毛皮对于叶族人来说很特特特别。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊慌。被叶族人猎杀的野兽幼崽的毛皮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张带有花纹的野兽皮。看上去野兽非常的年幼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "让人惊悚的是，这张毛皮看起来来自于一只野兽的幼崽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一只美丽的生物。或者说，曾经是…"}]

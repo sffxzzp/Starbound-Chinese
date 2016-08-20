@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张让守护团学生平静下来的好椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团会客椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把充满设计美感的椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这把椅子是蛋状的！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人曾在这里睡睡睡着。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一把蛋状的椅子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "任何坐在这椅子上的人看起来都很酷。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一把看上去像蛋的椅子。坐在上面会很有安全感。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是把不错的椅子。坐着也很舒服。"}]

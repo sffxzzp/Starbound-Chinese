@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来消遣时间、耽搁正业。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团游戏机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有时候我会拿上它和我的室友玩上好几盘游戏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "啊，我尘封已久的游戏机。因为我一直沉迷学习，它看上去有点脏了……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "射击游戏戏戏是叶族人的最爱！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。我的游戏机！我试着不让它在考试季使我分心。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦，我的天……我真想马上就打几盘游戏。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我现在不能因游戏而让自己分心。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "学习娱乐两不误。这是我们这里的信条。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "铸剑而成的马桶。真危险。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刀锋马桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这还不是我见过的最吸引人的马桶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我真是想象不到这样的东西会变流行。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "尖尖尖锐的大脑碗。叶族人窃取这样的创意来做自己的大脑碗。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。这个马桶只对电子人来说是安全的，但是我们又不需要它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "铸剑而成的马桶。我会连着几个星期做噩梦的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果这些剑还能被用于战斗的话，人们差不多会喜欢它。"}]

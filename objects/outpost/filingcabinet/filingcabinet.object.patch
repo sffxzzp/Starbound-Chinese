@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "文件柜。已分类好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "文件柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用来存放文件的柜子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "存放文件的柜子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "装满资资资料的柜子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。一个被可能已经分类好的文档所填满的文件柜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "文件柜。或许我该偷看一下。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "简约但很实用的储物解决方案。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "组织文书工作的柜子。"}]

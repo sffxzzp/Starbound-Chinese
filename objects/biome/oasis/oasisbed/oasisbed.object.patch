@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个带遮阳伞的折叠式休闲躺椅，很适合大晴天。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "折叠式休闲躺椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "啊哈，一个在阳光下打盹的地方。这真不错。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这看起来是个小睡一下的好地方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "为啥要要要用大花挡太阳？真真真傻。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "开心。雨天我能在这休息而不会生锈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我喜欢躺这里休息，偶尔看下书并小啜一口冷饮。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "优雅的休息场所，在阳光的温暖下读一本书－如此完美祥和。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这就是雨天你想要在外面小憩的地方？我不明白。"}]

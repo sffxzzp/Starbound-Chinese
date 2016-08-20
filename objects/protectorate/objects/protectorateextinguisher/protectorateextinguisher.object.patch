@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用来应对最糟糕事态的灭火器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团灭火器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "安全第一。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个灭火器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火焰克星！叶族人讨讨讨厌火。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。我很高兴这里有些安全预防措施。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个灭火器。我怀疑它曾被使用过。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是一个灭火器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用于灭火。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "以剑为桌脚的桌子。并不适用于桌下碰脚调情。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刀锋之桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这桌子总让人有种最终会扎到某个人的脚趾的预感。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "坐在这种地方足以让人感到急躁。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在桌子上切东西。现在，叶族人用桌子切东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "舒适。一张休闲桌。其他人看上去都小心翼翼的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我非常犹豫要不要坐在这儿。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "作为武器的替代用法来说这大概也太危险了。"}]

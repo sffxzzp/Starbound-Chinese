@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个造烟机。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "造烟机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "造烟机非常适合干扰他人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个造烟雾的机器，但这是为了什么呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "造烟烟烟机器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欢乐。这个机器会制造烟雾。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "某种烟雾机器，非常适合迪斯科舞厅！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个烟雾机器，如此……有意境。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种造烟机器。"}]

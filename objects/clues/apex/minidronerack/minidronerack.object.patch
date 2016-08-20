@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台显示从顶部的无人机下载的信息的电脑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "微型遥控情报台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台电脑似乎正在从一个科技发展部的监视无人机下载数据。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台电脑连接到无人机上。我想知道它发现了些信息？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "电脑屏屏屏幕上显示了从那台设备上获取的东东东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。这台电脑显示了从它连接的小机器人获取的信息。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这台电脑与顶部的无人机相连。我想知道这是谁制造的，能从这上面获取什么样的信息？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这台电脑正在循环显示从银色小无人机上获取的数据。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道这些东西制造出来有什么用？"}]

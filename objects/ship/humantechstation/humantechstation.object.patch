@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "人工智能舰载网络，或简写作S.A.I.L。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "S.A.I.L"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "通过控制台，我能和SAIL交流。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我能使用科技站和SAIL交流。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用这这这个神奇的面板和SAIL交流！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "快乐。这个科技站使我能和SAIL交流。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个科技站使我能和SAIL交流。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个科技站使我能和SAIL交流。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个科技站让我能和SAIL聊聊。"}]

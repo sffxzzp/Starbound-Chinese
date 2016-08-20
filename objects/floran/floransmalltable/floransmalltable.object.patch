@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张用一棵小树顶着一块木板制成的的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始小桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张用一株树苗打造而成的桌子。最简单的设计。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来，不管是动物还是植物的遗骸，叶族人都会用来做家具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用树来制作小小小桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。这张桌子的基座是一株死掉的树苗。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张桌子的基座看起来很像一棵小树。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人似乎是用了一棵树来做一张桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "巧妙地把树做成了桌子。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个绿色发光晶洞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高晶符Ａ（本位音）"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个当我靠近就会发出旋律的石头。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个发光石头。发出音符之声。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发光的石头传出阵阵鸣音。叶族人聆听着。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。声波从这种地质构造中发出。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个发声石头。太酷了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "光与音之石。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "又大又老的绿石头就像教堂的钟一样会鸣响。令我头晕目眩。"}]

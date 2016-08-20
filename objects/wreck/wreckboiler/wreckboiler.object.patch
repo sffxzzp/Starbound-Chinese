@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个老旧的锅炉。里面有水滴声。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的锅炉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个老旧的，生锈的锅炉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个锅炉已无法使用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个老旧的，生生生锈的锅炉舱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "忧郁。一旦生锈，这个锅炉就得裂开。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "留在这个锅炉里的水闻起来真臭。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个装满臭水的老旧锅炉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个无用的、生锈的锅炉。"}]

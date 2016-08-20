@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可爱的小泰迪熊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泰迪熊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可爱令人想抱住的小熊。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可爱令人想抱住的玩具熊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "绒毛玩具在盯盯盯着叶族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣喜若狂。这只熊柔软而毛绒绒的！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我只想永远抱着这只熊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "咦咦咦！棒极了的小熊玩具。我爱它！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我觉得这小东西十分可爱。"}]

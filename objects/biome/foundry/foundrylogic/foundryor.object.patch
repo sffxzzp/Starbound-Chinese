@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个‘或’逻辑门。允许你有多个独立的输入。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造或门"}]

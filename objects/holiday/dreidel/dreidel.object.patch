@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个的不断旋转的四边形陀螺。每边都有一个奇怪的符号。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "陀螺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有趣的陀螺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个旋转的玩具非常有趣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "会旋旋旋转的玩具！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欢乐。一个旋转玩具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "酷，一个陀螺，在太空中！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个简易的旋转玩具不知何故使我充满了欢乐。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这和我的铭刻一样的符文莫非是为我特制的？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "克鲁西斯神的古代壁画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "克鲁西斯的世界"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这幅壁画似乎描述了翼族人的某些珍宝。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张克鲁西斯的壁画描述了我族人民珍贵宝藏的位置……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石头做的东西看看看起来很重要。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这幅壁画似乎描述了一个古老的宝藏。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这壁画描述了一个古老的翼族神庙，充满宝藏。哈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这幅奇怪的壁画描述了一个古老的翼族神庙，充满财宝。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这玩意儿好像描绘了某种寺庙。"}]

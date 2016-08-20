@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "桌子。十分适合用来玩桌游或吃饭。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基础金属桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "像样的桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "漂亮的桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一张桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不吸引人的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "仅仅是张桌子。"}]

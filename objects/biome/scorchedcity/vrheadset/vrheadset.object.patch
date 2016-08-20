@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一款虚拟现实头盔。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "VR头盔"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "安装上适合的程序，我就能探索我能想到的任何地方。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "使用这种头盔，仿佛翱翔在天际！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人也可以在VR里进行狩猎呢！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。戴着虚拟现实头盔就像在改变你的程序，然而现实里并没有那样。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我戴着这个能去任何地方，甚至太空。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个迷人的设备，能够在不沾湿皮肤的情况下模拟水下体验。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用这种装备，我能足不出户地漫游整个宇宙！"}]

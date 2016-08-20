@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个古老，破旧，布满尘埃的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尘埃椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "又老又破，但能正常使用就够了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张坐垫用草填充的椅子。我能够习惯这东西！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人觉得椅椅椅子在战斗中负伤了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。难道这家具是故意要表现杂乱吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看起来有点破。我不确定我是不是应该坐上去……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这椅子看起来经历过很多东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "灰尘也没那么糟糕。"}]

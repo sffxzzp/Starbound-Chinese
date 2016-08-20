@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个光秃秃的灯泡挂在天花板的一根金属棍上。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "闪烁的灯泡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个灯泡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "灯！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "真亮呀！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "同情。我希望能给这个灯泡捐一个灯罩。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "令人沮丧的装置。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "未经雕饰的灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一只孤独的灯泡。"}]

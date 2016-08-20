@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "多么吸引人，让我目不转睛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "企鹅酒吧招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "吸引人的酒吧招牌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个酒吧招牌需要凝视。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "矮矮矮壮的鸟儿有个酒吧。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这是坏了，还是有意为之？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇哦，一个酒吧！还有企鹅！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不太了解这个酒吧招牌，但的确很吸引人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这群粗野吵闹的鸟现在也有了自己的酒吧。"}]

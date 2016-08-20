@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个被雕成椅子的巨大镂空晶洞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "晶洞椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个晶洞作为座位有着合适的形状。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这椅子看起来不怎么舒服，但确实能用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大石石石头不是好椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "在意。这椅子坐的时间长了确实会不舒服。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种镂空晶洞大得足以坐在里面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "以美观性弥补舒适性。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这就是我曾见过的最华丽的石头座位。"}]

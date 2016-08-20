@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这需要一把电吉他来配合使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团音箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个强力的扩音器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这箱子连着电吉他。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个响响响亮的音箱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。一个优质的扩声器。有人在这上面花了不少像素。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个扩音器！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个扩音器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个扩音器。用来放大声音。"}]

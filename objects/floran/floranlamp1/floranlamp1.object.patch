@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏奇怪的绿光灯松垮地挂在一根弯木杆上。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藤荚灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这好像是一种会发光的植物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这株植物发出绿色的光芒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人绿手指种出来发光植物。火种越少少少，烧伤的叶族人越少少少。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。这个植物通过吸收白天的光线来发光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "怪异的绿光。我想知道那个荚子里装的是什么。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个植物有些地方感觉不对劲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这怎么能同时是一棵树又是一盏灯？"}]

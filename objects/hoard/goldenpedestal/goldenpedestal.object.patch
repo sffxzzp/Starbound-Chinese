@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个为某些特别之物准备的黄金基座。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金基座"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个黄金的基座。精美！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "没什么能比被放置在黄金基座上更值得骄傲的了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人把最喜欢的头头头颅放在基座上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。一个显眼的基座。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以在这里展示我的旧游泳证书。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个基本的展示架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看着很花哨的展示架。"}]

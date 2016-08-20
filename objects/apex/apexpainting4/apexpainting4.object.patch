@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "不要低估猿人对香蕉的爱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标准配置彩绘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一些人是如此地喜爱香蕉，以至于他们以艺术的形式将其不朽化了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一种黄色的水果。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶人厌恶黏糊糊糊的黄色食物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。它似乎是一种水果。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个香蕉……呃，好吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某些人肯定很疼爱他的黄水果。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种流行艺术？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一份被包裹在污秽的粘液泡沫里的蓝图。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝图泡"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一份被包裹在污秽粘液里的蓝图。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某种蓝图被包在里面。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "那里面是是是蓝图？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。它似乎包含一份蓝图。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "某种蓝图在这东西里面！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我觉得叶族人已经为他们的设计找到了适合的容器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这东西看起来确实不实用。"}]

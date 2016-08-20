@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "空心的竹枝系在一起而制作的风铃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "竹风铃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个竹风铃，在风中哗哗作响。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "空心的竹枝使风铃发出可爱的声响。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "竹枝在风中摇摇摇曳，发发发出悦耳的声声声响。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。我喜欢这个风铃发出的随机的旋律。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "空心的竹枝使风铃发出可爱的声响。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "空心的竹枝谱出舒缓的鸣响。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个木头风铃，声音很刺耳。"}]

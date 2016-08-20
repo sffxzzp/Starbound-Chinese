@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个装置是用来速冻物质的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "低温冲击波"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个装置射出的光束让人冷到骨子里。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一台冷冻机械装置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "冰也能变得很危危危险。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。这是一台高强度冷冻装置。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "注意这寒冷的冲击波。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "冰，水最致命的形态。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个低温冲击波能冻掉铜猴子的爪子。"}]

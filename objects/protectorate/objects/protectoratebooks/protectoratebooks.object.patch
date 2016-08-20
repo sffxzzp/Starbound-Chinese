@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "学习时间到……"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团课本"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一些消遣用的读物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "课程文献。我读过这些！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "书里有文字、文字以及更多的文字字字。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一些记载着大地守护团历史的书本。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "上学期我已经看过这些书了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一杯热饮，一本好书，真是惬意。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不是个书虫，但我学习过这些课程书籍。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "守护团庭院灌木。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团庭院灌木"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一棵大树。它的树干盘虬卧龙。我想知道当它长到超出平台范围后会发生什么。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这颗苍天大树对大地守护团来说非常宝贵。我听说它和学院一样久远。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "苍老又睿智的的的大树。叶族人想要和大树一样活既长寿又聪明。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这棵树有着和学院一样悠久的历史。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "守护团之树。也被称为“树”。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "今年开的花比以往我所见的都要更加明艳动人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这棵苍天大树据说与学院本身一样历史悠久。"}]

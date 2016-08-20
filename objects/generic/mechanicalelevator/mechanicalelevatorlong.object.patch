@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个电梯是以精致的发条系统运行的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "长机械电梯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可靠的电梯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "以精明的接榫齿轮系统运行的电梯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "接榫榫榫与齿轮轮轮使平台移动。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。一个发条电梯，确是个可靠的机制。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个发条电梯，一个满意的顺畅之旅。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "发条电梯是我经历过的最顺畅之一了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "接榫与齿轮使平台移动。"}]

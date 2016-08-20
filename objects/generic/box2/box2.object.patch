@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个安全的木箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "安全的木箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个被重新加固过的木箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用木头和金属打造的木箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金属将这些些些木箱固定在一起。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。这些金属支架让这个箱子比之前坚固很多。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个被金属固定过的木箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个简单的木头金属箱子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个箱子看上去像个方形的小桶。"}]

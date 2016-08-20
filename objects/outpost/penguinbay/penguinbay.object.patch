@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "出售假冒的飞船执照的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "企鹅湾"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可疑的鸟儿们和他们的黑市商品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这企鹅让我好紧张。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "松松松软酥脆的企鹅和他们要出出出售的货物！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "滑稽。这群小企鹅是走私者。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我感觉我走进了黑帮电影。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粗鄙有罪的鸟儿。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "吵闹粗野的鸟儿售卖危险的玩意儿，就像我这样。"}]

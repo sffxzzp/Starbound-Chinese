@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "没有什么比冬青更让你感到快乐！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "装饰的冬青"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "漂亮的绿色的冬青。尖尖的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这尖尖的植物使我感到十足的节日气氛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢尖尖的叶子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶、一条节日装饰的冬青树枝。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一条冬青树枝，乡愁之情油然而生。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一棵尖锐的植物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "叶子有着不错的颜色，但为何如此之尖利呢？"}]

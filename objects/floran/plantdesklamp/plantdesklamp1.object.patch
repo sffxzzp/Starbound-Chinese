@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏用发光的植物荚制作的台灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有机台灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台灯实际上是一株发光的植物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台灯只是一株用支架支起来的发光的植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人的台灯是用植物来驱动的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。这盏台灯显然没有任何能量来源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种植物制成了一盏相当高效的台灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多么不同寻常。这台灯居然只是一个支起发光植物荚的架子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这小小的植物发出了不错的光芒。"}]

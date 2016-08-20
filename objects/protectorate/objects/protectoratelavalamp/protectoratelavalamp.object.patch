@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "你这迷人的灯光！我的视线都挪不开了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团熔岩灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "迷人的灯光。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种灯不断地吸引我去注视它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这盏灯活着吗？它里面有东西在动！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平静。液体以令人着迷的方式流动着。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "让我想起了曾经做过的一个噩梦。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "缓缓落下的流动液体令我乡愁再起。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盏灯就像我的感觉一样。古怪。"}]

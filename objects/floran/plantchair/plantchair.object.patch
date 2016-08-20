@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把覆盖了藤蔓的木椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藤蔓椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些藤蔓是单纯地长在椅子上还是在固定着这把椅子？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这看上去就像大自然想要独占这把椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "藤蔓使得椅子更加坚坚坚固。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这些藤蔓丝毫没有降低这把椅子的舒适感。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不知道是这些藤蔓是长得非常快还是因为从没被修剪过。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些藤蔓实际上有着巧妙的设置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些藤蔓茂盛过头了。"}]

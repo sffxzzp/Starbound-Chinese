@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张可以懒洋洋地躺卧在上面的折叠椅。看起来能让人放松。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "折叠式躺椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可供小憩的简易椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这椅子看起来为放松而制成。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想靠着放松。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "舒畅。这把椅子看起来能消融我的一切忧愁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这椅子看起来很适合仰靠着放松休息。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我能想象到这张椅子让任何坐在上面的人都感到宁静。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这椅子看起来很适合让我翘着靴子唱歌。"}]

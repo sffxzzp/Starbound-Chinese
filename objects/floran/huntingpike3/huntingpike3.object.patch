@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "企鹅的骨架被当作装饰品安插在一根尖刺上。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖刺上的企鹅骨架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这只企鹅一定遭受了惨烈的死亡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "没有一只鸟应该这样死去，哪怕是一只企鹅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人把小小小鸟的骨头插在长矛上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。这个装饰很怪诞。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些长矛上的骨头似乎属于一只企鹅。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "以叶族人典型的方式展示的骨头。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些插在尖刺上的恐怖的企鹅骨头。"}]

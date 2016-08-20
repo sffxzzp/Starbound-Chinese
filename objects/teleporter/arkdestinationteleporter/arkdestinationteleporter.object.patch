@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个古老的传送门不再运作了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的方舟传送门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个古老的传送门看起来不再运作了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个灰尘密布的老旧传送门不再运作了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "传送门很很很安静。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这个损坏的传送门看上去很古老……它在这里到底有多久了？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个传送门本可以把我送去未知的领域，只要它还能正常运作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个传送门损坏了有一段时间了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个老旧的传送门看上起并不能运作。"}]

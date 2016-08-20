@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "卫生间。别卡住！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "卫生间"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "基本的卫生间。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "卫生间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢藏在卫卫卫生间里，然后从缝隙里看上厕所的人走过去！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。卫生间。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "藏起来玩手机游戏的好地方。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "简陋的卫生间。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "当你必须走的时候，你得走。"}]

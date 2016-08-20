@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用来装饰的红色蝴蝶结。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "闪亮的红色蝴蝶结"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一种装饰蝴蝶结。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一种装饰用的闪亮丝带。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "红红的就像带血的生肉一样。节日的颜色色色让叶族人饿了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "联想。一条红丝带唤起了人们的关爱之情。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它是一个不错的闪亮丝带，黄色真的很衬红色。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它是相当漂亮的丝带。用天鹅绒和黄金制成，也许？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个有红金双色的大蝴蝶结。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这色彩缤纷的雪橇的背面有一个大型火箭发动机！谁还需要驯鹿呢，对吧？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "节日火箭雪橇"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看来今年圣诞老人有了超级动力。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个火箭动力的雪橇。碉堡了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族变成圣诞老人啦！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。一个火箭动力的雪橇。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这将会让麋鹿必须要拼尽全力才能拿到工资。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "火箭可以解释圣诞老人是如何在一晚上送到这么多礼物的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "现在这是我的雪橇！"}]

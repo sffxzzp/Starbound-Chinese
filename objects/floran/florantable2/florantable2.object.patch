@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用来切肉的桌台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始厨房桌台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张桌子的表面看起来被刀刃划过。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌子的表面有血迹。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在这里切肉。和其他叶族人分分分享。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。也许可以用这个叶族人的砧板来准备别的饭菜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "从桌面上的凹槽可以看出这好像是屠夫的桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人好像用这张桌子来处理肉食。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用来切肉的砧板。"}]

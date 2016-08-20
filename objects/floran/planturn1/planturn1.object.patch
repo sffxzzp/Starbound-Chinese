@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用粘土制成的易碎的瓮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大瓮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小瓮，我怀疑它能装多少东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某种瓮。不及翼族人陵墓中的那些瓮那般优雅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打碎碎碎所有的瓮瓮瓮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "哲思。这瓮是半满的，还是半空的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一种方法可以马上知道里面放了什么。打碎它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个制作精良的瓮，打碎它简直让人感到惭愧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这瓮马上要被我打碎了。"}]

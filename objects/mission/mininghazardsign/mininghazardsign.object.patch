@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个金属牌子，上面写着“危险！”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "矿业危险标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个写着“危险”标志的牌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "该标志警告着某种危险。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不管这上面说什么,叶族人才不管。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担忧。危险？哪里？！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个标志关注着我的安全。多么心思缜密。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个标志，提醒人们一些可以避免的附近的危险。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我根本不介意这点麻烦事。"}]

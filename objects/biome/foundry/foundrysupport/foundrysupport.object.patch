@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个金属梁，通常用以支撑天花板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造支撑梁"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个牢固的顶层支撑梁。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "适合支撑重物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "牢牢牢固的金属梁。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。一个横梁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个笨重的大梁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个牢固的金属支架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个支撑天花板的横梁。"}]

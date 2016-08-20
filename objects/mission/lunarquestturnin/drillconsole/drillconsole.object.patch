@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个钻机式控制台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "采矿钻控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个附设钻头的控制台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个内置专属钻头的控制台。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "带着钻头的控制台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这个控制台直接连接着一个采矿钻头。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个钻头，应该可以通过连接着它的控制台操作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个具有收获功能的采矿控制台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "采矿用的控制台。"}]

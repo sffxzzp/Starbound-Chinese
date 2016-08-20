@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以孵化出脆弱的普通蓬蓬牛犊－发育完全后会成为植物纤维的不错来源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蓬蓬牛蛋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "普通蓬蓬牛的蛋，成年后会产出植物纤维。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一枚蓬蓬牛蛋――这是最普通的那种。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这枚巨蛋里有一只巨大的野兽兽兽－一只巨大而温和的蓬蓬牛兽！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思乡。蓬蓬牛是电子人农民普遍选择的家畜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一枚蓬蓬牛蛋！里面有只可爱的小蓬蓬牛"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一只普通蓬蓬牛的蛋，这是个温和的生物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是普通蓬蓬牛的蛋。"}]

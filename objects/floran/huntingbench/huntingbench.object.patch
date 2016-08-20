@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一条粗制的长凳。在叶族人狩猎的时候很有帮助。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粗糙的长凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有多少被杀死的猎物在这里被叶族人瓜分？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一条结实的叶族人狩猎用长凳。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用来让叶族人休息的狩猎用长凳。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这长凳构造简单，但是用了这么多年也磨损了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一条叶族人狩猎用的普通长凳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人在狩猎期间也许会坐在这条长凳上休息。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这条长凳看上去很适合用来小憩一会。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "垃圾。只有垃圾。它自己也是么？当然是。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "卫浴垃圾桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "垃圾日！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "垃圾。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "美丽的垃圾。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。垃圾。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "是时候倒垃圾了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "极其讨厌的垃圾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "仅仅是垃圾。"}]

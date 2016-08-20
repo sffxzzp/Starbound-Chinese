@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块展示着一颗头骨的精雕饰板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "裱着头骨的盾"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一颗裱在一块饰板上的头颅。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "叶族人以一种不光彩的形式来展示他们的牺牲品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人自豪地展示示示猎物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震惊。这个头骨是用来作为装饰品的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这块木质饰板上紧紧地固定着一颗头骨。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这块饰板雕刻的很精美，很遗憾的是上面裱着一颗头骨。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一颗被当作战利品裱着的头骨。"}]

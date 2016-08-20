@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "摇摇晃晃的酒吧椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "都市酒吧椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这仅仅是个酒吧椅。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "酒吧椅。我可以坐下。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "圆形酒吧椅！ 叶族人可以坐在上面转转转圈！眩晕的快乐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。椅子上的金属面需要抛光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "就像经典酒吧椅的回归。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在城市酒吧里可以找到的经典款。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "酒吧椅。我对它非常熟悉。太熟悉了。"}]

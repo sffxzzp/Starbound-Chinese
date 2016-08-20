@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/apexDescription", "value" : "一块刻有字的金属牌匾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有字符刻在上面的牌匾。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一块有着无趣字画的铁板。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。一个有铭文的小金属牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一块写有字的牌匾。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一块刻有铭文的牌匾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "上面写着些什么的金属片。"},
+{ "op" : "replace", "path" : "/description", "value" : "上面写着“猿首”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿首名牌"}]

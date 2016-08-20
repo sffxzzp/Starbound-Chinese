@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张叶族人监狱床铺，盖着一张毯子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "带被子的植物床铺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张监狱床垫。至少配备有一张毯子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张植物做成的床垫。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人的罪犯拥有基基基本的床铺铺铺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这简陋的垫子可以当作床来使用？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "至少这张床拥有一张温暖的毯子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张由植物制成的牢固的垫子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去就是地上的一床铺垫。"}]

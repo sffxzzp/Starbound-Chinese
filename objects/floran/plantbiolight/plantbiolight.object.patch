@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这盏有机的灯在微微地闪烁着。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有机生物灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一株小小的发光植物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一株微微发光光的植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢植物发出的光光光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这些植物看起来能发出自然的光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一株发光的植物，种植出属于你自己的灯非常方便。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然总是让人感到敬畏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这植物正在发光！"}]

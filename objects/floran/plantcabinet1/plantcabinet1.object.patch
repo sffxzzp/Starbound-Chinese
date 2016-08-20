@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个带桌面的小柜子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小柜子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个叶族人设计的小柜子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个小柜子带有一个桌面。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在柜子里里里面和上面放东西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "懊恼。这个柜子的储藏空间十分有限。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来和一个床头柜差不多一样大小。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个典型的叶族人小柜子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它只能用来存放一两样东西。"}]

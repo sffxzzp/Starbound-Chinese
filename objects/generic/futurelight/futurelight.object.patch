@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏廉价的荧光灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "廉价的灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个发光的普通灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "提供光明。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢灯光。光明造就暗影，叶族人在暗影中感到毛骨悚然。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无聊。这盏灯的组件并没有什么意思。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个方便的光源。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "防水灯具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个防水的灯光装置。"}]

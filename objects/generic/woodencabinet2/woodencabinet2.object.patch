@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "坚固的木制橱柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高木制橱柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个大型的木制储物橱柜。真有用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有很多存东西用的空间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大大的存存存储空空空间。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满足。里面有很多的存储空间。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "大型橱柜。我敢肯定我有些可以放在里面的东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "存储空间很大。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里有很多用来存放东西的空间。"}]

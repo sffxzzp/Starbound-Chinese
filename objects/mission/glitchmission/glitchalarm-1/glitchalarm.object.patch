@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个警铃。希望它永远都不需要被敲响。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "警铃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是个设计得简单有效的警铃。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果有情况，这个铃铛会响起提醒其他人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人可以敲打这这这个，来发出很大的声音。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这个可以在发生紧急情况时，提醒你周围的人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个警铃非常简单，但它可以工作！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我会谨慎信任这个警铃的功能的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有时设计简单反而是最好的，这个铃铛可以正常工作。"}]

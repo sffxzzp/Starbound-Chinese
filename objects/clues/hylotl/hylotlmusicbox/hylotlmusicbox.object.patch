@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个复杂的手工音乐盒。它的旋律舒缓。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "装饰音乐盒"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个手工音乐盒，得到了最好的保养。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来这个音乐盒对某人有很特别的意义。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪发亮的音乐盒演演演奏音乐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。这个盒子被设计为演奏简单的曲子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个小音乐盒给人一种舒缓平静的感觉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "简单而美丽－这一切都体现了鲛人的价值观。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个小木盒子演奏起美丽的曲子。"}]

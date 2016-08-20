@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "高大，茂盛的芦苇。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "芦苇种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "芦苇。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "就是芦苇。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "芦芦芦苇。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。只是芦苇。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "芦苇。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "啊！高大而又茂盛的芦苇啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这就是些芦苇而已。"}]

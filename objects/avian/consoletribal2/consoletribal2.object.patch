@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "控制器面板的基座上蚀刻着一颗蛋。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蛋雕刻控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个神秘的控制台上雕刻了一颗蛋，这是什么意思？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个传统的控制台靠水晶振动发射电路信号。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人的技术都好奇奇奇怪，叶族人看不懂。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。似乎有些水晶能量在里面运作，但我搞不清楚其中原理。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个翼族人的控制面板是如此的奇特，你看见电源线了吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "翼族科技是实用性和美观性的有机统一。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里所有的按钮我都想按下去试试效果。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个固定的火炬。映出了想要吃掉你的野兽的影子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "坚固的火炬台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个火炬的设计确保它不会点燃周边的东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "火炬竖立的造型象征着崛起。我喜欢。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人火炬的把火焰约束束束在其中。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这个火炬展示了极高的工匠水平。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个做工精良的叶族人火炬。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我确信这个火炬展现了叶族人的优雅水准。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "非常好看的火炬台。"}]

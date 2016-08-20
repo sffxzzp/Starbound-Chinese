@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个充满冒着泡的熔融液体的容器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型钢包炉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这容器里充满了冒着热汽泡的液体。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个大容器里含有发光的熔融液体。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "装装装有滚烫液体的容器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震惊。这些熔融液体一旦没能恰当装好的话会造成危害。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我分不清它是熔融金属还是岩浆。不管是哪种，它看起来都那么烫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种机械容器拥有某种忍耐内部液体的热量的能力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个装着冒着气泡的熔融物的大池子。"}]

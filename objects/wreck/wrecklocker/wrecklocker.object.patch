@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个古老的柜子。嘿！有一个照片贴在里面……"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的储物柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个柜子。我好奇里面是否是空的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "现在来说不是个安全的储物柜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个柜子闻闻闻起来真奇怪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这个柜子里是否还有东西？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个古老的，生锈的柜子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不想在这存放任何有价值的东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不指望这柜子里还存放着任何东西。"}]

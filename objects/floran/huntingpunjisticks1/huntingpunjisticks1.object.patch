@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "锋利的、尖锐的刺。别掉到它们上面了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型锋利尖刺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "致命的尖刺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "危险的尖刺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "尖刺刺刺陷阱。锋利利利。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。这些尖刺甚至能刺穿一个电子人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我应该跳过这些尖刺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多么野蛮的尖刺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些尖刺看上去相当锋利。"}]

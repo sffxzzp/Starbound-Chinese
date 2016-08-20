@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "卫浴小便池。对一些人来说很有用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "卫浴小便池"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我……需要坐在上面还是……？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不太确定这是什么。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不太确定这个难闻的座位是什么。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "面无表情。男用小便池。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "男用小便池。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "基本的男用小便池。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "脏兮兮的男用小便池。"}]

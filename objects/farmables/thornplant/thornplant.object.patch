@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种长着多刺水果的多刺植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刺果种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些水果看起来非常不吸引人……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "奇怪的多刺植物上面生长着奇怪的多刺水果。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "带尖刺刺刺的水果……用来投掷正合适！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。这种水果表面的刺貌似能防止自己被那些饥饿的野兽攻击。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些奇怪的、多刺的水果。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些植物很好地保护住了自己珍贵的水份……"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来有点像地球上的仙人掌的另类！"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "每隔1秒就切换输出信号的计时器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "1秒计时器"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "每隔隔隔1秒就切切切换输出信号的计时器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。每隔1秒就切换输出信号的计时器。"}]

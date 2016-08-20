@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一座平静的石喷泉。泉水潺潺流淌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石喷泉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一座石制的喷泉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这座喷泉有着壮大美丽的水流。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢喷泉中清澈的水。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "宁静。水声从喷泉中涓涓细流。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我感到不得不许个愿望。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "石头被塑形雕凿成为了喷泉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种正在喷水的奇特雕塑。"}]

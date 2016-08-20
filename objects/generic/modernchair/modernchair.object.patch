@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把现代化的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "现代椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个舒适的座位。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个巨大的蛋杯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚蠢的圆椅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。为最大的舒适度而设计。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这把椅子让人感觉它像是在抱着你。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "形状很吸引人的椅子，如果冷静点说的话。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去很好玩的椅子。我喜欢！"}]

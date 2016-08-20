@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个显示着离线/在线的标识。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "能源标识"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个红色的发光标志。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个简单的电子装置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "某某某种标志志志。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这种低功耗标志有两种状态。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个非常正规的标志。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个发出柔和光线的标志。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个直接显示状态的标志。我能鉴识出来。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用大型圆木组装成的施工平台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型木制脚手架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些原木被组装起来支撑巨大的重量。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些装配看起来像是用来建造一个大型建筑物的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人站站站在巨大的平台上，跳到毫无防防防备的敌人身上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。叶族人是怎么搬动这些巨大的圆木的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我用它来做游戏，将会是一个平台游戏。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个结构非常坚固的施工平台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "许多原木的堆叠在一起使人能够站在上面。"}]

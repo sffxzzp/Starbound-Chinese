@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "金属吊灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "企鹅酒吧吊灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "金属吊灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "吊灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "吊灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无聊。灯具而已。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一种你将它接在头上的仪器，然后……哦等等，这只是盏灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "无趣的吊灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "简朴的吊灯。"}]

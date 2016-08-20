@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个撕裂的画框。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "撕裂的守护团画框"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张肖像画已经被撕裂了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张损毁的肖像画……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "画像被刺刺刺穿了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。一张被撕裂的历代大守护者的肖像画。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张肖像画已经损坏了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张被撕裂的标志性人物的肖像画。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张肖像画也有过辉煌的岁月。"}]

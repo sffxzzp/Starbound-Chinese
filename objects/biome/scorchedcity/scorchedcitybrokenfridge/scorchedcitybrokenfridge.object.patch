@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台破旧的冰箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生锈的时尚冰箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "破旧锈蚀得超出可以修复的程度。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台冰箱现在已经没用了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "破旧的冰箱里空无一物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。这台冰箱曾是一台有用的设备。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "对任何人来说都是一无是处的东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一台破旧的冰箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "现在只是一块大点的垃圾。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这张皇家法令记录了城堡塔楼的信息，一个有着警卫看守的藏宝地。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇家法令"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张旧法令记录了财宝的位置，在一个大城堡塔楼的地下。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这项法令提到了财宝的位置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不知道为什么这些无聊的东东东西要框起来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这项古老的法令记录了一个满是财宝的塔楼。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张法令记录了一个戒备森严的塔楼，保护着巨大的财富。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这条法令记录了一处被戒备森严的塔楼保护的财宝的位置。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这上面说有黄金藏在某个塔楼里。"}]

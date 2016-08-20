@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一件神秘的刑具。最好不要问它是如何使用的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刑具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是刑具还是喷泉？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某种残酷而又不寻常的刑罚方式。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人看看看到这个东西也会吓得发抖。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不满。这是一种特别令人不舒服的酷刑，特别是对于电子人来说。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "真棒，一个让人感到放松的喷泉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人的一种刑具，对鲛人无效。一次小小的胜利。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是什么东西，某种喷泉？"}]

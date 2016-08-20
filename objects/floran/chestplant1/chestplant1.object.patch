@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个由植物材料制作的箱子。它似乎还在生长。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "丛生的小箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这箱子本身似乎就是有机物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这箱子是被制作出来的，还是自己生长出来的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "只有叶族人绿手指知道如何从泥泥泥土中种植这样的箱子子子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。看上去这些植物被有意的种植从而生长成为一个箱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这箱子是天然生长出来的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人好像已经学会如何控制大自然去生长他们所需要的东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "叶族人究竟是如何种植出物品的？他们是否像定制家具一般定制他们的植物种子？"}]

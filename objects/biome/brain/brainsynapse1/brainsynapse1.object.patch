@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一段触手神经末梢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "突触"}]

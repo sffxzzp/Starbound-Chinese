@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一位青蛙商人。它是什么，或者说它想要什么，无人知晓。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "青蛙商人"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "沉默的青蛙商人。不寻常。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个令人好奇的商人是谁？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人被沉沉沉默的青蛙稍稍稍微吓吓吓到了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这只青蛙看上去不愿交流。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我亲它的话，你觉得它会变成商人王子吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这只沉默的生物非我族类。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在周围并没有见到过很多青蛙商人！"}]

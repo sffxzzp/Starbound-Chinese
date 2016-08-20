@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个储物柜。何不存点东西进去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船储物柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "飞船的储物系统。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可以安全存放许多物件的设施。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "储储储物柜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这艘飞船的储物系统真的很有用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个储物柜。十分好用！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个优雅的储物解决方案。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个储物柜，用来放东西。"}]

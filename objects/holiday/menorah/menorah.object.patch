@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "温暖的节日的光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "烛台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个温暖的、发光的烛台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "温暖的光芒让我想起翼族寺庙。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燃烧的蜡烛！叶族很喜欢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个烛台。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可爱的烛台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些蜡烛散发出一种温暖的、温馨的光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这散发出一股令人愉快的光芒。"}]

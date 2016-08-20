@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着：“一个高大的、会喷火的机器龙，被设计成一具复活了的骨架的样子。”"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨龙手办"}]

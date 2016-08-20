@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个描述克鲁西斯赠送礼物给他的追随者们的古代壁画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "克鲁西斯的馈赠"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这幅石壁画详尽得描绘了翼族之神送给他的忠实追随者们礼物的情景。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这幅壁画述说了克鲁西斯留下礼物给他最重视的追随者。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能打败这只石石石头鸟。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这幅壁画可能描绘了克鲁西斯给他的追随者留下宝藏。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这幅壁画描绘了翼族之神给他的追随者留下礼物。他真是太慷慨了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "翼族们真的相信有更强大的力量给他们留下过礼物吗？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这图画显示了某人在赠送礼物，或是类似的东西。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可可植株。一旦成熟，其豆荚就可被加工成巧克力。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "可可种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可可的来源，可以用来制作美味的巧克力。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "可可荚的内容物可以被磨成美味的酱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "当豆荚成熟时，叶族人可以制作美味味味的酱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。可可植株，巧克力之源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "可可是巧克力的制作材料！这就是巧克力树！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "阳光，水分，以及一点点耐心就是丰收的奥义。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "长在树上的巧克力。"}]

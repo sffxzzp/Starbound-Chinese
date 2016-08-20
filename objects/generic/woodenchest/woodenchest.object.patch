@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个基本的木头箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个箱子！让我们看看里头。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "通常这些箱子用于存储贵重物品。我好兴奋！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "箱箱箱子！叶族必须须须搜搜搜索一下！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "期待。里面可能有什么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "箱子！让我们打开它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "没有什么能比一个未开封的箱子更让人兴奋的了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "找到一个未开封的箱子总会让人激动得发颤。"}]

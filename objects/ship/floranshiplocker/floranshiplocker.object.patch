@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个储物柜。何不存点东西进去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船储物柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个储物系统。绝对不是叶族人发明的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "储物柜。我不相信叶族人制造了这个。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人为了探索宇宇宇宙会在这存存存放很多有有有用的东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。叶族人是怎么开发出这个技术的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这艘船上的大多数科技看起来都不是叶族人开创的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个储物系统不是叶族人发明的。叶族人通过其他手段获得了这项技术。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个储物柜，用来放东西。"}]

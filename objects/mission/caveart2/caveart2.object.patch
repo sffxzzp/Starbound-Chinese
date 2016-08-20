@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这幅洞穴壁画描绘了几个猎人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猎人洞穴壁画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个关于古代猎人的壁画。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "似乎是古代的猎人壁画。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族猎猎猎人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平静。这幅壁画描绘了拿着弓箭的人物，可能是叶族猎人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "人物所占比例严重失调。如果是我可以画得更好。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "十分粗陋的叶族艺术壁画。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果我没弄错的话，他们看起来像是在打猎。"}]

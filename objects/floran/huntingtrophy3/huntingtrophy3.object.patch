@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "头骨被当作战利品裱在交叉的木板上。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "裱着头骨的十字板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一块上面有着一颗头骨的粗制壁挂饰板。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这颗头颅被木板固定在了墙上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人经常把杀杀杀害的战利利利品挂在墙上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。这样悬挂头颅有点不太寻常。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个可怜的家伙从没想过自己会以这样的方式结束生命。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "怎么会有人喜欢拿头骨当作装饰品？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个头骨战利品不太适合我。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "火辣，火辣，火辣的狂欢祭！！对人类之外的种族来说更加火辣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "辣椒种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "把辣椒涂成黄色是在年轻猿人中很流行的恶作剧。如果被抓住的话，他们中的多数没法活着再这么做一次。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "热辣香辛的植物。这是外来货。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "灼热辛辣的水果果果。这水果会让嘴巴巴巴疼痛。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉重。谁会选择去吃会伤害他们的食物？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "辣椒虽辣，但很容易上瘾。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这味道恰到好处地平衡了高温。使用得当的话，很美味。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "星之子是辣椒的狂热粉，越辣越好！"}]

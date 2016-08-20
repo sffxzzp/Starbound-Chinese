@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "此处已无回头之路。即使有一把物质枪也没办法从这堆叠的碎石种打开一个缺口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "堵路的碎石堆"}]

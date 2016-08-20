@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一艘来自守护团学院的飞船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团飞船"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一艘太空飞船！这是我的出路！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "感谢造船者！这可能就是我逃离这里的机会了！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "太太太空飞船！叶族人找到了逃生生生用的载具！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "释然。我能用这艘太空飞船安全逃脱！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "正如我所希望的那样！这艘飞船会是我逃离这里的途径。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不错！这艘飞船能把我带到一个更安全的地方去。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我会用这艘太空飞船逃到安全的地方去！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇牢固的钛门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钛门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这扇门相当安全。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "作为一扇基本的门，非常牢固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人躲在门后。跳出来。戳戳戳！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "认可。一扇好用的门。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇牢固的钛门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇坚固的钛门。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这才是一扇牢固的门！"}]

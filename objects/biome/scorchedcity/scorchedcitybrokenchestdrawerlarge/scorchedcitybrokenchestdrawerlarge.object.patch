@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个抽屉柜，失去了几个抽屉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型破旧抽屉柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这曾是一个抽屉柜，只有一些抽屉留下来了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个抽屉柜是个坏的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "抽抽抽屉柜有个破旧的大抽抽抽屉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。一个大抽屉柜，变得破碎不堪。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个抽屉柜，失去了几个抽屉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个抽屉柜，现在它失去了很多抽屉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这肯定是坏了，它甚至还失去了几个抽屉。"}]

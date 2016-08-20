@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "薄帷帘。特别经典。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "经典薄帷帘"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "色彩丰富、厚重的帷帘。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "摸着很柔软。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "猿人用厚天鹅绒制作帷帘，叶人用皮革做吊帘。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。很少有物件摸着这么让人舒心。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种吊帘放在别墅里面正合适。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这帷帘几乎要粘在鲛人的皮肤上了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些帷帘像是在炫耀自己一般。"}]

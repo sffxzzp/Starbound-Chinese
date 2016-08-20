@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一棵小小的人造杉树。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型人造杉树"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它是一棵人造的树。需要更多的灯和装饰。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这棵树看起来非常逼真。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不闪闪闪亮的树。只是树。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。这棵人造树缺乏装饰。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "遗憾的是它是人造，我还可以记得真正冷杉树的独特气味。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "尽管它不真实，依旧是一个非常漂亮的树。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它是一棵树，但不是一棵真正的树？"}]

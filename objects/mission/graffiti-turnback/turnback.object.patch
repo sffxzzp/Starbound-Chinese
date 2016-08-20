@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个墙壁上的涂鸦警告。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "回去！"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "因为这个标志，我反而更想向前走了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我应该咋办？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "真是愚愚愚蠢的标志。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "相信。我应该听涂鸦所说的。涂鸦不会说谎的，它不可能说谎。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "要回头吗？怎么可能！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "智慧的话语往往来源于不太靠谱的地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我现在回不去了。"}]

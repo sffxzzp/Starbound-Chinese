@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个人造树挂满了一串串的灯光和节日喜庆饰品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圣诞树"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这棵树的景象让我的内心泛起一股暖流。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一股莫名其妙的冲动让我想要高歌一曲。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "亮亮亮闪闪的树。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "开心。这棵树让我想要唱些喜庆的歌曲。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这棵树带来了很多家的回忆……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不得不承认，这棵圣诞树仿佛融化了我这只两栖动物内心的坚冰。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "嗯，这些装饰品可以让一个普通的树看起来很特别。"}]

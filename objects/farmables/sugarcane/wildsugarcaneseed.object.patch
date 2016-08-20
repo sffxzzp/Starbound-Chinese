@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "甘蔗是一种富含甜汁的纤维作物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "甘蔗种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "据说多啃甘蔗有利于猿人的牙齿。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "糖可以用来加强风味。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "甜甜甜的棍子子子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉闷。这种植物很尖锐，在某些人的手中会可能会变得致命。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "甘蔗。别吃太多了，对你的牙齿不利。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "可以用来制作甜化剂，鲛人想不通为什么会有人会用这种物质。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "和糖一样甜。等下……"}]

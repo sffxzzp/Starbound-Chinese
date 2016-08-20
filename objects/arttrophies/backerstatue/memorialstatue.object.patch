@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个铭牌上写着“献给为我打开一个新世界大门的父亲。纪念永远的特雷西・迪特里希 1963-2003”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "想象力纪念碑"}]

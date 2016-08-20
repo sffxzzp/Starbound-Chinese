@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个铜制的坚固存货箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个坚固的铜存货箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个铜制的存货箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金属做的坚坚坚固箱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这箱子的设计很传统，但是是用铜制造的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个铜箱子。我敢打赌这箱子不装任何东西都很重。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个用铜打造的坚固箱子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我估计这个箱子坚固得足以装任何东西。"}]

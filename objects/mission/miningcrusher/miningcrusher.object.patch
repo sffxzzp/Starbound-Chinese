@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用来粉碎岩石的机器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "采矿冲击式破碎机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个工业机器，用来粉碎石头。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用来粉碎岩石的机器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用来粉碎骨骨骨头的机器……刚刚叶族人说了骨头？叶族人指的是岩石！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这台机器是为了粉碎岩石而存在的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个用来粉碎岩石的机器。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个难看的金属架构。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你肯定不想掉进这奇怪的装置里面。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一本为守护者提供各种指导的旧书。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团旧书"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这本书记载了关于如何成为一名守护者的最基础的、略微过时的指导方针。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "很久以前撰写的一本指导人们如何成为一名守护者的书。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "尘封的旧书，里面记载着老旧的规章制度。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这本书被完善保存着。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一本布满灰尘的旧书。里面记录着过时的指导规条。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这本书是第一本关于如何成为一名守护者的指导手册。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一本古老的书籍。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可爱的木茶几。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木茶几"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小茶几。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个少量的存储空间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小小小抽屉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一件可能会被放在床边的家具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个有俩抽屉的木茶几。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大概是个放在卧室边上的桌子？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个小小的橱柜。"}]

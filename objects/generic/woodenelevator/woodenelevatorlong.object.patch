@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个简易的木制电梯是以滑轮系统运行的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "长木制电梯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我在这个木制电梯上感觉不是很安全。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个木制电梯，是最顺畅的那种电梯了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人使用木制机器感到很安安安心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这木制电梯达到安全标准了吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个摇摇晃晃的木制电梯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这就是木料与滑轮的平和流畅的运动。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个摇摇晃晃的木制电梯。"}]

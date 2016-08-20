@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用大型圆木组装成的施工平台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型木制层架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些堆叠的圆木像是用来辅助施工的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些平台像是设计来支撑施工人员的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用来施工的层架。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这个粗制的平台可能分分钟解体。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个大型层架看上去可以支撑巨大的重量。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这像是一个临时的结构，准备被拆卸搬走。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些圆木组成了一个漂亮又坚固的平台。"}]

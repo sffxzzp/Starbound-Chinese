@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个储存工具和装备的完美箱子！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "采矿箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个箱子！我们看看里面。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "通常情况这种箱子都存放贵重物品。我很兴奋！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "箱箱箱子！叶族人要搜搜搜寻看看！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这里面会有什么呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个箱子！我们打开它吧！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个箱子有着工业化的外观设计。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个坚固的箱子里藏着珍宝……我希望是。"}]

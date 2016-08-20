@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "谁知道装了什么东西的柜子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金属柜子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "柜子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看上去很有趣的柜子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用来储存东西的柜子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。我想知道柜子里有什么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "柜子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "简陋的柜子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "最基本的柜子。有什么东西在里面么？"}]

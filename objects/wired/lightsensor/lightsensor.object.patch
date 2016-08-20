@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在昏暗的光照下激活底部节点，在明亮的光照下激活顶部节点。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "光线传感器"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在昏暗的光照下激激激活底部节点，在明亮的光照下激激激活顶部节点。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "深思。在昏暗的光照下激活底部节点，在明亮的光照下激活顶部节点。"}]

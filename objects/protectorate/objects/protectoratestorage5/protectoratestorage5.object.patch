@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一架子的小胶囊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "胶囊储物单元架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些易碎的胶囊中经常会有有用的物资。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在地下挖矿时，这些能被打碎的胶囊是一种很好的资源。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢打碎碎碎这些胶囊。里里里面有很多好东西西西！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。这些易碎的胶囊对探险家来说是一种很好的补给。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "当你需要一些探险补给品的时候，这些易碎的胶囊就是一根救命稻草。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在地下深处探险的探险家们能从这些易碎的胶囊中获取补给。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些小胶囊不仅砸起来特别爽，它们里面还通常满是好东西！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张安置在带轮木架上的床铺。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "滚轮床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张带轮子的木制监狱床铺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张监狱床带有轮子，可以四处滚动。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人罪犯不需要奢华的床床床。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "生疑。我不确定这张床可以支撑我的重量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张用植物捆绑的木制床铺。它看上去不是很舒服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这床看上去很不安全，而且没有可以盖的被子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我估计这张床会在紧要关头发挥作用。"}]

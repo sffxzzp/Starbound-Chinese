@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "射蛋果，满是流淌的精华。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "射蛋果种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "射蛋果以引起了鸟类的生存困境而为人所知。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "射蛋果－为想吃煎蛋卷的翼族人而生。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看看看上去像个蛋，但但但是不会孵化。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。尽管它们长着蛋的外表，但是翼族人吃这些吃得很开心。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "素食主义之蛋。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "对我们中不吃蛋的那些人来说是个能接受的选择。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "射蛋果看上去像个蛋，吃起来像个蛋，但是并不算个蛋。"}]

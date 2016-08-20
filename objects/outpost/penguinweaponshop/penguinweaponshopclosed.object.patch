@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这里曾经是一个整洁的摊位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "休业的比吉正派武器行"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来像是某种交易点。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某种交易点，现在它休业了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不确确确定这是什么店。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。这家店现在休业了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "可能是个交易点，还没人占用。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "出售货物和服务的商店。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "空空的商店看上去糟透了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这就是把骨头做成的扶手椅。没什么大不了的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始扶手椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一把用皮革和骨头做成的椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "制作这把椅子的骨头跟玻璃一样光滑。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人打磨猎物的骨头来制作当作战利品的椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊恐。这椅子上还有牙齿的印记。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些骨头都被削尖了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人相信所有的生物都是神圣的。它们不应该沦落为一把扶手椅。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "骨头还是砖头，一把椅子是用什么制作又有什么关系呢？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某种奇怪的荚。有什么东西正在从里面长出来。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "真菌荚"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些邪恶的植物是什么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个荚中好像在孕育着什么。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人嗅嗅嗅这个奇怪的菌囊。味道有点熟悉。叶族人很害害害怕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这个菌囊属于叶族人的起源。但…有什么不对。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "呃，这真让人恶心！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人这一次又搞出了什么恐怖的东西？！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些怪异的东西在里面生长。"}]

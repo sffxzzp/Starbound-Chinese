@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它看上去实在不像是能生成护盾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "护盾发生器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个开关。它能激活护盾生成器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个开关能生成护盾。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "电闸闸闸！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这个小小的开关看上去并没那么强大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我扳动这个开关将会激活或关闭护盾发生器。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个基本的开关。它能用来激活护盾发生器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能扳动这个开关来切换护盾发生器的状态。"}]

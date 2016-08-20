@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些舒适的床可以互相堆叠在彼此的顶部。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地双层床。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张简易的双层床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张双层床看起来相当简易。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想在双层床上睡睡睡觉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感伤。一张双层床，跟大地守护团学员的没有什么不同。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张不太宽敞的双层床，但令人惊讶的舒服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "睡在这样的床上让我想起了在大地守护团当学员的美好回忆。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张普通的双层床。"}]

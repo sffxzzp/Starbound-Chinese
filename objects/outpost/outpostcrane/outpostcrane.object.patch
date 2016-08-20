@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "起重机。用于起吊或摇摆。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型起重机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来很有力的起重机。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "起重机，并不适用于翼族人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用机械臂摇摇摇来摇去！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。它能吊起多少电子人？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你觉得这个起重机是用更大的起重机建造的吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "简陋的起重机，但我想它有它的用法。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "结实经用的起重机。"}]

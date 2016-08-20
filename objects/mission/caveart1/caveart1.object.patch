@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "描绘了一些动物的洞穴壁画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "动物洞穴壁画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "简陋的动物壁画。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这幅简陋的壁画可能就像天上的星星那样古老。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "古老的叶叶叶族壁画。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平静。这幅壁画似乎描绘的是有机物猛兽。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "为什么所有的洞穴壁画看起来都一样？要有点创意啊！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这幅画没有古代鲛人艺术那么典雅。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来是一个非常古老的涂鸦。"}]

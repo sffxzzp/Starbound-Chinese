@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有用方便的发电机。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发电机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "发电机。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是台发电机。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "它能发发发电。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欢欣。它能为所有人提供足够的电能。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "发电机。希望这里也有后备发电机。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "粗鲁简陋的发电机。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这东西能产生电力。"}]

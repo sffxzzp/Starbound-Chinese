@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张凹凸不平的毛皮，挂在两颗长獠牙之间。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黑色的长毛皮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张毛皮看上去有些年份了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张毛皮可以当一副不错的窗帘来用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用猎获的骨头头头来挂毛皮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这些骨头和毛皮可能是属于同一种生物的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "为了得到战利品而去打猎。我不认同。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "经过了这么长的时间后，这些皮毛依旧散发着动物特有的麝香。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "且不论其磨损程度，这是一张令人印象深刻的皮毛。"}]

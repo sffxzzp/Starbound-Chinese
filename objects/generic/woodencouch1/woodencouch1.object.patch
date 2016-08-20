@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个舒适的木制沙发，条纹布让它变得更紧致。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木沙发"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个简单的有条纹垫子的木沙发。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "垫子让这个沙发变得舒适。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有条条条纹的沙发。软软软的垫子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "灵感。也许我应该用条纹装饰我自己。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个有漂亮条纹垫子的木头长凳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "既不太软，也不太硬。一个冥想的好地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "坐下来欣赏日落的好地方。"}]

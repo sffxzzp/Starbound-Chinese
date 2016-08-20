@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台收音机。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团收音机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我的收音机！我喜欢收听本地新闻台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一台收音机。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "收听新新新闻和音音音乐的收音机。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。宿舍里的收音机。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "噢，我的收音机！它能有效过滤背景杂音。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一台普通的收音机。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "仅仅是一台收音机。"}]

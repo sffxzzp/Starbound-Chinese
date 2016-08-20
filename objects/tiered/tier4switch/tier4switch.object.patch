@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个耐钢制的控制台。按下所有的按钮！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "耐钢控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个控制台提供了很大程度的控制。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个好用的控制台。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人按下按钮。搞出事事事！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。一个简单的控制台就能同时控制那么多不同的机械。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个控制台。就是为了玩弄它而准备。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个控制台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种控制台，我就只会去按下几个按钮……"}]

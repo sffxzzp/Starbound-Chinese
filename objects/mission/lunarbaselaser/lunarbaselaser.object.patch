@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来在月岩上挖矿的激光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "挖掘激光"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "不知道我能不能激活这个激光炮……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这看起来是某种大型加农炮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "巨大激光束总是有用用用的！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这大型激光加农可以通过这个面板激活。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在想我能不能使用这个大型激光加农炮……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这似乎是一个激光加农炮。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个大型激光加农炮。我想知道我能不能让她开火。"}]

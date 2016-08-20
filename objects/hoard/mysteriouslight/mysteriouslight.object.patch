@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个小的金色聚光灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金色聚光灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这种聚光灯被科技发展部用于强迫人们开口。聚光灯，还有更糟的……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "令人讨厌、目眩的光芒。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人感感感觉成为了关注的焦点。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "隐蔽。通过分析这个聚光灯的行为模式，将会很容易偷偷地绕过他。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直都想要成为万众瞩目的焦点。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "明亮，锐利的聚光灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这光几乎和我一样明亮！"}]

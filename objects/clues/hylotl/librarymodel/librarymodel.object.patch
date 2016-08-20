@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个复杂的鲛人图书馆的手工纸模型。里面有小书架！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人图书馆模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个精细的纸模型一定是一个非常重要的建筑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个精致的模型多么令人赏心悦目啊！制作它一定花了很长时间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人关心制制制作的模型砍掉了多少棵树树树。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这个鲛人图书馆的模型里面甚至有小书架。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个精美的图书馆模型里甚至有小书架。我都不敢碰它，以防造成损坏。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有人精心保养这个模型。这个建筑一定很重要。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个漂亮的模型。我宁愿不碰它。"}]

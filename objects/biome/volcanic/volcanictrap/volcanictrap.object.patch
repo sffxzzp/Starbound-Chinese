@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "火山瓦斯从洞口喷出。那温度不是区区热字能够形容的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天然火山喷口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个讨人厌的小火山喷射口。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "熔岩从这个小小的喷口里喷出！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "岩浆不不不是叶族人的朋友。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。我今天不想看到这个。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不想弄明白那是什么。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不想接近那东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "热岩浆！"}]

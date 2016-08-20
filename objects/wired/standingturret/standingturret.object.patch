@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来自我保护的炮塔！只能放置一次。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "防御炮塔"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一直保持着警戒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "怪物们根本没有可乘之机，除非它们能飞。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用来对对对付活物物物很有效。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。一定不要在我哥们警惕的时候打扰它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个自动化的安保系统。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来像是某种类型的炮塔。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来这玩意肯定会造成一些伤害！"}]

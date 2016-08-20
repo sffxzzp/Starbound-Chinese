@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个大型火山间歇泉。看上去很滚烫。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型火山间歇泉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个间歇泉看上去很温和，没什么好怕的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个间歇泉在强烈地发着光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不喜喜喜欢滚烫的间歇泉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。这个火山的裂缝表明了它没有构成威胁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看着很安全，但我最好不要踩上去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在深水中很少见到像这样的裂缝。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "熔岩从裂缝中涌出，照亮了道路。"}]

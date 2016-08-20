@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "舒适得令人惊讶的椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把好椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一把令人放松的样子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "柔柔柔软的椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。一把舒适的椅子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一把漂亮又舒适的椅子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张还看得过去的椅子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个可以放松的地方。"}]

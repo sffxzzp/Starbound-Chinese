@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "船长坐在这儿驾驶飞船。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人船长椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "哈……甜蜜的自由。我能坐这儿使用飞船的导航。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "船长专用的椅子。坐在上面的是我！我能坐这儿使用飞船的导航。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "船上最最最棒的椅子。叶族人能坐在这儿使使使用导航驾驶飞船。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激动。坐在船长椅上我就能驾驶飞船了。下一站去哪儿？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "船长椅。坐这儿的人决定飞船的去路！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这把椅子使我得以驾驶飞船。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "船长椅，坐在这的家伙决定飞船的去路！就是我！"}]

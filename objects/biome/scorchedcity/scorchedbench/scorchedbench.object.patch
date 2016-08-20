@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一条烧焦的长凳。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "烧焦的长凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这条长凳受到了一些损坏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张折条长凳看起来生锈和磨损得很厉害。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "老旧的生锈长凳。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。这个长凳证明即使是最强的金属也会被腐蚀。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这条长凳见证了往日的繁华。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果它会说话，我很好奇这条长凳会诉说些什么故事。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这条长凳看起来很破旧。"}]

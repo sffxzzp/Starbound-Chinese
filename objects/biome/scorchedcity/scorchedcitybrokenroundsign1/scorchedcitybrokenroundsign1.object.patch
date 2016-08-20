@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个道路标志，弯曲并锈迹斑斑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "不显眼的生锈标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个标志坏掉了，现在它几乎没用了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个曾在城市中使用的标志，令人悲伤的是它已经被锈蚀了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "生生锈的标标标志。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。一个多年前就失去用处的被遗忘的标志。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去像是一个旧站牌，但它现在已被锈蚀殆尽。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个已经生锈的标志，它正在慢慢消逝。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我从未如此注意过一个标志，现在我还不打算出发。"}]

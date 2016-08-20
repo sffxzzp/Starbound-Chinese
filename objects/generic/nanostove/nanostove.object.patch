@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "提供特殊的热量和良好的室外烹饪环境。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "纳米炉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一种便携式环保野营炉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个方便的野营炉。从此再也没有碳足迹！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人害怕炉炉炉子会烫到叶族人。叶族人还是会用它。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。这炉子节省大量能源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "太棒了，就像在未来野营一样！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "花哨但实用的野营炉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个方便的小炉子，但是并不能比过真正的篝火。"}]

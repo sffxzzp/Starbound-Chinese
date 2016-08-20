@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用金属制造的灯具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金属灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "金属制造的灯具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是盏灯，但并不吸引人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的光光光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这盏灯运行得非常好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "直到开始闪烁前，这都是非常好的灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这盏灯刺目且无情。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盏灯照明得好好的，你还想让它怎么样？"}]

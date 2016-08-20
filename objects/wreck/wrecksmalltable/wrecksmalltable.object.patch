@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个损坏的小桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的小桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张小桌子的残骸。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张旧桌子。随时会垮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这旧桌不不不可修复。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。这旧桌处于糟糕的状态。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张桌子是一堆垃圾。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张桌子是旧的、破碎的、不可修理的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张桌子看样子很糟糕。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "硬番茄！务必要把螺丝钉给吐掉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "硬番茄种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "硬番茄……相当平常，如果你不被螺丝钉硌掉牙的话。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "硬番茄。这些种子本身很美味。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "肉肥汁美，咬咬咬起来嘎吱嘎吱。就像人人人类。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "异议。其他人会除去螺丝钉。电子人认为它们可以增强风味。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "里面全是螺丝的硬番茄，美味但危险。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "普通的电子人农作物。不合我的口味。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "硬番茄有着强烈的金属味道。"}]

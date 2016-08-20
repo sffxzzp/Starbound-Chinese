@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一株种在花盆里的充满异国风情的仙人掌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团仙人掌盆栽"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盆仙人掌。我看不出有什么魅力。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一株长着艳丽的小花的多刺植物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有自我防御机制的多肉肉肉植物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "了解。像这样的仙人掌几乎不需要水分就可以保持生命力。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一株仙人掌！容易种植、容易照顾。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一株看着就很疼的植物。我最好别碰它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不好解释，但我真的很喜欢这盆仙人掌。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个细长的黄金花瓶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金细长花瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个黄金细长花瓶。太奢侈了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个金色细长花瓶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "细细细长条花瓶是是是金子做的！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "保密。这是一个细长黄金花瓶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个细长黄金花瓶。也许很有价值。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个细长的金色花瓶能作为一个很有吸引力的装饰物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个细长黄金花瓶会让我的船看起来更华丽。"}]

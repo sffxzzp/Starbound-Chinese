@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个宣传购买货物的场所的招牌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "商店招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "商店的招牌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "上面写着“商店”。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "商店的招招招牌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "舒心。一张招牌指示着商店的位置。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像商店招牌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是商店的招牌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "定是一间商店。"}]

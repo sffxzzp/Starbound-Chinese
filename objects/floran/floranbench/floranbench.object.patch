@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一条用木头和骨头做的长凳，看上去…像是在邀请你去坐？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始长凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "细小的骨头似乎把木条连接形成了牢固的结构。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种木头我从未见过。它看上去好像还是活的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用木头和骨头制作任何东西，叶族人主主主宰着活木。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。制作这条长凳的所需要的逻辑思维似乎超出了叶族人的范围。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这木头很结实。好像还在生长一样。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我在这长凳上感受到了生命的气息。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这条凳子似乎是一个可以安放我金贵的屁股的好地方。"}]

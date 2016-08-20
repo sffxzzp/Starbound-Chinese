@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "家族企业。出售制造所需的精炼矿物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熊熊矿业"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "那是只熊……在卖矿？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这家店可以让你不需要亲自去挖一些重要的矿物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想打败商店毛茸茸的野兽！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。这家店可以让我不需要去挖矿么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "熊！和商店！棒极了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我还从未见过如此……毛发浓密的店员。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这家店的特色就和运营它的大家族一样多。"}]

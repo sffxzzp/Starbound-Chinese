@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个朽坏的木制支架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制支架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木制支架。看起来严重磨损。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个木制支架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "支支支撑用的木头。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。我敢信这截木头已经被虫蛀了一半。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "情况很糟的一个木制支架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个支架并没有看上去很稳固。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一条腐朽的陈年木头斜梁。"}]

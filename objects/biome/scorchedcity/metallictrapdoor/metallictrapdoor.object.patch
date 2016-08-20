@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "伪装成金属平台的陷阱门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金属陷阱门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "踩在这个平台上会让它缩回墙里。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不信这个金属平台能承受住我的重量。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不相相相信金属平台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊慌。站在这个平台上是不安全的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一站上去它就会消失。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个恶作剧平台！真是卑鄙。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在这个平台上我最好小心谨慎地走。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "守护团风铃。这些能在庭院中找到。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团庭院风铃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些风铃能发出悦耳的声音。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我喜欢这些风铃发出的声音。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "吵吵吵闹的风铃铃铃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。这些风铃声真令人悦耳。我能听一辈子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "风铃！它们在晚上听起来有点恐怖，但在白天听起来就很优美！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "风儿正在与风铃玩耍。真可爱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "多优美的声音。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台卫浴烘手机。请勿触摸。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "卫浴烘手机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "烘手机，我想知道它能不能烘干猿人的毛发。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个肯定是拿来烘干羽毛的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人烘干双手。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。一台烘手机――能有效防止生锈。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这比较基本。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人不需要烘干双手。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用于烘干双手的设备。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一根铜制建筑支撑梁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜制支架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根铜制支撑梁。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一根金属建筑支架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "铜做的支支支撑梁。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这根铜梁事实上并没有支撑什么建筑重量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是个铜支撑梁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "被打造得很坚固的铜支架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一根大大的铜梁。"}]

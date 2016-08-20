@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张历代大守护者的肖像画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大守护者肖像画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这位大守护者有着慈祥和蔼的面容。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这位大守护者看着很友善。要不是她早就去世了，我很愿意与她交友。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "胖胖胖子跑不过叶族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平静。这位女士看起来正在热情招待他人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我喜欢这位年迈的大守护者的面貌。她看起来很友善。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这位以往的大守护者看着平静且友好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这位老女士似乎有着一个善良的灵魂。"}]

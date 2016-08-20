@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一朵有亮黄色的花瓣的花，用于制造染料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄色花朵"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有了这些花我终于可以把所有的衣服染成黄色了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "黄色花朵制成的染料在翼族文化中被大量应用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在叶族人的文化中，黄花象象象征着青春。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "热情。充满活力的黄色花朵。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "为何向我献殷勤啊，未知之族的黄之花？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "令人愉快的黄色花朵。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去一般般的黄色花朵。"}]

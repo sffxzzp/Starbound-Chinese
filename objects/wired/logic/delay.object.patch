@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能在延迟一段时间后再传递信号的电路组件。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "延迟门"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个能在延迟一段时时时间后再传递信信信号的电路组件。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一个能在延迟一段时间后再传递信号的电路组件。"}]

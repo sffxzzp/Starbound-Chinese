@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "别烫着你的脚！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "燃煤"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "很热的煤炭。摸起来很烫人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "燃煤。看上去很烫。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人讨厌燃烧的石头头头！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。这些发光的煤看上去热得危险。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不觉得有什么像这样的烫人煤炭是可以走过去的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这炎热让人不适。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "燃煤。烫到足以烧穿我的靴子。"}]

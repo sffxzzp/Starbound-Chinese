@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个储物柜。何不存点东西进去？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船储物柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个储物柜。太容易撬开了！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "鲛人在设计这个储物柜的时候绝对没有考虑安全性。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人努努努力撬开这个储物柜，终于成功了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。叶族人都可以撬开这个简陋的储物柜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不知道鲛人为什么还要多此一举锁上这箱子，谁都可以轻易撬开它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个安全的储物柜。只有最狡猾的贼才能打开它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个储物柜，用来放东西。"}]

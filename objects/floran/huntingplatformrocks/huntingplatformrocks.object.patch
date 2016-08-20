@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "非常有用的岩石。或者说这箭头是一个小把戏？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "刻着箭头的岩石"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一块上面有一根箭头的岩石。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一块雕刻着的箭头的岩石。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "通往刺刺刺的路。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。为什么要把箭头雕刻在岩石上？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "让我们跟随这岩石上的箭头。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一块被粗鲁雕刻过的岩石。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某个人离开时在这块岩石上留下了一个箭头。"}]

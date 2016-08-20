@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏故障的灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "故障的船灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯没有得到充足地供能。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏闪烁的灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "故障的船灯弄弄弄得叶族人好晕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这盏灯故障了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这盏灯正在不停闪烁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "电力不足的灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盏灯快没电了吧。"}]

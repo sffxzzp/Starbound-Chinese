@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个盛放着巨大钻石的展示座。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钻石展示座"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个盛放着巨大钻石的展示座。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一种展示无价之宝的好办法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人从博物馆偷偷偷过一次宝石。卫兵很生气。叶族人就捅捅捅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评判。这件展品似乎没有被报警系统保护着。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这有点像是一个能在“落水狗”里见到的东西！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个对于展示美丽宝石不太合适的展览座。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道如果这个消失的话是否会有人注意到。"}]

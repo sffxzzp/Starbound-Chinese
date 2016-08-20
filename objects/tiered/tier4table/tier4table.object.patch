@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张牢固的耐钢桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "耐钢桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张耐钢桌子非常光滑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张极其结实的耐钢桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这张桌子足够好用，叶族人能在上面切切切肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "认可。一张做工非常精良的耐钢桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张很酷的耐钢桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "并不是我通常用的那种桌子，但这张真是令人印象深刻。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张不错的耐钢桌子。"}]

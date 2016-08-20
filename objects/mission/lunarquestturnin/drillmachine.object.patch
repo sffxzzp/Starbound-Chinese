@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个大型的工业采矿钻头。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "采矿钻头"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这真是个奇妙的景象。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这绝对是我见过的最大的钻头。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这钻头看起来很好玩。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激动。多么令人印象深刻的一台机器。."},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是我见过的第二大的钻头！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "相似的机械装置被鲛族人用于挖掘海床。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "多么漂亮的东西！"}]

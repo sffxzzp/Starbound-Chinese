@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个适用于铸造厂的按钮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造按钮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个铸造机器的按钮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用在附近某种东西上的按钮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "机器按钮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。一个用于铸造机器的按钮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这按钮能干什么？试试就知道了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个磨损又风化的机器按钮。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我敢打赌这按钮在那个时代肯定大有用处。"}]

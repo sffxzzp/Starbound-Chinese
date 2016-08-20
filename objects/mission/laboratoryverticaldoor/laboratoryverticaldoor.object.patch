@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个时尚的横向舱门，完美的秘密实验室。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "实验室舱门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个舱门看起来像是科技发展部设计的。它令我不寒而栗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "构造精密的舱门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不喜欢有光泽的舱舱舱门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "挑剔。这个舱门是用光滑的白色金属制成的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇门打开的时候会分成三部分。非常整齐。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个非常简洁的舱门，打开的时候会分成三部分。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个舱门。我敢打赌在科学实验室里会非常有用。"}]

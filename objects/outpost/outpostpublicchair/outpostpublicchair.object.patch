@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "任何人都能坐的椅子！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "公共椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "简简简朴的椅子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。椅子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "只是椅子而已。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "简陋的椅子，坐上去不舒服。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不亚于其他地方的坐下休息的好去处。"}]

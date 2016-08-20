@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏铜制油提灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜制油提灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏以油作为燃料的铜提灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "燃料让这盏提灯保持明亮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火焰吞吞吞噬里面面面的液体。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这盏提灯里面有油。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏简易的铜提灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这盏提灯里的燃料在海里可烧不起来。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盏铜制的提灯。"}]

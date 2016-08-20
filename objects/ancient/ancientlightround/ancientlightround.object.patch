@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个圆壁灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圆形古代壁灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "是什么给这盏壁灯提供了这么多年的能量？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我本还期望这个大小的壁灯能发出更强的光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "又大又丑还很古老的灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。一个巨大而又难看的灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这灯可能已经亮了上千年。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个灯没什么了不起的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "此灯发出温暖的光。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "灭火器。并不有趣也不能玩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "灭火器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "灭火器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "方便的灭火器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用泡沫扑灭火焰！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警告。这个灭火器没有达到安全规章的要求。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "灭火器。但愿我不会需要它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种喷洒泡沫的仪器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个小东西能灭火。"}]

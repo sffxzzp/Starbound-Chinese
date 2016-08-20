@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种绿色物质里面有什么东西在动……"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "触手蛋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "里面有什么在动……？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个绿色的……东西。等等，我是不是刚发现里面有什么东西在动？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看起来很有趣……但闻起来很怪异。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。我也许应该马上远离这种绿色粘质。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我发誓我看到里面有什么东西在动。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种绿色物质闻起来太可怕了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种绿色凝胶。我不是很确定。"}]

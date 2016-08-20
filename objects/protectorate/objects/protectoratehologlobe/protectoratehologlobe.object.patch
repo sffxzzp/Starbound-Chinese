@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "令人神魂颠倒。我已无法移开视线。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团全息光球"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这种灯真是浪费能源。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏以迷人的运行轨迹运动的球形灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "跳动着的灯真真真好看！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。我喜欢这个小玩意儿，尽管它毫无意义。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "时髦的球形灯！我就是这样叫它的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏令人感到舒适的球形灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盏灯只管无止境的运动着。"}]

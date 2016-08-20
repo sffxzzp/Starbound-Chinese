@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "把火把粘在树苗上，做成了一盏别致的吊灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始吊灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这看上去好像是一棵粘着火把的倒挂起来的小树。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏用小树做成的吊灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用小小小树苗制作吊灯。叶族人用骨头固定火把，确确确保不会烧到手手手。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悦。这像是悬挂在天花板上的小树。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去像是叶族人用树苗做成的吊灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是叶族人少有的没有使用骨头制作的的物件。等等…固定火把的那个东西是什么？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像是树苗上粘着一些火把。很有质朴的气息。"}]

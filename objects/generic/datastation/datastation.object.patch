@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个工作站正在传输大量的数据。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "数据站"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它似乎正在处理大量的数据。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台机器看起来在很努力地工作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的机器制造着忙碌的噪音音音。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这个研究站看上去在处理星球的地形数据。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个计算机工作站。它看起来很重要，所以我大概不该碰它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个工作站似乎在处理大量的数据。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些有着各种各样闪耀面板的花哨电脑。"}]

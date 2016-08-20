@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把学生用的吉他。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团红色吉他"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把不错的红色吉他。我不会弹奏它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我的室友很擅长弹吉他。也许他们可以教我。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "它可以制造出很大的声声声响。叶族人很喜喜喜欢！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "羡慕。我有位室友弹吉他弹得特别好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我当然会弹这个。但现在不是时候。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "音乐。一种极具表现力的语言。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我喜欢原声乐器，不过我能用这玩意弹奏一些简单的曲调。"}]

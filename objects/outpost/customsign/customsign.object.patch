@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "定制的广告牌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "良好的公共标牌是任何文明的必需品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "原始的翼族文本输给了时代。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "文字，文字，文字字字。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。标牌就像原始的交互界面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "标牌上都是重要的信息，抑或是糟糕的双关。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "虽然它不能与鲛人的书法相比，但它现在很有用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种记号。"}]

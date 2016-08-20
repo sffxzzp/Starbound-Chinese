@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个战利品是某个大型的织网生物的吐丝器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "吐丝器战利品"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个战利品是某个大型的织网生物的吐丝器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个狩猎战利品是某种未知野兽的吐丝器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在它成为狩猎战利品之前，这这这个器官是野野野兽用来织网的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这个战利品是某个大型的未知生物的吐丝器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个战利品是某种织网生物的吐丝器。我想应该很难得到。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个狩猎战利品。这是一个巨型织网生物的吐丝器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我承认，这是一个有趣的战利品。估计来自某种巨大的丑陋的织网生物。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "你渴了吗？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团饮水机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一台饮水机。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一台饮水机。让人耳目一新！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这台机器每天都有新鲜的水。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。这台饮水机每天都会被加满水。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "普通的一氧化二氢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "水，生命之源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能直接在这里接到冷水。"}]

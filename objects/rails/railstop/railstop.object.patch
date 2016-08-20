@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "乘客在此停车或发车"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "轨道站"}]

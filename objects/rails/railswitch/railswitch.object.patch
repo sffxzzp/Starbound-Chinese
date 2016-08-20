@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "变向至另一轨道"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "轨道变向器"}]

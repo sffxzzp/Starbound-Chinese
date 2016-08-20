@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个适用于飞船的舱口盖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人类舱口盖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我们所有的飞船上都安装这种舱口盖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个飞船舱口盖。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "飞飞飞船舱口盖。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "骄傲。一个飞船舱口盖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "很酷的舱口盖。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个基本的飞船舱口盖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个舱口盖。"}]

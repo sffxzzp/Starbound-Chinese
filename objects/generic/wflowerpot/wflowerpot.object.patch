@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一朵可爱的白花被种在花盆里。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "白色的花"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个漂亮的白色的花。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这朵花闻起来很香。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "花闻闻闻起来很香。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。花瓣是纯白色的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看起来像一朵疯长的雏菊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "白色在鲛人中是和平的颜色。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一朵精致的雏菊。"}]

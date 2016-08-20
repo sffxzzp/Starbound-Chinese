@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "电脑，可能配置还不错。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "电脑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "电脑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "奇怪的电脑。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人很少用这这这个。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "羡慕。高效的电脑。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不错的装备。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "其他物种对科技的过度依赖令我伤心。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我确定这东西什么都能搜索到！"}]

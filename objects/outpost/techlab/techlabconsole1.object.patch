@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用这个交互界面来购买科技控制台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "科技控制台柜机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我能在这买科技控制台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我能在这买科技控制台。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这台机器会出售售售很有用的科技控制台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。能从这台柜机买到科技控制台。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "出售科技控制台的科技控制台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某种商店，出售科技控制台。很有用的小玩意儿。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在这买科技控制台。"}]

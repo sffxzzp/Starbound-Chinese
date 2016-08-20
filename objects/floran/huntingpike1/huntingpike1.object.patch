@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些插在尖刺上的骨头。简直病态。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖刺上的骨头"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这似乎是安插在一根尖刺上的一部分骨架。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "叶族人总是把骨头当作战利品来展示。多么粗鲁的行径。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "骨架是是是很好的装饰品。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震惊。这些叶族人竟用如此粗暴的方式来展示死者的骨头。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不管这个家伙是谁，他不应该以这样的方式结束生命。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些骨头是被组装起来作为一个警示么？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "注视着这个东西让我胆战心惊。"}]

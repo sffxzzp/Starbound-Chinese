@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张上方散发出巨量光热的灯的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张用灯加热的床。仿佛是它的温度仍不足以用来铸造。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一种人工光热床，躺在上面会感觉置身于满满的阳光下。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有灯的床好暖和，这对叶族人的皮肤很很很好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。电子人没法像那些有血有肉的人一样享受加热床的美妙之处。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它就像是个日光浴床，只是躺那里会非常非常热。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张加热床。铸造工人必须在高温下努力工作，这对鲛族人是无法忍受的折磨。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张灯加热的床。躺在上面感觉就像正午时躺在太阳下一样。"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我唯一能辨认出的单词就是“xOliver137”了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "xOliver137的雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "那里有比市民雕像更多数量的士兵雕像。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个固执的想法就像一根雕像里的铁棍，牢牢地钉死在里面并支撑着一切。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人觉觉觉既然得他被刻成雕像那肯定是做了什么很重要的事。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这个铭牌褪色了。我只能辨认出“Oliver137”这个词。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "从这铭牌我唯一能辨认的单词就是“xOliver137”了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "据说伟人的雕像都是由在他们有生之年被扔的石头做成的。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "安全控制台，用来确保安全。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "安全控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "安全控制台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "安全控制台……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "安安安全控制台……但是控制台怎么保证叶族人的安安安全？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。不确定我是否应该碰下这个安全控制台。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "安全控制台。我能打开和关闭它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这控制台是安全系统的一部分。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如我一直按按钮肯定会发生什么事。"}]

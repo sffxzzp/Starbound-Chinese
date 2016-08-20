@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个锁存器。只有在你真正了解它的时候才会需要用到它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铸造锁存器"}]

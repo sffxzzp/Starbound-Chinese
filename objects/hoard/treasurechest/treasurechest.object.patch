@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个宝箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宝箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个古典的宝箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "箱子里装满了珍宝！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "宝宝宝箱会在里面保护着小首首首饰或宝藏。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。一个宝箱！里面会是什么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它是一个宝箱。但它里面真的有财宝么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "箱子用木头和金属造的。它看起来已被用过而且轻微风化了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个宝箱！这肯定是我的幸运日！"}]

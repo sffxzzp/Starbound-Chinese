@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这里最好的安保摄像头。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高科技安保摄像头"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "永远监视着。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我应该当心着这种安保摄像头。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个摄像头自己会动动动。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。这个安保摄像头安装有动态监测。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有人在观察我的每一步。好生可怕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看着这个摄像头让我想躲到海底来避开它的视线。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你瞅啥瞅？哈？"}]

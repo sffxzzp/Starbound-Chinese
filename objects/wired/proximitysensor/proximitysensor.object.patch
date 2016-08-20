@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个压力板被踩下后就会激活。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "压力板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果我靠太近就会触发它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "别靠太近了！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人清楚在这这这个旁边要小心！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。一个近距离传感器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个近距离传感器。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个传感器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "小心地走过去。"}]

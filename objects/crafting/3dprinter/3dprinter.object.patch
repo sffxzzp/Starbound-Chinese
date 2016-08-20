@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这台机器能将像素重组成任意形态。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;像素打印机^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一台像素打印机……很少人能够接触到这些。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "像素打印机……改变了宇宙的技术。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用漂亮的像素素素给叶族人打印漂亮的东西西西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "痴迷。这样的技术就如同艺术一般。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "像素打印……比拟神之力。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "像素打印，我指尖的像素之力……“上帝粒子”。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "像素打印真是时髦。"}]

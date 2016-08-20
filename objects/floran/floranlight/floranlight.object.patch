@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "荚子里发出天然的绿光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "藤壁灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏诡异的绿灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道你们是怎么控制这些植物灯长在哪里的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人的壁灯吸吸吸收太阳的能量。日落之后再缓慢慢慢地释放出来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这些荚子好像被严格地控制了生长。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "绿色的光让我有点不舒服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些灯除了自然之外没有别的特点。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些灯很整齐地长在墙壁上。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这扇沉重的铁闸门是向内打开的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水平铁闸门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这扇铁闸门看起来是向内打开的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这样的铁门可以很好的保护任何一个房间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "很重重重的铁门，每一根铁棍都很坚坚坚固。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这些尖锐的铁刺看起来很危险。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种沉重的铁门是横向安装的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "坚固的铁门。或许它不怎么好看，但它可以挡住不速之客。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一扇坚固的铁门。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由悬挂着的发光晶洞制成的光源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "晶洞灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "发光晶洞融于其中。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我曾见过许多水晶供能灯，但这个设计绝不是出自翼族人的手笔。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发发发光石头发亮光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "诧异。这个装置以某种电子控制方式将晶洞的自然光引发出来。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "来自晶洞的自然荧光被制成一盏灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这盏灯是自然与现代制造业有趣的结合产物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就是个由绿色发光石头制成的灯。"}]

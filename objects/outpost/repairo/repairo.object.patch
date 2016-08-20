@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是罗布维修中心――一个负责修理遗失或损坏载具的机械商人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "罗布维修中心"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个机械人致力于维修物件。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个机械商人会修复破损的载具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的机械男修修修东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "宽慰。这机械男能修复损坏的载具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "很棒的罗布维修中心老店。他开朗而能修东西！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这位机械商人有着令人尴尬的开朗。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "整天修东西看起来确实让他十分快乐。"}]

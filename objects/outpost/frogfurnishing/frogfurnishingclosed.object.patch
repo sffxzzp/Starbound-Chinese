@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这里曾经是一个整洁的摊位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "休业的青蛙家具店"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这大木箱装修得多么奇怪啊。顶上的那个是长沙发么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来有人把大木箱改造成了商铺。我想知道谁会这么干？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想藏在大木箱里。叶族人希望里面没别人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这个大木箱好像正被改造成一个商铺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有人在装修这个大木箱――我想知道他们完工后这箱子会变成什么样？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不确定这箱子将被改造成什么，但我挺喜欢他们选的蓝色油漆。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我喜欢这大木箱的木材抛光――我想知道主人正用它做什么。"}]

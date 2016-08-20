@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某种奇怪的囊。看上去它已经孵化了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "打开的菌囊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这里面长了什么？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "好像有什么东西从这里面孵出来了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人嗅嗅嗅这个奇怪的菌囊。闻起起起来有点熟悉。叶族人很害害害怕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这个菌囊属于叶族人的起源，而且这里面已经空了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不想看到从这里爬出去的东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我已经准备好对付你了，邪恶的怪物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我已经准备好对付你了，你个邪恶的怪物。"}]

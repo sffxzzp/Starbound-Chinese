@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个正放的纸板箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "正放的纸板箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "上面印着个箭头的纸板箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个基础的纸板箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "放放放着东西西西的纸板箱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。这个指示箭头可能对保护内容物很重要。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个纸板箱。对存放东西很有用。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个基础的纸板箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个用纸板做的简易箱子。"}]

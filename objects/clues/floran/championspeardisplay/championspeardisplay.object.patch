@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个纪念在狩猎仪式获得冠军的叶族人的矛的展示台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冠军长矛展示台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这似乎是一把久远过去的叶族狩猎冠军用过的矛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "叶族人似乎用这样的方式来赞美胜利的猎人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "矛矛矛应属于强强壮的叶族猎人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "灵感。这把矛属于一位能打败某种强大猎物的英勇的叶族战士。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "通过这把矛下面的铭文可以得知，这把矛曾属于一个获胜的叶族猎人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "若这些文字可信，这把矛曾属于一位获胜的叶族猎人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这把锋利的矛看起来属于一个老猎人。"}]

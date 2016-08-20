@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一尊纪念翼族之神克鲁西斯的历史的雕像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "克鲁西斯之翼雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这座雕像铭刻了克鲁西斯的历史。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这座雕像的基座上记录着克鲁西斯和我们翼族的历史。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "雕雕雕像上有有有字和一些东东东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "灵感。这个雕像的基座详细地介绍了有关这位翼族之神的伟大历史。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这座雕像的基座似乎详细地描写了翼族之神的历史。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "雕像基座上的文字介绍了翼族之神克鲁西斯史。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这座雕像上有很多有用的信息。"}]

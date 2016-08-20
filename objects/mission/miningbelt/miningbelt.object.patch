@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用来运输大量矿石材料的机器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "采矿输送带"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一条输送带，用来在短距离内移动很重的货物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一条输送带，现在没在运作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人厌倦了围围围栏。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。这条输送带看起来没用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一条用来移动重物的短距离输送带。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个毫无趣味的人工建设。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一台将重物从一处搬运到另一处的设备。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一排锁上的守护团储物柜，包括我的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "我的储物柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这排储物柜中有一个是属于我的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "学生用的储物柜，里面也有我自己的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人拥拥拥有这这这个储物柜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "熟悉。我拥有这个储物柜好几年了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我的储物柜，存放着我所有的课本和乐队的照片。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个平凡的学生用储物柜我一直用着很顺手。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "耶，这是我的储物柜。尽管里面没什么东西。"}]

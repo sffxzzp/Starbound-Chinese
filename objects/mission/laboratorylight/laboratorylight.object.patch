@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个时髦的红色墙灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "实验室壁灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个科技发展部设计的灯是低功率运行的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个灯泡非常明亮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "灯光让叶族人想想想战斗。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个灯泡非常节能。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这盏灯发出一种热红色的光，这有点令人不快。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个灯泡用到的电量很少，讲究环保不太像科技发展部的作风。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "红色的光像一个垂死的太阳。"}]

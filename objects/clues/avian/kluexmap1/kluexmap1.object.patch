@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张说是能找到神圣宝藏的破旧地图。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "克鲁西斯藏宝图"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张古老的编织地图宣称能带你找到克鲁西斯的宝藏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张图上标注了找到克鲁西斯宝藏的路线。这地图是谁做出来的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对带字字字的古老图片感到厌倦。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。这张旧地图对古代宝藏做了说明。我想知道这是真的吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张星图说能找到古代宝藏。这是真的吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这块撕裂的碎片似乎是古老星图的一部分。真有趣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我在想这张地图能不能找到埋藏的宝藏。"}]

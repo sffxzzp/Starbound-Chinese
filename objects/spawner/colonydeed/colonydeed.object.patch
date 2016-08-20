@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "放置在一间至少有一扇门与光源的封闭式房屋中，才会有人搬进来！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^yellow;殖民地房契"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果把它放置在一间有门和光源的房屋里，它就能促使某个人搬进来。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个设备将邀请某个人搬进房屋里。只需确保那里有一扇门和一盏灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "挂在墙上的屏屏屏幕。让别别别人搬进家里！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。如果把它放置在一间有条理的房屋中，这个殖民地房契将促使某个人搬进来。 "},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些对扩大一个殖民地有很大的帮助。将它放置在有一扇门和一盏灯的房屋里，就会有人搬进来。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果把它挂在一间有一扇门和一盏灯的封闭式房屋里，就会有人搬进来并把它当作自己的家。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有了殖民地房契，就会有人搬进房屋里。只要确保房屋里有一扇门和一个光源。"}]

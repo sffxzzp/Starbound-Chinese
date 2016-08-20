@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这门是用一种防弹材料制造的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型气闸"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "气闸。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "气闸。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这是是是气闸。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。坚固的气闸。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "气闸。很有用！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "基本的气闸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这看起来像个气闸。"}]

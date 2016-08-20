@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "守护团的种族旗帜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团种族旗帜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些旗帜代表着不同的种族。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不同颜色的旗帜各自代表着六个不同的种族。翼族人的旗帜在右边。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人的旗帜有着最棒棒棒的颜色。有如树苗的叶子般嫩绿色。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。六面不同的种族旗帜！电子人旗帜的灰度是我的最爱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "六面旗帜。各自代表着一个不同的种族。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "每一面旗帜代表着一个种族。我很喜欢鲛人旗帜的简洁款式。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "六面挂在窗户上的不同的旗帜。"}]

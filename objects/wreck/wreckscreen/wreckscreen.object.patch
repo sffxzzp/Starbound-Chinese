@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个损坏的显示器，现在没多大用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的显示器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "完全损坏，没多大用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这里面看不到任何东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "破破破碎的显示器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。损坏到无法修理的程度。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个损坏的显示器。不可修复。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这玻璃真锋利，我得小心一点。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种物体打碎了这个屏幕。"}]

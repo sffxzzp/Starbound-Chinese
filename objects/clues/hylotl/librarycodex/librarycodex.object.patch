@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一本收录星系里鲛人的所有文献的书册。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代图书馆书册目录"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这本旧书列出了鲛人在星系中所有的书。对某些人来说一定是非常重要的信息。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这本尘封的旧书收纳了星系里鲛人所有的图书的信息。多么令人印象深刻！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人没有有有时间看布满灰尘的书书书。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这本书有星系中每一本书的信息。对某人来说这些信息一定很有价值。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这本书记录了这个星系的每一本鲛人图书。收录全部书籍一定很令人头疼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我们鲛人是天生的组织者－这部书册收录了星系中的每一本书。多么无私啊！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这本尘封的记录册记录了书名。我想它对某人会有些用处。"}]

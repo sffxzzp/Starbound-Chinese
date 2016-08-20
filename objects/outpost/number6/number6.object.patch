@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "记号6。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "6"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "六。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "六。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "数字六六六。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。六。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "六。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "六。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "六。"}]

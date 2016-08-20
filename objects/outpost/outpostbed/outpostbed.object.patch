@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "最基本的床。睡着不是很舒服。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基础金属床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "简朴的床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张床看起来相当简朴。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢睡睡睡觉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。打盹的好地方。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "良好制作水准的床。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "简陋的床。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不亚于其他地方的打盹的好去处。"}]

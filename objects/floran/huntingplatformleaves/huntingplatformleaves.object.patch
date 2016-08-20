@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一捆异常大的树叶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一捆树叶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一大捆巨大的树叶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些树叶。它们是被有意地摆放成这样的吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人爱大叶子子子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这些树叶看起来大得不同寻常。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一捆巨大的树叶。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我在水下从没见过这样的树叶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一捆漂亮的树叶。"}]

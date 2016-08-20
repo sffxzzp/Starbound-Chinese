@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个窨井盖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "窨井盖"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个窨井盖。为了防止傻瓜们掉进坑里。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个窨井盖。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "窨井盖，有有有什么东西西西藏在下面吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一个窨井盖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个窨井盖,等着某人滑稽地摔倒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个窨井盖，有什么东西潜藏在这底下？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种窨井盖，它藏了什么东西？"}]

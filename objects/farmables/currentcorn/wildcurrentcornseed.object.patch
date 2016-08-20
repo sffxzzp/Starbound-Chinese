@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "电流玉米，富含酸液。对肉体生物来说并不好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "电流玉米种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我听说人们被电流玉米的酸液烧伤。我最好小心轻放。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "酸性的玉米。危险而令人厌恶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好吃的酸性玉米。会让肉体家伙伙伙受伤。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。电子人懂得将这些蔬菜作为电池使用的方式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看起来像玉米……不过这真的，真的不是。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个恶劣的，酸性的玉米异变体。会毁了任何一道菜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "电流玉米比起可食用粮食之外更像一节电池。"}]

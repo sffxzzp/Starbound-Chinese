@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个状态舱。碰碰运气吧……"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "状态舱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个状态舱。我会是幸运儿吗？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个状态舱。我希望我会走运。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人会毫毫毫无顾忌地触发这个小舱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。这个状态舱的功能无法分析。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是个状态舱！我该触发这玩意冒次险吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我赌要发生些不好的事情。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个状态舱！我当然希望今天是幸运日啦！"}]

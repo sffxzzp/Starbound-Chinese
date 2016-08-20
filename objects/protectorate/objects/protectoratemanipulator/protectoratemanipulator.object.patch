@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把物质枪的复制品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团物质枪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这把物质枪的复制品非常精密。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "物质枪。一种强力的工具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "物质枪。叶族人迫不及待想要得到一个！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。物质枪是一种强力的工具。这把只是一个复制品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我马上就可以拥有我自己的物质枪了！这让我心潮澎湃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "物质枪是对守护者来说是一种标志性的工具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "今天的毕业典礼上我将获得属于我自己的那把物质枪。这真是意义重大的一天。"}]

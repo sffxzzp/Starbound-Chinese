@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "值得信赖的传送器，没有你我们该怎么办？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传送器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "飞船的传送器。传送的感觉就像坐在光速运行的过山车上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "传送器！飞一般的感觉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "飞船传送器。传送时叶族人会很困困困惑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "得意。一个传送器。在传送过程中我可以进入休眠模式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "传送器！传送如此迅速！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个传送器。传送的感觉就像自山巅潜入深海。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "飞船的传送器。让我们来试试她吧！"}]

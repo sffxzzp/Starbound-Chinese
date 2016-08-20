@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起来猿人和蘑菇人无法共处。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "困着猿人的菌囊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这什么…这个猿人到底碰上了什么可怖的东西？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多么不幸的结局。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不想讨论这这这个。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这个猿人还活得好好的，而且似乎是主动爬进来的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我认为…它还活着。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "对于猿人来说这是个多么古怪的藏身地点。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个猿人还活着吗？"}]

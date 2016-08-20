@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为稀有武器提供改良升级服务。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "比吉正派武器行"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来就像某种卖武器的黑市交易点。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "好多剑。大多数比店主还大！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人看见好好好多武器。叶族人好激动。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "钦佩。这小小的店主是怎么拿起他的商品的呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来是家相当正派的店铺！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个后巷小店的店主对头饰的品味很古怪啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这地方看来有很多先进的工具。迟早有用。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张干净又坚固的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "时尚的床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张清新、干净的床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张看着很朴素的床。床单是新的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "干净的床有有有助于舒舒舒适的睡眠。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平静。一张吸引人的高水平无菌床。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张看起来很干净的床，看起来足够舒适。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张普通的床，它会服务于它的使命。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果你问我的话，这张床看起来有点干净过头了。"}]

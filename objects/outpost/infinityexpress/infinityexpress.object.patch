@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "星系间的便利店。看起来是囤积货物的理想场所。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "无限快捷"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "商店。我确信能买到所有需要的东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "方便的商店。让我们希望它会出售我们想要的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能在这用闪光的像素素素换取货物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。某种商人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望他们卖苏打汽水。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "商店。或许我该看看他家的商品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "准备给自己悄悄买一瓶硬番茄汁。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "无论你是穿着运动裤、童帽或是灯笼裤都很可以喝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "温热果汁饮料"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这劣质饮料的甜腻气味勾起了我的回忆。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "水果饮料？翼人对这种温热饮料没什么兴趣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "令人作呕呕欧。恶心的饮料。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冒险。我觉得我会喜欢这种饮料的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "美味的饮料……我现在就能把其中一瓶喝下去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人只喝茶，其它的都不要。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "虽然这里没有蒲公英汽水但是这个凑合用足够了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一个鸡蛋形状的椅子，我不知道是谁的点子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蛋形椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这真是个疯狂的创意。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个蛋形的椅子。我坐在里面感觉很舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蛋形椅看上上上去很好好好吃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这个椅子的设计不能支持正确的坐姿。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这并不很实用，但是看上去太酷了！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "超越了实质的风格。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一只老大个的蛋形椅子。"}]

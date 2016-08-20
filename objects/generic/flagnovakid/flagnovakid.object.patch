@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面星之子旗帜。使用^green;[E]^white;以标记传送地点。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "星之子旗帜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一面星之子旗帜。我可以用这个作为传送的路标。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这面星之子旗帜可以为我飞船上的传送器标记目的地。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "星之子旗帜可以在使使使用传送器时作作作为传送的良好标记！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。星之子旗帜上有个小小的定位模块以在传送时定位。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这面星之子旗帜可以用我的传送器存储位置。然后我随时都可以回来。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这面星之子旗帜可以起到路标的作用，让我可以使用传送器回到这一地点。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我可以标记这面星之子旗帜以快速传送。"}]

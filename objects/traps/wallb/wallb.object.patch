@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能发出巨大冲击波的精巧的小炸弹！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "墙壁炸弹"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个看起来很小，但能造成一场大爆炸。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这小玩意能引起一场爆炸。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这个会引起起起大爆炸！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。它看起来也许很小，但是它的威力十分强大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这玩意能被引爆！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种有用的安保装置。如果你喜欢爆炸的话。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个小玩意能造成一场地狱般的爆炸！"}]

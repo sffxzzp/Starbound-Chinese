@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这里有些长根须从天花板上突出来了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "长根须"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "根须挤压着穿过了天花板。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "从天花板中生长出来的根须。也许有一天这地方会被它们覆盖。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "生长了许多年的根须。就像叶族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这些是从天花板上伸出的根须。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些根须就像棕色的触手。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些根须究竟能延伸多远呢？它们又是属于什么植物的呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这就是条根须。"}]

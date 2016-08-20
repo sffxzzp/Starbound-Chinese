@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个很多书籍都丢失了的华丽的书架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的书柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "里面大部分的书现在都丢失不见了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "许多原本在这书柜上的书都遗失了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空空空的书架。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "苦恼。书架上有许多书都不见了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个书柜现在有许多书不见了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个不见了许多书的书架还能被称为书架吗？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人把书架上的好书都抢走了。"}]

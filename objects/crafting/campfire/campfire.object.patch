@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "从篝火中蹦出小火苗，温暖着空气。这热量可以用于烹饪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;篝火^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个烧的正旺的篝火。我能用它来烹饪些食物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个篝火。可以用来做一些基本料理。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人讨厌火焰，但喜喜喜欢烹饪。有烹饪才才才有得吃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "了解。生火烤肉是一种基础的烹饪方式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直很喜欢看篝火中的火焰翩翩起舞。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个篝火，我喜欢火焰烹饪的食物的质朴 。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个用来烹饪的温暖的篝火。你还需要什么吗？"}]

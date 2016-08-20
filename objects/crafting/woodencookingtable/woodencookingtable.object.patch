@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用于生产拥有各种效果的干净卫生的食物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;厨房柜台^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个柜台包含了几乎任何料理所需的烹饪用具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "几乎所有的翼族人菜肴都能在这里制作出来。同样，也包括所有的非翼族人菜肴！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人赤赤赤手就能准备食物。但是柜台也是很有用用用的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "灵感。让我们制作食物吧！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张厨师的桌子。一大堆用来料理食物的各种各样的工具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "烹饪是一门艺术，而这就是画笔。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在这上面做一手好菜。"}]

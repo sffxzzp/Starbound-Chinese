@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "菠萝，你一定要先把它切开。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "菠萝种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "菠萝甜美又多汁。一种清爽的食物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "叶子看起来像羽毛，但它们一点也不软。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "菠萝看起来像叶族人的头头头。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "神气。电子人用菠萝当靶子已是众所周知的事了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "菠萝。很适合当甜品，或者拿来撒在披萨上！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "甜腻腻的。你永远不会在海底找到菠萝的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "谁会想到这种带刺的玩意里面会这么甜啊？"}]

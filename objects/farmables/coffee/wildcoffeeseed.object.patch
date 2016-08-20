@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "咖啡豆可以用来酿造美味的饮料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "咖啡种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "咖啡因提供能量的特质而广受欢迎。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "咖啡豆看上去是个诱人的礼物，但是苦极了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "咖啡使叶族人保持持持清醒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉重。电子人不知道这些苦豆子有什么好用途。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "咖啡，人类所知最为神气活现的植物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看破其苦涩的口感后会发现，咖啡是种很有用的物资。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "咖啡闻起来不错，不过我没发现喝这玩意有什么有益的副作用。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个标志似乎在警告我一些危险。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "死亡警告标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "或多或少得到普遍承认的危险标志。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人的头骨是没有牙齿的，所以这个标志对我来说很奇怪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "让叶族人感到兴奋的标志。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这个标志是一个警告，我想我应该注意一点，免得碰到危险。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个吓人的骷髅。嗯，绝对是个“好兆头”"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个严重警告标志，警告其他人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个骷髅头，你会发现里面是一个有机生命体的头。"}]

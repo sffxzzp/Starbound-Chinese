@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在这个衣柜上的水晶似乎破裂了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族衣柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有颗水晶嵌在衣柜上，但这目的何在？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个水晶在衣柜上可以当作一把锁。但是它似乎碎掉了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "衣柜里有什么东西可以给叶族人吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。因为一个小裂痕，这个水晶似乎已经停止运作了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道这里面是不是有个翼族纳尼亚……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在这个衣柜上的水晶损坏了，失去了原本的功能。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "衣柜顶上有一个水晶。水晶看起来坏掉了。"}]

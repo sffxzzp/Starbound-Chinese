@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "烟引。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "烟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "烟引。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "烟引。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "烟引。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "烟引。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "烟引。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "烟引。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "烟引。"}]

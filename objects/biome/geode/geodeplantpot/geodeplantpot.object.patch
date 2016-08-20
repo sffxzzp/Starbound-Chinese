@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个花盆里的水晶晶洞植物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "晶洞盆栽"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这种植物的叶子实际上是晶洞结晶"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种植物坚固得像石头。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇妙的植物和奇奇奇妙的石头。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这种植物推翻了我所知的关于晶洞形成的一切。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种植物上覆盖着绿色小晶体。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种罕见的石头生长成一个植物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个植物上布满水晶。"}]

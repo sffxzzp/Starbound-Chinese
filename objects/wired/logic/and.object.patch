@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个‘与’逻辑门。需要所有输入都为‘1’才能工作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "与门"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个‘与’逻辑辑辑门。需要所有输入都为‘1’才能工作。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。一个‘与’逻辑门。需要所有输入都为‘1’才能工作。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个滑动门让我感觉像在玩科幻游戏……"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "时尚滑动门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "滑动门。真令人激动。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些文化相信如果你没有灵魂，这些门就不会因你有什么反应。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不是百分百确定这门怎么工作。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。门滑动时有些东西吸引着我。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一次，我像这样冲向门但它没及时打开，然后……呵呵。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "时尚滑动门"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我喜欢这滑动门。"}]

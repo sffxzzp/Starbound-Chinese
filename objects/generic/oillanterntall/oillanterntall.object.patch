@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一盏在支架上的油灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "立式油灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯的高度让光传播的更远。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏照亮更多地方的灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族觉得高高挂起的灯很很很安全。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "灵感。这样的灯可以很好的照亮电子人的院子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个漂亮的灯柱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些等在海底可亮不起来。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盏可爱的在柱子上的油灯。"}]

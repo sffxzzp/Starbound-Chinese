@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个设计来关押叶族人罪犯的大型笼子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型木笼子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个巨大的笼子是设计来押送罪犯的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个笼子的大小正好能关押一个叶族人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个笼子是是是造来押送叶族人罪罪罪犯的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这个笼子是用基础的材料制的，但却拥有不可思议的强度。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个笼子的大小仅仅只能关住一个罪犯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这笼子的大小正好可以用来关押一个叶族人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个笼子完全没有一点隐私空间。"}]

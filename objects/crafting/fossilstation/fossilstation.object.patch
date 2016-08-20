@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用于制造化石挖掘工具与展示台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;化石工作站^white;"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我能在这制造化石挖掘工具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个我可以用来制造寻找化石的工具的工作站。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对化石石石感到很好奇奇奇。叶族人可以在这里制造出寻找化石石石的工具！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。用于制作鉴定化石的工具。我等不及要使用它了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "化石修复工具很酷。让我们来了解一下不同世界的历史！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用来制造化石清洗机，以深入了解到过去。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不是很清楚过去的事情。但或许我可以用这些工具了解到。"}]

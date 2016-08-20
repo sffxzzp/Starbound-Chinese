@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我可不想被锁在这些密密的铁栅栏后面。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁栅门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇铁质的监狱门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人用跟着差不多的们来防卫墓穴。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用来保护好东东东西的沉重铁门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这看上去像电子人地牢的监狱门。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像监狱里会有的那种门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "压迫之门。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我敢肯定那些小混混就会被关在像这样的门里头。"}]

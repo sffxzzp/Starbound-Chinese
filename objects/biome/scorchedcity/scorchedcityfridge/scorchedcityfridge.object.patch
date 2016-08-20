@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个现代风格的冰箱，能够延长食物的保质期。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "时尚冰箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个顶部带有制冷器的小巧冰箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个冰箱，很适合用来存放食物并保持它们新鲜度。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个冰箱，里里里面有食食食物吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。一个冷藏柜。便利的食物储藏间。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我有点好奇冰箱里是不是有什么好东西吃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个冰箱，最实用的发明之一。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个冰箱，里面有什么好吃的吗？"}]

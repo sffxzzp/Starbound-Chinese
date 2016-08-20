@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个坚固的铁拉杆。非常适合拉动。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁拉杆"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个拉杆能用来做许多事情。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个实用的拉杆。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人拉动拉杆。搞出事事事！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。一个简单的拉杆就能控制那么多不同的机械。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个拉杆。它就是等着去被拉动的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个拉杆。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个拉杆，我想去拉动它！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有毒的水果，但它真有那么糟糕吗？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒果种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这种植物能让我生病。或者说它能治疗疾病？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "又酸又美味。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人以喂朋朋朋友吃毒果为乐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这种植物对除企鹅以外的所有物种来说都是有毒的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一种有毒的菠萝，因为一个普通的菠萝所带的毒性并不够多。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种水果的毒性能被巧妙地利用来治疗疾病。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不会相信任何名字里带“毒”字的东西。"}]

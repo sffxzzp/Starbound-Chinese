@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个时尚的控制台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一个有大触摸屏的控制台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有按钮的控制台，如果我想，我随时可以按下去。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有按按按钮的控控控制台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。如果我与这个控制台互动将会发生什么事情？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个控制台。一直以来都是谁在控制它？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个电子装置是用来远程控制东西的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个控制台。如果我按下按钮会发生什么呢？"}]

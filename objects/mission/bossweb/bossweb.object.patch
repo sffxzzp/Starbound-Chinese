@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "死亡主宰结出的网。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "死亡主宰网"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "噫...这是什么恶心的生物弄出来的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是死亡主宰的网。如果我还要小命最好还是避开它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好恶恶恶心的网。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。这只是一张巨大的，黏糊糊的蜘蛛网。没，没什么好害怕的..."},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "死亡主宰的网，真恶心。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张死亡主宰织出的肮脏的网。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张黏糊糊、脏兮兮的网。"}]

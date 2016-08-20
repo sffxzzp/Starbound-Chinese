@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "生物捕获仓可以放置到此设备上，在设备范围内圈养宠物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宠物拴绳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "被捕获的生物可以拴在这个地方。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个方便的柱子能让宠物被拴在这里。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "把附附附寄的生物留留留在这里。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满足。捕获的生物被放置在此设备中就会呆在附近。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "用来拴住捕获的生物的拴绳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "捕获的生物一旦被放置在此设备中，就不会走丢。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个方便的拴绳能防止被捕获的生物到处乱走。"}]

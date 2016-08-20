@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小麦，一种有许多用途的主要作物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小麦种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "未经处理的小麦令人讨厌，但可以用来制作各种各样的菜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "小麦本身就很美味，或者做成面包屑也不错。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有穗穗穗的小麦。叶族人以扯下小麦的穗穗穗为乐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。我纳闷是否小麦的所有可能用途都已经被发现。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "小麦，用来烘焙一些新鲜面包正合适。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在陆地上，小麦有许多用途。在水下，几乎没有用处。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "每当我看到小麦我就渴望有一个新鲜的面包。"}]

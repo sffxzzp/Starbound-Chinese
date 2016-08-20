@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "某种埋在泥土和淤泥中的化石，得仔细清理将其从土块中取出。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "化石"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "埋在土块中的化石，得仔细地将其完整取出。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个化石看上去真有趣，我真好奇是否能将它完好取出？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "困在土块中的化化化石。我好奇它原原原来的样子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想看看这个化石的完整面貌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个化石！真好奇我是否能从土块中将它取出来？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个变成化石的生物，古老而精美，安息在岩石之中。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些古老的骨头－石骨！那些又叫什么来的？哦，化石！"}]

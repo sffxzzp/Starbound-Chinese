@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个外观整洁的柜台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "时尚柜台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个柜台，至少看上去还很干净。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这柜台看起来有点无菌的感觉，至少它很干净。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "柜柜柜子干净。非常干净！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。一个看起来干净的柜台。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个柜台有着整洁干净的外观。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个看起来无菌的柜台。我不知道它是不是真那么干净。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个看着整洁的柜台。"}]

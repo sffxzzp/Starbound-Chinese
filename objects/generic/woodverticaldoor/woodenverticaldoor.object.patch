@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个粗糙的木制舱口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制舱口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个基础的木制舱口。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个手制的木制舱口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看看看上去像地板上的一扇门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这舱口看上去是手工做的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个为水平通路满足不了要求而准备的舱口。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个廉价的木制舱口。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个地板上的舱口通道。看上去相当相当粗糙。"}]

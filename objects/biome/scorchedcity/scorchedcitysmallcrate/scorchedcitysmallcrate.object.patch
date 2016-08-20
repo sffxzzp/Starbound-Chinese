@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个看起来生锈了的小型箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型生锈箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个看起来生锈了的箱子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个生锈的储存箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "生生生锈的盒子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。一个看起来生锈了的箱子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这就是个箱子。有点生锈但至少是完整的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个明显已经生锈的箱子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个看起来生锈了的箱子。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个凶狠地握住长矛的叶族人雕像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叶族人雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个展示着卓越的投掷长矛技艺的叶族人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "叶族人干得最好的一件事，就是猎杀生命。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个雕雕雕像描绘了狩猎的光荣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这支矛好像刚被用来刺穿了一只生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个看上去是个叶族人。我很纳闷这是谁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使只是一个叶族人的雕像都让我浑身不舒服。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个叶族人看起来是一位可靠的伙伴。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个垃圾箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "垃圾箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个标准的垃圾箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个垃圾箱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "垃圾圾圾箱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一个垃圾箱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "要翻翻垃圾箱看还有没有什么东西吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个垃圾桶。虽然很脏但却是必不可少的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个很大的垃圾箱。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "装满了书本的木制高书柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制书柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "简约的木制书柜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个书柜。很简约。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "简简简约的木制书柜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。就是个书柜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个常规的书柜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "放书的地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个大而朴素的书柜。"}]

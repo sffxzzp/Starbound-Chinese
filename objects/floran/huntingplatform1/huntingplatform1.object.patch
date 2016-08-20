@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个凸起的平台。别被卡在下面了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "凸起的平台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个凸起的大型木质平台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个木制的平台看上去十分坚固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个平台是叶族人猎手们打造的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这样子的平台有什么用处呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个刚好抬离地面的木制平台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不管怎样，制造的平台叶族人的工艺不是很好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是一些木制的平台而已。"}]

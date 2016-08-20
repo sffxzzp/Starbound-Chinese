@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张基本的木头桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张很基本的木头桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "最简单的那种桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "简简简单的木头桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无聊。一张非常简单的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "关于这张桌子没什么好说的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张桌子，各种角度来看都极致简约。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就是张桌子。"}]

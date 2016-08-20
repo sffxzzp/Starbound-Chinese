@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可靠的信息来源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "信息亭"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "就算我迷路了，我也可以咨询信息亭的小姐寻求协助。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "麻美，信息亭的小姐，超级乐于助人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "信息亭小姐尽管是个黏糊糊糊的鲛人，仍然是位友善又乐于助人的女士。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。信息亭的麻美小姐又可爱又热心肠。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "信息亭的小姐总是有一些实用的经验之谈。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在我还是一个懵懵懂懂的新生时，信息亭的麻美小姐毫不厌烦地为我提供了长期的帮助。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "每当我需要一些友好的帮助时，我都会来这里。"}]

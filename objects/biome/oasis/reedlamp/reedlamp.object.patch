@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "它看上去像芦苇，但实际上是盏灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "芦苇灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯被巧妙地伪装成芦苇。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一根被塑造成灯的芦苇。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发发发光的芦苇。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "端详。这是伪装成芦苇的灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看上去像芦苇，但实际上是盏灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这绝不仅仅是芦苇－这是一盏灯！如此的巧妙。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这就是个发光的芦苇。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张书桌，可能属于叶族人部落中的绿手指们。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始书桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张叶族人的书桌。叶族人干什么工作才会用到书桌？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我至今从来没想象过叶族人会在书桌上工作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在书书书桌上计划下一次的打猎。书桌里没有骨头。叶族人不不不能分心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一张普通的木制书桌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张书桌好像没有用任何骨头来制作，在叶族人的家具中真够稀奇的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人的家具中没有骨头？而且还是张写字台！让我大跌眼镜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张叶族人书桌对除了绿手指以外的其他叶族人来说有什么卵用？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一朵有亮红色的花瓣的花，用于制造染料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "红色花朵"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "红色的花朵，用来制造红色染料。这是最棒的颜色！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些花瓣可以用来制作红色染料，这是种万用而抢眼的颜色。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这些花是深红色的，让让让叶族人想起了一位朋友。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "尊敬。红色的花瓣被用于制造红色染料，这是种高贵的颜色。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以用这朵小花造出鲜红色的染料。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一朵红色的花。用途广泛，鲜艳，并且美丽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一朵红色的花，我总想着不要去闻它们。为啥咧？"}]

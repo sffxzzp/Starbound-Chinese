@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "召唤属于你自己的人类村民！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "人类生成器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "永无止境地供应无毛猿人。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我能从人类那里获得什么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不确确确定是不是想要召召召唤肉肉的人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "关注。我听说人类对这种事情很迷信。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "什么险恶的东西！人类克隆？真棒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个人类生产机。多么令人高兴的没用。"}]

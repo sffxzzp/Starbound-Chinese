@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "木头和骨头制成的架子，用来储藏补给和战利品。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "原始架子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个用木头和骨头制作的简单的架子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "架子本身看着就像战利品。不再需要任何装饰。 "},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想用架架架子寸放战利品，但是战利品太大了。所所所以叶族人把架子当成了战利品。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这骨头好像是一些巨大生物的肋骨。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这架子是空的。难道叶族人也会没东西可以猎杀吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "至少这个架子空无一物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这架子用骨头和木头制成，属于某种纪念品。"}]

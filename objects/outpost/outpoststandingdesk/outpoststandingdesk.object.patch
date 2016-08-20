@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "站立式办公桌。对站姿很有帮助。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "站立式办公桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "站立式办公桌。真累。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "站立式办公桌。真是个新颖的想法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人很少用这种桌桌桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一张桌子，你选择站着而不是坐下？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "站立式办公桌，我听说这是个很好的创意。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "站立式办公桌。对保持活跃的思维很有帮助。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "让你站立而无法坐下的桌子。"}]

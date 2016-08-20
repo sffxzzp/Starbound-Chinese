@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一座叶族人的雕像。它看起来像是一个伟大的猎手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "叶族勇士雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一座气势雄伟的叶族猎手雕像。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一座叶族猎手的雕像。不是每个翼族战士都能如岩石般不朽。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "成成成功的叶族猎手可可可以得到大大大雕像。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这描绘的是一个成功的叶族猎手。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果这座雕像的主角是我，可能会看起来更好。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "竖立一座雕像是对一个叶族猎手莫大的荣誉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这家伙一定是个非常棒的猎手。"}]

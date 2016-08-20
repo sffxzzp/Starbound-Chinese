@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "发光的小虫子似乎生活在这灌木中。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "萤火虫灌木"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "美丽的萤火虫旋转飞舞。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些小小的生物使我渴望翱翔。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族伴着水果吃这些发光的小虫子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊奇。这些萤火虫以催眠的轨迹飞舞着。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "萤火虫，它们被这丛灌木所吸引一定有什么原因。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有时，大自然的美艳倾国倾城。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些虫子就像小蜡烛一般亮了起来。"}]

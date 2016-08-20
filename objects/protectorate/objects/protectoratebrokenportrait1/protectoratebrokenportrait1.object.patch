@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个破碎的画框。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破碎的守护团画框"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个画框完全坏掉了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个损坏的画框，上面的肖像是一个翼族的大守护者。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "画框坏坏坏了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。一个破裂的画框。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个画框肯定是掉下来了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个脱落的画框。稀巴烂。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "除这个以外还有另外四个这样的。"}]

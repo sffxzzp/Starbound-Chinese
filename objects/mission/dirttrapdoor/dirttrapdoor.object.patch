@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个泥土有些不对劲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泥土活板门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这里的泥土地面看起来很不可靠。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这块泥土看起来不怎么真实。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻闻闻起来跟其他泥泥泥土的味道不不不同。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。有什么东西藏在这下面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这块泥土看起来不太正常。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个泥土做成的地面不可靠。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这块泥土中藏着什么奇怪的东西。"}]

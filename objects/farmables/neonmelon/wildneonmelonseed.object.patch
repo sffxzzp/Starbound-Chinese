@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "霓虹瓜那充满活力的果肉尝起来跟泡泡糖一样。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霓虹瓜种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "多汁、美味的霓虹瓜。颜色越鲜艳，味道越好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个多汁的霓虹瓜，里面有很多美味的、发着光的种子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人碾碎碎碎霓虹瓜来制造嘎吱吱吱的声音。当然也拿来吃。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。霓虹瓜总是如此美味。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你可以把这些吃了，也可以把它们拿来装饰你的房间。我选择前者。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "霓虹瓜尝起来过于甜了。然而它的外观还是很精致的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "霓虹瓜里面看起来很好吃。"}]

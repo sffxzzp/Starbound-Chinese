@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇用轻木头制成的伸缩门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制伸缩门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这扇伸缩门非常牢固。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "尽管这扇门是木制的，它依旧相当坚固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "木头是最坚坚坚硬的东西西西，因为它是植植植物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这扇木门坚固得不可思议。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇大型木门可以伸缩。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门设计的很实用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这扇门是木制的，但我觉得它不容易被打破。"}]

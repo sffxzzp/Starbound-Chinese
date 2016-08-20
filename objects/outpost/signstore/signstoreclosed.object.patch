@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这里曾经是一个整洁的摊位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "休业的标牌店"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "电子屏幕显示说这家店马上就会营业了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道开始营业时这会是什么店？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不知道营业时这家会是是是什么店。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激动。电子屏幕显示说这家店马上就营业了！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是个令人好奇的商店。我想知道这家店的用途是什么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这家店的侧边上被画上了鲛人的标志。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "多么奇怪的小摊啊。"}]

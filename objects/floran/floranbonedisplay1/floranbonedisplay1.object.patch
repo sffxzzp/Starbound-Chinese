@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "叶族人一次成功猎杀的成果。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨头战利品"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根被当作战利品展示的巨大骨头。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这根骨头是来自什么巨大的生物啊？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人只会把自己杀死的生生生物的骨骨骨头拿出来摆放展示。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。根据骨头的大小来看，这个生物应该比我们电子人一整个堡垒还大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这只是一根巨大的骨头。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "叶族人到底杀了什么东西才获得这个…战利品？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这一定得花不少高超的技巧才能把这巨大的生物放倒。"}]

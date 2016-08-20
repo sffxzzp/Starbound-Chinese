@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "人工智能舰载网络，或简写作S.A.I.L。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "S.A.I.L"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "当它正常运行时，我能和SAIL交流。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "重启这个科技站应该就能使我和SAIL交流了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人修复这这这个面板来使飞船重新运作！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "烦恼。我首先需要重启这个基站才能和SAIL交流。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我能重启这个系统，SAIL就能再次上线！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个控制台使我能和SAIL交流。但我先要重启它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "是时候重启它来让我和SAIL交流了。"}]

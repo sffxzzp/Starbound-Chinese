@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个老旧的警告标志，前方有致命的危险！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "老旧的警告标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个标志让我觉得应该更加小心一点。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个危险信号，前方有什么值得发出警告的呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个标标标志代表着有趣！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "机警。这似乎是一个警告。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多么不祥的预感。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个头骨没有三个眼窝，也许鲛人并不会有危险。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种骷髅标志。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "美丽又温暖的阳光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团光线"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "照射在皮毛上多么的温暖。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "要是我能在日光之下飞翔该有多好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好暖和，叶族人感到能量涌涌涌现出来了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "放松，阳光温暖了我体内的电路。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊，世上别无一物比得上它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "要是我晒太久太阳就会脱水的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这股暖流让我想起家了。"}]

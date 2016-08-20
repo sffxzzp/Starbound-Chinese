@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "礁荚，尝起来像加了海水的酥脆的冰沙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礁荚种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "礁荚尝起来又甜又咸。不寻常但讨人喜欢。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "美味可口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "尝起起起来像鱼人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。礁荚无疑是不寻常的。水果为什么能是咸的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "礁荚又甜又咸，口感酥脆。让我想起了爆米花。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "礁荚的甜度恰好适合鲛人的味蕾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "礁荚到底是咸的还是甜的食物？我都不知道。"}]

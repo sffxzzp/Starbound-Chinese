@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "泥海胆柔软潮湿，有些寡淡无味。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泥海胆种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "比起蔬菜来更像是便宜而普遍的杂草。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果没什么可吃的，那就吃泥海胆吧。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "泥海胆看起来像小小圆圆的仙人掌掌掌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无兴趣。一种既沉闷，又普遍的植物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "统计学证实，百分之九十三的人类有泥海胆恐惧症。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "为什么还会有人吃这个，这超出了我的理解范围。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "泥海胆沉闷得就像生长它们的泥土一样。"}]

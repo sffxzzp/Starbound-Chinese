@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上面有许多不该去碰的诱人的按钮。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型木制控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道这个按钮是干什么的…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我按了这个按钮会发生什么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人无法抗拒拒拒按钮钮钮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。按下按钮会发生什么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "把这些按钮都按下去！会出什么差错吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我还是三思而后行。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里有许多按钮，我好奇如果我全按下去会怎么样。"}]

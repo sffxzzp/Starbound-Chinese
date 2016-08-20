@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "耀眼的闪光与巨响的警报声保证能够吸引一堆人的注意力。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "警报灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些可以用来威慑别人，也可以用来当作一种安保设备。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个闪光灯能够让大家警惕犯罪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这个能使所有的警警警卫进入警戒状态。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊慌。这个会让很多人警惕起来，我应该更小心一些。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果这是在一部电影里，我敢打赌在我离开这里之后这灯就会灭了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏警报灯。用来让警卫们警惕恶棍们。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个警报灯一定会让那些带着抢劫品的强盗更难逃跑。"}]

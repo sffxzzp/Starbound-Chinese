@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一串挂在天花板上的骨头，像是一串病态的风铃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨制大风铃"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在风中发出响声的骨头。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这发出沙沙响声的骨制品让我不安。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人享受这些骨骨骨头发出的声声声音。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。这些骨头的声音跟那些会叫的昆虫很像。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "可怖的骨制风铃。听起来只是胡乱地撞击声，并没有韵律。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些骨头在风中发出的声音让我起鸡皮疙瘩。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一串惊悚的骨制风铃。"}]

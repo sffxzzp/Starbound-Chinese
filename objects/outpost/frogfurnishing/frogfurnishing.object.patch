@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "全宇宙最棒的家具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "青蛙家具店"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是青蛙商人中的一员。他兜售家具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这古怪的商人是谁？他的家具真吸引人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人稍稍稍稍被沉默的青蛙吓着了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这青蛙有些看着令人满意的商品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这只古怪的两栖动物兜售一些相当棒的家具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这生物有令人印象深刻的家具收藏品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这地方青蛙商人并不常见！"}]

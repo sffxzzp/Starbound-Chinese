@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用在你所有的自动门上简直完美！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "近距离扫描器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个邻近感应装置。如果我靠近它就会被感应到。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个邻近感应装置。如果我在它旁边，它就会触发一些东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在墙上扫扫扫描的眼睛。它正在盯着我看！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "多疑。这个近距离扫描器可能注意到了我。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个近距离扫描器。它可以分辨出我是否靠近。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个扫描装置能够分辨出我是否在场。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个近距离扫描器。它正在看着我吗？"}]

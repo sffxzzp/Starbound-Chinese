@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种独特的太空猕猴桃生长在接近地面的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猕猴桃种子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "太空猕猴桃的表皮摸起来和猿人的很相似。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一种有绒毛的怪异的水果，里面有许多美味的种子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "毛绒绒的、熟透的水果生物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗乐。值得注意的是，没几种食物长得像吃它们的生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "地面上生长的猕猴桃，地猴桃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "另一种特甜的水果。表面摸起来令人不悦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些尝起来就和普通的猕猴桃一样！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "壁灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "简易壁灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "正常工作的壁灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一盏壁灯"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "明亮的灯！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这盏壁灯相当有用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "漂亮而常规的壁灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "壁灯。有用但却令我不舒服。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盏灯还好，但显然没我耀眼！"}]

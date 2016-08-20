@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张简单的钨桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钨桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张钨桌子能派得上用场。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张牢固的钨桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这张桌子足够好用，叶族人能在上面切切切肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "认可。一张做工精良的钨桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张漂亮的钨桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "就拿基础钨桌子的标准来衡量，这一张不算差。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张不错的钨桌子。"}]

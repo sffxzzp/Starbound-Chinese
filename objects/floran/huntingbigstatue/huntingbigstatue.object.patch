@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个叶族人的雕像。这看起来是一名伟大的猎手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型叶族人雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "毫无疑问，这是一位叶族人霸王。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我猜这雕着一名叶族人狩猎大师。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个雕像像像代表了狩猎，而不是特特特指某一个叶族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这里雕着的叶族人是否是一位重要的猎人？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我敢打赌历史书上一定有很多对这个叶族人的记载。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个丑陋、虚伪的叶族人。被刻在石头上永垂不朽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个巨大的叶族人雕像。"}]

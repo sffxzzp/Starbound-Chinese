@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个木制屏风，适合用来躲在后面更衣。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制更衣屏风"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个屏风可以用来保证有限的隐私。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用来更衣的屏风。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用用用它来收集解剖时溅溅溅出来的血。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一个普通的屏障。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个用来更衣屏风…或者用来脱衣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个简单的屏风。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个可供躲藏在后面的屏风，如果你想做些羞羞的事情。"}]

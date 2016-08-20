@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "污渍和铁锈侵蚀了这张床。庆幸的是我并不太困。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破旧的床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个糟糕的睡处。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不是一个诱人的睡处。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个生生生锈的床。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。铁锈！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我无法想象这个床曾经看上去不错。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个床锈得无法修复。时间会终结一切。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你得很累很累才能在这睡着。"}]

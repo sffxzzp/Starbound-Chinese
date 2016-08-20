@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个古典的黄金水壶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金古典水壶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "苗条的金壶可能被用在特殊的仪式上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个苗条的金壶可能是为特殊的仪式准备的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "简简简单的苗苗苗条水壶。很很很漂亮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。这个金色的水壶好看。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是很古典的金水壶。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一款古典的、艳丽的金色水壶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "很明显这些金子做什么都比做成水壶更好。"}]

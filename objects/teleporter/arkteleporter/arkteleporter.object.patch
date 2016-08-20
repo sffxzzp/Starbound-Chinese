@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个传送门可以将你传送回方舟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "方舟传送门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个传送门看上去似乎连接着方舟。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个传送门看上去像是提供了一条通往方舟的捷径。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这个应该可以将叶族人带带带往废墟墟墟。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。我相信这个传送门连接着方舟废墟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "从这个传送门的外观来看，我猜它直接联结着方舟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我相信这个传送门可以带领我们前往方舟废墟。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个方便我们返回方舟继续展开冒险的便捷通道。"}]

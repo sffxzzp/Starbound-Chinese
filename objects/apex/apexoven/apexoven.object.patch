@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "能烹饪合乎标准的食物。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标准配置灶炉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个普通的炉子，差不多能用来加热食物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个能加热食物的仪器。我可以在这煮饭。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用火加热后食物额外的美美美味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。鉴定为烹饪仪器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个燃气灶。我从没用过这种灶子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我们能用它快速地加热食物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它可以用来烹饪出美味佳肴。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一个空的储物单元架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空的储物单元架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个巨大的储物单元架。它空无一物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一个空的储物单元架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大架子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。一个储物单元架。它现在没存放任何东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个看起来很有工业味的储物单元架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个空的储物单元架。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个无聊的储物单元架。它空无一物。"}]

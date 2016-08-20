@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "属于蘑菇族人的巨大蘑菇。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型蘑菇"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它看起来比蘑菇人可爱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我好奇这些巨大蘑菇的作用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人知道你隐藏的秘秘秘密，小蘑菇人。叶族人只是保持沉默。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悦。这就是一个蘑菇人，只是巧妙地伪装了自己。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "需要更多的毛虫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一朵令人讨厌的蘑菇族人的巨型蘑菇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这朵蘑菇有什么特别的地方？"}]

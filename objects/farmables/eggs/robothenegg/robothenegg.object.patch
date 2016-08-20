@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "可以孵出会长成成年机械母鸡的机械小鸡。成年母鸡会下ＡＡ电池。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "机械鸡蛋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "蛋里有一只机械母鸡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一枚机械母鸡的蛋。当里面的小鸡长成后会下ＡＡ电池。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不能吃机械鸡蛋……叶族人不能吃机械母鸡……叶族人很郁闷。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感激。机械母鸡的蛋！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一枚机械鸡蛋！我认为机械小鸡比普通小鸡还要可爱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一只机械母鸡的蛋。成年母鸡会下ＡＡ电池。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这只蛋里有个机械小鸡。"}]

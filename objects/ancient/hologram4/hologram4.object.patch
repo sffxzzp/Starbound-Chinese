@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个全息的古老神话场景。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代全息图"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "六个种族，各有一个隐含有意义的物品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这表明，六个种族，各有一个隐含有意义的物品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族是最最最好的种族！捅捅捅其他人！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。一个描述六个种族的宇宙。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嘿，看，那顶部有一个人类！走吧我们！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道这六个种族的重要性？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "六个种族，拥有一些东西。为什么我的种族不在这里？"}]

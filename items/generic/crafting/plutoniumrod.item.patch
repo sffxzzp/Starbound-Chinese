@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "没有人会想要这个。它有极强放射性。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "没有人会想要这个。它有极强放射性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钚棒"}]

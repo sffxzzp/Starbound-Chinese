@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇用蘑菇制成的门，看这个可爱的蘑菇把手。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇令人喜欢的蘑菇门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这门似乎不太安全。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人爱爱爱死这门了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。一扇蘑菇门。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇小巧可爱的蘑菇门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇由蘑菇做的门。奇怪。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇惹人爱的蘑菇门。太可爱了！"}]

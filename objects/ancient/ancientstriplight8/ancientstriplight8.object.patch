@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个神秘的光源。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代条形灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些灯并没有表现出被电力驱动的特征。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些灯散发着飘渺的光辉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的蓝色灯光…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我看不见为这些古代灯供能的能源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些灯要么属于古代遗迹，要么属于夜总会。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很好奇，是什么驱动了这些古代灯？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "是什么让这些蓝色的灯持续发光？"}]

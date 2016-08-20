@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张砂石制作的床，在躺上去前记得把灰擦干净。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "砂石床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张粗糙的砂石床。垫上适合的床垫会很舒适。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张粗糙的砂石床。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族睡睡睡在砂砂砂石床上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。以适合的角度跳上这张床，会使其毁坏。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张床很适合法老王。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张粗糙的砂石床。不是理想的睡觉地点。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它看起来不舒适。事实上，我宁愿睡在旁边的地板。"}]

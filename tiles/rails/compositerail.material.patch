@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "复合轨道"},
+{ "op" : "replace", "path" : "/description", "value" : "一种结实的钢筋轨道。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这种铁路如此坚硬结实的原因在于制作它的材料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的金属轨道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起来很坚固的轨道，开始渴望搭乘它们了。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "承重平台"},
+{ "op" : "replace", "path" : "/description", "value" : "用于高压环境的坚固的承重平台！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "认可。这种强韧的平台能够适应压力变化。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "冰冷坚坚坚固的金属平台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像是有几分闪亮的平台。"}]

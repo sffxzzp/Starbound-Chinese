@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇沥青门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沥青门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "就是一扇门，只不过它是全由沥青制成。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个外观普通的门，但确实是沥青工程史上的一大壮举。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黏黏的很难打开。这不好。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "否决。一个沥青做的门随时会卡住。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "以沥青门来说，它还算是坚固。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一大滩沥青被塑形成了一扇门。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它看起来是一扇是用干掉的沥青制成的门。但它依然很黏。"}]

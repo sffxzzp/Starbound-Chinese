@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "稀有的火箭发射器"}]
+[{ "op" : "replace", "path" : "/description", "value" : "能炸毁东西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "稀有的火箭发射器"}]

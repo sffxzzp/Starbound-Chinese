@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这块砖头看起来与众不同。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄色隐藏开关"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这砖头似乎松动了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这砖头和周围不相配。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "砖头在晃动。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。一块稍显突兀的砖头。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一块咯咯作响的砖头。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一块奇怪的砖头。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这块砖头有古怪。"}]

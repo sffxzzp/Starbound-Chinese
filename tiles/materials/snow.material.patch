@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "雪块"},
+{ "op" : "replace", "path" : "/description", "value" : "松软的雪块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。这些雪块看起来是刚刚落下的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "冰冷的雪雪雪状物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一沓新下的雪花。"}]

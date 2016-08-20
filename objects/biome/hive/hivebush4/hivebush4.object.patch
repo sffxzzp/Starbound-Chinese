@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个形状怪异的卵囊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂巢卵囊"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这一定是这地方的原生物种的卵。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它看起来像某种卵囊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蛋蛋蛋？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这似乎是原产于这生态的一个物种的卵囊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那是一个卵囊？我不认为这些蛋能吃的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "外貌多么奇怪的卵囊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是一个卵囊？这是一切都...弯弯曲曲的。"}]

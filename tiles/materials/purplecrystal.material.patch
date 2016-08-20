@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种紫水晶内部像是在发光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紫水晶块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "敬意。看起来光线在从这这紫水晶中释放出来。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂漂漂亮的紫水晶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种紫色水晶看起来很可爱。"}]

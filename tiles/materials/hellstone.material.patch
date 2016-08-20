@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "呕，一种肉质材料！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "肉堆"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "惊慌。这肉看起来还在搏动。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "黏黏糊糊的肉。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "这肉看起来很肮脏。"}]

@@ -14,5 +14,6 @@
 {"op": "replace","path": "/paneLayout/mode/buttons/0/data/description","value": "不需要吃东西并且无死亡惩罚。"},
 {"op": "replace","path": "/paneLayout/mode/buttons/1/data/description","value": "吃东西才能存活，死亡会掉落物品。"},
 {"op": "replace","path": "/paneLayout/mode/buttons/2/data/description","value": "如果角色死亡则将永久死亡！"},
+{"op" : "replace", "path" : "/paneLayout/name/regex", "value" : ".{0,32}" },
 {"op": "replace","path": "/paneLayout/name/hint","value": "名称"},
 {"op": "replace","path": "/paneLayout/lblSkipIntro/value","value": "跳过介绍任务"}]

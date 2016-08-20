@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个顶上雕刻着翼族头像的祭坛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族头像祭坛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个装饰着不明符号的黄金翼族祭坛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "现今只有观星者才能看懂这些符号了。他们把这些符号的意义作为秘密深藏起来。红色的眼睛则是一种警告。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪亮的金色鸟人。你的身体在在在哪里？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吓人。这个翼族雕像看起来就像是活的一样。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望这些符号表达的不是什么重要的内容。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这红色的眼睛让我想起了我的同胞。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个雕像看起来就像是一个翼族人。"}]

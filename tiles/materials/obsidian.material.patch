@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "坚硬的黑曜石。天生就这么黑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黑曜石"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这些黑曜石密度和硬度都极高。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黑曜石石石。又硬又黑的岩石石石。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起来黑黑的黑曜石。"}]

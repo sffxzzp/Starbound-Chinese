@@ -1,3 +1,3 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "鱼化石"},
 { "op" : "replace", "path" : "/description", "value" : "一个鱼类化石。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "鱼化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "鱼化石"}]

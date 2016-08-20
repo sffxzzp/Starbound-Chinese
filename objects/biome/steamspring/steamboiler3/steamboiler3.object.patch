@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个巨大的上了漆的锅炉，用来将冷水转化成蒸汽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型蒸汽锅炉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个大家伙看起来随时都会倒下。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个塔式锅炉看起来相当老旧。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想推推推倒这个大家伙！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。尽管经历的那么多岁月的侵蚀，这个依然屹立不倒。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "毫无疑问，这个旧锅炉曾经有过辉煌的岁月。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不觉得鲛人会做这么乏味的东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这东西是一个相当了不起的工程学的成就。"}]

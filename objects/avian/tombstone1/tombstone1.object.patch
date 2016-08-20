@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上面写着对一位陨落的翼族人的致词。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "未经修饰的基础墓碑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个褪色的墓碑。很旧了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个标准的翼族墓碑。它们都很旧并且数量众多。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人种下花朵来标记死者的埋葬之地。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这个墓碑已经开始崩塌了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个非常古老的墓碑。上面的字大部分都看不清了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "死者应该得到比这更多的尊重。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个旧墓碑表明这是某人的墓地。"}]

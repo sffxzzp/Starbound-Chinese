@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着，\"它的运动方式由大气中的温度水平决定。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "呱太手办"}]

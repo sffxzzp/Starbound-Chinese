@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个非常有名的神秘女士的肖像画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "经典猿人画作"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一副经典肖像画，太美了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "哇，她看起来确实有些赞。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族想要偷偷偷走并在黑市上卖卖卖。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。制作赝品的技术高超。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "她看起来很眼熟，但是…不。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "为什么会有人想把这丑陋的脸永恒地记录下来？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是一个奇怪的女人。"}]

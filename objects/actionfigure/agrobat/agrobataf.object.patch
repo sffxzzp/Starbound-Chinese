@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着，\"由于那双敏感的眼睛，它更喜欢像洞穴那样黑暗的地方。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "电波蝠手办"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "熔化的岩石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "熔化的岩石。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "燃烧的岩石。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。熔化的岩石。"}]

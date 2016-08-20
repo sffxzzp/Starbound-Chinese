@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "Wicker Support Block"},
+{ "op" : "replace", "path" : "/description", "value" : "一个用柳条紧密编织成的支撑块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这个柳条制材料是如此坚固。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢坚固的柳柳柳条块。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来这些支撑块仅仅是一些坚固的材料编织在一起制成的。"}]

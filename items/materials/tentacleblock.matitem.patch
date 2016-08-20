@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一团蠕动的触手"},
+[{ "op" : "replace", "path" : "/description", "value" : "一团蠕动的触手。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "触手团"},
 { "op" : "replace", "path" : "/glitchdescription", "value" : "烦扰。这些触手被捣碎成结实的块状。"},
 { "op" : "replace", "path" : "/florandescription", "value" : "叶族人不不不喜欢蠕动的触手。"},

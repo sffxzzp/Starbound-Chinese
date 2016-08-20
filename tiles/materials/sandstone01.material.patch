@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "坚硬但是自然的沙石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙石"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这些沙石是由石头的细颗粒而组成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "有着沙沙沙子和石头的岩岩岩石。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些长得像沙子一样的石头。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇鹅卵石制成的门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿族对于密门非常熟悉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个精心伪装的门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "墙进去了。墙出来了。叶族喜欢欢欢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "审视。熟练的使用自然材料。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在石头房间很容易把这门隐藏起来。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "最大的秘密被隐藏在众目睽睽下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有一块石头在我我路上。"}]

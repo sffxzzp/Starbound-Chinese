@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "红色玩具块"},
+{ "op" : "replace", "path" : "/description", "value" : "一种可堆叠的巨大的玩具方块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。这些玩具方块可以互相拼接在一起。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢可堆叠叠叠的玩具方块。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些鲜艳的方块是用来玩的。"}]

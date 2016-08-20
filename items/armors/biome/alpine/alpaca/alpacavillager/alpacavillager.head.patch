@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一只货真价实的羊驼脑袋。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "真・外星羊驼头"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "真外星羊驼头"}]

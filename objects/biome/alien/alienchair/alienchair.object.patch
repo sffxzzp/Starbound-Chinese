@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张来自异域的椅子，它看起来是活着的！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "异域的椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我喜欢一些不是有机的东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张不平凡的椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢植物椅子。植物椅子是是是朋友！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。椅子是由有机外星材料所制成的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一张异域椅子？我不想把我的屁股放上。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用外星植物制成的椅子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张椅子是由外星植物制成的？"}]

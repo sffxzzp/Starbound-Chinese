@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一堵传统风格的墙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "华丽的墙"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "敏锐。这种墙使用了一种传统的方式巧妙装饰过。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这墙真真真是美的让人舍不得砸砸砸破。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这墙看起来真别致。"}]

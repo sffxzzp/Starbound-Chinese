@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个发光的海菇。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光菇"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不知道这是一种水果、蔬菜还是真菌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些植物照亮了海洋深处，就像小小的温和的太阳。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮！叶族人不能发光。会不会很有用…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "核准。又一个天然生物发光的好例子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "某种海洋蘑菇…一个海菇？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "海洋细腻美感的又一个好例子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不知道我们是不是同样的东西做的，小发光菇。"}]

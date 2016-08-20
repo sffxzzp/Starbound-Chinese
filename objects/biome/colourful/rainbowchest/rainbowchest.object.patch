@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个带有美丽的彩色斑纹的箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个彩虹箱子。里面装着的东西一定十分过瘾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "彩色的箱子。迫不及待想看看里面是啥。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族要看看漂亮的箱箱箱子里里里都有啥。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣慰。一个美丽的箱子，毫无疑问里面装有美丽的东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望里面有一罐黄金。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个优美的方式来储藏物品。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个箱子是不是彩虹的末端？"}]

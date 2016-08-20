@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一条发光藤。它很美丽，但有点怪诞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光藤"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "不知怎么的，我觉得这些发光的果实都可以食用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些树储存阳光？还是他们自己生产的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "发光的树令令令到很难在晚上打猎。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。是什么生物过程中产生了光？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "发光树？何其方便啊！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这发光的树里似乎居住着一个孤独的灵魂。"}]

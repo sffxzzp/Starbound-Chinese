@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台用冰做的造冰机。我只要旺旺碎冰冰！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "造冰机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "多用途造冰机。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这冰保持其他冰寒冷。聪明。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族爬进造冰机，颤颤颤抖，爬出来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "数理。这台造冰机目前正好有六千四百八十四块冰。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "造冰机，人类最伟大的发明之一。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一箱冰，由冰造出来的。有趣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "所有的冰将会粘在一起形成一个大冰块，是不是？"}]

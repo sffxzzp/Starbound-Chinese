@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"多彩的灌木。"},
+{"op":"replace","path":"/shortdescription","value":"多彩灌木"},
+{"op":"replace","path":"/apexDescription","value":"多彩的灌木。"},
+{"op":"replace","path":"/avianDescription","value":"多彩的灌木。"},
+{"op":"replace","path":"/floranDescription","value":"好看的灌灌灌木。"},
+{"op":"replace","path":"/glitchDescription","value":"声明。多彩的灌木。"},
+{"op":"replace","path":"/humanDescription","value":"多彩的灌木。"},
+{"op":"replace","path":"/hylotlDescription","value":"多彩的灌木。"},
+{"op":"replace","path":"/novakidDescription","value":"这些灌木可真是多彩啊。"}]

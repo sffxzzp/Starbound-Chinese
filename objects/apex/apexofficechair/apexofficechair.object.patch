@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张标配的办公椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张基本的办公用椅子。设计上非常不舒服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是什么凶残的玩意儿…有轮子的椅子？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "上面的皮革闻起来好好好好吃的样子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不屑。不符合人体工程学。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张看起来挫爆了的办公椅。我很好奇还有多少人在用？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张很不舒服的椅子，多坐一会儿都会让人感到痛苦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这玩意儿坐上去比看起来还让人不舒服。真的是瞎了我的钛金狗眼。"}]

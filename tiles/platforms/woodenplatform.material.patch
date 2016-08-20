@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "优质的平台"},
+{ "op" : "replace", "path" : "/description", "value" : "制作精良，木制平台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。这种优质平台是经过良好磨砂处理制成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这种优优优质平台使用木头制作的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起来工艺优良的木制平台。"}]

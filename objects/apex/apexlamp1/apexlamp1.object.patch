@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏矮小的木质台灯。灯罩用小圆点花纹装饰。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标配台灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏标准的台灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有人喜欢圆点花纹吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "垃垃垃圾斑点台灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。电子人喜欢光亮。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个老台灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这盏台灯发出昏暗的光线。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盏台灯。没什么特别的。"}]

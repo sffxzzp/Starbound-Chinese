@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个奇特的大锣。上面布满了雕刻。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "奇特翼族锣"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这锣会发出怎样的声音。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "祭司们会分别在祈祷开始与祈祷结束时敲响这面锣。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "翼族人的金属板发出的声声声音大的像叶族人的锣一般。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。这东西似乎有着和翼族水晶相同的振动频率。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我一直以来都想敲一敲这种锣。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样的声音从来没有在海底发出过。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "敲打这东西肯定会弄出些噪音来。"}]

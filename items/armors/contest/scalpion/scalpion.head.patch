@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一只铁蝎子在你的头上・・・一只驹刀小兵！（原文An iron scorpion for your scalp... A scalpion! scorpion蝎子 scalp头皮 合起来就是法语的驹刀小兵scalpion）"},
+[{ "op" : "replace", "path" : "/description", "value" : "一只铁蝎子在你的头上…一只驹刀小兵！（译注：英文的“蝎子”和“头皮”合起来就是法语的驹刀小兵）"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "铁蝎头帽"}]

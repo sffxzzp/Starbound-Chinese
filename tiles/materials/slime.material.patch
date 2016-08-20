@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一团厚厚的粘液。戳它就会摇晃起来。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "史莱姆液滴"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "犹豫。这个史莱姆块看起来很粘。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人超爱史史史莱姆！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这史莱姆看起来令人厌恶。"}]

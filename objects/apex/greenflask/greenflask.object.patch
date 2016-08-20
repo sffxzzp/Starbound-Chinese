@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个装满绿色黏性物质的烧瓶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "绿烧瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "某种恐怖的猿人混合物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "大部分的混合物都已凝固。让人联想到蛋黄。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "粘粘黏黏的绿绿的胶质。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。未知混合物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "或许最好完全不要管它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "光闻闻就知道有毒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "无多调查就知道这不是什么好东西。"}]

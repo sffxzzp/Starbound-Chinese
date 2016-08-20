@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种雕砖已经古老得无从考证了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古老的砖块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这些砖块都肯定经受住了岁月的摧残。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "古老的雕砖砖砖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起来挺老旧的砖块。"}]

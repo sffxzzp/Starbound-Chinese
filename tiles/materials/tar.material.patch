@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "厚厚的焦油沥青。光是看着它都感觉浑身黏糊糊的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "焦油沥青"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。这块焦油又厚又黏。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不喜欢黏糊糊的焦油沥青。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看着像一大堆厚厚的焦油沥青。"}]

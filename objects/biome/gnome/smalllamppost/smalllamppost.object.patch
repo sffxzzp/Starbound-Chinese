@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个细小的路灯，尽量别踢坏它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "迷你路灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个微小的路灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是多么微子的路灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "细细细小的灯挂在棒棒棒上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个微小的路灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个微小的路灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "好小好可爱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个小路灯。有什么好用的地方呢？"}]

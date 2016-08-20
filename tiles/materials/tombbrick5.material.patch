@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/shortdescription","value": "光滑墓砖"},
+{"op": "replace","path": "/description","value": "抛光得非常完美的老旧砖块。"},
+{"op": "replace","path": "/glitchDescription","value": "难忘。这些砖块边缘都被仔细地抛光处理过。"},
+{"op": "replace","path": "/floranDescription","value": "光光光滑的砖块，硬度比较低。"},
+{"op": "replace","path": "/novakidDescription","value": "这些老旧的砖块看着真的很光滑。"}]

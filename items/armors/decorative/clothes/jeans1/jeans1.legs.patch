@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "紧身牛仔裤"}]
+[{ "op" : "replace", "path" : "/description", "value" : "极度贴身的牛仔裤，专为那些潮人航天员设计。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紧身牛仔裤"}]

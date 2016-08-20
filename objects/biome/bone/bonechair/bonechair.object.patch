@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张骨宝座。满足所有王室骷髅的需要。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想象一个暴虐的霸主坐在这里。也许大猿人很喜欢。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我希望在翼族圣庙里看到这个。一个非常阴森的翼族圣庙。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢骨椅椅椅子。叶族坐坐坐下，想着美味的骨头。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。这些骨头来自已经死了很久的生物。什么可能已经灭绝了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张令人毛骨悚然的椅子。但无比的舒适。我还可以坐着给予恶魔般的命令。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张用死者粗制的椅子。真恐怖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张骨宝座，适合骷髅王。"}]

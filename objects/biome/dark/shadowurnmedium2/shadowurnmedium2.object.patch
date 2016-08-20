@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个黑暗的瓶子。看起来很易碎。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中暗影瓶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想我听见里面有什么东西…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些瓶子看起来是受过诅咒的…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打打打碎它撕开里里里面的黑暗！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "毁灭。我相信有些黑暗的东西在里面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我几乎不敢打碎这些毛骨悚然的瓶子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果你打破一个瓶子，这意味着你交了坏运气。我讨厌去想打破这个之后会发生什么。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种瓶最好随便它留在这里。"}]

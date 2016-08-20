@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一大块银子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "银块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。这个块都是由固态银组成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "银银银子，亮亮的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个由纯银打造的发亮的方块。"}]

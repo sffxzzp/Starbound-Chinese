@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "它很漂亮，但有很强放射性。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "它很漂亮，但有很强放射性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钚矿"}]

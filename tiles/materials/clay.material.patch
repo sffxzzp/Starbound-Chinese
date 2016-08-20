@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "沉重而又黏糊糊的粘土。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黏土"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这种粘土很稠密，足以用来当作一种建筑材料了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "光滑滑滑的粘土。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我估计这种粘土脱水后会变硬。"}]

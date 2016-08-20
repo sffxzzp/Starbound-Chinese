@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个戴着战争角盔的羊驼头。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "真・羊驼守卫头"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "真羊驼守卫头"}]

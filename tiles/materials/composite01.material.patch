@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种由钛制作的光滑嵌板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钛金嵌板"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。这种钛金嵌板光滑得近乎完美无瑕。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "光滑闪闪闪耀的钛金嵌嵌嵌板。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些平滑且光亮的钛金嵌板。"}]

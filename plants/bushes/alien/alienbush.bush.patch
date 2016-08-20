@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一丛外星灌木。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "外星灌木"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "外星植物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。外星植物。"}]

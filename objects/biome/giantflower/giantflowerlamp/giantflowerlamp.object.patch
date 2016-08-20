@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这朵花看起来在散发着太阳的光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型花瓣台灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "明亮可爱的花。当作夜灯不错。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种花的光辉可以照亮任何房间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢发亮的花。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感到兴趣。这光是由花吸收并保存太阳光后然后逐渐产生出来。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "最好闻的灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这一卓越的天然灯是令人惊叹的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一朵惊人的发光花。对任何的家庭都是一种享受。"}]

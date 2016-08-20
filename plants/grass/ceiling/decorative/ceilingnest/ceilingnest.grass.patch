@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这似乎是一个小巢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "这似乎是一个小巢。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "生物的家！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。一个微小生物的巢。"}]

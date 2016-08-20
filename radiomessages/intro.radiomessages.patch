@@ -1,6 +1,6 @@
 [{"op": "replace","path": "/protectorateExitBedPester/text","value": "早上好毕业生！看起来你已经睡过头了。^#71f2f6;按下“A”或者“D”来从床上爬起来吧^white;。"},
 {"op": "replace","path": "/protectorateDormRoomTutorial/text","value": "如果你足够清醒了并且想跟周围的人或者物品互动的话，^#71f2f6;把鼠标光标对着他然后按下“E”键试试^white;？"},
-{"op": "replace","path": "/protectorateDormRoomPester/text","value": "记住，如果你想开门，你应该应该 ^#71f2f6;把光标门然后按下“E”键^white;。"},
+{"op": "replace","path": "/protectorateDormRoomPester/text","value": "记住，如果你想开门，你应该应该 ^#71f2f6;把光标对准门然后按下“E”键^white;。"},
 {"op": "replace","path": "/protectorateLoungeTutorial/text","value": "你的制服已经放在你的私人储物柜中了...能在将要迟到了的时候还这么淡定，你可真行。"},
 {"op": "replace","path": "/protectorateStage5/text","value": "这里不安全，拿上那把物质枪，你必须尽快到飞船发射台那里去！"},
 {"op": "replace","path": "/protectorateCollapsedGalleryNoMM/text","value": "拿上TP总领队掉下来的物质枪——它是你生存下去的关键！"},

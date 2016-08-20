@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "小寺砖"},
+{ "op" : "replace", "path" : "/description", "value" : "布满灰尘但制作十分精巧的砖块。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。这些小砖块展现出某种精良的工艺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "灰灰灰尘覆盖的小砖砖砖块。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "表面覆盖着一层灰的小砖块。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块高折射棱镜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "棱晶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "光线通过这块棱镜的时候折射了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这块晶体将光折射成好看的形态。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "色彩从这块石头中迸迸迸发出来。这让叶族人很好奇。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "大惑不解。我觉得这些棱镜石相当迷人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些岩石对这场令人印象深刻的灯光秀负责。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "棱镜是自然界一个真正的奇迹。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我喜欢一场好灯光秀！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个顶上雕刻着兔子的祭坛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "兔子祭坛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "兔子？为什么翼族人要建一只兔子出来？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "兔子象征了大地上的野兽。这个祭坛是用来警告其它种族的盗墓者的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "美美美味的一口口口酥。为什么眼眼眼睛那么红？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个雕像巧妙地安上了一双水晶制的眼睛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一只兔子吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看到这种在海洋之外游荡的生物会让我放下戒备。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个外观时尚的小动物雕像。"}]

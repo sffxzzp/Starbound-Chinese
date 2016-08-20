@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张舒适的椅子，看上去是设计了钉在地上的"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标配舒适椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张椅子坐上去相当舒服。是举报邻居得到的奖励。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这上面满是羽毛么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "真真真软~"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "刮目。皇家级的座椅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇哦，真是把非常舒适的椅子。看上去很贵的样子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如海底的细沙般柔软。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这肯定是把坐上去非常舒服的椅子。"}]

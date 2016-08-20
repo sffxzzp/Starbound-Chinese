@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "喔，看起来好锋利！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "锯轮陷阱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来很锋利。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人将陵墓保护得很好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "很锋锋锋利。叶族人必须避开。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。看起来它正以每分钟四千转的速度高速旋转。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "喔噢，在这儿我得小心了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我可不想被削成寿司。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那看起来可不友善。"}]

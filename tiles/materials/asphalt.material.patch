@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种廉价而实在的建筑材料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沥青"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "厌恶。数据表明沥青的审美价值低于2%。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黏糊糊糊的沥青闻起起起来就像焦油。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这就是一种稠油与岩石的混合物。"}]

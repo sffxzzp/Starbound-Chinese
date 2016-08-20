@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "羊驼守卫穿着的重型防护甲。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "真・羊驼守卫躯干"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "真羊驼守卫躯干"}]

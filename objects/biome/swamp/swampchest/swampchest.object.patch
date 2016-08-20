@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用枝条和树根做成的宝箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沼泽宝箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可不会对这种宝箱的安全性能放心。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用自然资材制作的宝箱。令人敬佩的想法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想把东东东西存到这箱子里！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。想象着都会有哪些东西被存放到这里面。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道用枝条做宝箱难道会有任何好处吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这宝箱真是丑。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道我能把什么东西存到这样的箱子里。"}]

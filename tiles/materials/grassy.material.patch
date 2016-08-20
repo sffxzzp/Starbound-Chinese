@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块顶部长着草皮的方块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "草皮块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。看起来这草皮块上长着生机勃勃的青草。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢草皮覆盖的土块。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "草皮块，单纯又美好。。"}]

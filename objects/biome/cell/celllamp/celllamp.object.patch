@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏高身灯，每盏灯都连在一起。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "细胞灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "没人会指责这灯的功利性。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "即使是喜鹊也会觉得这灯太光了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这些细胞就像闪亮的花花花朵。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。看起来无机的，但是由有机细胞组成。活着又像不是活着的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "愉快但不实用的。我最喜欢这种东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我的眼都快亮瞎了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是表明了细胞不是一样东西能分离使用。"}]

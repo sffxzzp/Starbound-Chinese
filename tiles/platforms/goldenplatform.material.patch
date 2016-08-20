@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金平台"},
+{ "op" : "replace", "path" : "/description", "value" : "这才是真正的奢华，一个黄金打造的平台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。这平台是由纯金打造的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "黄金平平平台。真真真华丽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "黄金！这平台是用黄金打造的！"}]

@@ -1,0 +1,183 @@
+{
+  "id" : "outpostclue",
+  "mainQuest" : true,
+  "prerequisites" : [ "shiprepair" ],
+  "title" : "Visit The Outpost",
+  "text" : "Before you go jetting off, I'll teach you how to ^green;access and use^white; the ^orange;scan mode^white; on your ^orange;Matter Manipulator^white;. There is a lot to be learned from your surroundings, and the Outpost is no exception. ^green;Press ^#71f2f6;[N]^green; to equip your ^orange;scanner^white;, key areas of interest will appear green. Let me know how you get on!",
+  "completionText" : "Excellent work. It may seem trivial, but scanning is an essential skill that will be pivotal in our search for the artifacts.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "questGiverIndicator" : "mainquestgiver",
+  "questReceiverIndicator" : "mainquestreceiver",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/clues.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+    "descriptions" : {
+      "findClues" : "^green;Scan objects^reset; to learn more about the ^orange;Outpost^reset;",
+      "turnIn" : "Return to ^orange;Esther^reset; at the ^orange;Ark^reset;"
+    },
+    "turnInEntityUid" : "estheroutpost",
+
+    "targetValue" : 70,
+    "objectValues" : {
+      "2stopshop" : 10,
+      "2stopshopclosed" : 10,
+      "techlabconsole2" : 10,
+      "signstore" : 10,
+      "signstoreclosed" : 10,
+      "terramart" : 10,
+      "terramartclosed" : 10,
+      "frogfurnishing" : 10,
+      "frogfurnishingclosed" : 10,
+      "penguinbartop" : 10,
+      "penguinbartop2" : 10,
+      "shipyardcaptain" : 10
+    },
+    "radioMessages" : {
+      "uniqueProgress" : {
+        "2stopshop" : {
+          "messageId" : "outpostclue_up1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "You can buy personal teleporters from this shop, extremely useful things.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "2stopshopclosed" : {
+          "messageId" : "outpostclue_up1b",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "You can buy personal teleporters from this shop once it opens. Extremely useful things.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "techlabconsole2" : {
+          "messageId" : "outpostclue_up2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This console will allow you to equip Techs, greatly enhancing your mobility and dexterity.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "signstore" : {
+          "messageId" : "outpostclue_up3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "At this store you're able to create your own custom signs.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "signstoreclosed" : {
+          "messageId" : "outpostclue_up3b",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "When this store is open for business you'll be able to create custom signs here.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "terramart" : {
+          "messageId" : "outpostclue_up4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "The Terramart stocks farming and gardening supplies, among other things. They will even buy home-grown produce from you through their remote shipping service.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "terramartclosed" : {
+          "messageId" : "outpostclue_up4b",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "When Terramart is open, it will stock farming and gardening supplies, among other things. They will even buy home-grown produce from you through their remote shipping service.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "frogfurnishing" : {
+          "messageId" : "outpostclue_up5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This furniture shop sells a large selection of exotic pieces from across the universe, and regularly has new stock. It also sells colony deeds, which attract tenants when placed in dwellings.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "frogfurnishingclosed" : {
+          "messageId" : "outpostclue_up5b",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This furniture shop will sell a selection of exotic pieces from across the universe, and regularly have new stock. It will also sell colony deeds, which attract tenants when placed in dwellings.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "penguinbartop" : {
+          "messageId" : "outpostclue_up6b",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "The barkeep in the Beakeasy will happily trade any diamonds you may have for penguin dubloons, which are popular among his mercenary clientele.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "penguinbartop2" : {
+          "messageId" : "outpostclue_up6",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "The barkeep in the Beakeasy will happily trade any diamonds you may have for penguin dubloons, which are popular among his mercenary clientele.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "shipyardcaptain" : {
+          "messageId" : "outpostclue_up7",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Penguin Pete is an authority on automobiles, from hi-tech spacecrafts to humble hoverbikes.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      },
+      "genericProgress" : [
+        {
+          "messageId" : "outpost_gp1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Scanning is such a rewarding hobby.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "startWithProgress" : {
+        "messageId" : "outpost_swp",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "The Outpost is a wonderful, vibrant place full of curiosities. There's still more to see!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "startAlreadyComplete" : {
+        "messageId" : "outpost_sac",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "Wonderful! You certainly do possess an inquiring mind.",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "complete" : {
+        "messageId" : "outpost_c",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "That concludes our tour for today! ^#71f2f6;Come and find me^white; when you're ready.",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      }
+    },
+
+    "dialogClueValue" : 4,
+    "dialogClueSpecies" : "human",
+    "clueDialog" : "/dialog/clues.config:human"
+  }
+}

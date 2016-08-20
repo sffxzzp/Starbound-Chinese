@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/shortdescription","value": "无名墓砖"},
+{"op": "replace","path": "/description","value": "这些砖块随着时间的流逝慢慢被风化。"},
+{"op": "replace","path": "/glitchDescription","value": "难忘。经历漫长岁月的洗礼，这些堆砌在一起的砖块依然很牢固。"},
+{"op": "replace","path": "/floranDescription","value": "叶族人喜喜喜欢光滑的砖块。"},
+{"op": "replace","path": "/novakidDescription","value": "一些表面看起来很光滑的砖块。"}]

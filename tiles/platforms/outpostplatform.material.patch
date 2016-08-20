@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨站平台"},
+{ "op" : "replace", "path" : "/description", "value" : "在深空前哨站里常见的轻型平台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这些平台非常轻，易于携带。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "就是是是另外一种金属平台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来很奇怪的金属平台。"}]

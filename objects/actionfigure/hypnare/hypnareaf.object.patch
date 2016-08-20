@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着，\"它酷爱在森林与草地间穿梭嬉戏。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海泊尼亚兔草手办"}]

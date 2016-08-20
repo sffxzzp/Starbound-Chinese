@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种被设计成能够适应压力变化的钢梁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "承重柱"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "了解。一种能够适应高压调整的钢梁。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪亮又坚坚坚固的金属梁。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一种坚固的金属梁。"}]

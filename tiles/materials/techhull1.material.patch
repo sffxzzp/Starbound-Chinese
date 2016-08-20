@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在加固的电镀材料下隐藏着电路。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "增强科技块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "羡慕。电线极好地覆盖在电镀层里面。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想要撕开镀层，砍断电线。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一串电线完好覆盖着在电镀层内。"}]

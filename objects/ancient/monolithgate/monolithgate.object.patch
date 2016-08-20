@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇神秘的古代大门."},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨石大门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一扇规模宏大的大门。它的另一边是什么呢？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一扇我前所未见的宏伟大门。但是它指向哪里呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大门让叶族人觉得自己很渺小。叶族人想知道它指向哪里。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这是一扇规模惊人的大门。是谁制造了它？它又导向了哪里呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一扇我从未遇到的宏伟大门.是谁创造了这个奇迹？它的另一边又是什么呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这简直就是一件华丽的造物。这大门一定是基于很特殊的用途而建造的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我缺乏用于形容这扇宏伟大门的词汇。我只能安静地欣赏它……"}]

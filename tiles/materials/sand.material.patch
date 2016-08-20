@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是泥沙，它粉粉的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "松散的泥沙"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不适。要让这些细散的沙子不跑进我的组件里有点难。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "泥沙。满是灰尘尘尘。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一沓带灰的陈旧泥沙。"}]

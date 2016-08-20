@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "威廉・电子比亚的肖像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "电子比亚肖像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个电子人怎么和猿人一样多毛？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个有着面部毛发的电子人。这怎么可能？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "电子人有有有胡子。这这这是真的？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "推理。我的数据库告诉我有些电子人是特别用来展现别的种族的显著特点的，这可能是其中一个。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "他看起来很像一个我们的历史刚开始时的地球诗人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某种类型的电子人艺术家？电子人懂艺术？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个电子人诗人？从没听说过有这种事。"}]

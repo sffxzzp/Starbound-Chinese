@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/shortdescription","value": "小墓砖"},
+{"op": "replace","path": "/description","value": "这些小小的砖块真是巧夺天工。"},
+{"op": "replace","path": "/glitchDescription","value": "吃惊。这石头的加工工艺真是令人赞叹不已。"},
+{"op": "replace","path": "/floranDescription","value": "小小的石石石砖块。"},
+{"op": "replace","path": "/novakidDescription","value": "在我看来就是些小小的砖块。"}]

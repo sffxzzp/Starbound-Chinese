@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这老旧的金属表面布满了锈迹。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生锈的金属"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊慌。这金属上的锈迹让我感到十分不舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "布满锈锈锈迹的金属。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一片布满厚厚的锈迹的旧金属。"}]

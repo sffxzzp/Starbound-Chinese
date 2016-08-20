@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小石砖，很适合微小的细节。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小石砖"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。看起来这些砖块都是从同一块石头上切割下来的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这些石石石砖很小小小。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些用岩石雕出来的砖块。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "新鲜的竹竿切块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "竹子"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "乐观。竹子的颜色表明了它刚被砍下来不久。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "新新新鲜的竹竹竹竿。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些砍下来的竹子。"}]

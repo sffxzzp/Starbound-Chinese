@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个非常有名的神秘女士的肖像画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "经典画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也许这就是科学发展部追求的吧。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个人类女人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "人类有如此美妙的笑笑笑脸，叶族的笑笑笑会吓到人类。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这幅画老得无法鉴定了，但看起来保存得很好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我读到过这个…悲叹的丽莎对吧？她看起来并没有不开心啊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个被完美捕捉的微笑。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "不管我怎么移动，画中的女士总是看着我。"}]

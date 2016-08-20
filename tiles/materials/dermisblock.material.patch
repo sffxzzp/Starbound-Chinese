@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "祸之皮"},
+{ "op" : "replace", "path" : "/description", "value" : "一团有着厚重而结实上皮的肉质组织。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这个皮肤组织的厚度造就了它不可思议的强壮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这强强强壮的皮肤起起起到了很好的保护作用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这块皮看起来比皮靴结实。"}]

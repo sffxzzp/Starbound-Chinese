@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看！有鱼哎！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木质水族箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我家乡曾有一个朋友在他的水箱里养过一条绿色的鱼。然后就没有然后了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这小东西在水中穿梭自如，就好像鸟在天上飞一样。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "噢噢噢，一个点点点心盒！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "同情。这小生命被困住了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这让我想起了古老的人类家具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "兄弟，总有一天我会来解救你的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一条落单的鱼。或许它需要一个朋友？"}]

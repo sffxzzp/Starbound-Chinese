@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着，\"它是贪婪与狡诈的化身。如果它有不安的情绪，会传递给你生气的眼神。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "怪化猫手办"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "飞船平台"},
+{ "op" : "replace", "path" : "/description", "value" : "拥有足以承受太空旅行的高强度品质。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "了解。像这样的平台通常用于太空飞船的建造项目。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "牢牢牢固的飞飞飞船平台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种平台坚固得可以避免被靴子磨损。"}]

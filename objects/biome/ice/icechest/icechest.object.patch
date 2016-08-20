@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个冰做的箱子。完全安全的，直到它融之为止。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寒冰箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个箱子似乎不太实用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "当然，你可以简单的融化这个箱子取出里面的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族对这超超超冷的安安安全性十分深刻。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "假设。这箱子原本是设计用作存放敏感文件。如果箱子熔化，内里的东西也会被破获。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个冰箱子。看起来不是很安全。 你可以使它融化来将其打开。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个冰做的箱子。不是最明智的设计。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哎呀，我大概可以解锁这箱子只要我站在旁边一段时间。"}]

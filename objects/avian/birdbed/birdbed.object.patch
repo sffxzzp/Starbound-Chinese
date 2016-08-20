@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张坚实的石床，上面铺有一堆干草。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "守护者之巢"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张铺满了干草的石床。看起来相当不舒适。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个守护者的巢。守护者们保卫着翼族神圣的土地。他们是虔诚的狂战士。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人有着干草窝。叶族人用着类类类似的床被。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担忧。这张床的人体工程学设计考虑欠佳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张石床。上面的干草提供微不足道的舒适性。石头摸起来也很冰凉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "要在石头上睡觉，你必须要硬如磐石。战士用的床。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这堆干草并没有使这张床变得更舒适。"}]

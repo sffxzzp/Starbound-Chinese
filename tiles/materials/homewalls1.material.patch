@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "漂亮的彩绘砖石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩绘砖块"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "高兴。这些彩绘砖块相当古雅。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "漂亮的彩绘砖砖砖块。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "一些确实很漂亮的彩绘砖块。"}]

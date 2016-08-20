@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一根被加固过的前哨站支撑柱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨站支撑柱"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "明显。这种梁柱结构普遍用于前哨站建设。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "支撑撑撑柱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在我看来就是一根金属大柱子。"}]

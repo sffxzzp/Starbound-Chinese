@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "每张这样的写字台上都焊有一个咖啡杯和一盏台灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标配写字台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "那个咖啡杯和台灯只是摆摆样子的。它们被固定在了桌面上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "奇怪的桌子…上面的物件都是焊牢的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "为什么猿人要把东西焊在桌面上？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。东西被焊在了桌面上。拿不下来。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我去…杯子和台灯都是焊在桌上的。只是个摆设么？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一套不实用的物件焊在桌子的表面。什么鬼！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这咖啡杯被钉牢在了桌面上。有什么玄机吗？"}]

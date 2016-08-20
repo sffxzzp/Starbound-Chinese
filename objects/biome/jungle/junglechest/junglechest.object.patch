@@ -1,0 +1,9 @@
+[{"op":"replace","path":"/description","value":"一个用藤条做成的箱子，看起来不太结实。"},
+{"op":"replace","path":"/shortdescription","value":"藤条箱子"},
+{"op":"replace","path":"/apexDescription","value":"箱子是有机的。"},
+{"op":"replace","path":"/avianDescription","value":"这箱子是造的还是自然生长的？"},
+{"op":"replace","path":"/floranDescription","value":"从土壤中长出的箱子。"},
+{"op":"replace","path":"/glitchDescription","value":"（影响深刻）这种植物生长出来就是一个箱子。"},
+{"op":"replace","path":"/humanDescription","value":"这箱子长出来的？"},
+{"op":"replace","path":"/hylotlDescription","value":"叶族已经学会使植物生长成它们要的样子。"},
+{"op":"replace","path":"/novakidDescription","value":"看起来这个箱子是从地面中长出来的。！"}]

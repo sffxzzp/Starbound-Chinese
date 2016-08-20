@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "摆满美丽的布料和服装的可爱小摊。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "市场服装摊位"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "各式各样的鲜亮服饰。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "折翼者喜欢那些可随风飞舞的鲜亮衣服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人很容易因为他们鲜亮的服饰而暴暴暴露行踪。他们绝对无法在叶族人的丛林中生生生存。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不可靠。我可没有时尚的概念。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "真是多彩的服饰。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这衣服很漂亮。可惜这些颜色在水下会失去活力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是些极度花俏的衣裳。"}]

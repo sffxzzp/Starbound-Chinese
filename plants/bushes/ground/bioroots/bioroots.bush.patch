@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一束卷曲的根。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "一些卷曲的根。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "根。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。这些看起来像根。"}]

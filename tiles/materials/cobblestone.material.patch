@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鹅卵石"},
+{ "op" : "replace", "path" : "/description", "value" : "坚硬的石头，摸起来很光滑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这些天然的鹅卵石自然的光滑。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "光滑滑滑的鹅卵石石石。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "像这样的鹅卵石并不少见。"}]

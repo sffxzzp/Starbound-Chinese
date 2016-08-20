@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个有着未知起源的神秘箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代箱子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个非常古老的箱子，它什么都能装。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这箱子看起来确实很老。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人很好奇奇奇……这个奇奇奇怪的盒子里面是啥？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警惕。我的传感器无法理解这个箱子的结构。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个看起来非常老旧的箱子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这箱子有着不寻常的设计，我无法识别它的制作者。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这箱子在这么长时间后仍然立在这里真是个奇迹。"}]

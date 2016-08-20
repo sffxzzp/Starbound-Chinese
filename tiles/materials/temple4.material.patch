@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "简陋寺庙石块"},
+{ "op" : "replace", "path" : "/description", "value" : "陈旧而且制作粗糙的物块，石头上的粗糙的划痕构成了图案。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。这些石头上的雕刻相当粗糙。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石砖上有古老的石石石刻。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某人曾经在这些砖块上雕刻了一系列图案。"}]

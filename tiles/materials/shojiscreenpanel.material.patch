@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种传统的纸拉屏板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "纸拉屏板"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这些板子非常简单而传统。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的屏板板。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起来很奇特的屏板。"}]

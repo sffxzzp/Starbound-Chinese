@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块黑色的岩石。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "暗影岩石"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这块石头看起来像火山岩。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "走在这些岩石附近我最好步步为营。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火火火山岩。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一块非常黑的石头，我几乎看不到它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在这里有一个绊倒的危险。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "新形成的岩石沉积物，它类似于冷却了的熔岩。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一块就如黑夜黑的石头，只差在没有星星。"}]

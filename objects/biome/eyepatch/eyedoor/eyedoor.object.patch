@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一道覆盖着眼睛的门。不要眨眼。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "被门用穿透的目光看着令我要很大胆量才敢进入。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这眼睛散发出恶意。有什么说话能比这更恐怖？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人觉得门看着叶族人因为很好笑。叶族人觉得它是属于自己的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。如果这门只有一只眼，这门看到的世界应该会是一维的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这门看起来不是很热情。我想这是某种双关语。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这被眼睛盖住的门过于戏剧化。 鲛人喜欢赤裸裸的美来传达重要性。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这门一直看着我。"}]

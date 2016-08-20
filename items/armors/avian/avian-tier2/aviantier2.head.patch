@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一顶有着很高审美价值的强大的、带帽檐的钨头盔"},
+[{ "op" : "replace", "path" : "/description", "value" : "一顶有着很高审美价值的强大的、带帽檐的钨头盔。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "麻雀头盔"}]

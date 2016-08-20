@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着，\"一个以机敏与胡闹闻名的古老物种。它们有一双灵动的眼睛。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "脉冲蛹"}]

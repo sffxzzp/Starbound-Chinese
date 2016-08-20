@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个长长的金属锅炉，用来将冷水转化成蒸汽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中型蒸汽锅炉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它看起来几乎就是一个巨大的试管。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我猜它不停制造蒸汽是为了达成某种目的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对这这这东西有这这这么烫而惊惊惊讶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。尽管顶端部分看起来很重，它还是设法保持住了直立的状态。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "就算以最低的标准来说，相比现在的科技、这个蒸汽锅炉来看也已经非常过时了…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不觉得鲛人会做这么乏味的东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "把一个这样的东西装到火车上，然后我们就可以给自己找很多乐趣了。"}]

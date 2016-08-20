@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个巨大的蘑菇，用来当做桌子简直完美。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果你实在太饿了，你可以吃了这张桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌子感觉太单薄了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人切切切肉的时候需要一张更好的桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "生物学。这个巨大的蘑菇是由多种真菌经过多年杂交的产物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在这里吃饭会觉得像是在野餐一样神奇。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然破坏多少就会提供多少。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这不是张真正牢靠的桌子，但它太可爱了！"}]

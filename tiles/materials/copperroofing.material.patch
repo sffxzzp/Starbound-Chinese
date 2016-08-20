@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用铜制成的屋瓦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铜制屋顶"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这屋瓦完完全全是由铜制成的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢闪亮的铜制屋顶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一堆铜制的屋瓦。"}]

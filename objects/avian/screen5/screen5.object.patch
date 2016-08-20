@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些是…脑电波？是的。我没猜错。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "脑部活动显示屏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些看起来是脑电波…是从哪里来的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "脑电波。据说为翼族技术供能的水晶有着自我意识。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "波型线线线。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这似乎是脑电波。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "脑电波？是谁的呢。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看起来像是思维图形。但这究竟是谁的？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些波形究竟意味着什么？"}]

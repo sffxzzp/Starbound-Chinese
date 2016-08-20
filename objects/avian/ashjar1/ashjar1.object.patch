@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个装满灰烬的鸟形罐子。我想打碎它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鸟形罐子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个翼族的罐子。看上去里面装满了粉末。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个骨灰罐子。许多翼族人是被火葬的，而他们的骨灰就被存放在这样的罐子里。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "砸砸砸碎翼族罐子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反思。罐子里的骨灰原本是翼族人。电子人可不能被这样处置。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这里面是…翼族人的骨灰？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "翼族人尊重死者的骨灰。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我打赌如果我射击这个罐子的话，它一定会碎掉的。"}]

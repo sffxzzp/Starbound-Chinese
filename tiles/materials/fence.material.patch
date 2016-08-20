@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个结实的木栅栏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木栅栏"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这个木栅栏挺结实。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "结实实实的栅栏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "没有什么比得上结实的木栅栏。"}]

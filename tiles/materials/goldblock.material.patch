@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块纯金金块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。一块完全由固态黄金组成的方块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪耀的金金金块。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "耶哈！闪闪发光的金块！"}]

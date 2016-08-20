@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "守护团平台"},
+{ "op" : "replace", "path" : "/description", "value" : "一个外观普通的平台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这种平台可以轻易地承受我的体重。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪亮的金属平平平台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起来由金属制成的精致平台。"}]

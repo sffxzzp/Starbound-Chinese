@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看着像是一个可能存放着蛋杯的地方…话说翼族人吃蛋类食物吗？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雕刻壁橱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个装在墙上的柜子。节省空间！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "很多折翼者的家都非常小。储物柜经常被装在墙上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "位于墙上的存存存储装置。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观说明。一个节省空间的存储单元。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个壁橱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道里面有什么。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个壁挂单元。看起来是用在厨房里的。"}]

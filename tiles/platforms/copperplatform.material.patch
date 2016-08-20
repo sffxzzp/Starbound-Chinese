@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "铜制平台"},
+{ "op" : "replace", "path" : "/description", "value" : "一段铜做的平台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这种平台看起来是用铜做的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用铜制成的平平平台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我敢肯定用铜加工成平台并不容易。"}]

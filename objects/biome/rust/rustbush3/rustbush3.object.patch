@@ -1,0 +1,8 @@
+[{"op":"replace","path":"/description","value":"一坨生锈的灌木，小心它们那锐利的边缘。"},
+{"op":"replace","path":"/shortdescription","value":"生锈的灌木"},
+{"op":"replace","path":"/apexDescription","value":"这灌木丛被铁锈覆盖。"},
+{"op":"replace","path":"/avianDescription","value":"一坨被腐蚀的生锈灌木。"},
+{"op":"replace","path":"/floranDescription","value":"叶族不喜欢发臭的生锈灌木。"},
+{"op":"replace","path":"/glitchDescription","value":"（紧张）铁锈让我感到头晕。"},
+{"op":"replace","path":"/humanDescription","value":"一坨生锈的灌木。现在我能看到一切。"},
+{"op":"replace","path":"/hylotlDescription","value":"这个灌木生锈了且不好去观察。"}]

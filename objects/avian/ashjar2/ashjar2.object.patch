@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个装满灰烬的兔形罐子。也许我可以打碎它。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "兔形罐子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "罐子里有大量的灰烬。这些可能是遗骸。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个罐子里的灰烬都是那些耻辱死去的翼族人的遗骸。 兔子代表了里面的翼族人永远无法在神国获得翅膀。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这灰灰灰是是是翼族人的还是其他生物的？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。里面的灰原本是翼族人，那么为什么这罐子会是这种形状？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个兔形罐子，满是遗骸的灰烬。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "为什么翼族人把他们死后的骨灰装在这样的罐子里？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个罐子看似是一个完美的射击练习标靶。"}]

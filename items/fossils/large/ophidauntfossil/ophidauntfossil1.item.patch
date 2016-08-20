@@ -1,3 +1,3 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "‘恐惧之爪’的头骨;"},
 { "op" : "replace", "path" : "/description", "value" : "‘恐惧之爪’的头骨化石。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "‘恐惧之爪’化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "‘恐惧之爪’化石"}]

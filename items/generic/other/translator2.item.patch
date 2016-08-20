@@ -1,1 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用于翻译符文的古代轮盘的右半部。"}]
+[{ "op" : "replace", "path" : "/description", "value" : "用于翻译符文的古代轮盘的右半部。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "右侧翻译轮盘"}]

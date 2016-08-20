@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "风化的屋顶瓦片，形状让我感到不安。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这屋瓦的倾角能轻松地疏导雨水。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "屋瓦瓦瓦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用这些瓦片来打造屋顶简直完美。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "屋顶瓦片"}]

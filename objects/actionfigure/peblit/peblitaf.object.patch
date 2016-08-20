@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着，\"它因为脑袋的尺寸和它的身体，不能长距离奔跑。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小岩石手办"}]

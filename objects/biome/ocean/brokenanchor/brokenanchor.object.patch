@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个损坏的锚。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的锚"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个损坏的锚。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个锚似乎坏了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "它是是是坏的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。这个锚完全生锈了，生锈是电子人的敌人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这锚哪来的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "锚从表面开始崩溃，并且会打到鲛人的城市。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "搞不懂这锚是非常旧还是以次充好的冒牌货。"}]

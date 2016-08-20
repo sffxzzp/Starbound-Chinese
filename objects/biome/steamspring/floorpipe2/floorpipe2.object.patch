@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "地板管道"},
+{ "op" : "replace", "path" : "/description", "value" : "一根从地板里延伸出来的管道。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这管道看起来很结实。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我好奇是谁造了这管道。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇怪的管道建筑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。多帅的一根管子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些喷出来的烟雾闻起来很古怪。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "像是正在逃离引力的云朵。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这根管子像烟囱一般在排烟。"}]

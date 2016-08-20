@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "A simple looking platform."},
+[{ "op" : "replace", "path" : "/description", "value" : "一个外表简单的平台。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "守护者平台"},
 { "op" : "replace", "path" : "/glitchdescription", "value" : "难忘。这种平台可以轻易地承受我的体重。"},
 { "op" : "replace", "path" : "/florandescription", "value" : "闪闪闪亮的金属平平平台。"},

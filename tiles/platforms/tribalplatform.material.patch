@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "寺庙平台"},
+{ "op" : "replace", "path" : "/description", "value" : "用坚实的寺砖做的平台。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。这由石砖砌合而成的平台。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用老旧砖砖砖块做的平台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "老旧石砖拼在一起就像平台一样。"}]

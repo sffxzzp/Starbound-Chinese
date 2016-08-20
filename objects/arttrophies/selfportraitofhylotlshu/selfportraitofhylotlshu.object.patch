@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个非常著名的鲛人艺术家的非常著名的自画像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人舒的自画像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个经典的鲛人自画像。大师级的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这幅画的画工几乎达到了翼族人的标准。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族想偷偷偷这幅画并在黑市上卖卖卖。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。这幅自画像是一个伟大的艺术作品。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "他看起来很熟悉，然而…不。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个我家乡历史上然而著名画家的自画像。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "画的不赖。看起来他在打牌。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张都是刺的桌子。请注意自己的站位。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毒素桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这桌子软软的、湿湿的，而且还有点让人不安。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在这张桌子旁很难感到安心。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "尖刺桌子捅捅捅了叶族人。叶族人要捅捅捅回去！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "注意。这些尖刺格外的锋利。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "感觉这张桌子连一顿饭菜的重量都承受不了就会垮塌了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这让我想起了美丽的睡莲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不介意使用有机的桌子。但这些锋利的尖刺肯定不安全。"}]

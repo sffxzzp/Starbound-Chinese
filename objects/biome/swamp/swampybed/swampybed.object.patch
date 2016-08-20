@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张不寻常的床，有着树根制成的床板和叶子制成的被褥。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沼泽营地床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张床或许比它给人最初的感官要更舒适。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个木质船体上铺了一层叶子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人睡睡睡在叶叶叶子中。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "昏昏欲睡。电量水平低。请求进入睡眠模式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来有点像一艘船、一艘装满树叶的船。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "睡在这种粗制滥造的床上我会浑身难受的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种床是为想要过简朴生活的人所准备的。"}]

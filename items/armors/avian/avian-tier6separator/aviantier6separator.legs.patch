@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这件维奥合金腰带掺入日曜石增强，能在移动时保护腿部"},
+[{ "op" : "replace", "path" : "/description", "value" : "这件维奥合金腰带掺入日曜石增强，能在移动时保护腿部。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "巨嘴鸟束带"}]

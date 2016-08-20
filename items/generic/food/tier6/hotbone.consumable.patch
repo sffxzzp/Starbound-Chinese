@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "辣椒烤骨竹，是一道爽脆的、辛辣的叶族人菜肴。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "热骨"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "辣骨"}]

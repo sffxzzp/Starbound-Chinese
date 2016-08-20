@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个穿着时尚的雪人。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "别致雪人"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可爱的雪人。你今天过得好吗？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个雪人。我嫉妒它有这么好的帽子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人狩猎雪雪雪人。雪雪雪人并不在意。雪雪雪人塌了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。电子人的身体有太多棱角，让我难以做出一个精确的雪电子人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个雪人！踢掉它脑袋的诱惑…不断涌现…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个雪雕像终有一天会融化，变成水回归它来的地方。它还有一个可爱的胡萝卜鼻子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个雪雕塑吗？我有点嫉妒它有这顶帽子。"}]

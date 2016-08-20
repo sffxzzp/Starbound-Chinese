@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "	戴上这邪恶的山羊头骨面具，让你的朋友和敌人感到困惑！"},
+[{ "op" : "replace", "path" : "/description", "value" : "戴上这邪恶的山羊头骨面具，让你的朋友和敌人感到困惑！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "山羊头骨面具"}]

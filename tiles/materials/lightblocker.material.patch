@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我能看到我的倒影……真丑！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "玻璃块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "陈述。玻璃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在玻玻玻璃里看起来很漂亮。"}]

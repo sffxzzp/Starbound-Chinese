@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个重要猿人的半身像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "男性猿人半身像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道这家伙毁掉了多少个家庭。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "上乘的雕工。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "会磕坏牙齿的石头大餐。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀旧。让我想起了我们国王的雕像。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像个大人物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "普通石头用机器做出来的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "令人印象深刻的雕塑。这个猿人是谁？"}]

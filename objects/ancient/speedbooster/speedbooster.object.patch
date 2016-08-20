@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "自这些喷气孔中释放的气体能增加你的跑步速度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "加速气体喷射器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个精巧的装置，它释放出了具有增益速度性能的气体."},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有着香甜气味的绿色气体使我的步伐充满活力。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "绿色气体让叶族人跑得更快。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "期待。来自这个设备的气体有着香甜的味道。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这气体闻起来新鲜而香甜。它有什么作用呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这气体的增益效果与速度增加有关。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一种绿色的气体，它能增加我的速度。"}]

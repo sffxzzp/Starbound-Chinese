@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一些漂亮的壁纸，墙壁上完美的点睛之笔。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "经典壁纸"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。电子人从来无法理解在墙上贴上壁纸的意义。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的纸贴在墙墙墙上。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "壁纸。用于装饰再完美不过了。"}]

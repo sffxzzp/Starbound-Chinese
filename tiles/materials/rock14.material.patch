@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "堆叠的天然花岗岩砖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "花岗岩块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。从这种花岗岩只能开采出鹅卵石。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢漂亮的花岗岩。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在我看来就是些天然的花岗岩。"}]

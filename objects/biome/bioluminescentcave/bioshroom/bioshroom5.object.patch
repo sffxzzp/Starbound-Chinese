@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一小丛发光蘑茹。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光蘑茹"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "可爱的小发光蘑茹。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些发光蘑茹很可爱！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这些蘑茹帮助叶族人在黑暗中看看看东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣慰。这些发光蘑茹提供了很多受欢迎的自然光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些蘑茹散发出放射性的绿光。我或许不应该尝试吃。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些小蘑茹发出的微弱光线在地下十分受欢迎。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你好，发光的小家伙。"}]

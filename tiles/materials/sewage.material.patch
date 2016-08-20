@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一沓令人作呕的污物。高雅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "污物块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "反感。这些污秽物有着压倒性的气味。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人被那污污污物的臭气恶恶恶心到了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来那是一种污物，闻起来犹如阳光下的无冲洗厕所。"}]

@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种合金看上去非常耐用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球基地方块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这种耐用的合金并不常见。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的金金金属块。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些看起来似乎很硬的金属。"}]

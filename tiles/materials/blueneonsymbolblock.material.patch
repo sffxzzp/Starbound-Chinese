@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种中间刻有奇怪的蓝色符文的砖块。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色霓虹块"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这符号的含义仍是未知的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢发光的符符符号。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有着闪闪发光的符号的一种砖块。"}]

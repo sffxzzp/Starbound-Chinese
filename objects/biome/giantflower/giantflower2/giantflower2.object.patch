@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一朵巨大的红色的花，看起来美丽但是很危险！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨型花"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一朵巨大的花。它是我感到放松。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一朵巨大的花。漂亮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "花好好好大，叶族可以在上面跳舞。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这朵花的DNA在近年有所突变，所以才有如此大的样子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "想象一下一个人站在门后手里拿着这朵花，多么有趣！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一朵巨大美丽的花。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这一定是我见过的花中最大的。"}]

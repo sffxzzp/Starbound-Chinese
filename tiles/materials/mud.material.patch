@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "又厚又黏的泥巴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "泥"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "厌恶。这些泥巴又厚又黏。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "叶族人喜喜喜欢这些黏糊糊的泥泥泥巴。"},
+{ "op" : "replace", "path" : "/novakiddescription", "value" : "对我来说就是坨烂泥。"}]

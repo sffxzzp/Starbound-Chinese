@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张用彩虹木制成的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "彩虹木床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张床只适合放在儿童房里。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张带有彩虹的床！用来启发美梦。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "床又亮又多彩。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "逗乐。这床有孩子般的吸引力。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想，在彩虹下醒来应该很有趣吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "每当涉及彩虹，我们的童心就会浮出水面。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在彩虹下睡觉，势必会给你带来好运。"}]

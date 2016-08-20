@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "标签上写着，\"它炽热的内核能产生稳定的岩浆流。然后射出一记重击。\""},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火焰斗篷手办"}]

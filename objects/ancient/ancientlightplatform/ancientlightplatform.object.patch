@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一束坚硬的光创造了一个平台."},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代光辉平台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这只是普通的全息平台。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这看起来还没稳定到足以承受我的重量。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人怀疑疑疑光线的坚固程度。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。这看起来就像我会从中间径直掉下去一样。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这平台是基于某种力场科技制作的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这能量屏障能支持的重量远比看起来多。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "固态的能量，就像我们星之子一样。"}]

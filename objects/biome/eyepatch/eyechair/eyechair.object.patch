@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张眼球制成的椅子.不要把它和高脚椅子弄混了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想我应该检查一下这眼睛是不是藏有科技发展部的监视器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这椅子看起来...是活的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人盯盯盯着椅子，直到椅子眨眼。累了。坐坐坐下来。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。尽管外表如此，这把椅子确实不能看东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "坐在这里让我觉得椅子看穿了我的大脑。我希望这不是真的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张奇怪又舒适的椅子。上面有一只眼。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "坐在这椅子你不会有放松的一刻。不断有被看着的感觉..."}]

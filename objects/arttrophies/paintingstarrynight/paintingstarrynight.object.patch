@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个美丽的夜空的画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "抽象画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿族是否仍有创造如此美丽的才能？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是酒精作用？永恒的天空。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族渴望再次看看看到丛林的天空。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊叹。这样的展示给了电子人暗示，我们是有理性的生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多么美丽的一幅画。这作画就像让颜色活过来了一样。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "多么艺术。这幅画的作者将被鲛人尊敬。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哇噢，画上的旋涡让我头昏眼花。"}]

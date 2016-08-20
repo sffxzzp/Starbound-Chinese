@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "里面附着一种令人作呕的甜腻气味。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄金灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这灯散发出的气味腐朽又令人恶心的甜腻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它曾经被用来为整个神庙填上水果的香气。现在这东西全是果味。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻闻闻起来让人讨讨讨厌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "恶心。这当中的久置烂水果的恶臭还是相当明显的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏灯！闻起来像是里面有着腐烂的水果。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这盏灯散发的气味在冲击我的全部感官。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盏超棒的黄金灯。只可惜是臭的。"}]

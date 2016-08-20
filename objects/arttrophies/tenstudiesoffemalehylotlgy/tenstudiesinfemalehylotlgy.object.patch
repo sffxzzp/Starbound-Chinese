@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅著名的神秘女士的肖像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人女性的研究"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "见到不是大猿人的艺术作品真好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这幅鲛人像如果画的是翼族人就更好了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "图像不能刺刺刺。叶族人觉得这这这真真真无聊。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赏析。这幅鲛人女性的画像画得非常细致。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不确定看到这幅画时我的感受到底是什么…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是幅多么美丽迷人的画。它捕获了多少感情。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一位奇怪的女士。"}]

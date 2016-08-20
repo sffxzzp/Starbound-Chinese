@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张冰冷的椅子，坐一会儿就感觉不舒服了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "寒冰椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我很担忧如果我坐下了会粘在椅子上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这椅子冻坏了我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "椅子让叶族很开心。颤颤颤抖。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。这椅子不是户外聚会好选择。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "不寻常的椅子。我皮肤都粘上了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想我看到了鱼被冷冻在这里面。可怜的家伙。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在一般情况下，我应该远离冰制的家具。"}]

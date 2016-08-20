@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个发出柔和光线的灌木"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "发光灌木灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可爱的发光灌木。在晚上的效果最好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个可爱的方式来照亮整个房间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不喜欢植物种在花盆内。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好学。这光是由花的自然生物发光所产生的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "自然光令人放下一切的烦恼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种天然的灯显然是十分惊人的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "把植物种在花盆内真的算是灯？"}]

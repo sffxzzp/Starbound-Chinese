@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些砖块看起来不大对劲儿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "隐藏砖块陷阱门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有一些砖块错位了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些砖块看起来不像真的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这些砖块块块闻闻闻起来和别的不一样。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "可疑。这里藏着什么。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些砖块有着不自然的光泽。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些砖块的堆砌方式有古怪。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些看起来很可笑的砖块到底是怎么了？"}]

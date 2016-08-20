@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用蜜饯猫李子点缀的湿软的大米布丁。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "猫李子布丁"}]
+[{ "op" : "replace", "path" : "/description", "value" : "用蜜饯圣女果点缀的湿软的大米布丁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "圣女果布丁"}]

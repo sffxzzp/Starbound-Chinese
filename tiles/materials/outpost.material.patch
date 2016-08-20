@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨站墙"},
+{ "op" : "replace", "path" : "/description", "value" : "这种材料的墙通常用于太空前哨站。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "熟悉。我之前在许多太空前哨站看见过这种材料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "坚固的金属制前前前哨站墙。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一种前哨站墙。"}]

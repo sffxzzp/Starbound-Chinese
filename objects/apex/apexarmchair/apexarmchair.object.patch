@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这椅子是用香蕉包裹的"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标配的扶手椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "猿人的时尚从这张椅子的产生开始进步，可惜猿人的自由并没有。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "好舒服的位子。这是猿人筑的巢吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好好好好恶心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不快。这张椅子瞎了我的钛合金狗眼。。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "令人沮丧的椅子，虽然坐上去很舒服"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此…不雅的东西会对心灵产生怎样的冲击？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "虽然不漂亮，但坐上去很舒服。"}]

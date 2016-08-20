@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个有着春之花锁的宝箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "春之宝箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个看起来肯定藏了什么好东西的漂亮宝箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个漂亮的花之宝箱！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能拥有的最最最好的宝箱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。这宝箱看起来无害。太过于无害了，说真的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个花之宝箱，太棒了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个外观普通的宝箱，但在装饰了来自大自然的天然美色之后就变得漂亮了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个有着美丽花朵的宝箱。闻起来也很香。"}]

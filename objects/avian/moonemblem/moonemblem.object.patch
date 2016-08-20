@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个徽章是对翼族首次在星空中飞行的纪念。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族月亮徽章"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一只鸟和一轮新月。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这表达了对我们第一次在太空中航行的敬意。翼族人相信在来世他们将能用巨大的羽翼在星空中自由翱翔。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鸟人也也也喜欢月光？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。一个徽章。也许描绘了一些历史上的翼族事件。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是在星空中的翼族人吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我们都向往着这种自由。张开翅膀、自由翱翔。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个描绘月亮的徽章。我曾自己一人在月下度过了几次美好时光。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个适合放在异域禅意花园里的石制结构。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "禅石"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "只是一块石头。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一块外观典雅的石头。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "石石石头。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这是一块外表整洁的石头。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一堆相当漂亮的石头。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一块平和的石头。看着它我就能静下心来。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一块还不错的石头。"}]

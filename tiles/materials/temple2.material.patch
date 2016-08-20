@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "翼族寺砖"},
+{ "op" : "replace", "path" : "/description", "value" : "这些砖块看起来很古老。砖块的表面刻着小小的象形文字，但我搞不懂它们的意思。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这些砖块的年代已经无从考究。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢古老的砖砖砖块。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "估计这些砖块已经有一段历史了。"}]

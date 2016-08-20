@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "眼球堆"},
+{ "op" : "replace", "path" : "/description", "value" : "一堆翻滚中的湿润眼球。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。除了最上层的那些眼球，其它将永远只知晓黑暗。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "湿湿湿软的眼球！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有些眼球正在盯着我看。"}]

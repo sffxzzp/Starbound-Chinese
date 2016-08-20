@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副标配的厨房橱柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标配橱柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "老式但是实用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "保存食物的好地方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "储储储存食物…（咂咂嘴）"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "急切。里面可能有食物即使是电子人也为之兴奋。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像一个厨房里的洗手台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "里面会藏有什么食物？我比较好奇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就是个厨房的洗手台。"}]

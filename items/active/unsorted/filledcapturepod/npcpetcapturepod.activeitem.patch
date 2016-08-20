@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "扔下它来释放里面的生物！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "捕获舱（满）"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "装满的捕捉舱"}]

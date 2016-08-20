@@ -1,3 +1,3 @@
 [{"op": "replace","path": "/charGenTextLabels","value": ["毛色","发型","上衣","裤子","皮肤颜色","胡子风格","上衣颜色","裤子颜色","猿族","人物性格"]},
 {"op": "replace","path": "/charCreationTooltip/title","value": "猿族"},
-{"op": "replace","path": "/charCreationTooltip/description","value": "一种高度智能化的灵长类种族。几千年来，猿族看起来非常类似人类直到科学上的突破才让他们可以将物理学上的退化转化为智力上的进化。"}]
+{"op": "replace","path": "/charCreationTooltip/description","value": "一种高度智能化的灵长类种族。几千年来，猿族看起来非常类似人类直到科学上的突破才让他们可以将身体上的退化转化为智力上的进化。"}]

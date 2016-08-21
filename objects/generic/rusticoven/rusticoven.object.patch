@@ -1,5 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "伴着轻柔的噼啪响声，山核桃木烟雾的香气让人心情愉悦。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "田园炉"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : " 田园炉"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "木火烹饪"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个可爱的小炉。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "折翼者喜欢在这样的小炉子上烧东西吃。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "石石石头炉子烧肉不错。"},

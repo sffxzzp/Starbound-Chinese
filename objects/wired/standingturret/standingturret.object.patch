@@ -1,5 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "用来自我保护的炮塔！只能放置一次。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "防御炮塔"},
+{ "op" : "replace", "path" : "/subtitle", "value" : "自动化基地防御"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一直保持着警戒。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "怪物们根本没有可乘之机，除非它们能飞。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "用来对对对付活物物物很有效。"},

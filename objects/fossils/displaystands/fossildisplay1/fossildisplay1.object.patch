@@ -1,4 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "用于展示小型化石的展览架"},
+{ "op" : "replace", "path" : "/subtitle", "value" : "展示化石"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "小型化石展览架"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个展览架，用于展览化石。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个化石展览架，但没化石。"},

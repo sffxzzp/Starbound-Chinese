@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一位青蛙商人。它是什么，或者说它想要什么，无人知晓。"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"青蛙商人"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"一个奇怪的两栖小贩"},
+{ "op" : "replace", "path" : "/description", "value" : "一位青蛙商人。它是什么，或者说它想要什么，无人知晓。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "青蛙商人"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "沉默的青蛙商人。不寻常。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这个令人好奇的商人是谁？"},

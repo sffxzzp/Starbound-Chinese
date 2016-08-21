@@ -6,4 +6,5 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。侍者可能拿着一瓶饮料，但我没看见他卖给任何人饮料……"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这酒吧只能勉强供货。很容易发现他们不试图出售任何饮料。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "多么糟糕的库存。侍者看起来没有卖出饮料真的太好了。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这廉价酒吧甚至没有假装出售饮料。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这廉价酒吧甚至没有假装出售饮料。"},
+{ "op" : "replace", "path" : "/chatOptions", "value": ["最近生意不怎么样……", "你来这是帮我解决问题的，啊哈？"]}]

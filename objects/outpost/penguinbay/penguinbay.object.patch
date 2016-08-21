@@ -6,4 +6,6 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "滑稽。这群小企鹅是走私者。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我感觉我走进了黑帮电影。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "粗鄙有罪的鸟儿。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "吵闹粗野的鸟儿售卖危险的玩意儿，就像我这样。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "吵闹粗野的鸟儿售卖危险的玩意儿，就像我这样。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "企鹅湾"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "100%合法的飞船执照"}]

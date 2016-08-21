@@ -6,4 +6,5 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。我想知道那只企鹅在忙什么？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我猜那只企鹅花了很大力气才爬上梯子。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "看着那企鹅拿着喷灯爬上梯子让我觉得好紧张。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这只小企鹅在忙着什么事。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这只小企鹅在忙着什么事。"},
+{ "op" : "replace", "path" : "/chatOptions", "value" : ["抱歉朋友，如果船长看到我聊天而没有工作的话，他会掐我的脖子！","我这儿有点忙。如果你有问题就去找那老版聊聊。","如果你对这些部件感兴趣就去找我们的老版聊聊。"]}]

@@ -6,4 +6,6 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这青蛙有些看着令人满意的商品。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这只古怪的两栖动物兜售一些相当棒的家具。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这生物有令人印象深刻的家具收藏品。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这地方青蛙商人并不常见！"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这地方青蛙商人并不常见！"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "青蛙家具店"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "主题家具，每天都有新的一套！"}]

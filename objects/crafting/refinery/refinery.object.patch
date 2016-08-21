@@ -1,5 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这个矿石精炼机是用来从矿物中提取原始像素的。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;矿石精炼机^white;"},
+{ "op" : "replace", "path" : "/subtitle", "value" : "将矿石变为像素"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我能把矿物放进这里来制造像素。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "用矿物来制造像素。实用。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "机器粉碎碎碎石头，制造钱。"},

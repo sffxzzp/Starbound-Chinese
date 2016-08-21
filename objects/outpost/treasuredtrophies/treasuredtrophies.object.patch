@@ -6,4 +6,6 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。一家以物换物而不是换像素的店？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我能在这拿到传说物品！前提是我能用相当稀有的物品去交换。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "我能用一些更稀有的东西来换这马车上的商品。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我要拿我的靴子换一些商品！但这商人对靴子不感兴趣……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我要拿我的靴子换一些商品！但这商人对靴子不感兴趣…"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "珍稀战利品行"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "拿你的珍惜物品换取丰厚的奖赏！"}]

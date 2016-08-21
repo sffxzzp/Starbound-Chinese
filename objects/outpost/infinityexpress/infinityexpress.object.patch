@@ -6,4 +6,6 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。某种商人。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我希望他们卖苏打汽水。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "商店。或许我该看看他家的商品。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "准备给自己悄悄买一瓶硬番茄汁。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "准备给自己悄悄买一瓶硬番茄汁。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "无限快捷"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;燃料，零食还有其他杂货"}]

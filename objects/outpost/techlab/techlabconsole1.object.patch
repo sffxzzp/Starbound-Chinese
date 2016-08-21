@@ -6,4 +6,6 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "满意。能从这台柜机买到科技控制台。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "出售科技控制台的科技控制台。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "某种商店，出售科技控制台。很有用的小玩意儿。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在这买科技控制台。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在这买科技控制台。"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "科技控制台柜机"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;出售科技控制台"}]

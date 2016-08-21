@@ -6,4 +6,6 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "满意。我能从这位绅士这里买到载具。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一般我会避开这样的可疑人物……不过我真的想买载具。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "我被告知这位船长会出售载具。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道这人卖什么载具？"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道这人卖什么载具？"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "企鹅皮特的载具场"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "完全合法的海盗生意"}]

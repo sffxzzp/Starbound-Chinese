@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "µ±Äã¿ÉÒÔÓÃÉşË÷µÄÊ±ºò£¬ºÎ¿àÒªÈ¥´îÆ½Ì¨ÄØ£¿"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "×¥¹³"}]
+[{ "op" : "replace", "path" : "/description", "value" : "å½“ä½ å¯ä»¥ç”¨ç»³ç´¢çš„æ—¶å€™ï¼Œä½•è‹¦è¦å»æ­å¹³å°å‘¢ï¼Ÿ"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "æŠ“é’©"}]

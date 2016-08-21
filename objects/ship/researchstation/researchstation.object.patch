@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "能用来开发非常专业的设备。"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"研究站"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"研发特殊科技！"},
+{ "op" : "replace", "path" : "/description", "value" : "能用来开发非常专业的设备。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;研究站^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我能用它制造专业的基站和设备。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "研究台。"},

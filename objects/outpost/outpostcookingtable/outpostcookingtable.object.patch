@@ -1,5 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这个烹饪台看起来是烹饪食物的良好场所。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "时尚烹饪台"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "时尚烹饪台"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;准备并烹饪食物"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "烹饪台。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我能用它烹饪美味的食物。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能用用用它烹饪可口的食物。"},

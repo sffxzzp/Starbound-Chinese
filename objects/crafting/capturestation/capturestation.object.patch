@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用来制作捕捉仓、治疗站和其他与宠物相关的物品。"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"宠物站"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"做任何有关捕捉宠物的事！"},
+{ "op" : "replace", "path" : "/description", "value" : "用来制作捕捉仓、治疗站和其他与宠物相关的物品。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;宠物工作站^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我能在这制造捕捉仓。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这台机器使我能制造捕捉仓。"},

@@ -6,4 +6,5 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。信息亭的麻美小姐又可爱又热心肠。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "信息亭的小姐总是有一些实用的经验之谈。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "在我还是一个懵懵懂懂的新生时，信息亭的麻美小姐毫不厌烦地为我提供了长期的帮助。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "每当我需要一些友好的帮助时，我都会来这里。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "每当我需要一些友好的帮助时，我都会来这里。"},
+{ "op" : "replace", "path" : "/chatOptions", "value" : ["欢迎来到大地守护团！和我交谈，我会为你提供一些便利的提示。","按下^#71f2f6;[I]^white;来打开你的物品栏。","按下^#71f2f6;[Q]^white;能让你丢掉你手头上的物品！","按下^#71f2f6;[N]^white;切换到检视模式来检视物品。","按住^#71f2f6;[Ctrl]^white;来周围移动你的摄像机，再按一下就复位！","时刻聆听SAIL的话，你的私人AI助手！","按下^#71f2f6;[Enter]^white;再次查看SAIL信息并与队友聊天。","如果你不知道接下来该干什么，就按下^#71f2f6;[J]^white;来查看你的任务面板。","敲击^#71f2f6;[空格键]^white;来跳跃，按住则可以跳得更高！","我因信息丰富而被大家所熟识！","按住^#71f2f6;[S]^white;可以下蹲！","按下^#71f2f6;[Q]^white;来丢掉你当前的物品。","使用^#71f2f6;[方向键]^white;可以让你用表情来交流。","记得按下^#71f2f6;[Esc]^white;检查设置菜单以了解更多的操作说明！"]}]

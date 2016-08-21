@@ -1,4 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个用来获取召唤各种人的部署信标。"},
+[{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/title","value":"员工终端"},
+{"op":"replace","path":"/interactData/paneLayoutOverride/windowtitle/subtitle","value":"使用雇佣信标来呼叫帮助！"},
+{ "op" : "replace", "path" : "/description", "value" : "一个用来获取召唤各种人的部署信标。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "^orange;员工终端^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我很疑惑我能不能叫一个自由战士过来。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "在阿沃斯上这种技术是有争议的。"},

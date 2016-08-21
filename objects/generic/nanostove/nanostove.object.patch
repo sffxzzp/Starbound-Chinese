@@ -1,5 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "提供特殊的热量和良好的室外烹饪环境。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "纳米炉"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "纳米炉"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "高科技野炊"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一种便携式环保野营炉。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个方便的野营炉。从此再也没有碳足迹！"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人害怕炉炉炉子会烫到叶族人。叶族人还是会用它。"},

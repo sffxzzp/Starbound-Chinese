@@ -1,5 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "满足你所有的农业和地形改造需求！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "泰拉市场"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "泰拉市场"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "^#b9b5b2;食物，农作物还有宠物物资"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "出售物资的农家店。高兴。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "购买农业物资的最好的地方，没有例外。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在这能给宠物买礼礼礼物！也可以买别的……"},

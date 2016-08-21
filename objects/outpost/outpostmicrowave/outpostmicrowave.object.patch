@@ -1,5 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "微波炉。当你饿的时候用来加热你的食物。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "微波炉"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "微波炉"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "方便地烹饪"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一种烤炉。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "古怪的烹饪仪器。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢生肉，但有时时时候熟肉也很好吃。"},

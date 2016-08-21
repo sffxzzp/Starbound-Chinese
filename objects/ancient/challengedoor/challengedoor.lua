@@ -65,8 +65,8 @@ function onInteraction(args)
         canBookmark = false,
         includePlayerBookmarks = false,
         destinations = { {
-          name = "���ڴ�����",
-          planetName = "�ص�ԭ�������硭��Ը��ˣ�",
+          name = "出口传送门",
+          planetName = "回到原来的世界…但愿如此！",
           icon = "return",
           warpAction = "Return"
         } }
@@ -77,8 +77,8 @@ function onInteraction(args)
         canBookmark = false,
         includePlayerBookmarks = false,
         destinations = { {
-          name = "��ս������",
-          planetName = "���ȶ��Ŀڴ��ռ�",
+          name = "挑战传送门",
+          planetName = "不稳定的口袋空间",
           icon = "default",
           warpAction = string.format("InstanceWorld:challengerooms:%s:%s", storage.uuid, world.threatLevel())
         } }

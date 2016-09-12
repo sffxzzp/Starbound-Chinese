@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["沮丧。他们让我每小时打扫这座桥就像我是个机器或者什么似得。","不耐烦。还有一天就能退休了…","勉强。我想这棵树的美丽来自于对它的精心保养。","开心。至少这是在外面工作的美好一天。"]},
+{"op": "replace","path": "/scriptConfig/dialog/complain/default/default","value": ["厌倦。每天都有更多的花瓣要扫。"]}]

@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/npcname","value": "拜隆"},
+{"op": "replace","path": "/scriptConfig/dialog/baron/start/default/default","value": ["友善。你好，陌生人！欢迎光临我的城堡！","我一直在等待着你的到来…从你穿过大门的那一刻开始！哈哈哈！","注意。那是什么？你有个请求？我后面那件东西？哦，那个啊…"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/showRelic/default/default","value": ["没错，我在若干年前找到了它。你不能拿走它；它很漂亮，我也很喜欢它。","傲慢。好啦！再见吧，陌生人！"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/alerted/default/default","value": ["警觉。你听到了吗？","那些穿斗篷的混混！又回来了！这都第四次了！","决定。这样，我们来做笔交易；你帮我摆脱掉这些可恶的邪教徒的话，我就把这个闪亮的饰品给你。"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/finalWaveComplete/default/default","value": ["难忘。真是出色的表现！我还怀疑我又要遭受一次他们的旧地重游呢……唔，你让我想起了我风华正茂的时候。","你当然已经赢得了你的饰品！","震惊。天上那东西是什么？！","无语。…"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/missionComplete/default/default","value": ["鼓舞。带上这个神器，也带上我吧。","我有个你能用的传送门。我会和你一起过去，我觉得这笔交易需要梳理一下。","沉思。而且，这里太无聊了。"]},
+{"op": "replace","path": "/scriptConfig/dialog/baron/beamOut/default/default","value": ["振奋。向着伟大的未知出发！"]}]

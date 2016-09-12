@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "冰冷，坚硬的金属板，用来当床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "链式金属床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来很不舒服的金属床。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张床如果铺上些干草会好一些。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这是床！？叶族人感觉很糟糕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惬意。这张床对我来说实在是太爽了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有时候最好的惩罚一个人的方法就是让他睡这样一张床。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张非常不舒服的床。我可不想在死前睡在这样一张床上。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人曾说恶劣的睡眠是最严酷的惩罚。"}]

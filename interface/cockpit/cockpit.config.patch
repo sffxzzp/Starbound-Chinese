@@ -1,5 +1,6 @@
 [{"op": "replace","path": "/starmapTypeDescription","value": {"default": "神秘的星","whitestar": "和平的星","orangestar": "温和的星","yellowstar": "放射性星","bluestar": "寒冷的星","redstar": "炽热的星"}},
-{"op": "replace","path": "/threatLevelToText","value": ["低","中等","冒险","危险","极限","不可思议","虚幻","***","***","未知"]},
+{"op": "replace","path": "/threatLevelToText/default","value": ["低","中等","冒险","危险","极限","不可思议","虚幻","***","***","***"]},
+{"op": "replace","path": "/threatLevelToText/moon","value": ["未知"]},
 {"op": "replace","path": "/threatLevelText/label/text","value": "威胁"},
 {"op": "replace","path": "/planetTypeLabel/text","value": "着陆地点分析"},
 {"op": "replace","path": "/planetTypeToDescription/garden","value": ["^#76fe68;葱郁的^white;山脚下标出了这个着陆地点。这里有丰富的动植物群。直接传送非常安全的地点。","这传送点在一处生物丰富的宁静地带。这里有你可利用的资源。一个^#76fe68;葱郁^white;且宜人的地方。","读数表示这个着陆点是有利的—这个区域是安全的，动物和植物都很丰富一个^#76fe68;葱郁^white;好客的地方。"]},

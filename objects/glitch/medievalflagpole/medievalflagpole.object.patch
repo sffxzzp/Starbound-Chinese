@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这根旗杆无论屹立在任何建筑上都很合适。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪旗杆"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根旗杆。插在城堡的顶上，在数里之外就可以看见。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "长杆上随风飘扬的旗帜展示着某个标志。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "长杆上的小小旗子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。看到自家上飘扬着旗帜令人心旷神怡。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在长长的旗杆上面挂着旗帜，所有人都能看到。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一面时髦的旗帜，上面的标志可能代表着某个皇室家族。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一面高贵的金色旗帜。"}]

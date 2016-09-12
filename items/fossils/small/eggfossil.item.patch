@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "蛋化石"},
 { "op" : "replace", "path" : "/description", "value" : "蛋的化石。"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "蛋化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "蛋化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "一个古老生物的蛋，在它真正孵化出来之前就被冻结了。"}]

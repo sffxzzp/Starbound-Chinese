@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇坚固的密封门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "密封门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个坚固的密封门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇沉重的金属门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大重门在水下能能能发挥最最最大用处。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "放心。这扇门十分厚重，它简直滴水不漏。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇巨大而坚固的门，能承受高强度压力。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇做工精良的密封门。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇强大的密封门。"}]

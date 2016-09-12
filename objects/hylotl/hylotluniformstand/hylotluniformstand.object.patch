@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个展示鲛人护甲的架子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人护甲展示架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鲛人喜好以这种方式展示他们的护甲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "令人印象深刻的鲛人工艺。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪护甲在特特特殊展展展示架上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞叹。这个架子展示了专家级工艺的护甲。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "印象深刻的鲛人护甲，令我想起了以前地球上的一些装甲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我们为我们的工艺而自傲，故将其置于此般展示架上。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些护甲挺华丽的……我在哪能搞到一套呢。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个收藏民谣与传说的书柜……"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪书柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个装饰得不错的书柜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个尘封已久的书之家。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "老旧又多灰灰灰的书柜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。电子人没有留下多少书，我想看看这里有几本没。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道这里的某些旧书有多古老了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "也许这些旧书里记载着一些伟大的传奇故事。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个书柜看起来真的很老旧！"}]

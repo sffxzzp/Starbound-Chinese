@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在越狱的时候，这些铁镣铐可能会给你带来麻烦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "壁式镣铐"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一副镣铐。这让我想起了家乡。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一套铁缚具。占星师们在向克鲁西斯献祭之前，会把祭品用这样的镣铐锁起来。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在烹饪之前，叶族人用用用铁铁铁手铐困住猎物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不适。自地牢的一副镣铐。看起来带上去会很不舒服但却很牢固。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一副镣铐。谢天谢地，没人被锁在这儿。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这里的监狱系统看起来相当野蛮。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我打赌肯定有不少歹徒被这种镣铐锁起来了。"}]

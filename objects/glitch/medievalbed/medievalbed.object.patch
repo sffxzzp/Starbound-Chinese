@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "铺着丝绸床单的坚固的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "床很硬，但床单有着丝滑的质感。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "床单摸起来轻薄柔软。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人享受这床的柔柔柔滑的触感。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。电子人的床单倾向于丝滑柔软，这样我们的金属外壳才不会磨破它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "简陋的床上铺着丝绸床单。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不错的丝绸床单。鲛人能够充分利用丝绸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "优质的床单不一定意味这是一张优质的床。"}]

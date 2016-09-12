@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["进攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/avian/default","value": ["滚出这里！","敌方侵入者—把他们赶出去！","难道你看不到我们这很忙吗？！","我们要把你埋葬在这！","这块地方是我们要清理的！"]}]

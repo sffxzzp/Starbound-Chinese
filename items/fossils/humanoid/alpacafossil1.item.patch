@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个羊驼的头骨化石。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "羊驼头骨"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "羊驼的化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "羊驼的化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "一只去世很久了的羊驼，有着坚硬致密的骨骼。"}]

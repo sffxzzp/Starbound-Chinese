@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在这个档案柜里有一些办公用品和犯人的资料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生锈的文件柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "在一份文件中提到一个男人仅仅因为朝车辆扔香蕉皮就被抓起来了，太让人寒心了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这里记录着一个真正的人渣。显然，有人对着电子人踢反弹球。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好多多多文件……这个记载载了有一个坏人点燃燃了一个叶族人！太卑鄙鄙鄙了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。某人因为行刺皇帝被抓，他在监狱里被关了一个星期。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这里有一个人长得很像我，这一定是个巧合，我从来都没有在公共场合损毁过壁画。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某人因为无照捕鱼被拘留，我希望他们永远不要放他出来。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "囚犯的文件。我们每个人都有自己的黑暗秘密和悔恨的事情。我不会窥探它。"}]

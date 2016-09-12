@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/npcname","value": "努鲁"},
+{"op": "replace","path": "/scriptConfig/dialog/start/default/default","value": ["这些穿袍子的猎手手手们渴望着战斗。我们来给他们吃点苦头！"]},
+{"op": "replace","path": "/scriptConfig/dialog/leave/default/default","value": ["我走啦，待会见！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["我看看看到你了！","这这这是我的同伴！","你无望战胜像我这样的猎手！","吃我一矛矛矛！"]}]

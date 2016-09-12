@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个墙箅。好东西。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "污水墙箅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个墙箅。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个嵌在墙内的水箅。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "墙上的杆杆杆子。叶族人不能穿过去！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "深思。这些杆子后面是不是潜伏着什么东西？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "好吧这只是个水箅。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个水箅设计很简单却可以过滤掉任何不受欢迎之物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我当然希望这个水箅后面没有潜伏着任何小生物。"}]

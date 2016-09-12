@@ -7,6 +7,7 @@
 {"op": "replace","path": "/cursorTooltip/disabledText","value": "无法使用"},
 {"op": "replace","path": "/cursorTooltip/questsText","value": "任务"},
 {"op": "replace","path": "/cursorTooltip/mmUpgradeText","value": "物质枪升级"},
+{"op": "replace","path": "/cursorTooltip/collectionsText","value": "收藏"},
 {"op": "replace","path": "/largeCharPlate/modeText","value": "模式："},
 {"op": "replace","path": "/largeCharPlate/noPlayerText","value": "创建角色"},
 {"op": "replace","path": "/modeTypeTextAndColor/1/0","value": "休闲"},

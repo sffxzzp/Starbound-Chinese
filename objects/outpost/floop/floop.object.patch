@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。软区标记。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "软区标记。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "软区标记。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是软区标记! 唔哈！"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是软区标记！唔哈！"}]

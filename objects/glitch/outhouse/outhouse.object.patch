@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个厕所！尽情享受吧！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厕所"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个厕所。我想我需要上个厕所。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个破旧的厕所。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢又臭又小的房子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫌弃。这个建筑含有不可估量数量的细菌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你过去喜欢在音乐节的时候找厕所。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个奇丑无比的厕所。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我有一种这不仅仅只是一个厕所的感觉。"}]

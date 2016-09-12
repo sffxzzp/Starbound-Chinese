@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "足迹化石"},
 { "op" : "replace", "path" : "/description", "value" : "远古生物的足迹化石。"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "足迹化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "足迹化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "这个足迹的大小显示出这可能是一只成年的雄性生物。"}]

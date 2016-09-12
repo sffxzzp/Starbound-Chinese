@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个华丽的哥特式拱门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式拱门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "人类囚犯至少还可以看看这个令人愉快的建筑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不能肯定这个拱门给人的感觉是漂亮还是不祥。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "凹凹凸凸不平的带带带钉的拱门建筑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。人类和电子人的建筑风格看起来有相似之处。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看着这个，这将极大地提高我蹩脚的室内装潢能力。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这建筑看着很简洁，但是也有一些值得推崇的特色。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "漂亮还是可怖？"}]

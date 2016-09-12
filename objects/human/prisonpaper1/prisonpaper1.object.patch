@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用墨水写的提示。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "犯人须知"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我无法阅读这些字迹。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我读不懂这些字迹，简直就是狗爬字。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好像是是是一种提示。叶族人觉得这些好难读懂。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。这真的好难去识别这些字迹。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果你想要放一个告示，至少让它能被人看得懂。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "写这个告示的人的字写的很吸引人。字迹模糊，但是有吸引力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某中形式的提示。我基本看不懂这上面写的什么狗屁玩意。"}]

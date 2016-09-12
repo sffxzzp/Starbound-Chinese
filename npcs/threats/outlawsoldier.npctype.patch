@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["进攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/human/default","value": ["我已经干了很多年了，你毫无机会！","别挡我道，否则你会后悔的！","我的本领远远超过你！","我的本领远超你想象！你真不走运！","你想和我枪战？如你所愿！"]}]

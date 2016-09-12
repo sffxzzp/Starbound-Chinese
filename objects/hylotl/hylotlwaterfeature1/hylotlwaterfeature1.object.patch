@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个水池装饰对于居家、园艺或是星际道场都十分完美。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传统水池造景"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个可爱的小喷泉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个喷泉祥和得令人感到愉快。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人要在喷泉里洗澡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悦乐。这个喷泉的声音令人平静。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个水池造景。赞。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "滴沥流水声如音乐般流淌过耳。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好一个喷泉。"}]

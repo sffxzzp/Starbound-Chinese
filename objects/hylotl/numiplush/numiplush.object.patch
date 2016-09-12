@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "名叫努米的绒毛玩具，与某个鲛人儿童卡通片里的吉祥物同名。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "努米玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个鲛人的绒毛玩具。很可爱，但我还是无视吧。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不知道我是否想要一个鲛人玩偶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鱼人的玩偶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。它可真可爱……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是个努米的玩偶，一个儿童卡通片里的角色。我想我还是不要了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个可爱的绒毛玩具，但我要承认无处不在的努米让我有点厌烦了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "可爱得合我胃口。"}]

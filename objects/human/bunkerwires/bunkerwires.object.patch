@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这玩意儿只会招来一场电气火灾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "线圈"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "电线。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "杂乱的电线。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "拖曳曳电线是危险的。叶族人以前前亲身体验过。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。扫描显示，导致电气故障的机率有９８％。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些天电缆线供不应求。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一堆乱七八糟的电线，不安全。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "线缆，他们将驱动附近的机器。"}]

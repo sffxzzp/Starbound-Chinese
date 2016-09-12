@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["我们鲛人没有被广泛地认可为伟大的战士，但事实上我们的战士几乎是最好的战士之一。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["我们鲛人没有被广泛地认可为伟大的战士，但事实上我们的战士几乎是最好的战士之一。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/floran","value": ["我们之中的很多人鄙视你的种群，但我认为叶族的韧劲值得称赞。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/hylotl","value": ["您的光临让我大感荣幸。"]}]

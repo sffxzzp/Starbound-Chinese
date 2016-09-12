@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起来这个柜子曾经塞满了医疗药品－但现在没有了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的供应柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个坏的供应柜。有人洗劫了这里。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "从外观上看，这个柜子曾经用来装过药品。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "破损的，空空如也的柜子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。可以检测到碘的痕迹。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "还有什么比看到一个被洗劫的医疗柜更令人沮丧的事了么？事实上有，额，被触手怪大卸八块。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "对这个柜子的保护措施应该更彻底。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "偷窃药物相当的低劣。"}]

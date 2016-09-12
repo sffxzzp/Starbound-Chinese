@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能承载皇室贵族金贵屁股的宝座。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇家宝座"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个大型金宝座。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "上层贵族适乎很喜欢坐拥黄金的感觉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金闪闪的金属椅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。像这样的宝座非常适合王公贵族。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个皇家宝座。由做工精美的黄金和绸子打造。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "着重于华而不实的奢侈范儿。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "此时此刻这个王座的确展示出一股王者风范！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "‘咔－钦！’"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "商店收银机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用来结算付款的仪器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用来卖东西的仪器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "‘咔－钦钦钦！’"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我在想这家店的财务状况如何？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "像是收银机。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "是个收银机。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用来整理金钱的机器。"}]

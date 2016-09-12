@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个人类的头骨化石。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "人类头骨"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "人类头骨"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "人类头骨"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "一个人类的化石，地球上最优秀的物种。"}]

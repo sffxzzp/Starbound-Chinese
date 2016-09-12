@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个阿维奥鳞人的头骨化石。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "阿维奥鳞人头骨"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "阿维奥鳞人化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "阿维奥鳞人化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "这是一个阿维奥鳞人的化石，拥有超大的眼窝和突出的嘴。"}]

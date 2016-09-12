@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个柳条篮子。里面可能有很棒的东西！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "手提柳条篮子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个柳条篮子，很容易坏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个编织篮。也许里面有好东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "砸砸砸烂篮子！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "引诱。一个柳条篮子，我想知道里面有什么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个很脆弱的柳条篮子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在篮子里可能有一些东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这看起来是某种易碎品！"}]

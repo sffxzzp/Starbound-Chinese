@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这块地砖看起来格格不入。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "灰色隐藏开关"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这块砖似乎松了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这块砖拼的很马虎。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "地砖在晃动动动。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。一块放置得奇怪的地砖。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一块松动的地砖。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一块奇怪的地砖。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一块嘎嘎响的地砖。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有年头的柜台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪柜台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个柜台看上去很适合展示物品。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个柜台看上去很结实。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "柜台里面有木蛀虫虫虫，呀！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀旧。像这种手工制作的柜台在电子人的店面很常见。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个做工粗糙但外观古怪的柜台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种木头有股浓郁的味道。它的气味在波涛之下很是稀罕。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个柜台看上去用了很多年了。"}]

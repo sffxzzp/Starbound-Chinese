@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "骨匠"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "卖一些骨制品…"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/floran/default","value": ["你想要一些骨头头头？","来，买一些我的东西西西。","骨头头头让敌人远离你！","叶族人有骨头头头卖！"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/floran/default","value": ["请尽尽尽快回来。我知道你会的！","当你想卖骨头头头给我的时候就回来！","注意安全。这是一个可可可怕的世界。","如果你需要骨头头头，叶族人一直在这里…"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/follow/floran/default","value": ["客官，商商商店这边请！","叶族人是是是专业的骨匠。这边走。","跟着叶族人来这这这边…"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/floran/default","value": ["商店到到到了！","现在你可以和叶族人交易了！","我有些你可能需要的东西。"]}]

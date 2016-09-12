@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个主机运行一个叫《尖叫时尚探员》的游戏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "紫色街机游戏机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个游戏叫《尖叫时尚探员》。它的内容……我永远也忘不掉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一个叫《尖叫时尚探员》的悬疑游戏。为什么他们在尖叫？那就是所谓的悬疑吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个游戏叫《尖叫时尚探员》。叶族人喜欢欢欢这个游戏。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不适。这个叫《尖叫时尚探员》的游戏让我很不安。10分我给6分。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那些时尚探员都有如《尖叫时尚探员》中的那样恐怖吗？时尚探员到底是什么啦？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有传言说《尖叫时尚探员》是对一起真实案件的艺术化重述。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那个时尚探员的确尖叫了不少。我是应该找出其中缘由吗？"}]

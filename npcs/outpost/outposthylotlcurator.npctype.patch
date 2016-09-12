@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["你好！我希望你今天过得不错。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/Hylotl/default","value": ["你好！我希望你今天过得不错。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/Hylotl/hylotl","value": ["你好，我年轻的朋友！你也喜欢这种追求文化的氛围吗？"]}]

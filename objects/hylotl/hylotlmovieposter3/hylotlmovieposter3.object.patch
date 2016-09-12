@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "浪漫电影海报"},
+{ "op" : "replace", "path" : "/description", "value" : "备受争议的浪漫电影《我恨叶族的10件事》的海报。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "《我恨叶族的10件事》。听起来很多愁善感。还有，呃……有点种族歧视？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "《我恨叶族的10件事》。我想不起几样叶族人令我讨厌的特点。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "电影叫《我恨叶族的10件事》……叶族人应该烧了它！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。《我恨叶族的10件事》十样？我只能想到三件呢。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个电影感觉……挺无聊的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一部讲述鲛人与叶人间禁忌爱情的较为争议的浪漫电影。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张浪漫喜剧的海报。《我恨叶族的10件事》。"}]

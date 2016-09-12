@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种不错的、宽敞的壁挂式存储解决方案。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "电子人储物柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个用金属制成的储物柜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个用来保存你的物品的地方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能够在储物柜里面塞塞塞东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一个金属制作的储物柜。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个有着工业外观的储物柜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用来存放个人物品的地方。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个嵌入墙内的储物柜。"}]

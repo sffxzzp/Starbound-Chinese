@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["攻击！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/glitch/default","value": ["恐吓。你不会想来惹我的。","渴望。我一直在渴望来一场战斗！","挑衅。你要看我出洋相吗？","兴奋。我一直在等待来一场战斗！","无畏。我之前打败过比你更大的敌人，相比之下你没有什么可怕的","傲慢。你看起来构不成多大威胁。","愤怒。你惹错了对手！"]}]

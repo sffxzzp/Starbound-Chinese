@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个齿轮。保养良好的机器的一部分。实际上，它有点生锈了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "齿轮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个机械齿轮。它似乎正在正常运作着。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个齿轮。看上去很脏。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "齿轮转动着，但这到底有什么用处呢？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "深思。无数的齿轮构造出一个电子人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个上了油的齿轮，尽管看起来有点生锈了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个轻微生锈的齿轮，它沾了太多水了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我打赌这些小家伙们曾经有过大用处，不过现在看来它们已经逐渐生锈了。"}]

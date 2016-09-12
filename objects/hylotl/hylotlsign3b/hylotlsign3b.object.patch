@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色霓虹商店标志"},
+{ "op" : "replace", "path" : "/description", "value" : "这个标志里有许多小型海洋生物在游动。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个标志指的是水族馆吗？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个标志可能指示某个有趣的地方。一个不错的改变。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡响的标标标志吵到叶族人了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。有小鱼在它里面游动。鲛人本不是该照顾他们的同类宠物吗。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果水族馆里有两足鲨鱼我就去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个公共厕所标志。很平常地，鲛人很注意保持自身的无暇。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这一定指向某些有意思的东西。"}]

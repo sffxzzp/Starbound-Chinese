@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一家卖新鲜农产品的商店。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "农产品商店招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来表明这是一家杂货店。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这儿能买到水果和蔬菜。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "出售水果果果和蔬菜菜菜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "激动。这家店有新鲜果蔬可以买。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一家农场商店的招牌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一家农产品商店"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种食品商店。"}]

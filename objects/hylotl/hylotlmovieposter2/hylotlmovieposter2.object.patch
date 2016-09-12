@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "战士电影海报"},
+{ "op" : "replace", "path" : "/description", "value" : "电影《烈刃十字军》的剧照。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这看起来是那种‘报血海深仇’的电影。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来是以悲剧收尾的故事……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这是一部叶族人可能喜欢的电影。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道主角凭他的烈刃与何方势力在战斗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这让我想起了以前看过的武士电影……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "尽管标题很俗气，《烈刃十字军》是一部真正美丽的电影。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像是一个关于独狼武者的电影……我愿意去看这个。"}]

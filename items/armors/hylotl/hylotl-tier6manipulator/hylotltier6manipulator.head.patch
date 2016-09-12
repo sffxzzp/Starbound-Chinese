@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这顶日曜石制作的头盔旨在让穿戴者在黑暗的海洋深处也能得到保护，是陆上生物梦寐以求的东西。"},
+[{ "op" : "replace", "path" : "/description", "value" : "这顶头盔旨在让穿戴者在黑暗的海洋深处也能得到保护，是陆上生物梦寐以求的东西。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "无光头盔"}]

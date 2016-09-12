@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这儿有一本书有古怪……我看看……"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪书柜开关"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这里某些书看起来不对劲儿。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个尘封已久的书之家。其中某些书不像是真的……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "老旧又多灰灰灰的书。这几几几本看起来很奇怪。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。某几本书放置得很突兀。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道这里的某些旧书有多古老了。这几本看起来与众不同……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个书柜毫无疑问有古怪之处。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我的直觉告诉我这些书有点问题！"}]

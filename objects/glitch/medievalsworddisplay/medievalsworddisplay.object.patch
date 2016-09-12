@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这些展示的宝剑一旦落入坏人之手将掀起腥风血雨。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宝剑展示架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "两把锋利的展览剑。猿人一般更喜爱用匕首。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "削铁如泥的装饰宝剑。翼族人更爱长矛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "锋利的宝宝宝剑。叶族人更喜欢抡大锤！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "入迷。一个锋利宝剑的展示架。电子人的首选武器便是宽刃剑。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "两把吹毛刃断的长剑。人类战士用斧头更顺手。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一对锋利长剑。比起其他武器鲛人更倾向于使用短剑。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一对放置在展示架上的宝剑。可能是赝品。"}]

@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/glitch","value": ["害怕。卫兵！护驾！","惊慌。一个匪徒！卫兵！","惊呆。我这么年轻就要死了吗！","害怕。卫兵！卫兵！救命！","轻蔑。卫兵，快把这个匪徒劈成两半！","轻蔑。我很想亲自干掉你，但我的卫兵会替我做了。","愤怒。匪徒，你会后悔闯入这里的！","强势。你会离开这里的…以碎片的形式！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["害怕。卫兵！护驾！"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这床垫是脏的！我发誓，我看到有东西在里面爬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "肮脏的床垫"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这种境遇已经和科学进展部的情形差不多了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "恶心的床垫。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "就算是叶族人闻闻闻了这个也受不不不了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这张床垫需要消毒，我在上面检测到了生命的迹象。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我曾经在更差的环境睡过觉。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "肮脏、腐烂的床垫。别让我再看这东西了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那是什么味道？这不可能……这是床垫？"}]

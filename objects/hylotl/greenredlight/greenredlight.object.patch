@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "红绿灯"},
+{ "op" : "replace", "path" : "/description", "value" : "一个能在红和绿间转换的灯。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "通行权被仅仅一个灯泡否决了？低俗的创意。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我喜欢这个灯泡显示绿色的时候。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "红或绿没没没有区别。叶族人会通过这里的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "描述。这个灯泡既可红、也可绿。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它是红的，然后它又是绿的。有什么意味呢？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个简单的灯可以给予或否决通行权。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "会变颜色的灯。它是想说什么吗？"}]

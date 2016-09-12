@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/glitch","value": ["惊恐。卫兵！救命！","害怕。一个强盗！卫兵！","吓呆。我还年轻，我不想死！","发抖。卫兵！卫兵，救命！","挑衅。卫兵，砍了这个恶棍！","轻蔑。本来我想亲自做掉你，但我还是叫警卫来做吧。","愤怒。今天你会后悔闯进这里的，流氓！","好斗。你不会完好无损得离开这的……碎尸万段！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["惊恐。卫兵！救命！"]}]

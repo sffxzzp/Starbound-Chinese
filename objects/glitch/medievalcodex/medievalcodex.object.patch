@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这本书里面都是奇怪的插画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪名册"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一本书。里面都是电子人的肖像画。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这本书里有许多不同电子人的图画。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这里里里面都是图片片片。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。一本老旧插画的汇编集合。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去是某种年鉴。上面有许多不同人物的插画。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这本书感觉仿佛意义重大。每一页都刻画着一位未知的人物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一本图册，仅此而已。"}]

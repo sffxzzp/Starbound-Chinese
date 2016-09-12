@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇地牢的房门，无论多厉害的囚犯都能关住。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪牢门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇坚固的难以置信的牢门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇很结实的门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "坚坚坚固的金属门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "心疼。电子人把囚犯锁在这类门里面。这些犯人通常是那些产生了自我意识的其它电子人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "没人能从有这种门的牢房里逃脱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人以贵宾之礼接待囚犯们。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一扇锁住法外之徒的优秀的门。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个大号的音响。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "俱乐部音响"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这音乐让我想起舞！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这糟糕的噪声是什么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这音乐让叶族人想扭臀臀臀！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "抗拒。这音乐令人不快。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这才是经典的俱乐部音乐，就跟我以前在地球上的俱乐部听到的那些一样。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是个非常流行的俱乐部歌曲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "从来没有听过这种东西。不太确定对不对我的胃口。"}]

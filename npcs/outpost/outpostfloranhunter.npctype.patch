@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["只有最最最强者可以得到叶族人的尊重。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["所有的叶族人都应该打猎并追追追寻荣耀。你也是为这而来的吗？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/floran","value": ["另一个叶族人。你必须理理理解打猎的荣耀。"]}]

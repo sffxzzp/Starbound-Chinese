@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个能承受深海水压的支撑梁。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "加压支撑梁"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用于深海建筑的支撑梁。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "水下工程的支撑梁。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "维持持持水下的建筑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。一个能支撑高压的支撑梁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "常用于深海建筑的支撑梁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "像这样的结构支撑梁是鲛人那美妙建筑不可或缺的部分。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一根用于水下建筑的支撑梁。"}]

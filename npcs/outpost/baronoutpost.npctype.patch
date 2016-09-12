@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/npcname","value": "拜隆"},
+{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["兴奋。艾丝特已经教会我怎样去^orange;修补破碎守护团的武器^white;。假如我可以修好我生锈的身体就好了。哈哈哈！"]}]

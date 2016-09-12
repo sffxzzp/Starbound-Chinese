@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个铃铛肯定能够发出巨大的声音。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "巨大的铃铛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个巨大的铃铛。这个肯定能够敲得很响。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个巨大的铃铛。我想知道它的声音是什么样子的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大铃铛发发发出大大大声音！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。这个铃铛的声音象征着危险。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个巨大的铃铛。敲响它的欲望好强烈啊。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "铃铛的声音是大部分鲛人从未听到过的声音。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我敢打赌我们能够在很远的地方听到这个铃铛敲响时的声音。"}]

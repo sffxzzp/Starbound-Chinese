@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏油灯，点点温暖。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪油灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一盏小小铁灯，可以挂在墙上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏可挂在吊钩上的铁制灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "困在笼子里的火，叶族人喜欢这这这个。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。这盏油灯可挂在吊钩上，以便你腾出双手。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏小铁灯。顶部的圆环可以挂在钩子上。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏可以挂在墙上的便携灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一盏灯，可以挂在墙上。"}]

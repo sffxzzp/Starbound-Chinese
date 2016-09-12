@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["人类的展品可能小了一点，但这些展品带回了家乡的记忆…"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["人类展品虽然小了一点，但它带回有关地球的美好的回忆…"]}]

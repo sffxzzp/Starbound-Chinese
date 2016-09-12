@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "传统波浪绘画"},
+{ "op" : "replace", "path" : "/description", "value" : "一个大浪的绘图。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这画看起来不错。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不错！虽然笔触有些凌乱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不在乎这笨拙的波浪画作。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。这名艺术家能够完美地捕捉水浪的景象。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我很确定在地球上有一副完全一致的画。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "每一次下笔都倾注着深厚的感情，每一朵浪花都被捕捉为永恒的美丽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个巨浪的绘画的确令人印象深刻。"}]

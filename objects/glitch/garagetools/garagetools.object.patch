@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来快速修理的常见的工作台工具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工作台工具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些工具看起来是用来干那些快速而且肮脏的金属加工工作的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用来修整金属的工具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用来夹住工件然后敲敲敲打的工工工具。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不以为然。像这种不成熟的工具其实作用不大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "自己用来进行简单维修的工具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大多数工匠做交易所需的工具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些普通的制造工具。"}]

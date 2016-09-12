@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "画着一把剑的招牌。这通常意味着一家武器店。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "武器店招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一块武器店招牌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以在这家商店买到武器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "武器器器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。我看到过许多家武器店已经停业了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "招牌上画着一把剑。这儿是武器店？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一把剑，这里很可能是一家武器店。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "展示着一把剑的招牌。我估计这是一家武器店。"}]

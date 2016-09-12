@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一张花哨的招聘海报。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "招聘面版"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看来人类征兵是可以征求个人意见的。对于我们猿人来说，这都是奢望。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一则征兵广告，地面上的人们通常会选择成为一名战士。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "招聘面板。叶族人不需要招聘战士，叶族人生来就是这这这样的战士。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "思考。在默认情况下，电子人没有选择成为一名战士的自我意识，而人类却可以自主选择。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "喔，这是一则征兵广告，他们的宣传手段越来越浮夸了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "军方招募士兵的标记，我厌恶它。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这幅广告让人炫目。"}]

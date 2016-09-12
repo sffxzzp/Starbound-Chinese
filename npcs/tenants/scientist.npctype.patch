@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["别担心，我的研究是私下进行的－不是为科技发展部效力。","我在进行一些实地实验。这个地方是个理想的环境。","我正在进行一些实验，这个地方会很不错。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["我正在记录我们社交互动的全部数据。希望你不要介意。","这附近有那么多数据可以让我采集。真让人着迷。","我写了一份生物多样性的研究报告。这将是极为重要的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["现在要找到一副适合鲛人的好眼镜真是太难了。","希望这副眼镜能适合我。","没有合适的眼镜就进行研究让我感到自己很愚蠢。这就是鲛人的生活方式。"]}]

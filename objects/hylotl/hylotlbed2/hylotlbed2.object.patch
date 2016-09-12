@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "传说如果你用它过夜将不得清醒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "舒适传统床铺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个床虽然简约，但是并不简陋。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "床，看起来很舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "平板床。无聊。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。这个床看起来过于简单了，但其材料却是上等的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这铺床有着毋需变化的传统设计。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个极佳的床铺。许多种族都应从它身上学习。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "见过更差的床。也见过更好地的。"}]

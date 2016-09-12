@@ -1,2 +1,4 @@
-[{"op":"replace","path":"/blueprintUnlock","value":"^green;学会了制作：<ItemName>。"},
-{"op":"replace","path":"/blueprintAlreadyKnown","value":"已经学过如何制作<ItemName>。"}]
+[{"op": "replace","path": "/blueprintUnlock","value": "^green;学会了制作：<ItemName>。"},
+{"op": "replace","path": "/blueprintAlreadyKnown","value": "已经学过如何制作<ItemName>。"},
+{"op": "replace","path": "/collectableUnlock","value": "^green;<collectable>^white;已添加到^blue;<collection>^reset;收藏库"},
+{"op": "replace","path": "/companionsConfig/recruitDescription","value": "^cyan;> 名称：^white;<name>\n^cyan;> 工作：^white; <role>\n^cyan;> 等级：^white; <rank>\n^cyan;> 状态：^white; <status>"}]

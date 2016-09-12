@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个屏风做的推拉门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传统推拉门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇简单的门。做它该做的事。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇能透许多光的好门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "曾经有一次，叶族人摔在了这样的门身上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。如果你憎恶隐私的话那这扇门简直完美。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个脆弱的门。保不住门里的任何东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门的轮廓和结构可以使其平滑地打开。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这扇门看起来不太安全。我用手指就能戳出个洞来。"}]

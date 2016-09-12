@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "传统山峦绘画"},
+{ "op" : "replace", "path" : "/description", "value" : "这是一幅著名画作的复本。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这画看起来不错。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不错！虽然笔触有些凌乱。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不在乎这笨拙的山脉画。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "嫉妒。这幅画也许是临摹的，但它被临摹得极佳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我很确定在地球上有一副完全一致的画。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一连串惊为天人的色彩和情感。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是那种经典的画作。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "来跳舞吧！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "跳舞机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我觉得我永远也没法精通它。这些箭头太快了！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "跳舞机并未为有爪用户优化设计。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "笨蛋跳舞机，箭头太快快快啦！叶族人受挫了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这个游戏在你学会其规律并不难，九分。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想告诉制作组它们的创造突破天际了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "要精通跳舞机的确是具有挑战性的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "咦哈！来跳一跳吧！"}]

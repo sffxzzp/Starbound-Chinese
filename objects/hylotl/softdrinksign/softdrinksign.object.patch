@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "软饮料标志"},
+{ "op" : "replace", "path" : "/description", "value" : "100%纯天然软饮料的广告标志。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "100%纯天然软饮料的广告标志。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是软饮料的广告。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "饮饮饮料的标标标志。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。这个标志在推广一个纯天然软饮料的品牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是标志在为软饮料做宣传。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个标志在推广一个特别可口的纯天然软饮料的品牌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是某个饮料品牌的广告。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一副特大号国际象棋棋具里的黑“皇后”。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "石制黑皇后"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "棋具的一个部件。但在科技发展部是不允许玩棋类游戏的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某种装饰用的雕像？也许吧。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的雕像。这这这是什么？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀念。电子人贵族自年幼时就开始学习下国际象棋，在露天的大型棋盘上。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个巨大的国际象棋部件。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这看起来像是一个大型游戏的部件。鲛人乐于接受各种棋盘类游戏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "无论这是什么游戏，它都看起来非常无聊。"}]

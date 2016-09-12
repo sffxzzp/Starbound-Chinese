@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇廉价的木门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "村庄门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇简陋的木门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇简陋的带铁把手的门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "简简简陋的树门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "解释。一扇在任何村庄里你都可以看到上百次的简陋的门"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇基础的木门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇平凡的村庄门。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "仅仅是一扇简易的木门。"}]

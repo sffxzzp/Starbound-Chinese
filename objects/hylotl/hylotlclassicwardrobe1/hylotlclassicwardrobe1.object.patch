@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "转动莲叶可以锁住柜门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传统衣柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这衣柜真的挺不错了！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "莲叶的设计毁了这个原本相当体面的柜子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人藏进衣柜。跳跳跳出来。吓吓吓朋友一跳。好玩儿！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "熟虑。莲叶图形是一个有趣的设计选择。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个衣柜上的锁转起来特别麻烦。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个带有精巧闭锁机构的独特衣柜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "莲叶似乎是锁来着。实为高明。"}]

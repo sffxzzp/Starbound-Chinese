@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个有毒废物桶。千万不要泄露！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有毒废物桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个装满废弃物的桶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个臭烘烘的桶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闻闻闻起来像是叶族人的洗澡水。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警觉。这种混合物可能是危险的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我掉进这个桶里，我会得到超能力吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "许多这样的桶被其他马虎的种族倾倒进海里。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个桶泄的满地都是！臭的像只骡子。"}]

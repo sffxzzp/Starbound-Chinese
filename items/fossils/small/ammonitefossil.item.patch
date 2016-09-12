@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "菊石"},
 { "op" : "replace", "path" : "/description", "value" : "一个菊石化石。"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "菊石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "菊石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "菊石是被人们最广泛发现的化石之一，它大多出现在能维持生命生存的星球上。"}]

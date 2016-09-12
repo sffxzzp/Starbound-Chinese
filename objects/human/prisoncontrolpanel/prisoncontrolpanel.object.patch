@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个控制面板，看起来好像是用来操作灯光、门和报警器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "安全控制面板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "站在安保控制面板的操作端感觉很奇怪。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这似乎用来控制所有安保设备。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这个机器能拿来干什么？叶族人想要快速的找到答案。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "理解。这台机器控制着监狱的一系列运作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "召集一帮囚犯然后释放他们，这样我就可以大喊“越狱！”了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "方便的安保管理设备。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个操作台。可惜他不能控制野兽。"}]

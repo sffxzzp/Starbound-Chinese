@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个最基本的马桶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪马桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木制坐便器。至少这里还有厕纸。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "接住排泄物的木碗。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用用用来放脑脑脑子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "恶心。我干嘛作死看里面？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "厕纸太硬了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这里的味道真是个大灾难。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看来是有个人做了个不带隔墙的屋外厕所。"}]

@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "铸造商人"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "出售矿石和采矿设备！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["来买从你当地铸造厂运来的矿产品！","铸造厂出品的材料，在这！","欢迎！大概你需要一些采矿设备？或者来些金属？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["我们在这！那么，你想买些挖矿工具吗？","我们到了！那么，你想要什么？来些成品金属？","欢迎！你想买些金属吗？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["如果你想要一些矿石，你得确切地知道哪能挖到它们！","如果你想要一些金属原料，你知道在哪能找到我！","任何时候，你需要金属原料，回来就是了！"]}]

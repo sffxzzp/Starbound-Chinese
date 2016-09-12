@@ -1,10 +1,10 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用于展示小型化石的展览架"},
+[{ "op" : "replace", "path" : "/description", "value" : "用于展示小型化石的展览架。"},
 { "op" : "replace", "path" : "/subtitle", "value" : "展示化石"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "小型化石展览架"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个展览架，用于展览化石。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个化石展览架，但没化石。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "空的展展展览架? 化化化石在哪？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空的展展展览架？化化化石在哪？"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。一个化石将在这展览。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "没有一个化石展览，有点小伤感。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "如果这有放置一个化石展览，我会更感兴趣。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去不错。有一个化石会看上去更好……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去不错。有一个化石会看上去更好…"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "俱乐部蓝灯"},
+{ "op" : "replace", "path" : "/description", "value" : "俱乐部里彩色的吊灯。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "只要再有个喷雾机就能让这里真的有夜店景象了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我很好奇什么晶体能够发出蓝光？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "蓝色的闪烁的灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。这是个蓝灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "环境灯光能够控制氛围。什么氛围？不确定。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "俱乐部蓝色环境灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个蓝色的灯确实照亮了房间。"}]

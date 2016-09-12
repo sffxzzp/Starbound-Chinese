@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一捆捆起来的干草。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "干草卷"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "紧紧地捆在一起的干草。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人不会像这样把干草捆起来。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这个干草垛可以滚动起来！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。已经捆好并且已经可以拿去贩卖的干草。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一大捆干草。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个放在地上的作物，干燥而且已经捆绑好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "推动这个干草垛是那么的吸引人……"}]

@@ -1,2 +1,2 @@
-[{"op":"replace","path":"/description","value":"标签上写着，\"这只小东西跳过了熔岩池。\""},
+[{"op":"replace","path":"/description","value":"这只小东西跳过了熔岩池。"},
 {"op":"replace","path":"/shortdescription","value":"熔岩跳虫"}]

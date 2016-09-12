@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "上面焊着金属管的栅栏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "管子栅栏"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用管子做的栅栏，真聪明。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个栅栏，无情地嘲讽着大地。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人确确确定可以一下跳过这堵墙。但是叶族人不会傻到去尝试。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。一堆管子被改造成了栅栏。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个巧妙的管制栅栏。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果这道栅栏在海底，我只要游过去就可以了。不过话说回来，在陆地上又该怎么办呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "管制栅栏。"}]

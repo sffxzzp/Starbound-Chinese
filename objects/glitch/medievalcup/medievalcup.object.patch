@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个看起来很脏的木杯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪杯子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小木杯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个木制杯子，很难弄干净了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用这这这种杯杯杯子啜饮带肉果汁汁汁。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。一个普通的木制酒杯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个木头做的酒杯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个褪色的木制酒杯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个朴素的木杯。"}]

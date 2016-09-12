@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个非常大的古董书架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宏大的奢华书柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这里的书值得花一个月的时间去阅读。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某人肯定花了他所有的时间来阅读这些书。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "真是对能做好武器的木头的浪浪浪费。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞叹。电子人需要许多年来读取如此大量的数据。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这不是我见过的最大的书架。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些架子在沉甸甸的知识硕果的重压下呻吟着。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哇！这可是好多书。"}]

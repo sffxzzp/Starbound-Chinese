@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个主机运行一个叫《僵尸香蕉别墅》的游戏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黄色街机游戏机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "《僵尸香蕉别墅》是个经典的猿人游戏！在我小的时候它可把我吓着了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "《僵尸香蕉别墅》――你得要射杀所有的僵尸来保护别墅里的香蕉。有趣的想法。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "为啥要保保保护恶心的香蕉？直接吃僵尸就好了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。《僵尸香蕉别墅》里的这种生物在现实存在吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "《僵尸香蕉别墅》，让猿人将香蕉的防卫视为他们的最优先任务吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我理解保护自家住宅的做法，但我觉得《僵尸香蕉别墅》过度暴力了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "《僵尸香蕉别墅》？说实话，我都对僵尸游戏开始感到厌烦了。"}]

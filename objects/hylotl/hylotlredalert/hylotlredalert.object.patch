@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个亮蓝色警报灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色警报灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "紧急事态时它会一边闪烁一边拉响警报。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "闪烁的灯和警笛意味着紧急情况。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪的蓝警笛很很很吵。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。一个通告紧急事态的警笛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "蓝色警报和红色警报有什么区别吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "象征着紧急事态的信号。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "当危险来临时用的警报灯。"}]

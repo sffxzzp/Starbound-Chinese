@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["宠物们们们！进攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/reattack/default/default","value": ["这次你跑跑跑不了！"]},
+{"op": "replace","path": "/scriptConfig/dialog/killedTarget/default/default","value": ["你真是个简简简单的猎物！"]},
+{"op": "replace","path": "/scriptConfig/dialog/lostTarget/default/default","value": ["我仍仍仍然能闻到你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/outOfSight/default/default","value": ["别别别躲猫猫！"]},
+{"op": "replace","path": "/scriptConfig/dialog/cheerOn/default/default","value": ["抓住他们！"]},
+{"op": "replace","path": "/scriptConfig/dialog/cantReach/default/default","value": ["刚刚刚好够不到！"]}]

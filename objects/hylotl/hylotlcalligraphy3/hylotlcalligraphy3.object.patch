@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人“睡莲”艺术字"},
+{ "op" : "replace", "path" : "/description", "value" : "裱好的书法字‘莲叶’。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鲛人显然把语言当做一门艺术重视着。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "除了鲛人外谁也看不懂这个。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看着着着像捅捅捅的样子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。鲛人怎么不把‘傲慢’一词裱装起来呢。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像那种现代画画作。我不是它的发烧友。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这件完美之作令我不禁潸然泪下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来有人不小心把墨洒了。"}]

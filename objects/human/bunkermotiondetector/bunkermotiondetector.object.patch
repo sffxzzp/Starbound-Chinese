@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "站那儿别动！如果你呆在那里不动的话它是没法检测到你的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "运动检测器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来好像是运动检测器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "运动检测器，最好小心一点儿。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人认为这部机器想让叶族人跳舞。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。一部非常原始的运动检测器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "运动检测器，最好小心一点儿。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这东西看起来像是某种运动检测装置。"}]

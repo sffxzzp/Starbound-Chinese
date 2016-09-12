@@ -13,6 +13,7 @@
 {"op": "replace","path": "/paneLayout/tutorialMessagesLabel/value","value": "教程信息"},
 {"op": "replace","path": "/paneLayout/interactiveHighlightLabel/value","value": "目标高亮"},
 {"op": "replace","path": "/paneLayout/fullscreenLabel/value","value": "全屏"},
+{"op": "replace","path": "/paneLayout/borderlessLabel/value","value": "无边框窗口"},
 {"op": "replace","path": "/paneLayout/clientIPJoinableLabel/position","value": [125,73]},
 {"op": "replace","path": "/paneLayout/clientIPJoinableLabel/value","value": "通过IP连接"},
 {"op": "replace","path": "/paneLayout/clientIPJoinableCheckbox/position","value": [203,73]},

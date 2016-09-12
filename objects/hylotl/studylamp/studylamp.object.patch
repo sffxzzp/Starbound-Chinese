@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个适合图书馆或书桌的学习灯。非常好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "学习灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯使我想起了我的学生时代。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我从未见过这么奇特的灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "绿光让让让叶族想睡觉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。这灯在打开的时候有机械的点击声。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我现在需要的只是一本好书。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不是出自鲛人的原始设计，但仍然有护眼供能。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "绿色的灯光很适合读书。"}]

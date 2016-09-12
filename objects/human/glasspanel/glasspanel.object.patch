@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "闪亮的玻璃嵌板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "玻璃嵌板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有色玻璃，真漂亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这块玻璃像珠宝一样闪着光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的玻璃璃是一个差劲的藏身地点。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。人类的工艺是如此引人注目。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "像这样的有色玻璃也可以做时尚太阳镜。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种玻璃像五颜六色的贝壳一样闪着光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "干净的玻璃。我可以透过它看东西。"}]

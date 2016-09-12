@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "传统纸灯笼"},
+{ "op" : "replace", "path" : "/description", "value" : "一个纸制吊灯。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个纸质灯并不像是最佳的防火选择。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道这东西多容易着火。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "纸灯笼对叶族人有危危危险。火啊！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评价。一个纸灯笼。那肯定通过了健康与安全检查。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦天哪，真难道是个蜂巢！等等，那是纸灯笼。好吧那太无聊了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个手工制作的纸灯笼。最终它们被湿气折服，和我们所有人的归宿一样。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "任何人都知道把纸和灯组合在一起不是个好主意。"}]

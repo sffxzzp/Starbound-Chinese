@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/gui/selectLabel/value","value": "收藏"},
+{"op": "replace","path": "/gui/emptyLabel/value","value": "在左侧选择一种收藏"},
+{"op": "replace","path": "/gui/windowtitle/title","value": "收藏库"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "你所有见到和做出东西的目录！"}]

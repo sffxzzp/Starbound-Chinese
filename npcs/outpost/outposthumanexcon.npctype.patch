@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["我曾经做过一些不光彩的事情，但是这里的人们对我却很好。我亏欠他们太多。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["我曾经做过一些不光彩的事情，但是这里的人们对我却很好。我亏欠他们太多。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/human","value": ["我不在地球上好多年了，但我仍然对这个消息感到震惊。宇宙真是一个复杂的地方…"]}]

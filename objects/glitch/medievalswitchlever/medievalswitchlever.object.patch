@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个神秘的操纵杆。我很好奇这有什么用？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "操纵杆开关"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "嗯，一个操纵杆。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "某种东西的开关。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "拉拉拉！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一个机械操纵杆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个大号红色操纵杆！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "红颜色让它看起来更加诱人了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好想拉这个操纵杆！"}]

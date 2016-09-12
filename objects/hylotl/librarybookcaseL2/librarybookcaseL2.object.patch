@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个古老的巨大书架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大奢华书柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我会为自己拥有一个这样的大书架而感到骄傲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个好的图书馆书架是充满了故事的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "只只只不过是又一个书架罢。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。书架让我想起了看《电子人国王与城堡》时的美好回忆。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些都是诗集吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "大小并不重要，内容才是真正重要的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "谁有闲工夫来读这些东西啊？"}]

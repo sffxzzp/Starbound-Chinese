@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "绿色莲叶标志"},
+{ "op" : "replace", "path" : "/description", "value" : "一个绿色霓虹板在推广受到睡莲潮流启发的家具。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个标志上是在推广……睡莲叶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个广告上指的是哪种莲叶？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡响的标标标志吵到叶族人了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。一个描绘莲叶的标志！鲛人似乎对莲叶过度地热爱了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在想这个标志指向哪里。也许是莲叶店？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "每当看到这个标志都让我的心里充满了温暖。满满的回忆啊。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一片莲叶，如果我没弄错的话。"}]

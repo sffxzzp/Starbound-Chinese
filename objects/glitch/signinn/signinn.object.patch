@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个招牌宣传着一个可以让你的大脑得到充分休息的地方。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "旅馆招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一块旅馆招牌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "上面写着“旅馆”。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一家旅馆的招牌牌牌。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。一块指示着一家旅馆的招牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看上去是一家旅馆的招牌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是块旅馆招牌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这肯定是家旅馆。"}]

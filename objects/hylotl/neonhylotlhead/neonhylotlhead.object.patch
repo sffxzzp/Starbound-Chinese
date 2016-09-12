@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人霓虹灯"},
+{ "op" : "replace", "path" : "/description", "value" : "画着鲛人脑袋的霓虹灯。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个鲛人头霓虹灯。什么情况？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "画着鲛人脑袋的霓虹灯标志。看起来没什么含义。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鱼人现在把他们自己放在亮闪闪的标志上了？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。鲛人脑袋形状的霓虹灯广告。为什么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道鲛人是否喜欢自拍。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是个鲛人脑袋形状的霓虹灯标志。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "星之子不需要自己的霓虹灯，我们本身就能发光！"}]

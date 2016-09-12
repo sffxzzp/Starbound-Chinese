@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "混混商人"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "出售致命陷阱！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["我知道你要什么…","你需要…保护…你的财产？不妨看看…","想看一些有趣的小玩意么？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["我们到了…","欢迎来到我简陋的商店…","来瞧瞧我们这。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["任何时候，只要你需要一些…保护手段，回来就是了。","如果你需要保护更大的地方，你知道找谁…","我希望你欣赏我的…货物。"]},
+{"op": "replace","path": "/scriptConfig/dialog/tenant/arrivedHome/end/default/default","value": ["这有一个小玩意，为确保我的…我们所说的…安全。","这里有些东西，以表我的一点小心意…","我曾经住在个更糟的地方。这是一点我的…小心意。"]}]

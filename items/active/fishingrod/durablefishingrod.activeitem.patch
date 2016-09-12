@@ -1,0 +1,4 @@
+[{"op" : "replace", "path" : "/description", "value" : "一个用于在极端环境钓鱼的耐钢鱼竿。"},
+{"op" : "replace", "path" : "/shortdescription", "value" : "耐久鱼竿"},
+{"op" : "replace", "path" : "/lureName", "value" : "基础鱼饵"},
+{"op" : "replace", "path" : "/reelName", "value" : "基础鱼线轮"}]

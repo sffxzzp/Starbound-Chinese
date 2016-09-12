@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["进攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/glitch/default","value": ["恐吓。我会把你打成碎片送回家！","好斗。我将会留下你尸体的碎片！","愤怒。我渴望做些特别野蛮的动作！"]}]

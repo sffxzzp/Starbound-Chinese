@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "生物灯"},
+{ "op" : "replace", "path" : "/description", "value" : "一盏散发着暗红色光芒的小灯。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我在想这个灯是什么做的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来类似于翼族的水晶灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪耀的彩灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。我很好奇这灯是怎么做的?"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像鲛人的眼睛，我在想这个灯是什么做的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "那块发光的宝石被雕琢成鲛人眼睛的模样，它放出极有氛围感的光芒。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个灯。还行吧。"}]

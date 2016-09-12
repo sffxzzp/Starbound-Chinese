@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "莲叶时钟"},
+{ "op" : "replace", "path" : "/description", "value" : "莲叶形状的时钟。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "莲叶状的时钟，真讨人喜欢。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "就像跳蚤市场里面的新奇玩意。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘀嗒嘀嗒，鱼人有愚愚愚蠢的钟。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悦。这个钟的造型非常新奇。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这东西有点可爱，就机械而言。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这不单单是一个实用性的显著样例，更是对稍纵即逝的时间的诠释。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个莲叶钟。我以前还有仙人掌形状的钟呢。"}]

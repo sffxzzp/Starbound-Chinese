@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张做工不错的书桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪书桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张用于文案工作的书桌。桌面上沾了不少墨水渍。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张为学术界人士设计用的书桌。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "学学学者们坐在这里把墨水涂在纸上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "爽朗。这是一张为学者而设的书桌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张写字桌。桌面上溅上了墨水。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人在这样的桌子上面练习书法。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张老旧的写字桌。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个街机厅招牌。附近可能有一个街机厅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "街机厅招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个街机厅！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个街机厅。很好！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "街机厅！叶族人享受受受胜利的感觉！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "喜悦。一个娱乐街机厅！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我最爱街机厅了！快把我的钱拿去！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "嗯，离上次到街机厅有好一阵子了。真的很有趣！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个街机厅？"}]

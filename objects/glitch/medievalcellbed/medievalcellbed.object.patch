@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张极其简单的干草床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪干草床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张看起来很不舒服的床，上面除了用于保暖的干草之外没有别的东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "像个鸟巢一样杂乱不堪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "床好硬，叶族人背背背疼。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "关注。我无法想象任何人能在这上面睡个好觉。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张干草床。我无法想象夜复一夜睡在这张床上的日子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张用硬木头与干草拼凑成的不舒服的床。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "睡在这张床上可以说是某种形式的惩罚了。"}]

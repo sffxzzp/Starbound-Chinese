@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/npcname","value": "拉娜"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["你好，战士。我这有增强的货物。这些有你需要的吗？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["你好，战士。我这有增强的货物。这些有你需要的吗？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["我会有一批新货明天，当你需要的时候就回来看看。","明天再来吧，士兵-那时我会有一批新货。"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/tout/default/default","value": ["我从反抗军营地直接获得了一大批物资。","士兵-反抗军已经发送了一批新的货品给我。"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用于饲养牲畜的水槽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水槽"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木制水槽。里面是空的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个空的木制容器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在里面闻闻闻到了食物的气味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。一个水槽，如同大多数一样都是用来喂养牲畜的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是用来喂养牲畜的。我忘了它的名字了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某种装食物的容器。也许是用来喂动物的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个饲养骏马的完美地方。或者只是拿来喂家畜。"}]

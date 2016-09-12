@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看来有人犯了“周一综合症”了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破损的小型镜子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一面损坏的镜子，我得小心别划伤自己。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不会在这里梳理我的羽毛的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "破碎镜子的碎片能做出很好的尖锐锐投掷物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这里至少有406块碎玻璃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来某人得到了七年厄运，但幸好这个人不是我！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "只有在愤怒的驱使下才能造成这样的破坏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我能在剩余的碎片中看到自己扭曲的镜像。"}]

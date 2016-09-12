@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "绿色霓虹豆荚标志"},
+{ "op" : "replace", "path" : "/description", "value" : "显示着礁荚豆荚的标志，鲛人特色美味。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我认为这是餐厅的标志。假如我饿极了的话会考虑去的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "礁荚豆荚，好一个款待啊。我很高兴我自备了午餐。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人更想吃鱼人而不是鱼人的食物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一些人认为礁荚豆荚可是美味。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果他们提供肉的话我会更愿意在这用餐的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人的顶级佳肴在星界其他种族之中享有盛誉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不太确定我喜不喜欢礁荚豆荚。"}]

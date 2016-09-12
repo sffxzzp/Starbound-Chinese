@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有以玉石装饰的鲛人三眼的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鲛人确实很喜欢用自己的形象来创造物件。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个计数器镶嵌着鲛人眼睛一样的宝石。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鱼人造的家具长的看看看起来就像他们自己。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悦。这个家具看起来长得很像鲛人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "鲛人似乎喜欢参考自己的长相做家具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我们鲛人对自己的长相很自豪，因此很享受这种创造象征自我的艺术。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不太喜欢那张桌子看着我的样子。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "啊！我不应该离它太近！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "带刺铁丝网"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "带刺铁丝网。科技发展部经常用这东西来把人们赶出去……或者放进来。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "小心。我得小心点儿，不能让它戳坏我的羽毛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "锋锋锋利的，尖尖尖锐的线线线。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "小心。这种尖锐的铁丝甚至都不能擦破电子人坚固的外壳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "带倒钩的铁丝。人类衣服的天敌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "尖头式的铁丝。一种野蛮的，原始形式的安全措施。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "铁丝网。"}]

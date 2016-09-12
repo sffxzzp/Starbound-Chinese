@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在这个档案柜里有一些办公用品和囚犯的资料。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生锈的大型文件柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "显然，对人类来说，在公共场合裸体是非法的，谁知道呢？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个女人因为戴着过大的眼镜被捕了。显然，这些人做的有点过火了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这些文件满满的记载着罪行。人类是危险的种族！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震撼。大批人类因为互相殴打对方的脸被抓进了监狱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦，看这儿，这个女人是一个相当有名的走私贩子。听说她越狱了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个男人的脸上散发出十足的犯罪气息。实际上，这个人看起来对自己的所作所为非常自豪。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "囚犯的文件。我们每个人都有自己的黑暗秘密和悔恨的事情。我不会窥探它。"}]

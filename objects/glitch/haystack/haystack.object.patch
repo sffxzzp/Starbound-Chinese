@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一捆整齐的干草，已经准备好堆放在一起了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "干草垛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一捆整齐的干草。我很好奇，这是用来干什么的呢？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "由干草组成的立方体。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能够用干草建筑方块来建造大大大城堡。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。为了方便地存放而捆成一捆的干草。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我认为这些叫做干草垛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一堆干燥的作物，被捆成了立方体的形状。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一捆干草。"}]

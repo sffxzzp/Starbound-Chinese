@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个主机运行一个叫《时髦废土盗贼》的游戏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色街机游戏机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "《时髦废土盗贼》是一个盗贼抢劫其他盗贼的游戏。最时髦的那个获胜！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "玩好《时髦废土盗贼》需要一点技巧和缘分。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "时时时髦盗贼游戏！叶族人喜欢这个游戏！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。《时髦废土盗贼》里能见到时髦的盗贼面对其他盗贼。10分我给8分。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "《时髦废土盗贼》是最好的！我将成为最时髦的盗贼！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "《时髦废土盗贼》的暴力场景描绘时而被人所抨击，但你不得不承认它对时尚的敏锐感触。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "《时髦废土盗贼》的一些部分使我能有所联系并感悟。"}]

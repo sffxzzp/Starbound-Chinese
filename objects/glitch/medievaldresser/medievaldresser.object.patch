@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个梳妆台有股霉味。它看起来不是很干净。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪梳妆台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个简单的梳妆台，里面可能装满了朴素的衣物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "储物单元与桌子的一体化。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人嗅嗅嗅旧家具。叶族人吸了一鼻鼻鼻子灰灰灰尘。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。一个旧梳妆台。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个脏兮兮的老旧木制梳妆台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个老旧的储物单元，可能是用来装衣服的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个布满灰尘的带抽屉的箱子，可能是用来装衣服的。"}]

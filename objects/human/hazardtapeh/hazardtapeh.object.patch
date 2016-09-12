@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种高亮标志明确地指出这块区域不安全。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "水平危险标志带"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个胶带警告人们这里危险。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "附近有危险的事物。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这里唯一的危险就是叶族人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。相似的标记表示了这是有自我意识的电子人潜藏的区域。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在需要验证身份时，我总想无视这种标志带。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果想让这个标志带更像是一个警告，人类不应该把胶带的颜色弄得这么鲜艳。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "它试图警告我让我保持距离。我可是身经百战了，别想吓唬我。"}]

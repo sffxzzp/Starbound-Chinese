@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用来展示小饰品的木制墙架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪墙架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个简单的木架子。看起来很牢固。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个木头做的结实墙架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "木头架子很结结结实。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。这个木架子既结实牢固。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个像样的木架子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个被紧紧固定住的木架子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个有用的墙架。你能在这上面放任何东西。"}]

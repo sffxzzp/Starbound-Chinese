@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个巨大的、令人生畏的门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型中世纪门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个巨大的门。你可能需要连续且猛烈的敲击才能把这个敲下来。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个可能是我看到过最大的门了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "让让让叶族人感到自己渺渺渺小的门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。这个门能用内部的一块巨大的木板锁住。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个加固过的巨型门。想要打开这个门就需要更加连续且猛烈的敲击。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种门是建造给那些害怕入侵者的人的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "无论是谁建造的这个门都代表着他不希望有来访者。"}]

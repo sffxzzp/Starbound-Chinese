@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个不太稳当的架子椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "架子椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "只是个架子椅罢。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "架子椅！我能坐在上面。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个圆架子椅椅椅！叶族人能在上面打圈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。这个椅子的金属柱需要打磨。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "就跟老家的经典椅子一样。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个在城市酒吧能轻易见到的典型椅子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个架子椅。我对这些东西很熟悉。再熟悉不过了。"}]

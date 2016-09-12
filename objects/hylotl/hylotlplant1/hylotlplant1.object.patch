@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "复刻的植物，显然是塑料做的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "塑料植物"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "为什么会有人想要假的植物？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一株假树。很好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人讨厌塑塑塑料植物！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "鄙夷。一株塑料植物。小气的便宜货。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "让我想起了等候室。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "令人作呕的塑料植物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些叶子有些硬……等等，这是塑料！"}]

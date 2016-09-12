@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/description","value": "一个简单的木质鱼竿，配有钛制配件。"},
+{"op": "replace","path": "/shortdescription","value": "鱼竿"},
+{"op": "replace","path": "/lureName","value": "基础鱼饵"},
+{"op": "replace","path": "/reelName","value": "基础鱼线轮"}]

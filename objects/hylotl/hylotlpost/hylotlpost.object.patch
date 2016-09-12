@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个内置灯火的木制装饰用柱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传统木柱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一根不起眼的柱子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "不错，又可以磨磨我的喙了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "灯柱柱柱。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "批判。即使是作为基本的柱子它也不怎么出色。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这柱子看起来相当不稳定。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "它提供了令人愉快的户外光源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有灯的柱子。亮起来吧，哥们。"}]

@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/npcname","value": "光一"},
+{"op": "replace","path": "/scriptConfig/dialog/koichi/greet/default/default","value": ["你来了！你做到了！你打败了那些戴头巾的恶棍！","所以你来这儿也是为了这个神器吗？真有趣啊…"]},
+{"op": "replace","path": "/scriptConfig/dialog/koichi/giveRelic/default/default","value": ["我觉得最好将其委托与你-作为对你的正直的奖赏。它放在这里确实不安全。","不过，呃…我可以跟你一起走吗？这个东西，这件神器-我想知道更多。"]},
+{"op": "replace","path": "/scriptConfig/dialog/koichi/end/default/default","value": ["大思想者曰，“经验乃智慧之母”。我也将会变得很有智慧！"]}]

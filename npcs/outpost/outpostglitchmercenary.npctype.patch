@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["愧疚。如果我黑色的战友不跟你说话的话请不要生气。他不怎么键谈。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["愧疚。如果我黑色的战友不跟你说话的话请不要生气。他不怎么键谈。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/glitch","value": ["沉思。在我们掌握…一切之前，生活应该并不容易？"]}]

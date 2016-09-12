@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个保护你大脑的头盔。叶族人长时间使用大脑只是为了与众不同。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个保护你大脑的头盔。叶族人也使用大脑！只是为了与众不同。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "智者思考帽"}]

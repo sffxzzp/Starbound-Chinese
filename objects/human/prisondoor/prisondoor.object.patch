@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用厚厚的金属栅栏做的门。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "栅栏门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "坚固的金属栅栏。不知何故，它们看起来非常好看。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些栅栏看起来相当结实。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "坚固固固的栅栏。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。一套非常结实的栅栏。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "栅栏，无论我们在那一边，我们不是都要站在栅栏的后面么？现在，我有些头疼。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "即使被困在一个笼子里。思想依旧可以天马行空。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你需要一些强力的工具去突破这些栅栏。"}]

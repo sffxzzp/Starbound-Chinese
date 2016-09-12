@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["你觉得所有的这些东西已经存在多久了？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["会有这么一天，人们说起我们这个种族将不再仅仅想起我们猿族人的压迫政权。"]}]

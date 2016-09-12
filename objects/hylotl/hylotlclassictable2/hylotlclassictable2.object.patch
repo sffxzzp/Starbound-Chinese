@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "设计精致的木制桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小型传统桌子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张小桌子。它看起来不太结实。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这桌子那脆弱的桌腿看起来随时都能咔嚓地折断。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "旧桌子太弱了，还不够叶族人用来剁肉的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。踢一脚这桌子就会分崩离析。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这桌子很容易晃动。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有了这样的桌子，每一顿饭都将是场愉快的体验。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个简单的桌子。我看它不太结实。"}]

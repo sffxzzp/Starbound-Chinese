@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一架子相当钝的铁剑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪武器架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些剑的剑刃随着时间的推移已经有些钝了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一把从剑中挑选出的钝器。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "不锋利的宝宝宝剑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。这些剑已经钝了。它们似乎已经被人遗忘。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "连奶酪都切不动。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一堆钝剑。这些可怜的东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "对任何人都没有什么帮助。"}]

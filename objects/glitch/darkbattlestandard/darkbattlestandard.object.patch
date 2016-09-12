@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面编织着徽章的深色方格旗帜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "深色军旗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道这个是不是用作标记领地的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道他选择用深色调是不是为了让旗帜看起来更加有威胁？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人很很很不不不喜欢旗帜。而且这条旗帜的颜色令人厌烦。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。在电子人里边用这些颜色来编织旗帜的人往往都不是什么好人。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一条用致郁的颜色编织成的旗帜，而且可以放置在任何地方。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看到这种单调乏味的颜色我就知道这条旗帜不是鲛人做的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这条旗帜暗成这样，会让民众好奇这是不是一种警告的信号。"}]

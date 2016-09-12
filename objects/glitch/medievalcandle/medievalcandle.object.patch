@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一支插在烛台上的小小蜡烛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蜡烛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一支小蜡烛。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族的祭祀们经常在烛光下工作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "暴露的火火火光实在太危危危险了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "伤感。烛光，我有多么想念它。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "漂亮的小蜡烛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "世上没有什么能有摇曳的烛光那般美丽。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一支小巧的照明蜡烛。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "动作片海报"},
+{ "op" : "replace", "path" : "/description", "value" : "电影《半机器人启示录》的剧照。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来又是一部不现实的的机器人电影。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来好像是一部关于巨型机甲的电影。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不需要又大又笨重的机器人人人。叶族人只需要能捅捅捅的刀。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣，这部电影中的机器人看起来很强大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一部机器人电影！太棒了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "又一部关于机器人的动作片。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "由巨型锡铁人主演的电影。"}]

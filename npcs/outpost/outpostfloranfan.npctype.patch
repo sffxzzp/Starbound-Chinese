@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["叶族人穿上人类的衣衣衣服好看不不不？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["叶族人穿上人类的衣衣衣服好看不不不？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/floran","value": ["叶族人很好奇新的叶族人为什么会来这。因为新的叶族人也喜欢人类吗？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/hylotl","value": ["鱼人不用担心叶族人。现在叶族人试着学习人类的做法。不刺刺刺了。"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "木质柜子。其门扇满满地雕着装饰花纹。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传统方柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "是有人损坏了这个柜子，还是它本来就这样的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些花纹很漂亮！前提是你眯着眼看它。。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人在想想想是谁将这个柜子装饰地那么丑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。这个柜子是被顽皮的小孩子装饰的？看起来像是。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "看起来像是一个年轻的艺术家想要装潢一下它。多么古怪。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些刻纹的深度和意义都令我屏住呼吸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "古怪好笑的柜子。谁会觉得它好看啊？"}]

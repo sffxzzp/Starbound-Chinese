@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["进攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/hylotl/default","value": ["你想死战到底？如你所愿！","你不会知道是在面对的是谁！","你要来阻止我？如你所愿！","来吧，试试你的勇气吧！","如果我们必须战斗，那么你必须死！"]}]

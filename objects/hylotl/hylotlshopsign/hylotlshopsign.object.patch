@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "鲛人商店外的欢迎标志。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人友好标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个欢快的鲛人面孔欢迎我光顾商店，我怎能拒绝？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张脸看起来很友好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚蠢的鱼人脸。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。也许我该看看店里卖什么。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "那愉快的鲛人笑脸在引诱我进入商店。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个标志是为了表现良好的客户服务。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "商户标板。也许我该看看他们都有什么。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张刑讯床，好怕怕！谢天谢地，上面还有枕头！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "垂直的刑讯床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张刑讯用的床，这让我很在意。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张残酷的刑讯床，我都不敢想象上面都发生了什么。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人觉觉觉的这看上去很舒适。这对刑罚真的有帮帮帮助吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。我想知道这种折磨人类的刑具是怎么运作的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嘿，一个露天游乐场！为什么监狱里面会有这种东西？啊，好吧，原来是一张刑讯床。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "野蛮又残酷得折磨刑罚是违法的。这片空间已经病态了，令人悲伤。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个靠枕看着很软，但是上面的固定用的绳索展示了另一个完全不一样的故事……"}]

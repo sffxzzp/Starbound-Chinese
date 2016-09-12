@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "琥珀"},
 { "op" : "replace", "path" : "/description", "value" : "一块琥珀化石。"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "琥珀"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "琥珀"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "琥珀的种类比其他古文物的更多。"}]

@@ -1,0 +1,11 @@
+[{"op": "replace","path": "/scriptConfig/crew/role/name","value": "医疗兵"},
+{"op": "replace","path": "/scriptConfig/crew/role/field","value": "医学"},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["当你在飞船上时，我会为你治疗！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default","value": ["当你在飞船上时，叶族人会为你医疗！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default","value": ["实用。当你在飞船上时，我会为你治疗！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default","value": ["你看上去受伤了，让我帮你治疗！","让我来帮你！","你看上去需要一些治疗，来这里！","嘿，我可以帮你治疗！就站在那儿别动！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default","value": ["你看起来受伤了，叶族人可以帮你！","叶族人是天生的药剂专家！相信叶族人！","你受伤了。叶族人可以帮你治疗！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default","value": ["关心。你看上去需要一些治疗。","关切。你可能需要一些治疗？","热心。你看上去可以获得更好的状态。让我来帮助你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default","value": ["你看上去需要一些治疗！","让我来帮你！","我是个医疗兵 —— 让我来帮你！","看上去你需要我的帮助！","我可以治疗你！来我这边，快点！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default","value": ["叶族人有有有地方可以帮忙！","叶族人可以帮把手！","叶族人有有有地方可以帮忙！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default","value": ["渴望。我可以帮助你！","兴奋。 可能你需要一些治疗？","热心。这可以治愈你！","热心。拿上这个，它会派上用场的！"]}]

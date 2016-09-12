@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这口蒸锅烹饪过上百种菜肴，香飘四溢。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大电子人烹饪锅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个大型烹饪锅。飘出诱人的气味。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个放在火上炙烤的大锅。也许是用来做饭的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "美美美味的烹饪锅。叶族人想喝喝喝些肉肉肉汤。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感动。这个罐子里飘出许多美食的香味。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一口大锅。但愿附近没有女巫。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "充满了鲛人不熟悉的味道。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一口大锅。里面在煮什么东西？"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "中世纪烹饪锅"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "嗯，嗯"}]

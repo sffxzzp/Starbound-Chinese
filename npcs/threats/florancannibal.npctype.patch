@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["入侵者！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/floran/default","value": ["我看看看到你了！","叶族人真真真的很饿！","叶族人已已已经发现晚餐了！","叶族人看看看见食物了！","叶族人饿了！","你不可能逃离我！","狩猎开开开始！","食物已已已经就位！","叶族人知道谁要要要被当作晚餐！"]}]

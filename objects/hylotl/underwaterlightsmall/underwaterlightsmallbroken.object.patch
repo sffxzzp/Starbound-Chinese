@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "损坏的防水灯"},
+{ "op" : "replace", "path" : "/description", "value" : "一盏小型墙灯。坏了。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯没有获得充足的供能。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏闪烁不定的灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这灯光让让让叶族人头晕！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "关注。这电灯已经功能故障了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "灯光在闪烁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏供电量不足的灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盏灯没办法正常运作。"}]

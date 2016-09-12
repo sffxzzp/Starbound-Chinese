@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["攻击！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/human/default","value": ["嘿看！真容易上钩！","别以为你可以轻易离开这里！","我敢打赌，你会丢下很多像素！","你已经走入狼穴了！","很好，一场战斗！我现在非常无聊！","没有个人恩怨，只是我就是很喜欢攻击人！","惊喜吧！你会被刺的千疮百孔！"]}]

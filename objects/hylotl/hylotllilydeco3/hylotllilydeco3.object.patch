@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "大莲叶"},
+{ "op" : "replace", "path" : "/description", "value" : "一组大型莲叶墙饰。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个装饰性的睡莲叶子。很好。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "自从我那次迫降到沼泽起，还没见过如此多的莲叶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "愚愚愚蠢的塑料植物。叶族人感到恶心！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "取悦。某个人真的很喜欢莲叶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "对于喜欢睡莲的人来说是一件完美的礼物。很不幸，那人不是我。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "自然之美，见微知著。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有人还真喜欢莲叶，嗬。"}]

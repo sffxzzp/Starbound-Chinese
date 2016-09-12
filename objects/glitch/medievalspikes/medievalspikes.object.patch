@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "木刺。等待着用敌人的头颅来装饰它！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木刺"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一排呈灰色的刺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来非常锋利。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "锋利尖尖尖锐的刺刺刺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。电子人把这些刺放置在防御深坑里。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一排看起来分外危险的刺。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种野蛮的防御设施。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "削尖的刺！天！"}]

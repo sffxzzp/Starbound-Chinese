@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有各种奇怪按钮的触屏控制台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高科技控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道如果我按了……这个按钮……会怎么样？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "按这个按钮的欲望是特别地诱惑人……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想按按按所有漂亮的按钮钮钮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我很想把这些按钮全按下去……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "也许按一两个按钮会发生点有趣的事。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不应该碰这些按钮……谁知道会发生什么呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个有着数个诱人按钮的控制台。我是不是……？"}]

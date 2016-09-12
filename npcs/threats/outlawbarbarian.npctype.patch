@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["进攻！"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/floran/default","value": ["叶族人准备好再猎杀一一一些！","你要在这与叶族人打架？叶族人很兴奋！","准备好被刺刺刺穿！","叶族人是所有猎人里最有本本本事的！"]}]

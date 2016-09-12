@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种柔软的吐舌娃毛绒玩具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "吐舌娃玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "吐舌娃让我浑身起鸡皮疙瘩，但这个玩偶很可爱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "为什么把这种可怕的小生物的形象做成玩偶？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "哇偶，叶族人最最最喜欢吐舌娃玩偶了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "矛盾。吐舌娃是一种致命的生物，但它们相当可爱。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇偶，这几乎让人忘记了真正的吐舌娃有多可怕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是一个相当可怕的生物的可爱毛绒玩具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "可爱得像个真的吐舌娃一样。"}]

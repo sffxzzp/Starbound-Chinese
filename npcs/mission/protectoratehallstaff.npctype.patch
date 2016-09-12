@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/scriptConfig/dialog/speak/default/default","value": ["你真是赶在最后一刻啊，<entityname>。请赶在仪式开始之前尽快进去。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["仪式现在马上就要开始了。","丽达波茜娅是一个充满荣光的伟大守护者。她真的相信我们可以让这个宇宙保持和平。","守护者的一生不会一直一帆风顺，但是请记住，你是伟大事业中的一份子。"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个不详的警告标志。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "木制警告标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个标志牌似乎是想警告我附近存在着危险。我想我应该小心地前进。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个标志牌是一个警告。也许是有什么危险在这里附近。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不屑于附近的危危危险！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这个标志牌是给别人的一个警示。我应该小心行事了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个标志牌是用来警示附近有什么危险。也许我应该谨慎行事了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个做工粗糙的标志牌就是要警示别人附近有危险的东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个骷髅头和交叉的骨头的标志是想明确地告诉你这附近有危险的东西。"}]

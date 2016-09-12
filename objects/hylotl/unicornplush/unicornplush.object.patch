@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个粘糊糊的可爱的独角兽。还有哪里不讨人喜欢呢？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "独角兽玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个独角兽，哈？看起来很可爱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种生物看起来很强大。它的美貌具有欺骗性。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这种生物能用头部的角戳戳戳刺。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "怀旧。一个古老传说中的独角兽。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一只独角兽！好可爱。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种美丽的神话生物。然而，这个毛绒玩具还不能完全展现出它的美貌。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个可爱的独角兽玩偶。并没能完全重现真物的风范！"}]

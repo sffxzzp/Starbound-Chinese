@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种展示用斧头看起来很锋利。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "展示用斧头"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一对装饰用斧头。锋利度足矣，尚可使用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来很凶残的斧头。斧刃看起来确实很锋利。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "傻傻傻缺！斧斧斧头不是为了挂在墙上而存在的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自夸。这把锋利的斧子是电子人的艺术杰作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "两把锋利的短斧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人在电子人的武器中也看到了艺术价值。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "时髦的展示物。没什么可以比得上一把古老忠诚的好斧子。"}]

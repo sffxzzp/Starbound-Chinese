@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "正中靶心！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "靶子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个用于射箭练习的靶子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个木板上画着一系列圆环。但这有什么意义呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "奇奇奇怪的大铁人绘画。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。电子人用靶子练习高超的箭术。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我很惊讶居然没有一支箭命中靶子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "某种游戏，对吧？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这很好，但又有点过时。让我来试试它……"}]

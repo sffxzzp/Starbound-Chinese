@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一面美丽的编织旗帜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型电子人旗帜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一面精妙编织的旗帜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一面装饰用的旗帜，是吧？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "红色的丝丝丝绸旗帜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自豪。电子人制造了各式各样的旗帜，它们代表着电子人各自的领地。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多么奢华的旗帜！描金装饰让它看起来十分有皇室威严。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这面旗帜以无比的自豪制成。这其中意味深长。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一面极其精致的旗帜。"}]

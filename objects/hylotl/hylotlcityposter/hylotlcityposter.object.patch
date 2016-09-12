@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鲛人城市海报"},
+{ "op" : "replace", "path" : "/description", "value" : "带框的城市海报。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这是一座城市的优美照片。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个陌生城市的照片。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这是是是一张照片。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这张照片描绘的是什么城市呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这真是一张不错的照片。让我想起了家。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张现代化城市的美妙相片。我快流出眼泪了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一片陌生的城市景色。"}]

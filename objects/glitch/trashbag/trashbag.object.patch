@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个垃圾袋。根本就是一堆垃圾。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "垃圾袋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一袋垃圾。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一袋不想要的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "垃垃垃圾日！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一袋垃圾。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "只是又一袋垃圾。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "不小心遗弃在这儿的一袋垃圾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一袋垃圾，毫无用处。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台现金出纳机。咔钦！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "收银机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个玲珑小巧的收银机。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台小小装置上有好多数字按钮。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小小的机械装置让叶族人迷惑。。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。这台收银机收不收像素呢？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一台老式收银机。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一台用来结算金额和存放钱款的机器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一台分拣归类像素的机器。"}]

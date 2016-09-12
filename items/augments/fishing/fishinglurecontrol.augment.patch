@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/description","value": "一个内部装有旋转器的鱼饵，可以更好地控制它。"},
+{"op": "replace","path": "/shortdescription","value": "机动鱼饵"},
+{"op": "replace","path": "/lureName","value": "机动鱼饵"}]

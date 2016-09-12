@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/npcname","value": "努鲁"},
+{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["我喜欢这这这个地方，这里阴森森的！"]}]

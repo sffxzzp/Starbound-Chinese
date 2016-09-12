@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个盘子。里面落满了灰尘。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪盘子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个小陶土圆盘。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一件用来盛放食物的餐具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "盘子里需需需要装食物。叶族人饿了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "谦逊。一个简陋的陶土圆盘。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个简陋的陶土盘子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个圆形的陶土盘子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "小小的陶土盘子。"}]

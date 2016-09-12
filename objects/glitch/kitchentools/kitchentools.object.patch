@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来制作纯净、无杂质美味的工具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厨房工具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "厨房器具。我想知道这套厨具曾经做过什么食物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "似乎是为了制作食物而制作出来的一套工具。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用来切切切肉的锋利的刀。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。这些工具是用来制作食物的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道当我用这些器具切菜时能够切得多快？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人是用太刀来料理食材的。开玩笑了啦。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用来做饭的器具。"}]

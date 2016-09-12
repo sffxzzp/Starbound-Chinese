@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个装满果汁的桶。嗯，鲜美多汁！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "果汁桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有甜甜果汁气味的桶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "装满液体且有香甜气味的桶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个装有闻闻闻起来有着令令令人作呕气味的果果果汁桶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。果汁桶总是代表着有愉快的事情在等待着我们。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个桶。装满着果汁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "里面的液体闻起来好极了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "美味的果汁就装在里面。"}]

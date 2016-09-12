@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/description","value": "一个有着明亮的灯的鱼饵，适用于夜间钓鱼。"},
+{"op": "replace","path": "/shortdescription","value": "发光鱼饵"},
+{"op": "replace","path": "/lureName","value": "发光鱼饵"}]

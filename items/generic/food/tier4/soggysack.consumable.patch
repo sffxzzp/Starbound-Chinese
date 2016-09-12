@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "泥海胆塞进珍珠豆中做成的一道菜，听起来挺吓人，但尝起来还不错。"},
+[{ "op" : "replace", "path" : "/description", "value" : "泥海胆塞进珊瑚果中做成的一道菜，听起来挺吓人，但尝起来还不错。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "潮湿口袋"}]

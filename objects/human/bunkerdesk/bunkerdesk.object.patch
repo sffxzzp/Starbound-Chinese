@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "带有内置监视器的办公桌。看起来好像有人曾在这里写一些编码。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "金属办公桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张办公桌有一个内置监视器。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个监视器让办公桌看起来好像长了一双眼睛。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "带屏屏屏幕的桌子子子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "讽刺。这种内置电子产品的品质经常比同类的独立部件要更低劣，当然电子人的除外。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "显示器被镶嵌在了桌子里。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "内置的监视器，一个结合技术性与舒适性的智慧结晶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一块屏幕固定在了桌子上。"}]

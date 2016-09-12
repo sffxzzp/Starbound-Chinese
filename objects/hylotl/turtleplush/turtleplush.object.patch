@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可爱的小海龟玩偶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海龟玩偶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "坚固的保护壳让海龟成了一种有趣的生物。这一只仅仅是个玩具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个背上有内嵌壳的生物的玩具。有意思……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "绿色的玩具。这种生物是是是一种植物吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我以前从来没见过真正的海龟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "海龟！我喜欢海龟。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "海龟是一种真正能给人以启发的生物，以玩具的形式被巧妙地展示在这。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这不是一只真正的海龟，它是假的。"}]

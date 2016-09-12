@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "嘿，这个鸣锣上面有个薄片……喔。噢，我明白了。是一片莲叶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传统鸣锣"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果你对这种东西感兴趣的话你会喜欢它的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个锣的形状意味着它的声音不太对。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人砸砸砸锣，但它响响响地不令人满满满意。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沉思。虽然其形态损害了音色，但却保证了美观性。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "莲叶状的锣，我能想象出它在礼品店里的画面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此巧夺天工，只惜不可触弄。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用于发出极大噪音的器具，我没法告诉你这是为了啥……"}]

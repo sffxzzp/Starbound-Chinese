@@ -1,5 +1,5 @@
-[{ "op" : "replace", "path" : "/description", "value" : "A really creepy looking shrine."},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "Shadow Shrine"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个看起来毛骨悚然的神龛。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "暗影神龛"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "毛骨悚然…"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这个神龛让我毛骨悚然…"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不喜欢这这这个神神神龛。"},

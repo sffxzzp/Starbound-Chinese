@@ -1,0 +1,4 @@
+[{"op": "add","path": "/panels/3/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/3/text","value": "醒醒…"},
+{"op": "add","path": "/panels/4/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/4/text","value": "快起来，你睡过头了。"}]

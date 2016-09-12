@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我想知道它有多重。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁球锁链"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "铁球锁链，一个关于科技发展部的巧妙隐喻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来是用来防止犯人逃跑的装置。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用用用类类类似的石头来防止猎物逃跑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。许多获得自我意识的电子人都体验过这种待遇。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "铁球锁链，一种限制犯人自由的原始刑具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我们鲛人对待战俘要尊重得多。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是我最不需要的东西。"}]

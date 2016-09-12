@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "品尝海洋一样的暗礁可乐！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "暗礁可乐"}]
+[{ "op" : "replace", "path" : "/description", "value" : "品尝海洋一样的礁荚可乐！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "礁荚可乐"}]

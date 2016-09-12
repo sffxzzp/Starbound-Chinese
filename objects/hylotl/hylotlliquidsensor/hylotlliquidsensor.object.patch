@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "别用你的手指！这个可靠的传感器能感知液体。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "液体传感器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个有用的物件，能用来侦测液体。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我听过这种东西，它们能用某种方式探测液体。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "传传传感器侦测液体体体。这样能激活线路路路。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞叹。这个仪器的电路设计是用来侦测液体的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我听过这个东西，它们是凭借那些独特的线路设计来侦测液体的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我最喜爱的仪器之一，它会自动侦测液体的存在。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某个独特的液体传感器。"}]

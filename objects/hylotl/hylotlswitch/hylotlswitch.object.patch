@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "让人很想拉一下的控制杆。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "标准拉杆"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我该不该拉一下操作杆?"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我非常想拉一下控制杆。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想拉控制杆。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "诱惑。如果我拉下这个控制杆会怎么样？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嗯，我觉得我应该拉一下这个控制杆。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这控制杆在诱惑我拉下它，我要克制。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个拉杆是干什么的呢……"}]

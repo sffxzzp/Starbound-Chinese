@@ -1,0 +1,12 @@
+[{"op": "add","path": "/panels/36/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/36/text","value": "现在只差差差一个神器了！"},
+{"op": "add","path": "/panels/37/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/37/text","value": "没错，而且根据我们的研究…"},
+{"op": "add","path": "/panels/38/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/38/text","value": "实际上，我们似乎没有找到最后一个神器的任何数据。"},
+{"op": "add","path": "/panels/39/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/39/text","value": "这是当然。因为它一直都在我们身上。"},
+{"op": "add","path": "/panels/40/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/40/text","value": "我拿着的这个物质枪是独一无二的。"},
+{"op": "add","path": "/panels/41/fontSize","value": 12.5},
+{"op": "replace","path": "/panels/41/text","value": "这把^orange;物质枪^white; - 恰巧是原版的 - 也恰巧是赠与人类的神器。"}]

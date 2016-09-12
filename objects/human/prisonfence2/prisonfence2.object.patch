@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这是一道铁丝网围墙。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁丝网矮墙"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一道铁丝网围墙。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一道围墙，无情地嘲笑着大地。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人确确确定可以一下跳过这堵墙。但是叶族人不会傻到去尝试。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一道铁丝网围墙。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一堵牢固的铁丝网围墙。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如果这道围墙在海底，我只要游过去就可以了，不过话说回来，在陆地上又该怎么办呢？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些金属网。"}]

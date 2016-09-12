@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个简约的条纹碗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "传统的碗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "条纹的碗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个基本样式的条纹碗。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "碗。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "中立。一个碗。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是碗。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个漂亮的手工绘制碗。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "适合盛热汤。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个画的很拙劣的骷髅头，看起来笑的很开心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "涂鸦"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来像是人类的头骨。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个头骨，这是一个警告吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜欢这幅画。伟大的画作。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。画工拙劣的骷髅头。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "又一位引人注目的街头艺术家要诞生了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这名艺术家显然没什么才能。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个头骨，可能是一种警示，或者可能有海盗在这里！"}]

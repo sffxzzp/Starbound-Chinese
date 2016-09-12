@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个残忍但是运行良好的设备。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "断头台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一种古老但是有效的刑罚方式。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "没有拔毛器那么让人难以忍受。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "刀片切地那么快！用来准备食物不要太好！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "伤心。这是电子人之间最喜欢使用的死刑方式。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可不想睡在这个的刀片下边。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种野蛮的刑罚方式……"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "方便快捷。太简单了反而不合我胃口。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "看起来不是那么鼓舞人心。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "动员令"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果这是科学进展部的海报，那下面丢失的文本就是“拒绝的话你不会被处决”。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族人向克鲁西斯祈祷以求得安宁。我们可不需要这种愚蠢的动员令。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这张动员令损坏了。叶族人看到这张东西后感到热血沸腾腾。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "沮丧。要猜出丢失的文本会让我困扰一整天。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "对于有人在上面乱写乱画的行为我一点都不惊讶。这是人类的劣习之一。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我们大鲛人不需要动员令来帮助我们达到‘禅’的境界。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "上面写着保持冷静和什么？我想我永远都不会知道了。"}]

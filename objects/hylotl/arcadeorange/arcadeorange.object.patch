@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个主机运行一个叫《低俗汉堡英雄》的游戏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "橙色街机游戏机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "《低俗汉堡英雄》主要内容是不断地翻动汉堡肉片。我爱汉堡！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "在《低俗汉堡英雄》中取得好成绩取决于你对反射神经的锻炼。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "翻动肉片的游戏。让叶族人很饿。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。以煎肉片这种乏味工作来赢得高分的游戏特别地令人上瘾。10分我给7分。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "《低俗汉堡英雄》，翻汉堡肉片的游戏！奇怪地令人想主动玩它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "《低俗汉堡英雄》会你的孩子以愉快的心情投入其中、忘乎所以。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个叫《低俗汉堡英雄》的游戏。为什么是要翻肉饼的？为啥啊？"}]

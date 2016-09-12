@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个鲛人的头骨化石。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "鲛人头骨"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "鲛人化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "鲛人化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "这副鲛人的骨架化石显示出其早期在水中生活的标志。"}]

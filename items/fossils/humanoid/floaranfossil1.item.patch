@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个叶族人的头骨化石。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "叶族头骨"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "叶族化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "叶族化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "由植物构成的叶族人骨头里充满了木质素，外观像一种木头。"}]

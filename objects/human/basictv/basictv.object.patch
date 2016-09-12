@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台电视机！我认为它并没有被使用过很长时间。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "老旧的电视机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一台电视机。我一直希望能看到猿首的脸。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一台显示器，可以看以前的电视节目。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "热闹的移动图片片片。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞赏。电视机是人类出口的最有价值的东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "没有比靠在沙发上看周六的早间动漫更惬意的事了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在这种技术给人留下深刻印象的同时，出现了很多缺乏艺术价值的电视节目。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一台好用的老电视，我很喜欢看一些探险解谜的节目。"}]

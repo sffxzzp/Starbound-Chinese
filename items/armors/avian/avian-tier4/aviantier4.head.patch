@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "翼族穿戴的耐钢头盔。虽然并不能在真空中保护你。"},
+[{ "op" : "replace", "path" : "/description", "value" : "翼族穿戴的耐钢头盔。但是并不能在真空中保护你，当心。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "猫头鹰头盔"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个未知星球的模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世界星球仪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个星球仪。与飞船上关于这个星球的数据不符。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这上面似乎标注了所有的大陆块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "好小的星球。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "失望。一个星球仪，由某个不可靠的制图员制造。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "没有一个星球的情况符合这个星球仪的描述。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "根据我们飞船的数据，这个星球仪完全不靠谱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张不咋地的地图。谁知道这指的是哪个星球！"}]

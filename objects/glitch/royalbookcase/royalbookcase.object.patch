@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个皇上用的书橱……让我们找一下“皇室成员”是怎么发音的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "皇室书橱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个用了一大片金子来装饰的书橱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个金制书橱。翼族人相信只有克鲁西斯才有权利用这么奢侈的东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪发光的书书书橱。他能能能不能装除了书书书以外的东西呢？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "洞察。许多皇室的成员都特别善于阅读和书写。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个金制书橱。也许国王们都是狂热的读者吧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "到底是怎么样的的国王才会在自己的民众还为了食物而发愁的时候还过着这个奢侈的生活？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我是不是可以肯定国王都没有太多时间去阅读呢？"}]

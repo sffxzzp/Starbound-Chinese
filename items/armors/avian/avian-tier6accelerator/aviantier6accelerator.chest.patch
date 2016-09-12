@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这件朴素的衬衫由纯日曜合金丝织成。很明显在强调韧性比美观更重要。"},
+[{ "op" : "replace", "path" : "/description", "value" : "这件朴素的衬衫由纯日曜合金丝织成。是强度和时尚的良好结合。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "金刚鹦鹉衬衫"}]

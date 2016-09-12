@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块明确指示着铁匠铺的招牌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "铁匠铺招牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一块木制招牌，指示着这栋建筑很可能是一家铁匠铺。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一块招牌，上面画着一个铁砧。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这里是是是金属商店？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满足。一块铁匠作坊的招牌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一块铁匠作坊的商店招牌。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个招牌指示着一家铁匠铺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "挂着这种招牌的建筑肯定是一家铁匠铺。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "“滚出去”这个词使用血写的，你就清楚作者是认真的了。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "涂鸦"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个涂鸦看起来是用血写的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "很显然这位艺术家有当导演的天赋。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这幅画尝尝起来很美味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不适。这上面的血是鲛人的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "切，该滚的是你！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个涂鸦的作者应该出去抽根烟冷静一下。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "用血书写的涂鸦，这血是他们自己的吗？"}]

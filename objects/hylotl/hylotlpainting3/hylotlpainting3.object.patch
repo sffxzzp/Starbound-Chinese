@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "传统桥画"},
+{ "op" : "replace", "path" : "/description", "value" : "这幅画画着一座止水之上的桥。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这座桥的结构看起来并不太合理，但它很漂亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "好一片美景！假若它是真的的话，我会很想去看看这个地方。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想要要要藏在桥下吓吓吓人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "赞叹。画中的桥似乎还算安全。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "好一幅画作。若这桥是真的，我愿意一遍又一遍地走过它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "那顿挫张抑的笔触着重体现了景色的幽秘静谧。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我在想一架篷车能不能通过如这般美丽的小桥。"}]

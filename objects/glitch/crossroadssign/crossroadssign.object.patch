@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个毫无帮助的路牌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "十字路口指示牌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个路牌。但是上面什么是空的……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它似乎是用作指示方向的但是却没有把方向标示上去。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "让叶族人感到疑疑疑惑的牌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。要如何解释这个空白的牌子？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不太确定一个空白的牌子能有多大的用处。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这块牌子上面什么也没有写，估计是长时间受到风雨侵蚀的结果。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个空白的牌子对于任何人都没有用处。"}]

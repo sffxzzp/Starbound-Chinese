@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/crew/role/name","value": "药剂师"},
+{"op": "replace","path": "/scriptConfig/crew/role/field","value": "药剂学"},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["每当我们在飞船上，我会给你一个增益！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default","value": ["让我马上给你一个增益！","让我来帮你！","看上去你需要我的帮助！","我可以帮忙！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default","value": ["叶族人有有有可以帮到你的地方！","叶族人可以帮忙！","叶族人可可可以帮到你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default","value": ["渴望。我可以帮助你！","兴奋。可能你需要充充电来完成这项工作！","纠结。我怀疑这东西是否能帮到你。","热心。 拿上它，它会有帮助的！"]}]

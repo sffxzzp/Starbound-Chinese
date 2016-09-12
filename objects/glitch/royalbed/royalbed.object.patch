@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用闪闪发光的金子做成的华丽丽的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "华丽高贵的床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个用丝绸和金子做成的床。对于国王来说简直是再好不过了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张用贵重的金属制作的床。是谁睡在这么贵重的材料上面呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想试试这张闪闪发光的床。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "确认。一张建造给皇室成员的床。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我有点怀疑这张床是建给皇室成员的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个国王真的需要这么奢侈吗？那么这些有让他成为更好的国王吗？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我敢肯定这是一张昂贵的床，国王专属！"}]

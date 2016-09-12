@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一把摇曳着温柔火焰的实心铁火炬。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪火炬"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一把铁火炬。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一把闪烁的火炬。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火焰不断地吐出火星。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "安心。这种火炬可以照亮城堡里的整条走廊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一把小火炬，燃烧着余烬咝咝作响。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一把燃烧的火炬。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一把壁挂铁火炬。"}]

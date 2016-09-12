@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/npcname","value": "拉娜"},
+{"op": "replace","path": "/scriptConfig/dialog/start/default/default","value": ["你好，士兵。我们来处理好这个情况吧？"]},
+{"op": "replace","path": "/scriptConfig/dialog/leave/default/default","value": ["干得不错，士兵。我会在方舟那等着你的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/attack/default/default","value": ["目标在我的视野中！","遇到了敌人！","发现目标！"]}]

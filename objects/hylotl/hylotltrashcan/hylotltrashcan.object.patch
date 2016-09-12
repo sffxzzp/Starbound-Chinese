@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个垃圾桶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "都市垃圾桶"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "是个垃圾桶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用来丢垃圾的桶。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人一般把垃圾扔地上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。一个垃圾桶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个垃圾桶。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个用于废物处理的桶。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个金属垃圾桶。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色贝壳标志"},
+{ "op" : "replace", "path" : "/description", "value" : "一个用贝壳装饰的蓝色霓虹灯牌。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来鲛人除了莲叶外还对其它东西感兴趣。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个标志有轻微的嗡嗡声。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡响的标标标志吵到叶族人了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。为什么箭头都指向贝壳？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这标志想告诉我们什么？买贝壳？收集贝壳？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我记得以前有很多鲛人收集贝壳。是个潮流。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "那个标志上有个贝壳。"}]

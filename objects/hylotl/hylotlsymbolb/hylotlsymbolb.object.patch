@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色霓虹符号"},
+{ "op" : "replace", "path" : "/description", "value" : "个带有亮蓝色符号的金属莲叶。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "带符号的莲叶。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来像是某个脚上沾了油漆的鲛人一脚踩在了莲叶上。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人看看看不懂它的意义。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "评论。一个装饰过的莲叶仍是莲叶。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这比看上去让人兴奋。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些鲛人符号的结合是如此天衣无缝。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这发光的符号是做什么的？"}]

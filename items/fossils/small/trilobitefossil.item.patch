@@ -1,3 +1,4 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "三叶虫"},
 { "op" : "replace", "path" : "/description", "value" : "三叶虫化石。"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "三叶虫化石"}]
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "三叶虫化石"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "多亏了它们的外骨骼，三叶虫才能成为保存的最完整的化石种类之一。"}]

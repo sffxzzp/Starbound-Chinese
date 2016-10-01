@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一条反光度很强的外套－嗯，除了你现在正在变成粉红色..."},
+[{ "op" : "replace", "path" : "/description", "value" : "一条反光度很强的外套－嗯，除了你现在正在变成粉红色…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "月变体的反光夹克"}]

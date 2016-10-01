@@ -1,8 +1,8 @@
 [{ "op" : "replace", "path" : "/description", "value" : "召唤属于你自己的鲛人村民！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "鲛人生成器"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "召唤鲛人中。呃...或许等等吧。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "召唤鲛人中。呃…或许等等吧。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我得注意不要过于频繁的使用它。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人召召召唤鱼人并用剑剑剑刺穿它！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "虚伪。把鲛人聚集起来真是太好了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "嗯，我估计一个鲛人不会造成多大伤害……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嗯，我估计一个鲛人不会造成多大伤害…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "多么愉悦！我终于可以再次被自己的文化包围了。"}]

@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "他们说这种东西有一百种不同味道。其中有香蕉味吗？"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "风味满溢的植物。特别是种子很好吃。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "这这这水果风味浓郁。没有一种味道吃吃吃起来像肉肉肉。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这吃起来像……花椰菜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这吃起来像…花椰菜。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "如果味道包括在内，这水果可以够我过五十个五蔬果日。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "百味果是有很多味道的水果。它是海下的异国美食。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这水果味道太多了。没法尝出来任何一种。"}]

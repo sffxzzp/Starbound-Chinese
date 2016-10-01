@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个装饰性的木制马车轮子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "马车轮子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个轮子，大概是从某个老旧马车上拆下来的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个木制轮子。也许它曾经是一辆载具的一部分？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不知道这个轮子有什么用。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道它是不是曾附属于一辆真正的马车？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我本不期望一个老旧马车的轮子可以作为好的装饰品，但它确实很合适！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不确定这个轮子的用处。它只是个简单的装饰品吗？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "马车轮子－对于任何公寓来说都是一件优秀的陪衬！"}]

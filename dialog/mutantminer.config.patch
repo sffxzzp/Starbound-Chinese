@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/reattack/default/default","value": ["哇啊啊啊啊！","啊啊啊啊啊！"]},
+{"op": "replace","path": "/attack/default/default","value": ["哇啊啊啊啊！","啊啊啊啊啊！","呃啊啊啊啊！"]},
+{"op": "replace","path": "/killedTarget/default/default","value": ["哇啊啊啊啊！哇啊啊啊啊！","哇哇哇哇啊啊啊啊！"]},
+{"op": "replace","path": "/lostTarget/default/default","value": ["哇啊啊啊啊？","啊啊啊啊啊…"]},
+{"op": "replace","path": "/outOfSight/default/default","value": ["哇啊啊啊啊？","呃啊啊啊啊？！"]},
+{"op": "replace","path": "/cantReach/default/default","value": ["哇啊啊啊啊？","呃啊啊啊啊？！"]},
+{"op": "replace","path": "/cheerOn/default/default","value": ["呃啊啊啊啊！","啊啊啊啊啊！","哇啊啊啊啊！"]}]

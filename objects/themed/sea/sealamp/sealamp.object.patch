@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "提供光源的可爱海贝。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海贝灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这种灯来自海洋。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这灯实际上就是一个巨大的海贝。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "甜甜甜美的灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。一个贝壳用电在发光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我在想这种灯能不能在水下使用。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏迷人的灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "假如你喜欢此类东西的话。这是一盏漂亮的灯。"}]

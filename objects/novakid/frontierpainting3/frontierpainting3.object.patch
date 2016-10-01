@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅描绘晴空万里下一只自豪的哞西牛的画作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者之哞西牛"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "画里的这只哞西牛看起来十分骄傲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多么高贵的一只动物！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想要捕猎这只小小的猎物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "启发。多么庄严的一只动物！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "画里面的哞西牛作为一只农场动物看起来十分庄严。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这幅画抓住了这只野生动物的庄严宏伟的一面。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是只看上去气度不凡的哞西牛。"}]

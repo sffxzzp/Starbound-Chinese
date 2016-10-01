@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "守护团缎带"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一条优雅的天鹅绒缎带。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一条天鹅绒缎带。真别致！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "红色的天鹅绒缎带……这让叶族人感到饿了！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "红色的天鹅绒缎带…这让叶族人感到饿了！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一条红色缎带。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是一条红色缎带。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一条红色缎带。"},

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/speciesText/default/buttonText","value": "大塔图书馆"},
+{"op": "replace","path": "/speciesText/default/repeatButtonText","value": "重新挑战大塔图书馆副本"},
+{"op": "replace","path": "/speciesText/default/selectSpeech/text","value": "经过计算，这个古老的岛屿建筑群正是鲛人神器所在的区域。"}]

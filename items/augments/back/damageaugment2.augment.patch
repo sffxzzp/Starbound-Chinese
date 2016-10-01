@@ -1,2 +1,3 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个能增加你的伤害输出的危险环境保护装置模块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "伤害增强模块 II"}]
+[{"op": "replace","path": "/description","value": "一个能增加你的伤害输出的危险环境保护装置模块。"},
+{"op": "replace","path": "/shortdescription","value": "伤害增强模块 II"},
+{"op": "replace","path": "/augment/displayName","value": "伤害增强 II"}]

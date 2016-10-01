@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个垃圾桶。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个用来装扔掉的东西的容器。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "垃垃垃圾日！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一个电子人伙计……或者说是一个垃圾桶。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一个电子人伙计…或者说是一个垃圾桶。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个垃圾桶。无论何地它们都是如此有用。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个处理垃圾的容器。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一点用没有，就是个垃圾桶。"}]

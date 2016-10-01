@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台以未来复古主义样式制造的电视。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "复古电视"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这电视看起来很有未来感，不过当我还是小孩子时便有过一台这样的电视了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我从没真心想拥有一台电视机，直到现在。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嘈嘈嘈杂的图像装在了一个花俏盒子里。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。我喜欢这项科技的外观。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "终于让我找到了，一台看上去和它的播放的内容同等过时的电视机。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个设备全身都透露着滑稽可笑。远远不如一本好书来得有趣。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个华而不实的有声箱子。"}]

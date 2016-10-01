@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏以未来复古主义样式制造的聚光灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "复古灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个简单而有个性的聚光灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "适合现代家居的小电灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个聚聚聚光灯可真亮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。一个毫无特点的简单小灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个适用于任何现代寓所的聚光灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这灯缺乏个性。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只要给我一盏煤油灯，我马上就把它换掉。"}]

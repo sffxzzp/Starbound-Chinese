@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。这尊雕像描绘了克鲁西斯神的威猛的蛇型状态，以及有关他的故事。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这尊古老的雕像描绘了克鲁西斯和他的故事。他看起来很长，像一条蛇。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这些文字诉说了克鲁西斯坚定的意志。他的身躯长而弯曲，就像一条河流。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不想和这条蛇发生纠纷……或着它是一只鸟？"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不想和这条蛇发生纠纷…或着它是一只鸟？"}]

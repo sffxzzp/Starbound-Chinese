@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "门起……门落……门起……门落……"},
+[{ "op" : "replace", "path" : "/description", "value" : "门起…门落…门起…门落…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "滑动门"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个没有把手的门。它似乎可以上下滑动。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这扇门是向上开的。"},

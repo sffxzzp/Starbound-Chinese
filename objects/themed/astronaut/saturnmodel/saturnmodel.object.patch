@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个精致的太阳系土星模型，最明显的莫过于他一圈的宇宙尘埃带。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "土星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "土星是个气体巨星，位于太阳系第六。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "土星是一个古老的地球之神的名字命名。翼族文化也有一个这样的神，是多么的心有灵犀啊。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "土星是太阳系中的气体行星。有着太阳系系系中最大的宇宙尘埃带。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "诱人。巨大的行星环是由宇宙尘埃组成的。其中，岩石有的高达十米。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "玩游戏是太阳系中最大的气体行星。它的行星环，使它不同于其他行星。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "土星的六角是自然的雷同以及是逻辑美的其中一个例子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "土星是宇宙空间亡命之徒的匪窝。他们会把自己隐藏在尘埃环里以抢劫贸易船。"}]

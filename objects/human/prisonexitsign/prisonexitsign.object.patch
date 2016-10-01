@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "如果你走这条路，你会找到出口……大概吧。"},
+[{ "op" : "replace", "path" : "/description", "value" : "如果你走这条路，你会找到出口…大概吧。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "出口标志"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个出口标志。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个指向出路的标志。"},

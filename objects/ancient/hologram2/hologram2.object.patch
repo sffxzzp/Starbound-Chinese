@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "混乱。这关于某个生物毁灭星球的壁画真是令人焦躁。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "好吧，这看起来像是某种不详之兆！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这全息投影展现了某个触手怪毁灭星球的景象。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个看起来像章鱼的家伙可真丑……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个看起来像章鱼的家伙可真丑…"}]

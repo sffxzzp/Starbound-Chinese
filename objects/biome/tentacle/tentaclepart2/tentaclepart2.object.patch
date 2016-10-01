@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一些鲜活且黏糊糊的……"},
+[{ "op" : "replace", "path" : "/description", "value" : "一些鲜活且黏糊糊的…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "触手"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这令人不安。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "好恶心。它是活的？"},

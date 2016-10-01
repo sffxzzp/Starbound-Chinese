@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "在珊瑚框架里的一面壁镜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "珊瑚镜子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这面镜子的成像效果太糟糕了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这面镜子的朦朦胧胧的，里面藏着什么秘密吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "看着镜子就就就好像看着水下。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不满。镜像的质量好像透过水看东西一样。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "镜像的质量好像透过水看东西一样，或者汤。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "虽然我喜欢镜子的装饰，但是镜面好像蒙上了云雾一样。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这面镜子的映像模糊得就像大热天的沙漠一样。"}]

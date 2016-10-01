@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这个战利品架被一张肮脏的网覆盖住了。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "脏网架"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "呃……这是某种脏兮兮的网。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "呃…这是某种脏兮兮的网。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这是一种肮脏的网，我最好别碰它！"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "这这这张网是个很好的战利品。尽管它很很很可怕。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。只是一个超大的、黏糊糊的网，没什么好怕的。"},

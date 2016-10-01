@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "我想念家中的那张普通床。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一张来自外星的床。那些是叶子？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "植物床！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "可疑。这张床散发出某种......体热？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "可疑。这张床散发出某种…体热？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "触摸起来有温暖和海绵的感觉。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一张设计奇特的床。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这是一张设计有趣的床，这肯定是！"}]

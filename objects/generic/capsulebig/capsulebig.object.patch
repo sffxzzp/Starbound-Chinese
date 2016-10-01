@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "可被打破的大型胶囊。想知道里面有什么。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "大型胶囊"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个胶囊。通常包含补给。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个胶囊。有什么东西在里面，我想知道是什么……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个胶囊。有什么东西在里面，我想知道是什么…"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "把它砸砸砸开来！拿走里里里面的好东西！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "破坏。把胶囊打破的欲望难以遏制。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "里面有什么东西。我可以把它打开。"},

@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/dialog/merchant/start/default/default","value": ["我能为您提供什么呢？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/default/default","value": ["请再次光临，伙计！"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/follow/default/default","value": ["想来杯饮料的话就来我这里吧！"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/welcome/default/default","value": ["那么，我可以为你提供什么服务呢？"]},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/tout/default/default","value": ["您在找饮料吗？","你好！你想来一杯饮料吗？"]}]

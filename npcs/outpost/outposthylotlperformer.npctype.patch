@@ -1,6 +1,6 @@
 [{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["不再有人能够欣赏一个有趣的笑话了！我的喜剧天赋就在这些毫无幽默感的白痴身上浪费掉了。"]},
 {"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["不再有人能够欣赏一个有趣的笑话了！我的喜剧天赋就在这些毫无幽默感的白痴身上浪费掉了。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/avian","value": ["你一个人出来的？我猜你是真的……飞出了牢笼！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/avian","value": ["你一个人出来的？我猜你是真的…飞出了牢笼！"]},
 {"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/apex","value": ["你知道一个痴情的猿族人是怎么对妻子表白的吗？你像香蕉一样让我痴狂！"]},
 {"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/floran","value": ["你平时怎么称呼一个叶族朋友？一个大花苞！"]},
 {"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/glitch","value": ["什么是电子人最喜欢的舞蹈？机械舞！"]},

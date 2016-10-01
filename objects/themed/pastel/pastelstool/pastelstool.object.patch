@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张小小的淡色凳子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一张小凳子，用爱心装饰着。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张古怪的小凳子。上面有爱心！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想知道凳凳凳子是不是用真的心心心脏做的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。一张小凳子，用爱心装饰。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一张相当有吸引力的小凳子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一张相当令人愉快的小凳子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张供休息用的漂亮凳子"}]

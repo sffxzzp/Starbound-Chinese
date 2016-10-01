@@ -1,2 +1,3 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个能发光的项圈。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "发光项圈"}]
+[{"op": "replace","path": "/description","value": "一个能发光的项圈。"},
+{"op": "replace","path": "/shortdescription","value": "发光项圈"},
+{"op": "replace","path": "/collar/displayName","value": "发光"}]

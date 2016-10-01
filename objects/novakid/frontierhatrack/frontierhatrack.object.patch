@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一套装饰用的黄铜角架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者帽架"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "第一眼看上去还以为是一套装好的兽角，但实际上这似乎是人工制造的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这套人造的装饰角看起被很好地抛光过。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人对于假冒的狩猎战利品并不感冒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷惑。这是一对人造角吗？为了什么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一堵老墙上挂着一对兽角…等等，它们并不是真正的角！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是一对人造角吧？我看不出意义何在。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这不是真正的兽角，它们只是被制作成看上去像是的样子！"}]

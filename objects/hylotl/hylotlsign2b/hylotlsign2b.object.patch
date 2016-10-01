@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "蓝色霓虹灯标志"},
-{ "op" : "replace", "path" : "/description", "value" : "上面写的好像是‘气泡’……"},
+{ "op" : "replace", "path" : "/description", "value" : "上面写的好像是‘气泡’…"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个写着‘气泡’的标志。那很不错啊，我觉得。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我甚至犹豫是否要去其所指的方向。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡响的标标标志吵到叶族人了。"},

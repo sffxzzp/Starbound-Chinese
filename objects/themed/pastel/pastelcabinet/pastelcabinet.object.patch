@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个小柜子，涂上了明亮柔和的色彩。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个相当迷人的小柜子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个柜子有一个星形的把手。很有品味！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢绚丽多彩的柜子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个把手被雕刻成像一颗小星星的样子－一个很好的细节。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "啊，这个柜子边上有小小的爱心！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个柜子很有魅力。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "颜色有点太花哨了，不合我的口味。"}]

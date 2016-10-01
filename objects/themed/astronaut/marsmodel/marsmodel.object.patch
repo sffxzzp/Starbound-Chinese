@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "火星，太阳系红色行星的精致模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "火星模型"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "火星是太阳系中的第四颗行星，直到地球被摧毁。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "火星是一个古老的地球之神的名字命名的，它被称为“红色星球”。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "火星星星有许多居民在那里，直到地球毁灭灭灭…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。火星是上万人的家。我无法得知他们是什么感受…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "火星曾殖民地和成千上万的居民。直到它被摧毁，因为地球的逝灭…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "火星在大改造的途中，地球被摧毁…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "火星有一群星之子流浪者。我不确定他们是否仍然在那里徘徊…"}]

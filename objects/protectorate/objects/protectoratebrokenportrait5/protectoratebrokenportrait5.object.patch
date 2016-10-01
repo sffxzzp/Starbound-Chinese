@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "丽达 波茜娅, 大守护者。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "大守护者肖像画"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "丽达 波茜娅，我刚刚见证到她人生的恐怖的结局。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "丽达 波茜娅，是……前任大守护者。我不想再回想这事了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "丽达 波茜娅，是…前任大守护者。我不想再回想这事了。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "可怕的事情就在刚刚刚才发生在了丽达 波茜娅身上。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲痛。我不愿再想起这件事了……"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲痛。我不愿再想起这件事了…"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "丽达 波茜娅才刚要授予我毕业资格。我不想再谈这件事了。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "就在刚才，她给了我这把物质枪……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "就在刚才，她给了我这把物质枪…"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "最后一位大守护者，丽达 波茜娅。我真希望当时我能做些什么。"}]

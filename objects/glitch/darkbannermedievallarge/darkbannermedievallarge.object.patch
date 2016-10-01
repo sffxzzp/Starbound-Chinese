@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "旗帜上面的深色调让旗帜看起来更加不详。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这面旗帜有着精细的镀铜描边。多棒的细节啊！"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "这这这面旗帜暗得就就就像影子。叶族人想想想藏在它下边。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这面旗帜往往都表示附近充满着敌意……"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这面旗帜往往都表示附近充满着敌意…"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这面编织成黑色的旗帜很努力地释放敌意。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "让人遗憾的是这么一面不错的旗帜竟然选择了如此阴沉的颜色。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这面旗帜暗得就像放了一周的凝结油块。"}]

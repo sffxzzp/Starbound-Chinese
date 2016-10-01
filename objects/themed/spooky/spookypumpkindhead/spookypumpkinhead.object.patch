@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "雕南瓜头这种古老的传统一直流传至今。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幽灵南瓜头"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "比起吓人还是可爱多一点。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我在想做一个翼族南瓜脸是不是很容易？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人赞赞赞赏这吓吓吓人的植物脸玩意儿。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "受惊。我刚才还以为这是活的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇哦，真可爱一个小南瓜脸。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我个人认为有第三只眼睛会更好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "如果这是用来吓唬我的，这企图可没有得逞。"}]

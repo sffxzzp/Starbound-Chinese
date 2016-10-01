@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/apexDescription", "value" : "这块铭牌很明显在描述某种鲛人艺术。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个研究鲛人外形的课题……上面写着V：女性的十项研究。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个研究鲛人外形的课题…上面写着V：女性的十项研究。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "铭牌上的文字字字很无聊。尽管它们闪闪发光光光。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这块铭牌有关于艺术的名字和日期。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "上面写着某些关于鲛人学的东西。"},

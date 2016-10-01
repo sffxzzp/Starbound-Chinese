@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一件大成之作。美丽。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "传统书柜"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "有好几本鲛人书记。我会……呃……晚点读。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有好几本鲛人书记。我会…呃…晚点读。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这里有许多鲛人历史书。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "鱼人喜欢阅读。愚愚愚蠢又无聊的鱼人。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "评论。每一本书都在讲述鲛人是多么善良美好。简直乏味。"},

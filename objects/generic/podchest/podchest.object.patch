@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。不能再浪费时间了，打开它！"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "箱子看起来真是赏心悦目。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "礼物最激动人心的时候就是还在包装里的时候。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个货箱。想知道里面有什么……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个货箱。想知道里面有什么…"}]

@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "人类在研究电子人的脑袋后研制出的头盔……艺术模仿生活。"},
+[{ "op" : "replace", "path" : "/description", "value" : "人类在研究电子人的脑袋后研制出的头盔…艺术模仿生活。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "冒险者头盔"}]

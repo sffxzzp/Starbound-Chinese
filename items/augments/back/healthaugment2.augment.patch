@@ -1,2 +1,3 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个能增加生命值上限的危险环境保护装置模块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "生命增强模块II"}]
+[{"op": "replace","path": "/description","value": "一个能增加生命值上限的危险环境保护装置模块。"},
+{"op": "replace","path": "/shortdescription","value": "生命增强模块 II"},
+{"op": "replace","path": "/augment/displayName","value": "生命增强 II"}]

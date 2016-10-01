@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这件霓磷盐制成的头盔既轻便又耐用……另外，谁穿上绿色不好看呢？"},
+[{ "op" : "replace", "path" : "/description", "value" : "这件霓磷盐制成的头盔既轻便又耐用…另外，谁穿上绿色不好看呢？"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "先锋头盔"}]

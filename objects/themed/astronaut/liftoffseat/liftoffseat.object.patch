@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种卧式椅子，像船长椅上的航天飞机。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "弹射椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "模拟人类初次太空旅行的行为相当有趣。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "据我所知，这个位置在起飞过程中是最舒适的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "在通过宇宇宇宙的时候躺着别有一番乐趣。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。在旅途中躺在上面是个机智的主意。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多么伟大的主意。它仍然保持着这样的设计。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "在这个位置上驾驶飞船的可笑想法是鲛人想到的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这把椅子使躺着工作有了新的意义。"}]

@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "诱惑。如果我拉下这个控制杆会怎么样？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "嗯，我觉得我应该拉一下这个控制杆。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这控制杆在诱惑我拉下它，我要克制。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个拉杆是干什么的呢……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个拉杆是干什么的呢…"}]

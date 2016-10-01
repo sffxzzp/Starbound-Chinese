@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "根"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "微小的根，端部带有少许光芒。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "如星一样闪闪发光的根装饰了地面。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "即使根根根能发光...叶族人还是渴渴渴望黑暗。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "即使根根根能发光…叶族人还是渴渴渴望黑暗。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "提问。这些根是上面那些植物，还是分离的有机体？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我爱所有在这里发光的东西，即使是根！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这些微小的发光根让人联想起有一次我在深海沟看到的罕见虫子。"},

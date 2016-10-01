@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "密封门"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "好大个密封门。可结实了。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "大得吓人的铁门。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "鱼人建了大大的、结实的门！不错，鱼人……很不错……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "鱼人建了大大的、结实的门！不错，鱼人…很不错…"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。门把呢？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是对鲛人传统的离经叛道。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这个密封门有着顶尖的安全性。"},

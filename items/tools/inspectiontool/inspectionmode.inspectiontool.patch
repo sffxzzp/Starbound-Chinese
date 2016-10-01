@@ -1,2 +1,10 @@
-[{ "op" : "replace", "path" : "/description", "value" : "检查你周围的世界。^green;用[N]键快速选择"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "检视模式"}]
+[{"op": "replace","path": "/description","value": "检查你周围的世界。^green;用[N]键快速选择。"},
+{"op": "replace","path": "/shortdescription","value": "检视模式"},
+{"op": "replace","path": "/outOfRangeText/default","value": ["我看不到那儿。","我得靠近一些。","在这我看不见那个。","我靠得不够近，看不见。"]},
+{"op": "replace","path": "/outOfRangeText/novakid","value": ["我的眼睛没有那么好；得靠近些。","我靠得还不够近，看不清。","要正确地看清就得靠近点。","从这看不到那个。"]},
+{"op": "replace","path": "/outOfRangeText/floran","value": ["叶族人从这看看看不到！","叶族人需要靠近些看看看。","叶族人看不到那那那儿。","叶族人靠得不够近近近，看不到。"]},
+{"op": "replace","path": "/outOfRangeText/glitch","value": ["失望。从这里我看不到那儿。","疑惑。我不确定那是什么；也许我应该靠近一些。","泄气。从这里看我看不见那个。","烦恼。要看那个我靠得还不够近。"]},
+{"op": "replace","path": "/nothingThereText/default","value": ["这儿没什么有趣的。","这儿没什么可看的。","这里没什么东西。","没什么可说的。"]},
+{"op": "replace","path": "/nothingThereText/novakid","value": ["我没找到什么。","这里没有什么值得一提的东西。","没有什么有趣的。","这里就是空荡荡的。"]},
+{"op": "replace","path": "/nothingThereText/floran","value": ["没什么有趣趣趣的。","没什么可看看看的。","这什什什么都不是。","没什么可说说说的。"]},
+{"op": "replace","path": "/nothingThereText/glitch","value": ["不以为然。这儿没什么有趣的。","平淡。这里没什么东西。","失望。没什么有趣的。","无趣。这什么都不是。"]}]

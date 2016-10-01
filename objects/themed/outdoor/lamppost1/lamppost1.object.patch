@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏灯，放在屋外正好。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "简易街灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个金属街灯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "黑暗中的指路明灯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "高而亮亮亮的灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。一个由坚固金属制成的高大街灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个孤独的街灯。解释完毕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "就像一颗划过天际的明星。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个电力街灯。"}]

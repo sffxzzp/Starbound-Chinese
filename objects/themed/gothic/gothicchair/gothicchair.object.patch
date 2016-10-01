@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个极具哥特风的哥特式座椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "哥特式座椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "好大一个哥特式座椅。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个奢侈的座椅。但是相当阴沉。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可以坐上去的大软软软椅。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。一个看起来非常有哥特风的座椅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个以美妙手法做成的哥特式座椅。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "衬垫的天鹅绒材质相当细腻。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一把漂亮的椅子。它看起来很舒适。"}]

@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "我不确定我能不能在这样的床上安然入睡。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人很奇奇奇怪为什么床会看起来这么像巢巢巢？"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "担忧。我不觉得我能在这么毛骨悚然的床上舒适地休息。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望当我睡在这床上时不会有什么东西爬到我腿上..."},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我希望当我睡在这床上时不会有什么东西爬到我腿上…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "我不觉得我能在这样的床上睡得像我需要的那么好。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "即是像我一样脱离肉体的灵魂也不能在这种东西上面好好地休息..."}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "即是像我一样脱离肉体的灵魂也不能在这种东西上面好好地休息…"}]

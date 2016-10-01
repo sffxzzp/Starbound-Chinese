@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个收藏民谣与传说的书柜……"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个收藏民谣与传说的书柜…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "中世纪书柜"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个装饰得不错的书柜。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个尘封已久的书之家。"},

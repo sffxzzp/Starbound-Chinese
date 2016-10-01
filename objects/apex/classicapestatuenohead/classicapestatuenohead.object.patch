@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "无头猿首雕塑。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "无头猿首雕像"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我们的光荣伟大的无头脑领袖……"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我们的光荣伟大的无头脑领袖…"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个用于鼓舞群族骄傲的塑像？它看起来遭到了破坏。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶人喜欢没脑袋的猴子。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。如此毁坏这座雕像可不容易。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个雕像看起来缺了点什么……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个雕像看起来缺了点什么…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "不必要的权力展示。似乎某个同意这个观点的人毁坏了这个雕像。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一个大型的高大无首猿人雕像。"}]

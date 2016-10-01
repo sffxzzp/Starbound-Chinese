@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏电能壁灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龙灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯发出的光温暖而舒适。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个铁制品的工艺超过了翼族的矛匠。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "里面没有火在烧。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。尽管这盏灯显然是以可燃气体为燃料设计的，但实际上却是电力供能。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一盏电灯。火焰灯的外形设计。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这灯似乎是为了生火而设计的容器，但却是完全电能驱动的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个很好的老式壁灯，尽管不是由火焰驱动。"}]

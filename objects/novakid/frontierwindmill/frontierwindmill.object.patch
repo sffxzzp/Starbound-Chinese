@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用黄铜、木头和红铜制作的风车，顺着风向转动。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者风车"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个简单的风车会随着风向转动。一个有用的导向标。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个风车的螺旋叶片会告诉我现在的风向！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想知道这些转动的叶片是否可以成为有效的武器…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这个风车的螺旋叶片会告诉我现在的风向。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个老玩意儿有着顺着风向转动的叶片。好样的！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些转动的叶片告知我现在正在吹什么风。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个风车可以帮你计算出风的角度和力量。"}]

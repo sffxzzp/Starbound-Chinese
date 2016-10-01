@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "赞叹。这个架子展示了专家级工艺的护甲。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "印象深刻的鲛人护甲，令我想起了以前地球上的一些装甲。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "我们为我们的工艺而自傲，故将其置于此般展示架上。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些护甲挺华丽的……我在哪能搞到一套呢。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些护甲挺华丽的…我在哪能搞到一套呢。"}]

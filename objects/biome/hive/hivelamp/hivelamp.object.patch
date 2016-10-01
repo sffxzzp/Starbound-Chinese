@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。是什么让这灯发光的？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我不确定我能不能找到电线…所以是什么让这灯发光的？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "平静的自然发光和它怪诞的设计不一致。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我完全不明白这旧灯是怎么电亮的..."}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我完全不明白这旧灯是怎么电亮的…"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一台迷人的电唱机，播放着旧时代的曲子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者留声机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台唱片机播放的音乐激发我内部的某样东西。这让我感到很兴奋。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台简单的装置通过读取碟片来播放音乐。多么迷人！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢音乐，声声声音可以掩盖叶族人行行行动的动静。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷人。这台装置通过读取碟片以令人难以理解的方式播放出怡人的音乐。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一台旧时代的留声机！来这儿，孩子们！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这台结构简单的音乐播放器依然功能强大。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这台机子正在播放的音乐是一名高超的足尖敲击者的表演！"}]

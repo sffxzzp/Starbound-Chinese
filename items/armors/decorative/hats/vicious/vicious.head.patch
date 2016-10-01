@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个制作粗糙的、带有红眼睛和牙齿的面具让你看起来...不值得信任。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个制作粗糙的、带有红眼睛和牙齿的面具让你看起来…不值得信任。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "狠毒面罩"}]

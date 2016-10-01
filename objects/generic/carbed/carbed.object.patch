@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "车床"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "被做得像个老式地球交通工具的舒适的床。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一张被设计得像某种人类交通工具的床。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不确确确定这这这是什么……床还是车呢？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不确确确定这这这是什么…床还是车呢？"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这张床在设计上看上去很机械化，但分析结果示这是用木头做的。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "车形状的床！我小时候就想要这样一张床。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一张孩子气的装饰床。它被涂装得很绚烂。"},

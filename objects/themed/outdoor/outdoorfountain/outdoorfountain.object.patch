@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个光滑的喷水池。里面的水看起来很清凉。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "户外喷泉"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "好一座喷泉。奏着能抚慰人心的乐曲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个宏大辉煌的鸟浴池。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "水赋予叶族人以生命。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "放松。这水让我平静。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果我有一分钱，我一定会将其投进去。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有时我会想念大海。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我热死了…我想知道他们是否会介意我喝一杯吗？"}]

@@ -2,4 +2,4 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇块"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。就算被组成了一个方块，这些蘑菇还是顽强的活着。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "可爱的蘑蘑蘑菇。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个莫非是……蘑菇做成的方块。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个莫非是…蘑菇做成的方块。"}]

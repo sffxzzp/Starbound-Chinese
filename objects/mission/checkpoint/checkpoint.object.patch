@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "如果你死了，你将会在此重生。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "任务记录点"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这个可以让我继续挑战...在我失败之后。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个可以让我继续挑战…在我失败之后。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "看起来如果我死亡了，将会回到这个地方。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "如如如果出了问题，它它它可以让叶族人回回回来。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "思考。如果我们总是能够重生，我们真的会死去吗？"},

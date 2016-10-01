@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个空荡荡的生存背包……没啥用啊！"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个空荡荡的生存背包…没啥用啊！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "生存装备背包"}]

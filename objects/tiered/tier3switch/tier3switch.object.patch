@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。一个简单的控制台就能同时控制那么多不同的机械。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个控制台。就是为了玩弄它而准备。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个控制台。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种控制台，我就只会去按下几个按钮……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "某种控制台，我就只会去按下几个按钮…"}]

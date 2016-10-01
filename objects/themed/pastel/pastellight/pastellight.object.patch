@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种墙挂式的粉红色荧光灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我真没见过多少发粉红色光的灯！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这盏灯散发的柔和的粉红色光芒可以和缓情绪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢有颜色的灯。不错的颜色。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。我真没见过多少像这样发粉红色光的灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种灯发出的微妙的粉红色光芒舒缓人心。我可以盯着它看几个小时。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我相信是一名鲛人发明这种灯－它真的太柔和了！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盏灯散发着一道温暖的光芒，不是吗？"}]

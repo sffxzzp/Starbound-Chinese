@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "会长出酥脆的鸟喙果。鼻孔部是最好吃的地方。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "鸟喙果种子"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "鸟喙果酥脆得不寻常，不完全让人愉快。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "有个老民间故事讲道翼族人在宴会上吃鸟喙果……我喜欢那个故事。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有个老民间故事讲道翼族人在宴会上吃鸟喙果…我喜欢那个故事。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "鸟鸟鸟喙果很脆，不像其他的嘴嘴嘴巴那样柔柔柔软。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "哲学。是鸟喙果像鸟喙，还是鸟喙像鸟喙果？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这庄稼长得像翼族人的脸。有点吓人。"},

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "舒适的厄运椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厄运椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个非常舒适的椅子上，虽然看起来一点奇怪。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个舒服的地方，如果你可以忽略尖峰。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人坐坐坐在椅子上，脑海中回想着矛矛矛锋和狩猎。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "轻松。这把椅子有非常舒适的毛刺。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个非常柔软的椅子。让我好像在家中，添加了一些装饰用的矛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人觉得相当豪华，要不是的设计风格。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这把椅子很舒适但那玩意真尖。"}]

@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一架利刃。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "闪闪的尖刀刀刀。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。铸造这些刀刃需要多年的技艺。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一整架刀……我想挥挥其中一个。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一整架刀…我想挥挥其中一个。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一种经典武器。普通学徒需要训练多年才能铸造一个出来。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一架刀，它们的确很……经典。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一架刀，它们的确很…经典。"}]

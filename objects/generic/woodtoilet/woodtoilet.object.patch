@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个木制马桶。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "木制马桶"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木头做的马桶……不是很卫生。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个木头做的马桶…不是很卫生。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "收集粪便的设施。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人更喜欢在森森森林里解决。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "恶心。满是细菌。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个木头马桶……呃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个木头马桶…呃。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人不使用这样的设施。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "想知道这个通往何方……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "想知道这个通往何方…"}]

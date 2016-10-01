@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "冷漠。用来发送邮件的容器。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "是一个邮箱。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "只是一个邮箱。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个发邮件的箱子？看起来不像是传送器啊……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个发邮件的箱子？看起来不像是传送器啊…"}]

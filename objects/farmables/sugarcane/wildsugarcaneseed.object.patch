@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "沉闷。这种植物很尖锐，在某些人的手中会可能会变得致命。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "甘蔗。别吃太多了，对你的牙齿不利。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "可以用来制作甜化剂，鲛人想不通为什么会有人会用这种物质。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "和糖一样甜。等下……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "和糖一样甜。等下…"}]

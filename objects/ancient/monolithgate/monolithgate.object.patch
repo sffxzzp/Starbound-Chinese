@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这是一扇规模惊人的大门。是谁制造了它？它又导向了哪里呢？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是一扇我从未遇到的宏伟大门.是谁创造了这个奇迹？它的另一边又是什么呢？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这简直就是一件华丽的造物。这大门一定是基于很特殊的用途而建造的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我缺乏用于形容这扇宏伟大门的词汇。我只能安静地欣赏它……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我缺乏用于形容这扇宏伟大门的词汇。我只能安静地欣赏它…"}]

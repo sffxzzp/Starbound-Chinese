@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张迷人的柔和色调的床。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "多么甜蜜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张床的色调太过于明亮了！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "床上有有有花朵。叶族人很喜欢这这这个。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷人。这张床有着很多独具匠心的细节，比如在床头板上的爱心，以及花卉床单。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "多么可爱的一张床！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张床的色调选择与搭配恰到好处。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张床对我来说似乎有点花哨…"}]

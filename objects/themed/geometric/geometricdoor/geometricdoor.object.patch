@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇几何门。坚固无比！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "几何门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一扇坚固的门。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇坚固的门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "门！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "镇定。一扇坚固的门。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一扇强大的，令人敬畏的门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一扇简单而坚固的门。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这门的确很坚固。"}]

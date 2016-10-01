@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个看上去脏兮兮的玻璃杯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龙玻璃杯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个饮水用的小型玻璃杯。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个饮水用的玻璃杯。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想要打碎玻璃杯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。一个小型玻璃杯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个小型玻璃杯。它的表面有着多年的缺口和划痕。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个小型、简单的玻璃杯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个玻璃杯看上去有点脏，但我仍可以用它。"}]

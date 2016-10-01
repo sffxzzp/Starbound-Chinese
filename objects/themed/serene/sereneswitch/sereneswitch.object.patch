@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个宁静控制台，使用它让人很冷静。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宁静控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个控制台提供了一个巨大的控制度。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个有用的控制台。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人按下按钮，然后某些事事事情就发生了！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。单独一个控制台就可以同时控制大量的机器。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个控制台，这得用来进行些操作。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个控制台。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想按下所有的按钮！"}]

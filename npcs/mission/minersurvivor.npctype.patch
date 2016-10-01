@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/scriptConfig/dialog/follower/attack/default/default","value": ["我们来给这些怪物上一课！","不胜利，毋宁死！"]},
-{"op": "replace","path": "/scriptConfig/dialog/follower/join/default/default","value": ["你救了我！当那个东西抓住我的时候，我认为我已经完蛋了。你是我的英雄！","你摧毁了这只怪物！我被困在里面，它本会把我感染成和其他怪物一样……","那个东西抓住了我。如果你不摧毁他，我现在可能就变异成一只怪物了！谢谢！","我活下来了？！你救了我！谢谢你！"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/join/default/default","value": ["你救了我！当那个东西抓住我的时候，我认为我已经完蛋了。你是我的英雄！","你摧毁了这只怪物！我被困在里面，它本会把我感染成和其他怪物一样…","那个东西抓住了我。如果你不摧毁他，我现在可能就变异成一只怪物了！谢谢！","我活下来了？！你救了我！谢谢你！"]},
 {"op": "replace","path": "/scriptConfig/dialog/follower/returnFromCombat/default/default","value": ["呼，你自己处理的不错。"]},
-{"op": "replace","path": "/scriptConfig/dialog/follower/wait/default/default","value": ["我觉得我最好开始修复这个矿井……","矿井中有别人在这场袭击中存活下来么？","你赢得了这里所有人尊重。","前方有个箱子，你可以拿走里面的东西。"]},
+{"op": "replace","path": "/scriptConfig/dialog/follower/wait/default/default","value": ["我觉得我最好开始修复这个矿井…","矿井中有别人在这场袭击中存活下来么？","你赢得了这里所有人尊重。","前方有个箱子，你可以拿走里面的东西。"]},
 {"op": "replace","path": "/scriptConfig/dialog/follower/returnFromWait/default/default","value": ["你是个冒险者吗？","我永远不会忘记你和你给过的帮助！","要有一只大型清除队伍才能处理这烂摊子。"]}]

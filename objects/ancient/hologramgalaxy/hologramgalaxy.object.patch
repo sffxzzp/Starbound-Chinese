@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "激动。这全息投影让我想在群星间航行。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "宇宙真美！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "我很好奇这星体的全息投影是如何制作的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些星体-它们和我的家乡实在太像了……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些星体-它们和我的家乡实在太像了…"}]

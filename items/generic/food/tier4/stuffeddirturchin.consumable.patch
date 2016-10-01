@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "塞满了珍珠豆的泥海胆。味道有点淡..."},
+[{ "op" : "replace", "path" : "/description", "value" : "塞满了珍珠豆的泥海胆。味道有点淡…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "酿泥海胆"}]

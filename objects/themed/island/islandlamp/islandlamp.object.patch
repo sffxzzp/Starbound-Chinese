@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这盏玻璃灯发出了温暖的光芒。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海岛灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯还带着青草的芳香。我想知道这是否是特意设计成这样的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这盏灯就像一个装在玻璃里的小小太阳。我很喜欢它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢饰满叶子的灯灯灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "平静。这盏灯给我带来了睡意。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很喜欢这盏灯的绿色外漆。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我可以发出和这些灯一样色彩缤纷的光芒。"}]

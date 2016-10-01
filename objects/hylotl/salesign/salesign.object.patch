@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "特价标志"},
 { "op" : "replace", "path" : "/description", "value" : "一个促销横幅。人人都爱打折！"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "哦，看来这里在搞特价销售……"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "哦，看来这里在搞特价销售…"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这家商店在搞特价甩卖。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "便宜东西？叶族人喜喜喜欢。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。我想知道他们有什么好买卖？"},

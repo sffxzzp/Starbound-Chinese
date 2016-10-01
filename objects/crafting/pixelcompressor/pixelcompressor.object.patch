@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个能存储我的像素的安全的地方。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人把闪闪发光的玩意放在安全全全的地方！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一个像素银行。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道这个像素银行是否有一个透支的功能……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道这个像素银行是否有一个透支的功能…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "为未来保存像素是一种很好的投资方式。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个用来贮存你贵重方块的机器。当然我希望它是安全的……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个用来贮存你贵重方块的机器。当然我希望它是安全的…"}]

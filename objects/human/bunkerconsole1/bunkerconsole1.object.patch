@@ -2,8 +2,8 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "标准控制台"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个命令控制台，不清楚是干什么的。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "乱摆弄的话好像很危险。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "一台充满按钮钮钮和控制杆杆杆的机器，看着很诱人，但是叶族人最好不要乱动这个东西……"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一台充满按钮钮钮和控制杆杆杆的机器，看着很诱人，但是叶族人最好不要乱动这个东西…"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "细心。控制台的操作杆越多，胡来的时候就越危险。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我想这个可能是用来打开舱门的。或者是让什么东西爆炸的。反正，这玩意儿肯定是用来做什么事情的"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "千万……不要……拉……操作杆……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "千万…不要…拉…操作杆…"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "谁知道这些按钮和操作杆是干什么用的。我绞尽脑汁也没能理解。"}]

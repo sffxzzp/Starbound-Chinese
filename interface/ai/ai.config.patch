@@ -9,4 +9,4 @@
 {"op": "replace","path": "/guiConfig/showCrew/caption","value": "船员"},
 {"op": "replace","path": "/guiConfig/homeBreadcrumb/value","value": "主页"},
 {"op": "replace","path": "/guiConfig/mainStack/stack/1/missionStack/stack/2/startMission/caption","value": "部署"},
-{"op": "replace","path": "/guiConfig/mainStack/stack/2/crewStack/stack/2/dismissRecruit/caption","value": "解散"}]
+{"op": "replace","path": "/guiConfig/mainStack/stack/2/crewStack/stack/2/dismissRecruit/caption","value": "解雇"}]

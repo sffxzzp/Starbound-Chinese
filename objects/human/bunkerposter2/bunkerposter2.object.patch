@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "这张海报的宣传风格看起来好像猿首。人类与猿人难道有什么联系？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不确定定定为什么猿人会在这海报报上，又或许这只是一个毛茸茸的人类？"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "怀疑。我想知道，为什么人类会有猿首的海报？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这上面的漫画人物看起来好熟悉。等等……这不是猿首吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这上面的漫画人物看起来好熟悉。等等…这不是猿首吗？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一张人类海报，一个猿族恶棍。真是稀奇。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一个猿族人。他在告诉我不要沮丧。"}]

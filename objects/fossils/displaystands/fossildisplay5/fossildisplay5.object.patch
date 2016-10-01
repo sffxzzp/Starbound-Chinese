@@ -7,4 +7,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。一个化石将在这展览。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "没有一个完整的化石进行展览，有点小伤感。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "如果这有放置一个化石展览，我会更感兴趣。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去不错。有一个完整的化石会看上去更好……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去不错。有一个完整的化石会看上去更好…"}]

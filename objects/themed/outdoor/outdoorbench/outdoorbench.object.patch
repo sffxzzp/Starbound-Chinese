@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张长板凳，适合放在户外。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "户外长板凳"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个简单的金属长凳。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张有三个座位的长凳。它看起来冷冰冰的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个可以坐坐坐上去的东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这是一个简单的长凳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个简单的长凳，它看上去很坚固。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "当你走累了的时候，不妨到这里小憩一会。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我可以在这张长凳上休息一会儿。"}]

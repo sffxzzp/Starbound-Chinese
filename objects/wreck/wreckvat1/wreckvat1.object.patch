@@ -1,9 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "破碎的培养舱，里面被干泥覆盖……是有某种东西打破它跑出了来了吗？"},
+[{ "op" : "replace", "path" : "/description", "value" : "破碎的培养舱，里面被干泥覆盖…是有某种东西打破它跑出了来了吗？"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "破旧的培养舱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "有什么东西……挣脱出来？"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有什么东西…挣脱出来？"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "不详的预兆。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "打碎打碎打碎……阿欧。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "打碎打碎打碎…阿欧。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "烦扰。迹象显示有东西从这个机器中逃出。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "上帝啊，这让我想起“异形大战铁血战士”了。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有一种粘糊糊的绿色物质在破碎的玻璃上……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "有一种粘糊糊的绿色物质在破碎的玻璃上…"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "我不太想触摸那个培养仓。"}]

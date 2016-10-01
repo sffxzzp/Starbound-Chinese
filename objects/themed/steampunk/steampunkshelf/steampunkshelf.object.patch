@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一组用管子挂起来的架子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽朋克架子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "为了能在安全墙上放东西，管子是一个有效的解决方案。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个可回收的架子是真正天才的创意。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不喜欢书书书，但我觉得架架架子没问题。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "折服。管子被用来拖住架子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "旧管子这样用是一个好创意。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种方法来放箱子相当俗气，但对其工艺我表示钦佩。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我想知道那个旧时钟是不是坏了？"}]

@@ -1,6 +1,6 @@
-[{ "op" : "replace", "path" : "/description", "value" : "不想掉在任何一个上面……"},
+[{ "op" : "replace", "path" : "/description", "value" : "不想掉在任何一个上面…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "触须尖刺"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "看上去很危险的刺……"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看上去很危险的刺…"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这些刺看起来很锋利。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "锋利而又尖尖的。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "小心。这些锋利的尖刺能刺穿电子人的外壳。"},

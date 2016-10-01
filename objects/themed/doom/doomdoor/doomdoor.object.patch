@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个让人毛骨悚然的厄运门"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厄运门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这门也是够吓人的，可以阻止任何人闯入。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个非常怪异的门。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族躲在门后面。然后用门吓唬叶族。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "紧张。这扇门上有一个眼睛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个相当可怕的厄运门。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个雄伟的厄运门。上面有个眼睛。真是个奇怪的设计。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这门看着我呢。"}]

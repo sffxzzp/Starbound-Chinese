@@ -1,2 +1,3 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个能够控制重力的危险环境保护装置模块，减缓你在空中下降的速度。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "反重力模块"}]
+[{"op": "replace","path": "/description","value": "一个能够控制重力的危险环境保护装置模块，减缓你在空中下降的速度。"},
+{"op": "replace","path": "/shortdescription","value": "反重力模块"},
+{"op": "replace","path": "/augment/displayName","value": "反重力"}]

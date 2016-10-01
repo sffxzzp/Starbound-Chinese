@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个命令控制台。不清楚是用来干什么的。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这东西乱摆弄的话可能很危险"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "这台电脑上有有有着许多没卵用的按钮，叶族人百思不得其解。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。控制台的键盘越多，就越……不不不。呃，说不下去了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。控制台的键盘越多，就越…不不不。呃，说不下去了。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "啊，这不是臭名昭著的双键盘设计吗。这种款式从来都没流行过。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "为什么有人会需要两个键盘？"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这台电脑有不止一块键盘。我感觉看上去很高级。"}]

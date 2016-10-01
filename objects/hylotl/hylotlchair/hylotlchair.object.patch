@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "是个椅子。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个蓝色的椅子。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "椅子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。我不需要坐下……"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。我不需要坐下…"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "它是个椅子。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "简约的青色椅子。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "它是个椅子。"}]

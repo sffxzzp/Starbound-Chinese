@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "用来困住坦克。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "坦克陷阱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "用于捕获坦克的锯齿形状的金属。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用于困住坦克的锯齿形状的金属。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这些锯齿可以阻止一辆坦克！"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "坦克陷阱阱阱！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "细心。一片用于捕获车辆的锯齿形状的金属。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这可以阻止一辆坦克！"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用于捕获坦克的锯齿形状的金属。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "用于困住坦克的锯齿形状的金属。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这些锯齿可以阻止任何车辆。经典。"}]

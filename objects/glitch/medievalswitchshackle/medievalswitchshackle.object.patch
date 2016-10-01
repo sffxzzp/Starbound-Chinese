@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这些镣铐的其中之一看起来有点可疑……"},
+[{ "op" : "replace", "path" : "/description", "value" : "这些镣铐的其中之一看起来有点可疑…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "壁式镣铐"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "其中一个镣铐诡异地晃动着。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "有一个镣铐看起来是假的。"},

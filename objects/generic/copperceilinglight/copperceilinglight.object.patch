@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "这盏悬挂吊灯是铜制的。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "闪闪亮的金属灯摸起来并不不不烫。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这盏电灯被铜材料包覆以防止过烫。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可以放在头上的装置，然后……等等，不，这就是个灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个可以放在头上的装置，然后…等等，不，这就是个灯。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一盏铜制的工业吊灯。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一盏闪闪亮的铜灯。"}]

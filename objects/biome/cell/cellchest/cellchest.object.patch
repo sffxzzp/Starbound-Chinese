@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "它虽有金属的外观，但实际上是由有机材料所制成的。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这锁看起来有点像浆果，真好。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "它富有光光光泽，但看起来太傻傻傻，叶族对它没兴趣。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。这真是个好箱子..."},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷淡。这真是个好箱子…"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我知道它是由细胞组成的，但看起来像是由糖果制成的。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这箱子的设计师的字典不存在低调二字。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这作为存放重要东西的箱子有点太显眼了。"}]

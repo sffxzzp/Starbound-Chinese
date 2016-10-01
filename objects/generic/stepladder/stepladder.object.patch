@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个相当不起眼的梯子。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "小小小梯子。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这是一个相当短的梯子。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是人类的一小步……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是人类的一小步…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个梯子。对它没什么好说的。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一个梯子！有时候你需要一点点提升。"}]

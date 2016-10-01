@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "呃恶。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙龙痰盂"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有人把痰吐进这个壶里了。真不文明！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它充满了痰…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族压根不想知道道。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "恶心。我后悔分析了这个罐子的内容物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我不知道我在期待什么…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "呃恶。里面真不应该看…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个质量良好的老式痰盂…"}]

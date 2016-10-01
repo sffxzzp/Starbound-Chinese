@@ -1,2 +1,10 @@
-[{ "op" : "replace", "path" : "/description", "value" : "描述世间万物和扫描用于打印的东西。^green;用[N]键快速选择。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "扫描模式"}]
+[{"op": "replace","path": "/description","value": "描述世间万物和扫描用于打印的东西。^green;用[N]键快速选择。"},
+{"op": "replace","path": "/shortdescription","value": "扫描模式"},
+{"op": "replace","path": "/outOfRangeText/default","value": ["这超出了我扫描器的扫描范围。","没有读数；我需要靠近些。","信号太弱，看不出来-大概是超出范围了。","一定是超出范围了，我得不到读数。"]},
+{"op": "replace","path": "/outOfRangeText/novakid","value": ["扫描器没有反应-也许需要靠近些。","我猜我离得太远了，扫描器什么都没扫出来。","信号太弱，最好靠近点。","扫描不了那个，它不在扫描距离内。"]},
+{"op": "replace","path": "/outOfRangeText/floran","value": ["扫描器不够强强强！叶族人需要靠近。","那超超超出了扫描器的扫描范围。","信号太弱，看不出来，叶族人离得还不够近。","一一一定是太远了，叶族人得不到读数。"]},
+{"op": "replace","path": "/outOfRangeText/glitch","value": ["失望。这个硬件上的传感器分析那个位置的东西的效率不够。","疑惑。我得不到读数；也许我应该靠近些。","泄气。信号太弱了，看不出来，我觉得我是超出扫描范围了。","烦恼。这一定是超出范围了，我得不到读数。"]},
+{"op": "replace","path": "/nothingThereText/default","value": ["这儿没什么有趣的。","这儿没什么可看的。","这里没什么东西。","没什么可说的。"]},
+{"op": "replace","path": "/nothingThereText/novakid","value": ["我没找到什么。","这里没有什么值得一提的东西。","没有什么有趣的。","这里就是空荡荡的。"]},
+{"op": "replace","path": "/nothingThereText/floran","value": ["没什么有趣趣趣的。","没什么可看看看的。","这什什什么都不是。","没什么可说说说的。"]},
+{"op": "replace","path": "/nothingThereText/glitch","value": ["不以为然。这儿没什么有趣的。","平淡。这里没什么东西。","失望。没什么有趣的。","无趣。这什么都不是。"]}]

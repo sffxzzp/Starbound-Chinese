@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "最好不要到这里面..."},
+[{ "op" : "replace", "path" : "/description", "value" : "最好不要到这里面…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "荆棘"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "十分尖锐的。我最好避开它。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "如果我能飞就好了。"},

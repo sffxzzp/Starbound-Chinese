@@ -1,0 +1,10 @@
+[{"op": "replace","path": "/0/1","value": [{"tag": "human","name": "件^orange;人类(human)家具"},
+{"tag": "floran","name": "件^orange;叶族人(floran)家具"},
+{"tag": "apex","name": "件^orange;猿人(apex)家具"},
+{"tag": "hylotl","name": "件^orange;鲛人(hylotl)家具"},
+{"tag": "glitch","name": "件^orange;电子人(glitch)家具"},
+{"tag": "avian","name": "件^orange;翼族(avian)家具"},
+{"tag": "science","name": "^orange;科技感(science)的家具"},
+{"tag": "electronic","name": "件^orange;技术设备(electronic)"},
+{"tag": "odd","name": "^orange;奇怪的(odd)东西"},
+{"tag": "pretty","name": "^orange;精美的(pretty)东西"}]}]

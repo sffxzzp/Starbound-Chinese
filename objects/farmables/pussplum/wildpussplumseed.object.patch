@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "娇嫩多汁、容易消化的美食。可裹着种子享用。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "湿湿的，血淋淋的，好吃吃吃的。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "惊慌。只要有人喜欢它的味道，几乎任何东西都能成为佳肴。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这些显然很好吃……不知为何，我很犹豫要不要去搞清楚它美味的原因。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这些显然很好吃…不知为何，我很犹豫要不要去搞清楚它美味的原因。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "圣女果像奶油一般柔滑且气味扑鼻，并不合鲛人的口味。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "我听说这些很好吃，但在看到其中一个之后我就不太敢肯定了。"}]

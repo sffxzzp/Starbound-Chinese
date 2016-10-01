@@ -4,8 +4,8 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "喔，这是家卖传送器的商店！知道这个很有帮助。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人能在这家店买传送器器器。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。卖传送器的小店！"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一家放满传送器的商店。装上一个就可以完美地逃跑……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一家放满传送器的商店。装上一个就可以完美地逃跑…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "出售传送器的商店。或许我该随便逛逛。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "出售传送器的商店……如果你还有一大笔像素。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "出售传送器的商店…如果你还有一大笔像素。"},
 { "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : " 双向传送商店"},
 { "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "让你从A到B却不需要经过中间那令人厌烦的宇宙空间"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个装饰性的钢铁标志。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者钢铁标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个钢铁锻造的标志，可以挂在墙上。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我很好奇这象征着什么？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想知道如果挂上这个东西是否可以让让让武器更有效率。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这种墙面装饰有什么深层的意思吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道这个标志有什么意味，又或者只是为了好看？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个钢铁锻造的标志似乎是装饰用的，不过它的做工相当粗糙。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个标志对于像我这样的人来说意味着注定成功。"}]

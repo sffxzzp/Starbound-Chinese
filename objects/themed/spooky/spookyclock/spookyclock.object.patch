@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个古老的落地钟，顶部雕刻着恐怖的蝙蝠。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "幽灵钟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我宁愿选择数字钟－它的滴答声不会打扰你。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这钟上的指针看起来被卡在了某个时间…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢这个假蝙蝠。悬在那里的东西不知知知道是啥。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "折服。这个装置用齿轮来指示时间。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你知道，戴块手表可比这个便宜多了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "很可惜它失败了这东西的目的是吓人吗？。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种古老的计时装置给我一种冰冷的感觉。"}]

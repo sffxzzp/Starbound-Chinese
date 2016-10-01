@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。一个货箱――什么都可能在里面。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "喔喔，货箱！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "现代风格的货箱。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "基本款货箱。里面可能有值钱的货物……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "基本款货箱。里面可能有值钱的货物…"}]

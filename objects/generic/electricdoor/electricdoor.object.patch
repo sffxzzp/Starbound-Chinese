@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这是一种电气屏障。看起来很危险……"},
+[{ "op" : "replace", "path" : "/description", "value" : "这是一种电气屏障。看起来很危险…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "电气屏障"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这道电流形成了防止东西穿越的屏障。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一道用电做成的门？真是卓越啊。"},

@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "看起来像某种束缚装置。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "木家伙上有有有股讨厌的水果味儿。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "受惊。你绝对不会想被锁进这里面。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "如果你告诉我这种刑枷只是一个好玩的笑话，那它就是……一个笑料。我很幽默吧。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如果你告诉我这种刑枷只是一个好玩的笑话，那它就是…一个笑料。我很幽默吧。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "用来束缚犯人当你向他扔烂水果时。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "用来锁住歹徒的刑枷。"}]

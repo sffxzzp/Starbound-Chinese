@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这个主机运行一款叫《星界边境》的游戏。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "星界边境街机游戏机"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一款叫星界边境的太空探索游戏。感觉莫名的熟悉。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "从没听过这个什么星界边境。但是呢……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "从没听过这个什么星界边境。但是呢…"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "星星星界边境飞船游戏。叶族人将会在打破第四面墙时获得一个成就。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "决意。我将会创下这款星界边境游戏的新高分。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "星界边境？我从未听说过这么一款游戏。一定是有些岁数了。"},

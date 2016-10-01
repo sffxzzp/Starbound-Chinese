@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "矿业舱门"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一扇垂直门。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个粗制滥造的舱门。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "舱门开开开……舱门关关关。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "舱门开开开…舱门关关关。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这舱门是用来垂直通行的。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一扇用于弥补垂直移动不足的舱门。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个生锈的舱门通道，以实用性为目的制造。"},

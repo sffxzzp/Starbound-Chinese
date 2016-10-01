@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["我是一名艺术商人。你有这方面的修养吗？","我名声在外，大猿人也和我有交情。","我的同类们放任自己过着肮脏的生活。多么可怜。"]},
-{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["地球已经完了，许多优秀的艺术品也伴随着它一起！","在我访问过的所有设施之中，我是最精于穿衣之道的人！","我是你见过的人里衣服穿得最美的，不是吗？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/human/default","value": ["地球已经完了，许多优秀的艺术品也伴随着它一起消失了！","在我访问过的所有设施之中，我是最精于穿衣之道的人！","我是你见过的人里衣服穿得最美的，不是吗？"]},
 {"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["戴着这这这顶假发，叶族人总是被人关注的焦点。","当叶族人戴戴戴假发的时候，人们和叶族人说话。叶族人不知道为什么。","叶族人一旦戴戴戴上这顶假发，每个人都觉得叶族人漂亮。"]},
 {"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["我不喜欢羽毛装饰的头盔包括它的外观，这个更适合我。","这顶假发让我发痒…但我感觉很高贵！","这非常不舒服。但我喜欢被别人注意！"]},
 {"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["我感兴趣的只有最好的艺术。","让自己舒服的同时必须保持尽可能的优雅。","鲛人在教养方面是最顶尖的，而我是其中最棒的。"]},

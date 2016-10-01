@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "努米海报"},
 { "op" : "replace", "path" : "/description", "value" : "一张努米的宣传海报，一个鲛人的儿童卡通片里的吉祥物。"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "谁是努米？某个卡通角色吗？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "努米？看起来它的形象介于鲛人和熊之间。冷……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "努米？看起来它的形象介于鲛人和熊之间。冷…"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "某某某个鱼人卡通人物。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "无感。这是一部儿童卡通片的广告。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "努米似乎是一个鲛人儿童卡通片里的吉祥物。"},

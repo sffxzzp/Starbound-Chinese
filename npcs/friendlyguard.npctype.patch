@@ -4,4 +4,5 @@
 {"op": "replace","path": "/scriptConfig/dialog/hail/floran/default","value": ["叶族人很无聊，想想想要打架…","叶族人准备保护这里的安安安全！","叶族人的这身衣服就是是是用来战斗的！","别担心，叶族人会捅捅捅入侵者者者的。"]},
 {"op": "replace","path": "/scriptConfig/dialog/hail/glitch/default","value": ["保护。我将守护你，守护这个地方。","骄傲。对于保护东西我很有经验。","警觉。我要确保该区安全不受敌对活动的影响。","困倦。你觉得我能休息一下么？现在很安宁，不是吗？"]},
 {"op": "replace","path": "/scriptConfig/dialog/hail/human/default","value": ["我发誓我真的，真的没偷懒！","伙计，看看我，工作开始时，保持警惕，而且不能睡觉。","我可以让地区内没有敌对势力，就像吃一碟小菜一样简单。","我喜欢被雇作为一个保安. 它给了我大量时间思考。"]},
-{"op": "replace","path": "/scriptConfig/dialog/hail/hylotl/default","value": ["为保护他人生命而活，是一件很有品德的事。","我将确保你在这里的时间这是安全的。","我在这是为了保护你，还有那些来这里的正直的人。","我不会走神的。"]}]
+{"op": "replace","path": "/scriptConfig/dialog/hail/hylotl/default","value": ["为保护他人生命而活，是一件很有品德的事。","我将确保你在这里的时间这是安全的。","我在这是为了保护你，还有那些来这里的正直的人。","我不会走神的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/hail/novakid/default","value": ["我生命的价值就是为了守护他人。"]}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一幅详尽描绘美丽风景的画作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者之平原"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这与其说是一幅画不如说是如画的风景。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一幅描绘美丽风景的画。我很乐意到那里去旅游！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人看看看到了一个小小的世界。叶族人进不去。叶族人很沮沮沮丧。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "启发。多么美丽的风景啊。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "如此美丽的一道风光！我想知道创作它的灵感从何而来？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这幅画几乎到达了鲛人的艺术标准了。我特别喜欢画里的那条小河。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这真是幅不错的画。"}]

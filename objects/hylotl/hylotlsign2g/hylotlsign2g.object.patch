@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "绿色霓虹标志"},
-{ "op" : "replace", "path" : "/description", "value" : "看起来上面写的是‘呱呱’……"},
+{ "op" : "replace", "path" : "/description", "value" : "看起来上面写的是‘呱呱’…"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个写着‘呱呱’的标志。那很不错啊，我觉得！"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我甚至犹豫是否要去其所指的方向。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡响的标标标志吵到叶族人了。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "挖苦。一个简单地写着‘呱呱’的标志。多么有用啊！"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我很确定我能找出它一个很赞的地方。只要我不在忙……其它事……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我很确定我能找出它一个很赞的地方。只要我不在忙…其它事…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "沐浴在这个霓虹灯的光辉下，我想起了我和新老朋友们在一起的日子。令我无语凝噎。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "那玩意在说啥子？"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一款有着光滑的黄铜钟摆的老式座钟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者座钟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台精美的座钟与科技发展部大批量生产的那些有着天壤之别。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个座钟看起来是手工制作的。我对如此高超的木工手艺感到震惊！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "摆摆摆动的金属钟摆就像小小小斧头。它它它是一种武器吗？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "迷人。这个手工制作的时钟肯定下了不少功夫。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在我看来，这台钟一直在这里等待着。但我想时间并不会等任何人？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我必须承认制作这台座钟肯定花去了大量的时间。我几乎被感动了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "座钟滴答滴答响，时间一分一秒溜走。"}]

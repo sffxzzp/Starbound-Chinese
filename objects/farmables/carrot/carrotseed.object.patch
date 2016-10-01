@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "会长出美味的胡萝卜，它们是被人千里迢迢从地球穿越群星带来的。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "胡萝卜种子"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "把胡萝卜煮了之后味道有点像香蕉……不过味道没那么好。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "把胡萝卜煮了之后味道有点像香蕉…不过味道没那么好。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "朴实的胡萝卜。做汤不错。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "有时候胡萝卜会长弯。这让叶族人发笑。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "认可。胡萝卜脆脆的让人愉快。"},

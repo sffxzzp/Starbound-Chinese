@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个微小的太阳系中最遥远的行星模型，海王星。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "海王星"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "海王星。它表面大黑点好似木星著名的大红斑。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "海王星的名字的是一个古老的地球之神，海神尼普顿。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "海王星是太阳系系系中的第二二二个冰巨人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "悲伤。由于几年前一个系统故障运输机迫降在海王星爆炸。一切都消失了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "海王星是我的家中最远的行星，就在太阳系。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "海王星上有一大一小的黑点。如果它有三个黑点，对于我而言它将是完美的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "传说一个强盗坚持说他的船在海王星一个云层中隐藏着，奇怪的那只是一艘普通的船舶。"}]

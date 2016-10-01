@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "闪亮的装甲在架子上展示着。唔……盾牌看起来松了。"},
+[{ "op" : "replace", "path" : "/description", "value" : "闪亮的装甲在架子上展示着。唔…盾牌看起来松了。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "可疑的展示用盔甲"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一套漂亮的盔甲。盾牌看起来松了。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "似乎是战斗用盔甲。盾牌看起来好奇怪。"},

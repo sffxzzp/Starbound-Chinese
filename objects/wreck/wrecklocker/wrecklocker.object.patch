@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个古老的柜子。嘿！有一个照片贴在里面……"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个古老的柜子。嘿！有一个照片贴在里面…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "破旧的储物柜"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个柜子。我好奇里面是否是空的。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "现在来说不是个安全的储物柜。"},

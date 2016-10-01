@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个朴素的厨房桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厨房桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "没有多余的装饰，只是一个做工不错的餐桌。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "制作这个厨房桌的人意图使它可以持久使用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "高高高强度的桌子，可以盛放很重的肉肉肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。一个在任何小镇的家庭里都可以见到的坚固的厨房桌。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "耶，我可以吃掉盛到这上面的任何东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个厨房桌是由厚实的木板组装而成并很好地起到了功效。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这东西平凡无奇但是我就不介意使用它。"}]

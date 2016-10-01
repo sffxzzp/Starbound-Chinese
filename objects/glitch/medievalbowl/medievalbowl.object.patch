@@ -5,5 +5,5 @@
 { "op" : "replace", "path" : "/floranDescription", "value" : "对于叶族人的胃口来说，这碗太小小小了。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "客观。一个简陋的碗。可能是黏土制成的。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个小碗，感觉好像是黏土的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "电子人到底用这碗吃了什么，我很感兴趣……"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "电子人到底用这碗吃了什么，我很感兴趣…"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一个简单的碗，为简单的一餐。"}]

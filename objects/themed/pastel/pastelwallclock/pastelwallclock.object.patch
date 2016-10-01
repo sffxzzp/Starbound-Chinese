@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个彩色的方形挂钟。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩挂钟"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个淡紫色的墙钟。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个外观相当奇特的墙钟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人没没没功夫去查看时间。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这是一个造型相当奇特的钟。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "亮色调的方形钟正合我的品味！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个外型相当有趣的时钟。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "时间正在滴塔滴塔地溜走。"}]

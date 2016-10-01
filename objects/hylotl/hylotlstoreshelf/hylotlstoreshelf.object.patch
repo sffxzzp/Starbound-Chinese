@@ -2,7 +2,7 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "鲛人货架"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "大量诱人的食物在这里展示着。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "哦，这些食物看上去挺有趣的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "嗯……肉在哪。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗯…肉在哪。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。这些食物看起来可能很美味。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一些看起来可能不错的鲛人食物！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "唔，他们在卖的一些食物是我最喜爱的。"},

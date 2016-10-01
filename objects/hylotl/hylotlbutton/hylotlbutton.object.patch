@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "谁知道它会启动什么……按就是了！"},
+[{ "op" : "replace", "path" : "/description", "value" : "谁知道它会启动什么…按就是了！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "蓝色基地按钮"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "按按按按按！按按按下去！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "诱惑。一个按钮，恳求着我去按它。"},

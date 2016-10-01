@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个时间计量设备。但是它似乎卡住了。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "沙沙沙子漏不不不下去。这是是是为什么呢？"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "观察。时间不再流转了。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个老旧的沙漏……沙子不停地流动。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个老旧的沙漏…沙子不停地流动。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这些沙子似乎永远也漏不完。里面发生了什么？"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "为什么这个沙漏里面的沙子永远也漏不完呢？"}]

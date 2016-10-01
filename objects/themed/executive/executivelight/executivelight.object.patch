@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "令人眼花缭乱的管理部门的灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "管理部门高亮灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个制作工艺及高的光源。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这灯可以照亮最黑暗的房间。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "对昂贵的灯对叶族很安安安全！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。圆滑而高效的灯。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个漂亮的高亮灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个富有未来前瞻性的光源。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种花哨的光确实打动我。"}]

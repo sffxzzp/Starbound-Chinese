@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "喜悦。一个可爱的装饰。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "要小心不要打碎这小玩意。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "有些人对这种闪亮的球着迷。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不认为这个金球完全是由金子做的……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不认为这个金球完全是由金子做的…"}]

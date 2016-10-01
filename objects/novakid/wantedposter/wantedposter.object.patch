@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张褪色的海报，提供一份久未认领的悬赏金。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "通缉告示"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我想知道这张通缉告示里的人是一名罪犯吗，又或者是一名反叛军英雄？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张通缉告示已经有一段时间。我想知道里面的罪犯被抓到了吗？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢令人印象深刻的狩猎者的照片。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这张老海报提供了一份抓捕罪犯的悬赏金－我想知道他们被抓到了吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道这张海报上的罪犯被抓到了吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张海报已经很老旧了。我想知道被悬赏的人抓到了吗？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张“通缉”告示？我想知道那个家伙被抓到了吗。"}]

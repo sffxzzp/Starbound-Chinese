@@ -1,2 +1,3 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个能增加你宠物生命值上限的项圈。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "生命项圈 II"}]
+[{"op": "replace","path": "/description","value": "一个能增加你宠物生命值上限的项圈。"},
+{"op": "replace","path": "/shortdescription","value": "生命项圈 II"},
+{"op": "replace","path": "/collar/displayName","value": "生命 II"}]

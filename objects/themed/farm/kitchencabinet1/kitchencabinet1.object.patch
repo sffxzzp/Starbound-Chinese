@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "坚固的橱柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厨房橱柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这橱柜看起来是由手工精细制作的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这质朴的橱柜低调得很是雅致。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族将用美味的食物装满橱柜！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "满意。一个精心制作的厨房存储系统。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个古怪的厨柜，就像奶奶房子里的一样。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个柜子简单的外表掩盖了其精美的工艺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一种适合村民的方便实用的橱柜。"}]

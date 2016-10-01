@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "鄙夷。一株塑料植物。小气的便宜货。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "让我想起了等候室。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "令人作呕的塑料植物。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些叶子有些硬……等等，这是塑料！"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些叶子有些硬…等等，这是塑料！"}]

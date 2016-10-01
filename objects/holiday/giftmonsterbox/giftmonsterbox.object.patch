@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个漂亮的红色礼盒。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "盒子！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。里面有什么？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "礼品盒。相当大……但是他为什么在动？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "礼品盒。相当大…但是他为什么在动？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "无可挑剔的包装盒。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "它看起来很漂亮，但我不放心它。"}]

@@ -5,6 +5,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "用矿物来制造像素。实用。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "机器粉碎碎碎石头，制造钱。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "客观。矿物能在这里转化成像素。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "它能够印刷货币！某种程度上……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它能够印刷货币！某种程度上…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一台能够将矿物转化成像素的复杂的装置。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一台像素机器。我一直想拥有一台！"}]

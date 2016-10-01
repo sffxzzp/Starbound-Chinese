@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这个箱子被一个传感器控制并会在开启时发送一个信号。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "陷阱箱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个经典的宝箱。或者它是……？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个装满财宝的箱子。或者它是……？"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个经典的宝箱。或者它是…？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个装满财宝的箱子。或者它是…？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "保存首首首饰和珍珍珍宝的箱子。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。一个宝箱！里面会有什么呢……？"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个宝箱。但是这里面会有宝藏吗……？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。一个宝箱！里面会有什么呢…？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个宝箱。但是这里面会有宝藏吗…？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个用木头和金属制成的宝箱。它看上起轻微风化了。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个宝箱！这肯定我的幸运日！或者它是……？"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个宝箱！这肯定我的幸运日！或者它是…？"}]

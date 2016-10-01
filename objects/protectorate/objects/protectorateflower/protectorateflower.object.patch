@@ -2,8 +2,8 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "守护团之花"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一朵粉红色的可爱的花。我应该摘下来留作今天的纪念。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "多么充满生机和希望的一朵花。我应该将它摘下带走！"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "嗨这位小朋友……或许叶族人可以将这朵花放在口口口袋里保管！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "嗨这位小朋友…或许叶族人可以将这朵花放在口口口袋里保管！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "伤感。我应该摘下这朵花来留念我的毕业典礼。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "嗨小家伙……或许我该带上你留作毕业纪念？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "嗨小家伙…或许我该带上你留作毕业纪念？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "多么美好的日子，多么美好的一朵花。我应该带走它吗？"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我并不是那种多愁善感的类型……不过我想摘下这朵花留作今天的回忆。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我并不是那种多愁善感的类型…不过我想摘下这朵花留作今天的回忆。"}]

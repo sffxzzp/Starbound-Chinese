@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这门还活着的吗？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "谁觉得这样的门是个好主意？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这门有一个灵魂。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这门看起来确实很奇怪...."}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这门看起来确实很奇怪…."}]

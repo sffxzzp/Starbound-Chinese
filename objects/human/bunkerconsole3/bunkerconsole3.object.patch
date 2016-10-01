@@ -2,8 +2,8 @@
 { "op" : "replace", "path" : "/shortdescription", "value" : "小型控制台"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "屏幕上有条信息。“亲爱的马乔莉。请记得把猫放出去。爱你的戴维”有意思。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "屏幕上有条信息。“昨天的毒性试验的结果不明确。请安排更多的试验体。克莱纳医生”好吧。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "呃呃呃……屏幕上有条高亮的信息。“下班后买点鸡蛋”。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好管闲事。屏幕上有条信息。“让我来向你解释一下你为什么是错的……”邮件的内容接下来就陷入了莫名其妙的争吵和咆哮之中。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "呃呃呃…屏幕上有条高亮的信息。“下班后买点鸡蛋”。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好管闲事。屏幕上有条信息。“让我来向你解释一下你为什么是错的…”邮件的内容接下来就陷入了莫名其妙的争吵和咆哮之中。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "从该邮件的内容来看，某人成了著名的‘reply-all’丑闻的牺牲品。可怜的家伙。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "从这些内容中可看出，人类在通过计算机进行争论的时候，只是一头扎进屏幕和键盘里。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一台个人计算机，我不是个喜欢窥探别人隐私的人。"}]

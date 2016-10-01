@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "毁灭之光。在黑暗中发光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "毁灭之光"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "眼球投射出奇异的光芒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "光跟着我，无论我站在不在房间里。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族盯着光光光，光光光盯着叶族。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊慌。这盏灯像一个巨大的眼球。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哇呜，一个巨大的发光的眼睛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种灯有一种奇特的风格。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不喜欢这种光看着我。"}]

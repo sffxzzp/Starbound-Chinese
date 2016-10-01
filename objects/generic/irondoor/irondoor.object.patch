@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "由交叉的刀锋组成的门。看上去它们可以被取下来。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "刀锋之门"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一扇险恶的铁门。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门看上去像被设计成要阻挡什么东西出去……或进来。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门看上去像被设计成要阻挡什么东西出去…或进来。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜欢扎扎扎人的门，叶族人嘭嘭嘭地关上了门。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "羡慕。这扇好门适合用于堡垒，或者类似的建筑。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这让我回想起了探索旧城堡的日子。"},

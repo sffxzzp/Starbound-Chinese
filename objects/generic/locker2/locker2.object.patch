@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个金属盒子，大概是用来存放的。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "储储储物柜。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "客观。可以在墙上存放少量东西。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个储物柜没有锁……"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个储物柜没有锁…"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "有用的储物柜。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这个储物柜事实上并没有上锁。"}]

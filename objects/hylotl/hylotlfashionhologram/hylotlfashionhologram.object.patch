@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个展示鲛人时装最新风潮的全息图。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "鲛人时装全息图"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "鲛人对服装的品味很是别致。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我不大习惯这些款式……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不大习惯这些款式…"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "鱼人的时装，叶族人不喜欢。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。我想知道这些衣服我穿着是否合适。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "他们很自大，但我不得不承认鲛人的确很时尚。"},

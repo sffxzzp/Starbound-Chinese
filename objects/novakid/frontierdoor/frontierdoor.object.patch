@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇木门，两边有着钢铁符号装饰着。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这扇木门上面有一个大型的奇异符号。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想知道门上的符号意味着什么。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这这这扇开拓者门干燥老旧。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "难忘。全新的材质。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇门有着一个闪闪发亮的门把手。我喜欢它！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这扇门的符号我并不熟悉。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "在开拓者建筑中这样的门很常见。"}]

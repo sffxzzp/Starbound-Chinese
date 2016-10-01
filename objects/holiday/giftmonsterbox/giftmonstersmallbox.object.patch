@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。里面有什么？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "礼品盒。它一直在动！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "无可挑剔的包装盒。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个美丽的小礼物……这玩意在动。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个美丽的小礼物…这玩意在动。"}]

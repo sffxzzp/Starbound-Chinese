@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "哦，不知道我能不能得到一个独角兽玩偶？"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我不介意为我自己赢一个吐舌娃绒毛玩具。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "唔，叶族人想要一个乌龟玩偶。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "积极。我想赢几个……"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我想要那个努米玩偶……想知道它要花多少。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "积极。我想赢几个…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想要那个努米玩偶…想知道它要花多少。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "噢！我全都想要！"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "并不特别喜欢毛绒玩具，不过这些挺可爱的。"}]

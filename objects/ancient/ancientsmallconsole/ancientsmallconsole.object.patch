@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "感动。尽管这控制台已经很古老了，其运用的科技还是很先进。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个经历了时间磨练的控制台。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这控制台看起来很古老，但它仍然能够使用。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这控制台看起来很古老……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这控制台看起来很古老…"}]

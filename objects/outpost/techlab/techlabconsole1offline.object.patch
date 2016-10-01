@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "离线的科技控制台柜机。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "科技控制台柜机"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "很有用的科技，前提是它正常运作……"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "很有用的科技，前提是它正常运作…"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "多可惜，这个控制台离线了。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "闪光光光和嘟嘟叫说明这机器现现现在没有工作。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。科技能变得极其复杂。"},

@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一种黄色的水果。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶人厌恶黏糊糊糊的黄色食物。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "观察。它似乎是一种水果。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一个香蕉……呃，好吧。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个香蕉…呃，好吧。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "某些人肯定很疼爱他的黄水果。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "某种流行艺术？"}]

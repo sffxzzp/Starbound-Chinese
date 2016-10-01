@@ -3,7 +3,7 @@
 { "op" : "replace", "path" : "/apexDescription", "value" : "类似的标记经常能在科学进展部的牢房里发现。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "某人在数什么东西，但意义何在？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人用这个计算击杀的人头数。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这意味着某样东西出现了25次……但我们永远都不知道究竟是什么东西了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这意味着某样东西出现了25次…但我们永远都不知道究竟是什么东西了。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一串数字标记，还是栅栏的图纸？真的很难分辨。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一种简单但很有效的计数方法。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "我认识一个用这种方法来记录杀人数的家伙。"}]

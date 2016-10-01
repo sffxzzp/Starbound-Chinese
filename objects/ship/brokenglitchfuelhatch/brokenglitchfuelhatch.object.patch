@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "激动。装满后，我们就可以参观其他星球。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "燃料仓。我能装满它然后开始我的探索。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "燃料是探索之旅的命根子。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "FTL燃料装灌进这里！当它被修好后……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "FTL燃料装灌进这里！当它被修好后…"}]

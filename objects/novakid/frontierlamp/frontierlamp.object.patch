@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏盖着红色玻璃罩的挂式煤气灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者挂灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏黄铜油灯投射出温暖的红色光芒。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这盏灯散发出一股清淡的香水味。也许它用的燃油有着芳香？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "挂着的红光里面有有有火焰。叶族人紧紧紧张。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这盏黄铜灯的金属工艺相当精湛。肯定费了不少心思。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这盏灯闪烁着柔和的火焰。红色的玻璃罩投射出温暖的光芒！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这盏油灯里的火焰显得奇异得平静。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "没有什么比一盏室内油灯更让人有家的感觉了。"}]

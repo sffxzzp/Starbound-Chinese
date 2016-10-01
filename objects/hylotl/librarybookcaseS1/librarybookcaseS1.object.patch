@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个有华丽雕刻的书架。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "小型奢华书架"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "有好些书。我会，呃……晚点读。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有好些书。我会，呃…晚点读。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这里有很多书。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "鱼人喜欢阅读。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。我想要有更多时间来读更多书。"},

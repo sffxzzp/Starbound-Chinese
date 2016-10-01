@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个有着心形靠背的淡色调椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张椅子的靠背被设计成心形。这就是创新。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多么迷人的小椅子！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "椅子有着不错的颜颜颜色。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这张椅子的靠背是一颗爱心…而它顶部有一颗更小的爱心！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张椅子由许多爱心装饰着！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张椅子的色调释放一股热情。我就是喜欢这一点。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不确定这张椅子合不合我的胃口，但我欣赏它那独具匠心的小细节。"}]

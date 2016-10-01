@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。用来展示物品的物品。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个小小的展示用架子。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个底座，用来展示艺术品。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个架子……用来干些什么的。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个架子…用来干些什么的。"}]

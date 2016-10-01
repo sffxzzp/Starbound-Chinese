@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个经典的木桌，和可以搭配任何环境。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "小木屋长桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "它只花了四个木制零件，就因为这个令人印象深刻。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我可以把我的名字刻在上面，但那会很没教养。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族宁愿受这这这样的荆棘棘棘。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "高兴。这是一个相当不错的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它看起来像一个野餐桌。有人带零食了吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想我见过更糟糕的设计…"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不介意在这桌子上玩一轮纸牌。"}]

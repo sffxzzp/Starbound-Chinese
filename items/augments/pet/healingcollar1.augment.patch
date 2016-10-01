@@ -1,2 +1,3 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个能随着时间流逝缓慢恢复你宠物生命值的项圈。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "愈合项圈 I"}]
+[{"op": "replace","path": "/description","value": "一个能随着时间流逝缓慢恢复你宠物生命值的项圈。"},
+{"op": "replace","path": "/shortdescription","value": "愈合项圈 I"},
+{"op": "replace","path": "/collar/displayName","value": "愈合 I"}]

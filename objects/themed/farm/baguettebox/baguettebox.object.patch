@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盒新鲜，硬皮的面包。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "面包盒"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些面包显然是手工制作的，一点都不像家里那些所谓“面包”。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "磨细的谷物仔细烘烤的面包。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "缺乏品味的谷物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感伤。这面包的质朴让我想起了更简单的生活。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我相信古老的地球上这些面包被称为‘法国长棍’。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "新鲜出炉的面包在水下更令人不愉快。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "没什么能打败新鲜的面包。"}]

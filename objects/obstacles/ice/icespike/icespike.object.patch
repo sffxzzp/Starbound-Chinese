@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我可不想掉在其中任何一个上面..."},
+[{ "op" : "replace", "path" : "/description", "value" : "我可不想掉在其中任何一个上面…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "冰锥"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "用冰制成的尖刺。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "看起来很尖利的冰锥。"},

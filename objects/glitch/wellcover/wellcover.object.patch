@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "我确信这里能打到水……"},
+[{ "op" : "replace", "path" : "/description", "value" : "我确信这里能打到水…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "水井篷"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个带水桶的水井篷。看起来很方便。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这个手柄看起来是用来升降水桶的。"},

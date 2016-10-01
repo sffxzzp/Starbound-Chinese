@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个看起来可爱得有问题的神经虫玩偶。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "神经虫玩偶"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我不确定这个毛绒玩具是否真的很可爱……"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不确定这个毛绒玩具是否真的很可爱…"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "神经虫可爱到令人发指。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "神经虫可爱到令叶族人烦恼。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "困恼。我不喜欢神经虫，即使是被做成绒毛玩具的形式。"},

@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "观察。它有着罕见的粉红色调。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个漂亮的茶壶。真令人欣慰。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一种服务器具。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "所以你把些叶子捅进一壶水里然后……就这么喝了？"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "所以你把些叶子捅进一壶水里然后…就这么喝了？"}]

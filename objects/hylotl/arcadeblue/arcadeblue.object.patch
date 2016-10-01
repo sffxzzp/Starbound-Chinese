@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "评价。我给《迷幻混战竞技场》四分。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "你不会料到虽然它顶着《迷幻混战竞技场》这个名字但其实颇有深度。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "我认为《迷幻混战竞技场》的核心是关于一个人慢慢成长的故事。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "《迷幻混战竞技场》？它根本不像竞技场……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "《迷幻混战竞技场》？它根本不像竞技场…"}]

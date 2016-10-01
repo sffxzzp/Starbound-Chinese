@@ -1,2 +1,3 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个可以反弹附近敌人伤害的危险环境保护装置模块。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "荆棘增强模块"}]
+[{"op": "replace","path": "/description","value": "一个可以反弹附近敌人伤害的危险环境保护装置模块。"},
+{"op": "replace","path": "/shortdescription","value": "荆棘增强模块"},
+{"op": "replace","path": "/augment/displayName","value": "荆棘增强"}]

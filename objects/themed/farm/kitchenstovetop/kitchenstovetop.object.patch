@@ -1,0 +1,11 @@
+[{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/title", "value" : "厨房灶台"},
+{ "op" : "replace", "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle", "value" : "舒适的家庭式烹饪"},
+{ "op" : "replace", "path" : "/description", "value" : "一个有着炉顶的坚固橱柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "厨房灶台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个灶台的表面不是很标准，但我喜欢它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个简陋但好用的灶台。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小小小房子的火火火炉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉快。一个朴素的厨房里井然有序的烹饪区。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "为一间舒适房子准备的一个可爱的小灶台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "水壶哼唱着怡人的曲调，邀我来做客。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "为一间舒适房子准备的烹饪区域。"}]

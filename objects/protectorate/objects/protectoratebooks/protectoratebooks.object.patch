@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "学习时间到……"},
+[{ "op" : "replace", "path" : "/description", "value" : "学习时间到…"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "守护团课本"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一些消遣用的读物。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "课程文献。我读过这些！"},

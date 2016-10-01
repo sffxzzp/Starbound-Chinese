@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/title","value": "启动方舟"},
-{"op": "replace","path": "/text","value": "有些事我想要告诉你，亲爱的，也想^orange;向你展示^reset;一些东西。^green;这次我对你的要求比以往任何一次都要严苛^reset;……我相信你已经准备好完成任务了，对吧？"},
+{"op": "replace","path": "/text","value": "有些事我想要告诉你，亲爱的，也想^orange;向你展示^reset;一些东西。^green;这次我对你的要求比以往任何一次都要严苛^reset;…我相信你已经准备好完成任务了，对吧？"},
 {"op": "replace","path": "/completionText","value": "即使这所有事情已经完结，我很肯定你还有漫长的冒险之路要走。至少拿上这个吧，亲爱的。"},
 {"op": "replace","path": "/scriptConfig/descriptions/destroyRuin","value": "穿过^orange;方舟^reset;然后^green;摧毁掉^orange;祸^reset;"},
 {"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "找一条回到^orange;前哨站^reset;的路"}]

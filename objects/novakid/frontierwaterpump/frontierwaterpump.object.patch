@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个用来输送水的黄铜水泵，不过那是它还能发挥功效的时候。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "开拓者水泵"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个老旧的水泵。它看上去不再运作了，现在它只是个装饰。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个水泵似乎很久以前便停止工作了。不过它是个不错的装饰品!"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人没没没看出这个东西意义何在。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "观察。这个水泵似乎很久以前就生锈了。我不确信它是否还能运作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "它可能曾经还能抽水，但现在它只是个陪衬。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人的水泵绝不会生锈或像它这样破裂。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个水泵。不过看上去它不在运作了。。"}]

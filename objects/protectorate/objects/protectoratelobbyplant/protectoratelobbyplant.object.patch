@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "一株讨人喜欢的植物。它们在学院四周栽培了不少。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "多叶的朋友。叶族人喜喜喜欢你的陪伴。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这是垂叶榕。学院内常见的一种室内植物。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一株长的不错的植物。它看起来……生机勃勃。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一株长的不错的植物。它看起来…生机勃勃。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "亲近大自热能很好的让我们记住自己从何而来。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一个盆栽。它不能说得上很有趣。"}]

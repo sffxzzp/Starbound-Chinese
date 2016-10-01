@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "装满苹果的篮子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "苹果篮"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "美味的红苹果富含营养。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "精致的红苹果受太阳的祝福而成熟。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "全是素，不够荤。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "认可。这些苹果看起来是对称的，没有瑕疵。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "仔细检查，他们是用蜡做的。挫败。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一篮苹果。虽然不像海苹果那样咸，但还是不错的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "没什么能比得到一个闪亮的苹果更好了。"}]

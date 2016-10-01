@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个奇妙的柔和色调的衣柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "粉彩衣柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个精致的衣柜。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个衣柜被爱心和星星点缀装饰着。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想要躲进这里面。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个衣柜看起来完全是出于某种热爱而创作的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个非常神奇的衣柜。想想里面所有可能装的东西！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "精湛的技艺打造出这个衣柜。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我很喜欢装饰在这个衣柜顶部的小星星。"}]

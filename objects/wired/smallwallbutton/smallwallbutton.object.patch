@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "谁知道它会触发什么……按下它就是了！"},
+[{ "op" : "replace", "path" : "/description", "value" : "谁知道它会触发什么…按下它就是了！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "贴墙小按钮"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个按钮。它的作用未知。试试看就知道了。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "为什么我总是要被迫去按按钮？"},

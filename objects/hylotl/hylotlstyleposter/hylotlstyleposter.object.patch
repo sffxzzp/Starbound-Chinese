@@ -1,7 +1,7 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "喜剧电影海报"},
 { "op" : "replace", "path" : "/description", "value" : "一个冷门鲛人电影《死亡之爪》的海报。"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这是一家服装店的广告吗？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "我以前在哪见过这个徽记……"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我以前在哪见过这个徽记…"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "笨蛋鲛人电影的海海海报。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "取悦。这是部恐怖片。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这是一部鲛人恐怖片的广告。它很失败。"},

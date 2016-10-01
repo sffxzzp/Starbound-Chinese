@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "有那么一会，我以为这尊雕像是一个真人。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "圣圣圣诞老人？"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "惊吓。我差点以为这个快乐的老人是真实存在的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "哦你好,圣－－哦……这是假的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哦你好,圣－－哦…这是假的。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "他看起来好快乐。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这个老头看上去肯定有什么高兴的事。"}]

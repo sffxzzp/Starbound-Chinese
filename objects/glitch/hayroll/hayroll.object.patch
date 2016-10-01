@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。已经捆好并且已经可以拿去贩卖的干草。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一大捆干草。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "一个放在地上的作物，干燥而且已经捆绑好。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "推动这个干草垛是那么的吸引人……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "推动这个干草垛是那么的吸引人…"}]

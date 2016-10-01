@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "警告标志"},
 { "op" : "replace", "path" : "/description", "value" : "警告那些看到它的人。"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "警告我某些事情，不太确定具体是什么……"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "警告我某些事情，不太确定具体是什么…"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我不太确定要对它有什么反应。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "某某某种警告。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "担忧。我不知道这上面的警告是否与我有关。"},

@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这里面会有什么呢？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "一个箱子！我们打开它吧！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这个箱子有着工业化的外观设计。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个坚固的箱子里藏着珍宝……我希望是。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个坚固的箱子里藏着珍宝…我希望是。"}]

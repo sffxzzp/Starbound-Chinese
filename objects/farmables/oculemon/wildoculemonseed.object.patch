@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "反省。这个水果也许是它自己内心的一扇窗户？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "在全宇宙的所有水果之中，眼球菜也许就是最令人毛骨悚然的了。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "眼球菜的一些部分是致命的，除非被精心料理过。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "水果应该回头看你么？我不知道……"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "水果应该回头看你么？我不知道…"}]

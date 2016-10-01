@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "这是一枚毒系蓬蓬牛蛋。毒系蓬蓬牛比听起来要和善得多。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "大大的毒系蓬蓬牛蛋里有小小的毒系蓬蓬牛。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。我希望小毒系蓬蓬牛能快点被孵出来。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "一枚有毒的蛋！哦等等……一枚毒系蓬蓬牛蛋。听起来好多了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一枚有毒的蛋！哦等等…一枚毒系蓬蓬牛蛋。听起来好多了。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这枚特别明亮的蛋里会孵出一只毒系蓬蓬牛。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这是一只毒系蓬蓬牛蛋。但是并没有毒，只是里面有只大大的家畜。"}]

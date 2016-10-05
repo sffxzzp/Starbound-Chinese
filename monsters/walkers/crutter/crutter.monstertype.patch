@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "克路透"},
+{ "op" : "replace", "path" : "/description", "value" : "它的毒液即使是小小一滴也足以致命。"}]

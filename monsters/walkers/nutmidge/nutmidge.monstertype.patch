@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "榛果丸"},
+{ "op" : "replace", "path" : "/description", "value" : "为安全起见，榛果果们经常会抱团缩进一个保护性外壳里面。"}]

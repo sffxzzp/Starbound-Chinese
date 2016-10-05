@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "人工智能舰载网络，或简写作S.A.I.L。"},
+[{ "op" : "replace", "path" : "/description", "value" : "舰载人工智能窗口，或简写作S.A.I.L。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "S.A.I.L"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "当它正常运行时，我能和SAIL交流。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "重启这个科技站应该就能使我和SAIL交流了。"},

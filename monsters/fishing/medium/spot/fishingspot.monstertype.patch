@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "斑点吞噬者"},
+{ "op" : "replace", "path" : "/description", "value" : "它能以某种方式吞下10倍于体重的物体。"}]

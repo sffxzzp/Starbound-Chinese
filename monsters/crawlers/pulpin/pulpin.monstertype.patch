@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "布丁怪"},
+{ "op" : "replace", "path" : "/description", "value" : "它的黏性身体使它可以很轻易地攀爬到高处。"}]

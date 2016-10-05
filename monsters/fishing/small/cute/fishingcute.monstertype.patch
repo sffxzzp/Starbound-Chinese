@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "丝绸小猪"},
+{ "op" : "replace", "path" : "/description", "value" : "它们奇怪的、柔滑的质感和尖锐的交配叫声使它们成为备受追捧的宠物。"}]

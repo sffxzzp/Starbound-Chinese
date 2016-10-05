@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/shortdescription","value": "邪教大头目"},
+{"op": "replace","path": "/baseParameters/dialog/intro/default/default","value": ["嗯…你还真是固执到可笑，对不对？艾丝特真是把你给洗脑了…我想，是时候清除掉她的影响了。"]},
+{"op": "replace","path": "/baseParameters/dialog/death/default/default","value": ["你还是不明白啊，是不？你还是没有赢！","祸依然会苏醒，他很快就会清理整个宇宙，只有人类能够留下！"]}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "岩壳蜗牛"},
+{ "op" : "replace", "path" : "/description", "value" : "它坚硬无比的壳使它成为了一个非常棘手的敌人。"}]

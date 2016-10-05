@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "荆棘红眼"},
+{ "op" : "replace", "path" : "/description", "value" : "它那诡异的眼睛让任何在水下与它不期而遇的人丧失了勇气。"}]

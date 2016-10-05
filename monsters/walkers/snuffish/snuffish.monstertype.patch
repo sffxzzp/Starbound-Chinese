@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "灯芯鱼"},
+{ "op" : "replace", "path" : "/description", "value" : "它们会攻击任何惊吓到它们的生物，而且他们也很容易受到惊吓。"}]

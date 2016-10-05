@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "三体机器人"},
+{ "op" : "replace", "path" : "/description", "value" : "它透过自己大大的镜头望着你。"}]

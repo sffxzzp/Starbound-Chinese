@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "触手虫"},
+{ "op" : "replace", "path" : "/description", "value" : "-todo-"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "触手爬行者"},
+{ "op" : "replace", "path" : "/description", "value" : "尖锐的刺可以穿透任何一双太空靴。"}]

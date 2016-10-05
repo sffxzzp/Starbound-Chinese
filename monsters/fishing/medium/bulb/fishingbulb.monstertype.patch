@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "花环鳗"},
+{ "op" : "replace", "path" : "/description", "value" : "它的身体上附带的多个鱼鳔使它可以精细的控制浮力。"}]

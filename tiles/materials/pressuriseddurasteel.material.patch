@@ -1,4 +1,5 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "高压耐钢"},
+[{ "op" : "replace", "path" : "/description", "value" : "一块耐钢板，为了在内部形成高压环境而特殊设计。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高压耐钢"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。这种耐钢板被设计得能够承受高压。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "坚坚坚固的耐钢。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像闪着光的耐钢板。"}]

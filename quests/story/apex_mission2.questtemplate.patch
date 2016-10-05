@@ -2,5 +2,5 @@
 {"op": "replace","path": "/text","value": "我担心^orange;猿人神器^reset;已被放置在^orange;科技发展部的据点^reset;里。进入那里可不是一件简单的事，亲爱的。到那里请^green;千万小心^reset;，科技发展部是很凶狠残忍的。"},
 {"op": "replace","path": "/completionText","value": "我很高兴我们的组织正在茁壮成长。我们不断地在聚集盟友，共同奋斗。就如同一个新的大地守护团…"},
 {"op": "replace","path": "/scriptConfig/missionRadioMessage/text","value": "我已接收到了^orange;科技发展部据点^reset;的坐标。^green;使用舰载计算机^reset;前往目的地。"},
-{"op": "replace","path": "/scriptConfig/descriptions/artifact","value": "在^orange;科学发展部的据点^reset;里找到^orange;神器^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/artifact","value": "在^orange;科技发展部的据点^reset;里找到^orange;神器^reset;"},
 {"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "返回^orange;方舟^reset;向^orange;艾丝特^reset;汇报"}]

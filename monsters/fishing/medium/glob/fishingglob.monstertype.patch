@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "辐射河豚"},
+{ "op" : "replace", "path" : "/description", "value" : "它的身体没有任何一块肉－它完全是由有机黏液组成的。"}]

@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个关于站在蚌里的金发女人的画。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "美丽的画"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "科学发展部不可能创作像这样的原始艺术。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "科技发展部不可能创作像这样的原始艺术。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我感到困惑…为什么这女人要站在蚌里？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "人类看起来吓吓吓坏了。可能正在被叶族人追杀！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "问题。蚌壳是从海里升起来的吗？"},

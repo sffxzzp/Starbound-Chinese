@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "伏特犬"},
+{ "op" : "replace", "path" : "/description", "value" : "一次失控的科学实验的产物。"}]

@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "小心！电弧！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "触电警告标志"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "天知道科学发展部在研究时耗多少电，常常整个的猿人村落都会断电。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "天知道科技发展部在研究时耗多少电，常常整个的猿人村落都会断电。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这看起来是个警告。要变天了？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "电会生火。叶族人怕火。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "谨慎。即使是电子人的回路也挡不住一股强大电流的冲击。"},

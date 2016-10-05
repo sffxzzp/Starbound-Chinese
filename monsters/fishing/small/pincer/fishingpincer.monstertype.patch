@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "金色蛞蝓"},
+{ "op" : "replace", "path" : "/description", "value" : "它管状的身体柔软无比，除了头上的那两根长长的角质大钳。"}]

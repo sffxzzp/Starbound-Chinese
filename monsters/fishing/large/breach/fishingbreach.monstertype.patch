@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "斑斓钻头"},
+{ "op" : "replace", "path" : "/description", "value" : "一种凶猛的鱼，能用它坚硬的角穿透厚厚的冰层。"}]

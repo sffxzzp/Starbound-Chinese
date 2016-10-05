@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "大眼魔"},
+{ "op" : "replace", "path" : "/description", "value" : "它巨大的眼睛可以修正因水温和盐度的差异而引起的视觉扭曲。"}]

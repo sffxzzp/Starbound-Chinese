@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "枯萎鳗"},
+{ "op" : "replace", "path" : "/description", "value" : "它没有眼睛，所以它喜欢在夜间狩猎，那样猎物便看不见它的到来。"}]

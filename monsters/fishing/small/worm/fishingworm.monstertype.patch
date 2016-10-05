@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "天线蠕虫鳗"},
+{ "op" : "replace", "path" : "/description", "value" : "蠕虫鳗头上长长的触角可以接收到附近的行星上传来的无线电波。"}]

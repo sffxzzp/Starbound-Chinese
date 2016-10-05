@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "脉冲蛹"},
+{ "op" : "replace", "path" : "/description", "value" : "一个古老的物种，以敏捷和顽皮著称。它们的眼里透露出智慧之光。"}]

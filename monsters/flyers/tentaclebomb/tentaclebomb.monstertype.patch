@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "触手炸弹"},
+{ "op" : "replace", "path" : "/description", "value" : "风暴到来时，它会附着在树上以使自己不被吹飞。"}]

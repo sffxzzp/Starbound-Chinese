@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "袋狐蝠"},
+{ "op" : "replace", "path" : "/description", "value" : "它用自己的袋子将发酵的水果酿造成毒性糊剂。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "棘刺海豹"},
+{ "op" : "replace", "path" : "/description", "value" : "它与它的史前祖先几乎完全相同，但它有着更多的脂肪。"}]

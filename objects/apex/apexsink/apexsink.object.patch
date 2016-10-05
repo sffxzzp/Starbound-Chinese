@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "别忘了洗手！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "浴室洗脸盆"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个洁净无瑕的洗脸盆。不干净的屋子是科学发展部所无法容忍的。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个洁净无瑕的洗脸盆。不干净的屋子是科技发展部所无法容忍的。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个饮水机…或许是个自动饮水机？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "清清清甜的富含营养的水。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "专注。水的纯度为13%。看起来里面有一种人造的元素。"},

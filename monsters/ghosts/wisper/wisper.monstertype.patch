@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "低语精灵"},
+{ "op" : "replace", "path" : "/description", "value" : "一些人相信低语精灵是迷路的灵魂。夜晚中它们发出的光会让探险家们迷失方向。"}]

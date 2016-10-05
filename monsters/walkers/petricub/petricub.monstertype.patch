@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "石油鬼"},
+{ "op" : "replace", "path" : "/description", "value" : "它用它那晶亮如小珠的眼睛满怀期待盯着你看。"}]

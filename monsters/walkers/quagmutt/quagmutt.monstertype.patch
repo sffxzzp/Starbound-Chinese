@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "沼泽犬"},
+{ "op" : "replace", "path" : "/description", "value" : "其不健康的生活方式还有很多有待改善的地方"}]

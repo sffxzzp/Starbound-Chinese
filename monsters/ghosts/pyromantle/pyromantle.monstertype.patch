@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火焰斗篷"},
+{ "op" : "replace", "path" : "/description", "value" : "它炽热的核心产生着恒定不停的熔岩流。在打架时它能狠狠地挥出一记重拳。"}]

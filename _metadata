@@ -1,6 +1,6 @@
 {
   "author" : "星核汉化组",
-  "description" : "星核汉化组出品。\n翻译中。UI以及任务部分已汉化。\n尽情期待更多内容。\n\n由于当前创意工坊mod无法正常加载字体文件而产生文本乱码。\n请将本mod复制到游戏mods目录下。\nmod位置应当位于steamapps\\workshop\\content\\211820\\{mod id}\\目录下。",
+  "description" : "星核汉化组出品。\n除Codex部分已全部翻译完毕！\n翻译中，尽情期待更多内容。\n\n由于当前创意工坊mod无法正常加载字体文件而产生文本乱码。\n请将本mod复制到游戏mods目录下。\nmod位置应当位于steamapps\\workshop\\content\\211820\\{mod id}\\目录下。",
   "priority" : -9999,
   "friendlyName" : "简体中文汉化mod",
   "link" : "http://starboundcn.com/",

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "触手蛤蜊"},
+{ "op" : "replace", "path" : "/description", "value" : "-todo-它看起来像一个大而笨重的韭菜。然而，当你切开它时它还是会流血。"}]

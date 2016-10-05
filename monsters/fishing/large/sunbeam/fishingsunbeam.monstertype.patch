@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "粉红日光"},
+{ "op" : "replace", "path" : "/description", "value" : "这种无颌鱼总是想让自己的鳞片在阳光下闪闪发光。"}]

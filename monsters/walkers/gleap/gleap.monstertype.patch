@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "葛利普"},
+{ "op" : "replace", "path" : "/description", "value" : "它是由弹性物质组成的。"}]

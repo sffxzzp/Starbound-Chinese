@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "橘灰鱼"},
+{ "op" : "replace", "path" : "/description", "value" : "它身上的灰色条纹使它可以在岩浆星球地表的脊地壳中伪装起来。"}]

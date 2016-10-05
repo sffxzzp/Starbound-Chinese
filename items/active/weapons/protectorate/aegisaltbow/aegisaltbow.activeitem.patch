@@ -1,2 +1,3 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这把传统武器被用于猎杀镭射鹿。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "霓磷盐弓"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霓磷盐弓"},
+{"op": "replace","path": "/altAbility/name","value": "混乱箭羽"}]

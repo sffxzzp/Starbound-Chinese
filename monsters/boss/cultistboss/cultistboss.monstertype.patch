@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/shortdescription","value": "阿斯拉 诺克斯"},
+{"op": "replace","path": "/baseParameters/dialog/intro/default/default","value": ["嗯…你是艾丝特的提线木偶么？看来她又开始召集爪牙了。","你知道你自己已经陷入了你根本无法应对的事情之中了，对不对？","某种程度上，我很可怜你。你正被一个年迈的老巫婆操纵着…"]},
+{"op": "replace","path": "/baseParameters/dialog/start/default/default","value": ["不用去想我刚刚说了什么了，准备受死吧！"]},
+{"op": "replace","path": "/baseParameters/dialog/death/default/default","value": ["我猜我低估了你…","那么这次你赢了—真是不幸。","但现在想要阻止什么已经太晚了，告诉艾丝特-那是不会有希望的。"]}]

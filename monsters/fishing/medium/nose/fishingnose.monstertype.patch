@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "大鼻子哨兵"},
+{ "op" : "replace", "path" : "/description", "value" : "它可以从一英里远的距离嗅到猎物的气味，但它的反应会更慢。"}]

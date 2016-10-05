@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "寒带钩齿鱼"},
+{ "op" : "replace", "path" : "/description", "value" : "它的全身覆盖着一层坚硬的保护冰壳。"}]

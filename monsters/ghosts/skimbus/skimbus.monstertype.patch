@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "寒风之魄"},
+{ "op" : "replace", "path" : "/description", "value" : "它的轻盈的身体顺着风的方向飘动。"}]

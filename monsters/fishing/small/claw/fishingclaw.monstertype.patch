@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "夜螯"},
+{ "op" : "replace", "path" : "/description", "value" : "它的蘑菇型身体上的皮肤会在自身受到威胁时改变颜色。"}]

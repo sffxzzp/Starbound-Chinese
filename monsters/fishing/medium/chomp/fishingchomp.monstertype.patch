@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "泥土咬人鱼"},
+{ "op" : "replace", "path" : "/description", "value" : "它在泥泞的海底里伪装好自己并伺机捕食猎物。"}]

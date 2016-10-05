@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "鸡"},
+{ "op" : "replace", "path" : "/description", "value" : "地球的原始生物，这种温驯的鸟类经常会下蛋。"}]

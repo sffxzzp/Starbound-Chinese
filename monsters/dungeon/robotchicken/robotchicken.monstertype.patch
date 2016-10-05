@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "电子鸡"},
+{ "op" : "replace", "path" : "/description", "value" : "通过巧妙构思组装而成的一只鸡，但仍有一部分地方需要完善。"}]

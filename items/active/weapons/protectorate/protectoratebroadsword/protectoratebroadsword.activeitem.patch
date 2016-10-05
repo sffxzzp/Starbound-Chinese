@@ -1,2 +1,3 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这是一把由大地守护团设计的试验性武器，非常强大。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "英雄之剑"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "英雄之剑"},
+{"op": "replace","path": "/altAbility/name","value": "能力增强"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "岩浆卢敦"},
+{ "op" : "replace", "path" : "/description", "value" : "一种近乎传奇的鱼，据说岩浆为之带来生命力。想要抓住它会是一次卓绝的挑战"}]

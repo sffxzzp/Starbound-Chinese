@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "死亡执行者"},
+{ "op" : "replace", "path" : "/description", "value" : "如果它能存活两百年，它可能会成长为一只死亡主宰。"}]

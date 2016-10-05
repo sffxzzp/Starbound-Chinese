@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "酸液蝠"},
+{ "op" : "replace", "path" : "/description", "value" : "它过于敏感的眼睛使它更喜欢呆在黑暗的地方，比如洞穴。"}]

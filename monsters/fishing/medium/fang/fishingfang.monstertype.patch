@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "腐牙"},
+{ "op" : "replace", "path" : "/description", "value" : "这种缓慢的两栖动物可以花几个小时来接近猎物并用毒牙麻痹它们。"}]

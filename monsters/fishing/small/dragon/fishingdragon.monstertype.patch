@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "海龙"},
+{ "op" : "replace", "path" : "/description", "value" : "这种奇妙的生物使用它背上微小的翼状鳍在流动的岩浆产生平稳的动力。"}]

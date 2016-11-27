@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这次USCM又代表什么？哦――联合体殖民军。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "USCM标志"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "USCM的改进标志，人类的军事力量。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "USCM的宣传标志，人类的军事力量。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这块区域显然曾经有人类的军队存在。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "愚蠢蠢蠢的公示标记。叶叶叶族人会更加谨慎慎地隐藏好自己。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "思考。人类的军事战术中涉及了很多虚张声势的策略。"},

@@ -1,0 +1,10 @@
+[{"op": "replace","path": "/species","value": "电子人"},
+{"op": "replace","path": "/title","value": "疯狂症疫病"},
+{"op": "replace","path": "/description","value": "一位电子人镇长对村民的警告。"},
+{"op": "replace","path": "/contentPages","value": [
+"^orange;你们来看，村庄的村民们！^white;
+
+这是自你们所敬爱的镇长的一份告言。近来有癫獗于民众传播—我们的一些兄弟姐妹要发其所谓的“真理”—他们从迷惑中清醒而我们则活在一场“模拟”中。
+
+这无疑是一种疾病，人应为自身安危而避免与被疯狂附身的人接触。"
+]}]

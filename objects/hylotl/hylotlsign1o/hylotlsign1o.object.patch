@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "橙色猿人标志"},
-{ "op" : "replace", "path" : "/description", "value" : "这个橙色霓虹灯牌似乎展示着的是猿首的形象。"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "猿首甚至已经开始延伸到深海了。战栗。"},
+{ "op" : "replace", "path" : "/description", "value" : "这个橙色霓虹灯牌似乎展示着的是大猿人的形象。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "大猿人甚至已经开始延伸到深海了。战栗。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这张脸看起来像猿人。奇怪。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "嗡嗡响的标标标志吵到叶族人了。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这画的是猿首？"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这画的是大猿人？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "这上面的是…一个猿人？他在这干什么？"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "“巨猿被鱼吸引了”？这翻译看起来很糟糕。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这是头猿人？"}]

@@ -1,0 +1,28 @@
+[{"op": "replace","path": "/species","value": "人类"},
+{"op": "replace","path": "/title","value": "离地人口普查"},
+{"op": "replace","path": "/description","value": "在地球之外长期定居的人类的人口普查报告。"},
+{"op": "replace","path": "/contentPages","value": [
+"第329卷，第804页
+
+计划编号：164
+行星系统：Misma Fen
+星球：Misma Fen III
+定居于：红木镇
+2个家庭总共4人。
+
+计划编号：165
+行星系统：Misma Fen
+星球：Misma Fen V
+定居于：无准确定居地。",
+
+"计划编号：166
+行星系统：Alma Knoll
+星球：Alma Knoll IV
+定居于：宽峡镇
+1个家庭总共2人。
+
+人口普查完成
+
+居住于地球外的总人数：15,802,433
+当前游荡总人口数：未知"
+]}]

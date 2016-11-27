@@ -1,0 +1,14 @@
+[{"op": "replace","path": "/title","value": "莱西亚公司指南"},
+{"op": "replace","path": "/species","value": "人类"},
+{"op": "replace","path": "/description","value": "莱西亚公司向全体员工提出的友好指南。"},
+{"op": "replace","path": "/contentPages","value": [
+"我们诚恳希望各位员工：
+
+1.时刻穿着适当的安全装备
+
+2.在职业行为时保持适当的举止
+
+3.将陌生事物在现场就地处理之前报告给莱西亚总部。
+
+4.享受工作与生活！"
+]}]

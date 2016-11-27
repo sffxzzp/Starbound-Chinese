@@ -1,3 +1,3 @@
 [{"op": "replace","path": "/charGenTextLabels","value": ["肤色","发型","上衣","裤子","内裤","发色","上衣颜色","裤子颜色","人类","人物性格"]},
 {"op": "replace","path": "/charCreationTooltip/title","value": "人类"},
-{"op": "replace","path": "/charCreationTooltip/description","value": "在他们漫长而动荡的历史中，人类往往有一颗对于生命和宇宙的活泼而积极的心。人类着手组建了一个联合整个宇宙的社会—大地守护国。"}]
+{"op": "replace","path": "/charCreationTooltip/description","value": "在他们漫长而动荡的历史中，人类往往有一颗对于生命和宇宙的活泼而积极的心。人类着手组建了一个联合整个宇宙的社会—大地守护团。"}]

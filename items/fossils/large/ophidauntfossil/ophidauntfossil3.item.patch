@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "‘恐惧之爪’的上脊"},
-{ "op" : "replace", "path" : "/description", "value" : "‘恐惧之爪’的上脊化石。"}]
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "恐惧之爪的上脊"},
+{ "op" : "replace", "path" : "/description", "value" : "恐惧之爪的上脊化石。"}]

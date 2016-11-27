@@ -1,0 +1,13 @@
+[{"op": "replace","path": "/title","value": "致拜隆先生"},
+{"op": "replace","path": "/species","value": "电子人"},
+{"op": "replace","path": "/description","value": "一封给拜隆先生的信，来自一名愤怒的电子人公务员。"},
+{"op": "replace","path": "/contentPages","value": [
+"致拜隆先生，
+
+我衷心地（当然这是最后一次）请求你停止向立法机关提出建议。此外，我将再一次提醒您，您已经^red;完全不能^white;通过法律。
+
+再次重申—你没有下令的权力，请您，求您，停止做这样的事。
+
+此致，
+人民政务会总统"
+]}]

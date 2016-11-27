@@ -1,0 +1,14 @@
+[{"op": "replace","path": "/species","value": "猿族"},
+{"op": "replace","path": "/title","value": "反对者在我们身边！"},
+{"op": "replace","path": "/description","value": "科技发展部发布给猿人民众的一份公告。"},
+{"op": "replace","path": "/contentPages","value": [
+"^red;谴责反叛者的谎言！^white;
+
+反科技发展部叛党的险恶存在，意味着^red;破坏我们的生活！^white;
+
+如果你怀疑你的同事、朋友或家人是一个反叛者，^red;现在就通知你当地的科技发展部代表！^white;
+
+谋反^red;判处死刑！^white;
+
+永远记住：^red;大猿人正在看着你！^white;"
+]}]

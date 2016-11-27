@@ -1,0 +1,14 @@
+[{"op": "replace","path": "/species","value": "猿族"},
+{"op": "replace","path": "/title","value": "猿人配给书"},
+{"op": "replace","path": "/description","value": "一本科技发展部规定下的猿人配给书。"},
+{"op": "replace","path": "/contentPages","value": [
+"科技发展部每日公民补给清单
+
+认证营养膏 x 1
+认证瓶装水 x 1
+果皮日报 x 1
+
+报告反叛者活动信息可换取额外奢侈品
+
+大猿人正在看着你！"
+]}]

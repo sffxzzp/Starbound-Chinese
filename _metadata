@@ -1,9 +1,11 @@
 {
   "author" : "星核汉化组",
-  "description" : "星核汉化组出品。\n除Codex部分已全部翻译完毕！\n翻译中，尽情期待更多内容。\n\n由于当前创意工坊mod无法正常加载字体文件而产生文本乱码。\n请将本mod复制到游戏mods目录下。\nmod位置应当位于steamapps\\workshop\\content\\211820\\{mod id}\\目录下。",
-  "priority" : -9999,
+  "description" : "星核汉化组出品。\n现已全部翻译完毕！\n本mod仅文本汉化，字体需另行安装。\n\n版权声明：\n本汉化mod全部内容皆为原创，仅供学习和交流使用。任何人和组织未经本组同意，不得用作商业用途。严禁任何人或组织剽窃、整合以及重新打包。欢迎转载，但请务必保留以上信息。\n\nIf you are experiencing text display error, Please add any one of Chinese-Font mod to your mods folder in Starbound game.",
   "friendlyName" : "简体中文汉化mod",
-  "link" : "http://starboundcn.com/",
+  "link" : "steam://url/CommunityFilePage/807695810",
   "name" : "SChinese",
-  "version" : "V106_161001_01_Pre07"
+  "priority" : -9999,
+  "requires" : ["base"],
+  "steamContentId" : "807695810",
+  "version" : "V106_161128_02"
 }

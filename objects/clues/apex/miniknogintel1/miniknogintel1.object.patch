@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一块循环显示科技发展部据点信息的屏幕。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "科技发展部信息屏"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这块显示器显示各种关于科技发展部据点的信息。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "这块屏幕显示了一些关于猿人政治据点的信息。这是猿首的脸吗？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这块屏幕显示了一些关于猿人政治据点的信息。这是大猿人的脸吗？"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "显示字字字和图图图片的玻璃。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这块屏幕循环显示猿人军事基地的信息。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这块屏幕循环显示大量科技发展部的信息－它还有一张猿首的大脸！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这块屏幕循环显示大量科技发展部的信息－它还有一张大猿人的大脸！"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这块屏幕的冷蓝字描述了科技发展部的宝贵信息。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "这块屏幕上有一些军事情报和一颗行星。很齐整。"}]

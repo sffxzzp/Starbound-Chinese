@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/starmapTypeDescription","value": {"default": "神秘的星","whitestar": "和平的星","orangestar": "温和的星","yellowstar": "放射性星","bluestar": "寒冷的星","redstar": "炽热的星"}},
-{"op": "replace","path": "/threatLevelToText/default","value": ["低","中等","冒险","危险","极限","不可思议","虚幻","***","***","***"]},
+{"op": "replace","path": "/threatLevelToText/default","value": ["Lv. 1 低","Lv. 2 中等","Lv. 3 冒险","Lv. 4 危险","Lv. 5 极限","Lv. 6 不可思议","Lv. 7 虚幻","Lv. 8 ***","Lv. 9 ***","Lv. 10 ***"]},
 {"op": "replace","path": "/threatLevelToText/moon","value": ["未知"]},
 {"op": "replace","path": "/threatLevelText/label/text","value": "威胁"},
 {"op": "replace","path": "/planetTypeLabel/text","value": "着陆地点分析"},

@@ -1,0 +1,20 @@
+[{"op": "replace","path": "/species","value": "人类"},
+{"op": "replace","path": "/title","value": "人类需要你！"},
+{"op": "replace","path": "/description","value": "陨日的宣传。"},
+{"op": "replace","path": "/contentPages","value": [
+"人类必须集结
+才能克服困扰
+我们的威胁！
+
+我们必须反对
+侵蚀我们宇宙
+的濒危物种！
+
+而你安然坐看
+邪恶生物腐坏
+我们的家园！
+
+人类团结。
+加入陨日。
+身着紫衣。"
+]}]

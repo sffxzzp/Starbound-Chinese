@@ -1,0 +1,17 @@
+[{"op": "replace","path": "/species","value": "叶族"},
+{"op": "replace","path": "/title","value": "叶族肉谱"},
+{"op": "replace","path": "/description","value": "一本叶族食谱，勉勉强强吧。"},
+{"op": "replace","path": "/contentPages","value": [
+"叶族肉谱
+
+需要：
+1簇用于烹调的火
+1块肉
+
+第1步：把肉放到火上
+第二步—把肉从火上取下来（不要用手）
+3：吃肉
+
+诀窍：不要吃活着的叶族人。
+不叫唤的肉烤起来比较容易"
+]}]

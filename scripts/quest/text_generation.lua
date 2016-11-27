@@ -1,5 +1,6 @@
 require("/scripts/util.lua")
 require("/scripts/rect.lua")
+require("/scripts/replaceTags.lua")
 require("/scripts/quest/paramtext.lua")
 require("/scripts/quest/directions.lua")
 
@@ -125,49 +126,13 @@ function QuestTextGenerator:generateText(textField, speakerField)
   local text = variants[self.random:randUInt(1, #variants)]
   return self:substituteTags(text)
 end
+
 function QuestTextGenerator:substituteTags(text)
   -- Substitute into the text until no further changes are made.
   -- (Enables recursive use of fluff variables and parameters within fluff.)
   local lastText
-  repeat
-    lastText = text
-    --text = sb.replaceTags(text, self.tags)
-    text = sbhehefish_replaceTags(text, self.tags)
-  until text == lastText
+    text = sb_replaceTags(text, self.tags)
   return text
-end
-function sbhehefish_replaceTags(text, selftags)
-  local temptext=text
-  if type(temptext)=="string" then
-  local replacetext=""
-  local replacetext_tablename=""
-  local pos1=0
-  local pos2=0
-  local rawText = string.gsub(text,"-","_")
-  rawText = string.gsub(rawText,"^","_")
-  rawText = string.gsub(rawText,"\\<","__")
-  rawText = string.gsub(rawText,"\\>","__")
-  pos1=string.find(rawText,"<")
-  if pos1 then
-    pos1=pos1-1
-    pos2=string.find(rawText,">",pos1)
-    if pos2 then
-      pos2=pos2-1
-      replacetext=string.sub(temptext,pos1,pos2)
-      if pos1+1<pos2 then
-        replacetext_tablename=string.sub(temptext,pos1+1,pos2-1)
-      end
-    end
-  end
-  if replacetext_tablename~="" then
-    for name,tag in pairs(selftags) do
-      if name==replacetext_tablename then
-        temptext=string.gsub(temptext,replacetext,tag)
-      end
-    end
-  end
-  end
-  return temptext
 end
 
 function currentQuestTextGenerator()

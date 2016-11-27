@@ -1,0 +1,10 @@
+[{"op": "replace","path": "/title","value": "规饭"},
+{"op": "replace","path": "/species","value": "叶族"},
+{"op": "replace","path": "/description","value": "叶族狩猎规范"},
+{"op": "replace","path": "/contentPages","value": [
+"狩猎的规饭：
+
+凑别的叶族人
+杀大的猎物
+赢下闪闪的战利品"
+]}]

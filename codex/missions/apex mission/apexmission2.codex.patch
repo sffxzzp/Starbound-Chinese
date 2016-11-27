@@ -1,0 +1,9 @@
+[{"op": "replace","path": "/title","value": "防御系统"},
+{"op": "replace","path": "/species","value": "猿族"},
+{"op": "replace","path": "/description","value": "从科技发展部要塞#1发往科技发展部总部的传真。"},
+{"op": "replace","path": "/contentPages","value": [
+"今日发布
+来自：科技发展部总部要塞#1
+发送至：科技发展部总部
+正将安装在#1的新防御系统的有效性和当前研究的武器系统的成功通报总部。以上这些均超出我们的期望。#1将给总部在建立所述系统时提供帮助。技术人员会根据要求立即派遣。"
+]}]

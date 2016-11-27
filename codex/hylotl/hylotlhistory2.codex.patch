@@ -1,0 +1,8 @@
+[{"op": "replace","path": "/species","value": "鲛人"},
+{"op": "replace","path": "/title","value": "学者之誓"},
+{"op": "replace","path": "/description","value": "一位鲛人学者所作的誓词。"},
+{"op": "replace","path": "/contentPages","value": [
+"作为学者，我们遵守这样的约定：求取知识，肩负使命；研习历史，以致铭记；而济天下，而平天下。
+
+这是我们庄严和不坠的誓言；因为知识即是真理，而真理即是启示。"
+]}]

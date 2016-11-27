@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一张大宣传报，放在人人都能看见的地方。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "科技发展部宣传报"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "这张宣传报的目的就是为了让每个路人都看见它。是有关猿首和科技发展部的信息。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张宣传报的目的就是为了让每个路人都看见它。是有关大猿人和科技发展部的信息。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这张报纸大得足够能在路过时看见，我想这才是重点。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想知道有多少树树树被砍伐来做这个纸质标标标志。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "害怕。这张宣传报的大标题和气势雄伟的照片，似乎是为了让人们因为恐惧而顺从。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这张宣传报没有多少能让你思考的内容。更多的是关于猿首和科技发展部的宣传。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张宣传报没有多少能让你思考的内容。更多的是关于大猿人和科技发展部的宣传。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这张宣传报可能开始看起来像是通知，但很明显，这是恐吓。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "如果这是一张悬赏海报我可能会更感兴趣，但它不是。"}]

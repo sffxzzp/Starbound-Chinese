@@ -1,0 +1,12 @@
+[{"op": "replace","path": "/species","value": "人类"},
+{"op": "replace","path": "/title","value": "守护团代码"},
+{"op": "replace","path": "/description","value": "大地守护团的官方代码。"},
+{"op": "replace","path": "/contentPages","value": [
+"我们是大地守护团。从地球上的家，我们把消息带给整个宇宙的人。
+
+我们接受任何种族，阶级，或者宗教。我们提供住宅，指导，教育和安全。
+
+我们的目标是宇宙的团结与和谐。
+
+我们的武器向任何人开放使用。"
+]}]

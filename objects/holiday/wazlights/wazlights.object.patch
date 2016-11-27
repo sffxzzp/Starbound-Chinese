@@ -5,4 +5,4 @@
 { "op" : "replace", "path" : "/floranDescription", "value" : "Waaaazzzz？Wazzat。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "疑惑。什么是“waz”？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "Waaaaaaaz。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个“waz”有什么更深沉的意思么？"}]
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个“waz”有什么更深的含义么？"}]

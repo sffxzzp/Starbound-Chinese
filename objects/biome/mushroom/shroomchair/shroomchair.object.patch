@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一张蘑菇椅子，或者其实是株毒菌？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "Shroom Chair"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蘑菇椅"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这把椅子坐着感觉像海绵一样不可思议。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这把椅子的背会擦伤我的羽毛。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人爱爱爱死这把椅子了。"},

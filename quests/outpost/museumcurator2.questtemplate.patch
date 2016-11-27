@@ -1,3 +1,3 @@
 [{"op": "replace","path": "/title","value": "^green;猿族领导人"},
-{"op": "replace","path": "/text","value": "我一直在做文化方面的研究，而且我觉得大猿是我的博物馆猿人文化重要的一部分。^green;那么请问你能给我带一个^orange;大猿半身像^white;吗？我听说那玩意儿还是比较常见的，所以你应该能在某个猿人基地找到它。"},
+{"op": "replace","path": "/text","value": "我一直在做文化方面的研究，而且我觉得大猿人是我的博物馆猿人文化重要的一部分。^green;那么请问你能给我带一个^orange;大猿人半身像^white;吗？我听说那玩意儿还是比较常见的，所以你应该能在某个猿人基地找到它。"},
 {"op": "replace","path": "/completionText","value": "这对于博物馆来说真是太完美了！太谢谢你了。"}]

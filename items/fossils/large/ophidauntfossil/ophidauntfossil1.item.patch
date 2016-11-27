@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "‘恐惧之爪’的头骨;"},
-{ "op" : "replace", "path" : "/description", "value" : "‘恐惧之爪’的头骨化石。"},
-{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "‘恐惧之爪’化石"},
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "恐惧之爪的头骨;"},
+{ "op" : "replace", "path" : "/description", "value" : "恐惧之爪的头骨化石。"},
+{ "op" : "replace", "path" : "/completeSetDescriptions/shortdescription", "value" : "恐惧之爪化石"},
 { "op" : "replace", "path" : "/completeSetDescriptions/description", "value" : "这个吐槽蛇的遥远的祖先是在海洋中捕猎的，而非陆地。"}]

@@ -1,0 +1,3 @@
+[{"op": "add","path": "/species","value": "其他"},
+{"op": "replace","path": "/title","value": "古代字母表"},
+{"op": "replace","path": "/description","value": "翻译古代符文的指南。"}]

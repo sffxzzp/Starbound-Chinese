@@ -1,0 +1,11 @@
+[{"op": "replace","path": "/species","value": "猿族"},
+{"op": "replace","path": "/title","value": "科技发展部危机规避"},
+{"op": "replace","path": "/description","value": "一份科技发展部公告的抄本。"},
+{"op": "replace","path": "/contentPages","value": [
+"这是一份科技发展部公共服务通告
+
+所有的水源都被发现含有致命的病原体//
+科技发展部辛劳的医生已经发现的治疗方法//
+接种疫苗就表示同时免费参加“返祖进化”。这不是“可选项”//
+公民必须立即向当地市政厅报告并接种疫苗//"
+]}]

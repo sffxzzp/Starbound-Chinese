@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "召唤属于你自己的电子人村民！"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "电子人生成器"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以创建一个机器人军队然后拿下猿首。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我可以创建一个机器人军队然后拿下大猿人。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "或许这些电子人能变成很好的工人。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人召召召唤金属伙伴！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "鼓舞。这项技术可以让我们的种族成倍增长。"},

@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/species","value": "翼族"},
+{"op": "replace","path": "/title","value": "观星者的珍宝"},
+{"op": "replace","path": "/description","value": "一份关于阿沃斯之光和翼族人技术的情报文件。"},
+{"op": "replace","path": "/contentPages","value": [
+"阿沃斯之光，在翼族人社会被认为是来自克鲁西斯的神圣的礼物，只在翼族人母星阿沃斯自然产生。这些神圣的宝石无法被切割，因而保留了自然的形态。叶族人高级祭司，被称为观星者，拥有开采它们的独家权利，侵入他们的矿场会被处以死刑。"
+]}]

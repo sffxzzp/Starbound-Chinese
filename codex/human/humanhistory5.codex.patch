@@ -1,0 +1,10 @@
+[{"op": "replace","path": "/species","value": "人类"},
+{"op": "replace","path": "/title","value": "地球的紧急广播"},
+{"op": "replace","path": "/description","value": "在地球遭到灾难性打击时发出的最后一条绝望的消息。"},
+{"op": "replace","path": "/contentPages","value": [
+"S.O.S.—保存我们的物种  //
+地球正遭到一种不明有机组织攻击。破坏即将来临  //
+由于没有主要星球外定居点，无法进行疏散  //
+如果收到这个消息的你是人类，我们目前已是濒危物种  //
+大地守护团的未来掌握在你们手中  //"
+]}]

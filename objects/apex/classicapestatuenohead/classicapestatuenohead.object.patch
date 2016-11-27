@@ -1,5 +1,5 @@
-[{ "op" : "replace", "path" : "/description", "value" : "无头猿首雕塑。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "无头猿首雕像"},
+[{ "op" : "replace", "path" : "/description", "value" : "无头大猿人雕塑。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "无头大猿人雕像"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我们的光荣伟大的无头脑领袖…"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个用于鼓舞群族骄傲的塑像？它看起来遭到了破坏。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶人喜欢没脑袋的猴子。"},

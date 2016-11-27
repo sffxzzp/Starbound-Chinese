@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "‘死亡主宰’的毒刺"},
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "死亡主宰的毒刺"},
 { "op" : "replace", "path" : "/description", "value" : "死亡主宰的毒刺化石。"}]

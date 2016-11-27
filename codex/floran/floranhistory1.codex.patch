@@ -1,0 +1,16 @@
+[{"op": "replace","path": "/species","value": "叶族"},
+{"op": "replace","path": "/title","value": "如何猎取肉"},
+{"op": "replace","path": "/description","value": "一本关于狩猎技术的叶族老书。封面由开裂的骨头制成。"},
+{"op": "replace","path": "/contentPages","value": [
+"叶族狩猎指导书
+
+ 肉人以为植物不喜欢狩猎，所有植物都和树木一样
+
+ 肉人蠢蠢，叶族人不止猎杀他们，还很享受狩猎过程
+
+ 第一步—跑得比猎物快以便抓住他们
+
+ 窍门2—在他们戳你之前戳死他们
+
+ 狩猎愉快"
+]}]

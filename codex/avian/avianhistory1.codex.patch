@@ -1,0 +1,12 @@
+[{"op": "replace","path": "/species","value": "翼族"},
+{"op": "replace","path": "/title","value": "阿沃斯经典：章节1:1:1"},
+{"op": "replace","path": "/description","value": "翼族圣书的一段摘录。"},
+{"op": "replace","path": "/contentPages","value": [
+"众做周知，阿沃斯曾缀于星空之外。
+
+那里没有所谓开端，因为翼族永恒不朽于尘世之外。
+
+于神国之中，至高无上的羽翼者克鲁西斯的怀抱之内，他们生活在此。
+
+克鲁西斯赐予他们真正的羽翼，他们亦以信仰为报。"
+]}]

@@ -1,5 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一块很大的冰。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "冰块"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一块冰。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一块冰的一角。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "冷冷冷冰冰的冰。叶族感觉冷若冰霜了。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "无感觉。冰冻了的水。"},

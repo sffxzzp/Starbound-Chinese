@@ -1,0 +1,10 @@
+[{"op": "replace","path": "/title","value": "我是如何成为地主的 4"},
+{"op": "replace","path": "/species","value": "人类"},
+{"op": "replace","path": "/description","value": "关于一个成为了地主的探险者的连载。"},
+{"op": "replace","path": "/contentPages","value": [
+"作为一个叶族人，安比利看起来非常喜欢水。他总是在下雨时打开门跑出去淋雨。
+
+昨天我回到家发现地下室已经被水淹没，安比利在彻底湿透后决定在我的火炉旁边烤干。幸好我用墓地石砖加固了墙壁。
+
+也许他会喜欢一个鱼缸？"
+]}]

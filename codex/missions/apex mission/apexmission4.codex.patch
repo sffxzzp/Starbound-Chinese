@@ -1,0 +1,19 @@
+[{"op": "replace","path": "/species","value": "猿族"},
+{"op": "replace","path": "/title","value": "内容页"},
+{"op": "replace","path": "/description","value": "科技发展部重要文档中被撕裂的一页。"},
+{"op": "replace","path": "/contentPages","value": [
+"预算分配提案
+
+1 概述
+1.1 民事审查和安全
+1.2 研究与开发
+
+2 社会团结
+2.1 再教育
+2.2 传播大猿人
+
+3 抑制叛军
+3.1 识别叛乱分子
+3.2 军事行动
+3.3 惩罚"
+]}]

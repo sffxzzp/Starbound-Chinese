@@ -1,0 +1,10 @@
+[{"op": "replace","path": "/species","value": "猿族"},
+{"op": "replace","path": "/title","value": "VEP的副作用"},
+{"op": "replace","path": "/description","value": "一份科技发展部的内部报告。"},
+{"op": "replace","path": "/contentPages","value": [
+"^red;仅限内部传播^white;
+
+返祖进化发布前的最终报告：精神进化和身体退化之间的交换是不可避免的。骨骼极度改变，毛发生长大大增强。大脑活动效率提高到300%。
+
+结论：对我们物种上的改变将会是永久的。立即着手研究逆转身体退化。"
+]}]

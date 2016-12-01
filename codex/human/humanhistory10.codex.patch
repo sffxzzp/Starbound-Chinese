@@ -1,6 +1,6 @@
 [{"op": "replace","path": "/species","value": "人类"},
 {"op": "replace","path": "/title","value": "这不是个虫子，这是个生物"},
-{"op": "replace","path": "/description","value": "艾丝特·布莱特撰写的虫子分类，第一完整版。"},
+{"op": "replace","path": "/description","value": "艾丝特·布莱特撰写的昆虫分类，第一完整版。"},
 {"op": "replace","path": "/contentPages","value": [
 "灰烬虫
 这些虫子似乎从灰烬云中飞出。

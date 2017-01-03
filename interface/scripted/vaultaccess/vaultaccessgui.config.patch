@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/gui/windowtitle/title","value": "庇护所大门"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "一个异次元庇护所"},
+{"op": "replace","path": "/gui/closeVaultButton/caption","value": "关闭庇护所"},
+{"op": "replace","path": "/gui/enterVaultButton/caption","value": "进入庇护所"},
+{"op": "replace","path": "/gui/lblTimeDescription/value","value": "剩余时间："}]

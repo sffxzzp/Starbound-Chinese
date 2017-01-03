@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这中先进的古代技术能够提高一些武器的效果。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "武器升级台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这块砧还能用，我在想它是什么做的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这块砧来源于古代。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人按下按钮。发生啥事没有！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这块砧上的技术的应用就像他们古代一样先进。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "经受住时间考验的一块砧。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这块砧看起来极其古老，但是还能使用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这块砧看起来很古代…"}]

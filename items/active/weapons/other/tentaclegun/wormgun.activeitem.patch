@@ -1,3 +1,4 @@
 [{"op": "replace","path": "/description","value": "这把枪内含一团蠢蠢欲动的变异外星蠕虫。"},
 {"op": "replace","path": "/shortdescription","value": "外星蠕虫枪"},
-{"op": "replace","path": "/altAbility/name","value": "蠕虫爆发"}]
+{"op": "replace","path": "/altAbility/name","value": "蠕虫爆发"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "外星蠕虫枪^yellow;^reset;"}]

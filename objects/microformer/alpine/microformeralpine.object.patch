@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "将星球的一部分转变为怪石嶙峋的高地。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "多山微型转换器"}]

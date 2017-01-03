@@ -1,2 +1,3 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个寒冷的飞镖与冰冻核心。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "冷冻飞镖"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冷冻飞镖"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "冷冻飞镖^yellow;^reset;"}]

@@ -149,7 +149,7 @@ function capturable.captureStatus()
   if touchDamageConfig then
     stats.attack = touchDamageConfig.damage
     stats.attack = stats.attack * (config.getParameter("touchDamageMultiplier") or 1)
-    stats.attack = stats.attack * root.evalFunction("monsterLevelTouchDamageMultiplier", monster.level())
+    stats.attack = stats.attack * root.evalFunction("monsterLevelPowerMultiplier", monster.level())
     stats.attack = stats.attack * stats.powerMultiplier
   end
 

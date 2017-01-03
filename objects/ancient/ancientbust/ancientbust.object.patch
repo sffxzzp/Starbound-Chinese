@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一座古代耕耘者形象的半身像，手里的球在发光。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代半身像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这座古代雕像光源似乎仍在正常工作。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "它描绘了一个强大的古代种族。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人喜喜喜欢发光的太空人。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这座古代雕像仍然在正常发光。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这座古代雕像仍然在发光。无论是谁造的，他们很清楚自己在干什么。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这座雕像发出的光营造出了一种诡异的气氛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "什么情况。难以置信这个古代光源还在工作。"}]

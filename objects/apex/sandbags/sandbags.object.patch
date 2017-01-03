@@ -1,2 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一堆沙袋。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "沙袋"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "沙袋"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些沙袋简单实用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一些沉重的袋子，或许是装了沙子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "巨大的沙沙沙袋袋袋子看起来很重。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。里面的沙子让这些大袋子变成了令人难忘的障碍物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些巨大的沙袋，他们组成了一个很好的障碍物。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一堆沙袋。沙子…多么多才多艺的材料。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这些旧沙袋堆得老高。"}]

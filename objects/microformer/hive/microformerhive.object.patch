@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "将星球的一部分转变为外星无脊椎动物的巢穴。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "虫子微型转换器"}]

@@ -1,2 +1,3 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这把手枪自行生产弹药。噫。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "软骨枪"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "软骨枪"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "软骨枪^yellow;^reset;"}]

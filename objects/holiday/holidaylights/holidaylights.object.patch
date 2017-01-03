@@ -1,5 +1,5 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一串串小的、闪烁的彩灯。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "圣诞小彩灯"},
+[{ "op" : "replace", "path" : "/description", "value" : "这一串闪烁的小彩灯是最容易产生节日气氛的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "节日彩灯"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这些小小的灯很漂亮。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "很难让人不喜欢这些漂亮的灯。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "多么闪闪闪耀。"},

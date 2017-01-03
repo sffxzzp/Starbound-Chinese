@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "将星球的一部分转变为恶心的肉质。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "肉质微型转换器"}]

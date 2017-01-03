@@ -1,3 +1,4 @@
 [{"op": "replace","path": "/effects/organic/hit/particles/0/text","value": "^shadow;格档"},
 {"op": "replace","path": "/effects/robotic/hit/particles/0/text","value": "^shadow;格档"},
-{"op": "replace","path": "/effects/wooden/hit/particles/0/text","value": "^shadow;格档"}]
+{"op": "replace","path": "/effects/wooden/hit/particles/0/text","value": "^shadow;格档"},
+{"op": "replace","path": "/effects/stone/hit/particles/0/text","value": "^shadow;格档"}]

@@ -21,6 +21,7 @@
 {"op": "replace","path": "/planetTypeToDescription/moon","value": ["孤单的^#949493;卫星^white;^red;没有可以呼吸的大气^white;。表面直接暴露在宇宙中，地下有燃料。感到寂寞荒凉的可能性：92%。","这个^#949493;卫星^white;上没有生命并且也^red;没有大气^white;。然而，这里有丰富的燃料—扫描显示地标以下埋藏了大量燃料。","这个^#949493;卫星^white;^red;没有可以呼吸的大气^white;，但地下的洞穴含有丰富的燃料。总结：有用，但不诱人。"]},
 {"op": "replace","path": "/planetTypeToDescription/asteroids","value": ["一个^#d7711e;小行星^white;群。读数显示这里^red;没有大气^white;和生命。只有无尽的虚无，和大量可用来建造的空间。","一个无生命的^#d7711e;小行星^white;群。^red;没有大气^white;：从遥远的空间漂流而来，锚定在一个恒星系内…一个适合建房子的地方。","一个沿着椭圆轨道漂移的^#d7711e;小行星^white;群。读数显示^red;这里没有大气^white;。以及其他任何东西…"]},
 {"op": "replace","path": "/planetTypeToDescription/barren","value": ["这个位置是^#999966;荒芜^white;且无生命的。读数显示这里什么都没有，一个空地方。","这个地方是^#999966;荒芜^white;的，不适宜任何形式的生命。这里什么都没有…","读数显示着陆点有着不寻常的色调。并且，是个^#999966;荒芜^white;且适合建造的地方。"]},
+{"op": "replace","path": "/terraformedPlanetDescription","value": ["这个星球已经被大规模转化而改变的超出认知。","转化让这个星球可以安全居住，虽然外形上看起来不太自然。","这个星球的气候和生态系统已转化大改变。"]},
 {"op": "replace","path": "/planetTypeToDescription/ancientgateway","value": ["一个来源不明的^#571cff;古代门户^white;；有关巨大力量的神秘建筑。"]},
 {"op": "replace","path": "/worldTypeToDescription/gasgiant","value": ["气体相互交织形成的大球。没有可以落脚的地方。","一个巨大气体球。这个气体星球没有坚硬的表面，仅仅是一个旋转的气体集合。","无法着陆。气体星球的压力和能将人撕裂的风会立即杀死你。"]},
 {"op": "replace","path": "/dayLengthText/label/text","value": "日周期"},

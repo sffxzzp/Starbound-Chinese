@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一扇使用铜管框架的结实木门。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽春天门"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽弹簧门"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我好奇这扇门里的铜管是否能让它变得更坚固？"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "门上的铜管确实让这扇门变得与众不同。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人想想想知道这扇门是否具有战术用用用途？"},

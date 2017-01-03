@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "担心。这张吊床能承受我的重量吗？"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "吊床！漂泊者的床。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "睡在这样简陋的床上可谈不上什么优雅。"},
-{ "op" : "replace", "path" : "/novakidlDescription", "value" : "哈，一张吊床？我想我能偷会儿懒了。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "哈，一张吊床？我想我能偷会儿懒了。"}]

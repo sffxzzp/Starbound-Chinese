@@ -1,2 +1,3 @@
 [{ "op" : "replace", "path" : "/description", "value" : "毁灭性的能量正发出劈啪声。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "新型环刃"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "新型环刃"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "新型环刃^yellow;^reset;"}]

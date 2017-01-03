@@ -1,2 +1,2 @@
-[{"op": "replace","path": "/paneLayout/windowtitle/title","value": " - 警告 - "},
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "警告"},
 {"op": "replace","path": "/paneLayout/ok/caption","value": "OK"}]

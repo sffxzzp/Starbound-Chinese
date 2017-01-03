@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个巨大的破碎壁画。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代壁画"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个壁画上的发光符号发出着冷光。我在想它有多古老了？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我有一个奇怪的感觉，在很长一段时间里我是第一个看到这个的人。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人没没没时间看大字。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "牢骚。这个破碎的牌匾上有难以置信的古代铭文。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一些令人兴奋的古代发光文字。我在想它说的什么内容？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我在想这个牌匾是不是故意放在这里让我发现的？细思恐极。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我是不是以前见过这东西啊？算了，我一定又在胡思乱想了。"}]

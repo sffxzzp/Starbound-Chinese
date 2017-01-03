@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/gui/windowtitle/title","value": "神秘交易者"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "用物品交易一把神秘的钥匙"},
+{"op": "replace","path": "/gui/lblOfferedTradeLabel/value","value": "目前提供的交易："},
+{"op": "replace","path": "/gui/lblTradeItemName/value","value": "焦火之心"},
+{"op": "replace","path": "/gui/lblKeyName/value","value": "庇护所钥匙"},
+{"op": "replace","path": "/gui/btnTrade/caption","value": "交易"}]

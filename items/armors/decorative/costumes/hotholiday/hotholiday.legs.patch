@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "圣诞奶奶的传统短裙。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "圣诞奶奶裙子"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这个节日裙子穿着好看！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "节日裙"}]

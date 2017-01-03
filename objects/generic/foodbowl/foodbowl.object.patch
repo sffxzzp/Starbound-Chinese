@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个宠物食碗，当你不在的时候给你的宠物留点好吃的！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "食碗"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "可以给宠物在这个碗里留点食物。"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "如果我把食物放在这个碗里，我的宠物会知道这是给它们的。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "宠物食碗里里里可以装食物。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "可靠。将我的宠物喂得好好的，可以让它们茁壮成长而快乐。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个碗正好可以放我宠物最喜欢的食物。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个小碗可以为宠物盛放食物。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个小食槽是用来给宠物喂食的。"}]

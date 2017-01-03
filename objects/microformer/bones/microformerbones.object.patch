@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "将星球的一部分转变为散落骨头的干燥废土。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "骨头微型转换器"}]

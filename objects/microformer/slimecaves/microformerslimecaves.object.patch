@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "将星球的一部分转变为黏糊糊的黏液洞。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "黏液微型转换器"}]

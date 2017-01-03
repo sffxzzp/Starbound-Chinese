@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "地形锻造"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "制作生态转换器来转化整个星球！"},
+{"op": "replace","path": "/paneLayout/lblSchematics/value","value": "^#b9b5b2;蓝图"},
+{"op": "replace","path": "/paneLayout/lblProducttitle/value","value": "^#b9b5b2;生产"},
+{"op": "replace","path": "/paneLayout/btnCraft/caption","value": "锻造"}]

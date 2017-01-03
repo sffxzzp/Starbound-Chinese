@@ -1,2 +1,3 @@
 [{ "op" : "replace", "path" : "/description", "value" : "强大的死亡主宰的断腿。这可以作为一个强大的武器。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "死亡主宰爪"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "死亡主宰爪"},
+{"op": "replace","path": "/upgradeParameters/shortdescription","value": "死亡主宰爪^yellow;^reset;"}]

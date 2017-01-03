@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个庞大的古代机器，可以用来干什么呢？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "地形锻造仪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台庞大的古代机器由于神秘能量在嗡嗡作响。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台古代机器依然能够操作！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "古代机器能量闪烁。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "震惊。这台机器是古代的，但是还能操作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这台古代机器似乎以神秘能能量为能源。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这台古代机器的设计充满典雅的风范…一看就是大师手艺。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这里这台机器看起来很古代，而且似乎还能用。"}]

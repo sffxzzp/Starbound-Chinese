@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "排出气体"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "喷气口"}]

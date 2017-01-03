@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "装饰着一只眼睛的可怕的古代箱子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "古代精华箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个箱子看起来又旧又诡异。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个箱子看起来又旧又诡异。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可可可怕的箱箱箱子让叶族人很紧紧紧张。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。那只装饰箱子的眼睛似乎在打量我。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个诡异的旧箱子。敢打开吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我被教导对神秘的箱子要谨慎。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不是很在乎这个箱子对我的看法。"}]

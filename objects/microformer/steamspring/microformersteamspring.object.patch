@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "将星球的一部分转变为冰雪为基础的布满奇怪蒸汽管道的生态。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽微型转换器"}]

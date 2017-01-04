@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "翼族"},
-{"op": "replace","path": "/title","value": "克鲁西斯之眼"},
+[{"op": "replace","path": "/title","value": "克鲁西斯之眼"},
 {"op": "replace","path": "/description","value": "一位翼族学者的技术文献。"},
 {"op": "replace","path": "/contentPages","value": [
 "对于翼族人来说，对机械原理的理解来之不易。我们并非生来就是做工程师的种族，反而更适合作为战士和祭司。这是自然的事情，但是这在我们被赐予了阿沃斯之光之后永远发生了改变。

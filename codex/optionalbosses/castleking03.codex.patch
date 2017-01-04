@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "冒充的国王#3"},
+[{"op": "replace","path": "/title","value": "冒充的国王#3"},
 {"op": "replace","path": "/description","value": "一则电子人民间故事。"},
 {"op": "replace","path": "/contentPages","value": [
 "日复一日，骇翼怒气更甚了。实际上，他愤怒到把他的臣民从城堡的塔楼上扔下去，反而使人口进一步减少，令问题更加复杂了。

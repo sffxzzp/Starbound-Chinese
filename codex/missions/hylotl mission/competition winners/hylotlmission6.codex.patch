@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "鲛人"},
-{"op": "replace","path": "/title","value": "笑话书（科技发展部出版）"},
+[{"op": "replace","path": "/title","value": "笑话书（科技发展部出版）"},
 {"op": "replace","path": "/description","value": "作者的名字“雪松尖牙”写在了封面上。"},
 {"op": "replace","path": "/contentPages","value": [
 "提问：为什么鲛人要离开一条溪流呢？

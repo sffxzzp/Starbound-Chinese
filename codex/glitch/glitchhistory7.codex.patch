@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "电子人"},
-{"op": "replace","path": "/title","value": "塞满肚囊"},
+[{"op": "replace","path": "/title","value": "塞满肚囊"},
 {"op": "replace","path": "/description","value": "由鲛人博士“K. 魚”所作的一份关于电子人医疗的观察记录。"},
 {"op": "replace","path": "/contentPages","value": [
 "电子人的确会进食，正如同我们会吃饭。即便，并不出意料地，他们的消化系统有很大的不同。

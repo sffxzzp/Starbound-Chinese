@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "叶族肉谱"},
+[{"op": "replace","path": "/title","value": "叶族肉谱"},
 {"op": "replace","path": "/description","value": "一本叶族食谱，勉勉强强吧。"},
 {"op": "replace","path": "/contentPages","value": [
 "叶族肉谱

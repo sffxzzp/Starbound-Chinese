@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "鲛人"},
-{"op": "replace","path": "/title","value": "一本关于叶族的论著"},
+[{"op": "replace","path": "/title","value": "一本关于叶族的论著"},
 {"op": "replace","path": "/description","value": "一本诉说和叶族动荡种族关系的历史书籍。"},
 {"op": "replace","path": "/contentPages","value": [
 "几代之前，叶族文明几近消亡：一个哲学家和艺术家的种族被野蛮部落的残暴袭击推到了灭亡的边缘。

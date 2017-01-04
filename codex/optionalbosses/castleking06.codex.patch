@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "冒充的国王#6"},
+[{"op": "replace","path": "/title","value": "冒充的国王#6"},
 {"op": "replace","path": "/description","value": "一则电子人民间故事。"},
 {"op": "replace","path": "/contentPages","value": [
 "当那全副武装的电子人士兵像脱缰的野马般冲向国王骇翼的时候，他还在进行着感叹并赞赏。但当那士兵在冲来之前降低刀刃对着他的时候，他才意识到出了问题。

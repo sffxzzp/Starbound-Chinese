@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "人类"},
-{"op": "replace","path": "/title","value": "大地守护团宣言"},
+[{"op": "replace","path": "/title","value": "大地守护团宣言"},
 {"op": "replace","path": "/description","value": "大地守护团的官方宣言。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们是大地守护团。从地球，我们的家园，我们将和平的信息带往宇宙的每一个生命体。

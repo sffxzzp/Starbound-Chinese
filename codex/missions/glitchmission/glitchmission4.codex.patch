@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "致拜隆先生"},
-{"op": "replace","path": "/species","value": "电子人"},
 {"op": "replace","path": "/description","value": "一封给拜隆先生的信，来自一名愤怒的电子人公务员。"},
 {"op": "replace","path": "/contentPages","value": [
 "致拜隆先生，

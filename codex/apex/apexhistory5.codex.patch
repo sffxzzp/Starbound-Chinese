@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "猿族"},
-{"op": "replace","path": "/title","value": "反对者在我们身边！"},
+[{"op": "replace","path": "/title","value": "反对者在我们身边！"},
 {"op": "replace","path": "/description","value": "科技发展部发布给猿人民众的一份公告。"},
 {"op": "replace","path": "/contentPages","value": [
 "^red;谴责反叛者的谎言！^white;

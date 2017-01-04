@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "千万不要邀请星之子喝茶"},
-{"op": "replace","path": "/species","value": "鲛人"},
 {"op": "replace","path": "/description","value": "散落写给好友五木君的信。"},
 {"op": "replace","path": "/contentPages","value": [
 "我亲爱的五木君，

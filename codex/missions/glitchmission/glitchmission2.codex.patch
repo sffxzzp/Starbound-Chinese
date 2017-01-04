@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "一本关于冒险的大部头"},
-{"op": "replace","path": "/species","value": "电子人"},
 {"op": "replace","path": "/description","value": "一部关于一次伟大冒险功绩的概况。"},
 {"op": "replace","path": "/contentPages","value": [
 "拜隆先生（电子人）：享受着退休生活。

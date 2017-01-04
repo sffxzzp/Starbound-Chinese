@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "翼族"},
-{"op": "replace","path": "/title","value": "雅洛里的日记 条目4"},
+[{"op": "replace","path": "/title","value": "雅洛里的日记 条目4"},
 {"op": "replace","path": "/description","value": "一个翼族升华者的个人日记。"},
 {"op": "replace","path": "/contentPages","value": [
 "明天就是节日了，同时也是我的升华仪式！我没法停止想象：明天黎明前我会由观星者佐林亲自唤醒，然后他和我会一起祷告。

@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "死亡主宰的分析"},
-{"op": "replace","path": "/species","value": "叶族"},
 {"op": "replace","path": "/description","value": "一份绿手指关于死亡主宰的分析。"},
 {"op": "replace","path": "/contentPages","value": [
 "这是我所见过最大的死亡主宰，浑身被树枝一样茂密的一大片骨头所覆盖。

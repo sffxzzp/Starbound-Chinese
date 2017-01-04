@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "骨龙"},
-{"op": "replace","path": "/species","value": "电子人"},
 {"op": "replace","path": "/description","value": "骨龙的广告"},
 {"op": "replace","path": "/contentPages","value": [
 "龙并不真的存在，当然不包括骨龙。从骨龙之中我可以感受到真实的外表。这些生锈的钢铁机器被装在结实耐用的箱子里，箱子的材质是仿骨(TM)—已知宇宙中最像骨头的物质*。

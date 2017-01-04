@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "猿族"},
-{"op": "replace","path": "/title","value": "“项目：脱猿”实验报告"},
+[{"op": "replace","path": "/title","value": "“项目：脱猿”实验报告"},
 {"op": "replace","path": "/description","value": "一份科技发展部的机密实验报告的一个片段"},
 {"op": "replace","path": "/contentPages","value": [
     "5062号试验：观察

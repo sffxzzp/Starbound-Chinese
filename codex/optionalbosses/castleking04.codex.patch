@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "冒充的国王#4"},
+[{"op": "replace","path": "/title","value": "冒充的国王#4"},
 {"op": "replace","path": "/description","value": "一则电子人民间故事。"},
 {"op": "replace","path": "/contentPages","value": [
 "电子人铁匠没日没夜的打造了符合主骇翼心意的军队。当然，这只军队无法战斗，甚至是移动，但从某些角度来看确实很棒。

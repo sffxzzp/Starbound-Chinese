@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "电子人"},
-{"op": "replace","path": "/title","value": "天任所生？一"},
+[{"op": "replace","path": "/title","value": "天任所生？一"},
 {"op": "replace","path": "/description","value": "一本电子人起源书籍中的专家。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们难道不是一种令人陶醉的种族吗？在早远之时获得自我意识的电子人令我陶醉。

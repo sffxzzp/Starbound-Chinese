@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "洒兽"},
-{"op": "replace","path": "/species","value": "鲛人"},
 {"op": "replace","path": "/description","value": "迈克“K德拉寇尼斯”金那令人好奇的故事。"},
 {"op": "replace","path": "/contentPages","value": [
 "对于每一场冒险都有一个不成文的规定，一定要有怪物。

@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "诺克斯的日记"},
-{"op": "replace","path": "/species","value": "鲛人"},
 {"op": "replace","path": "/description","value": "陨日邪教教首的私人日记。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们有权拥有宇宙，它属于人类—陨日教的教徒们也许不能理解这一点，但至少他们能把握住行动的方法。

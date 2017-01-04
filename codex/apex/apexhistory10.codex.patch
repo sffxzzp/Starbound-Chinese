@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "猿族"},
-{"op": "replace","path": "/title","value": "反叛者调度"},
+[{"op": "replace","path": "/title","value": "反叛者调度"},
 {"op": "replace","path": "/description","value": "猿人反叛者基地之间的一条消息。"},
 {"op": "replace","path": "/contentPages","value": [
 "反叛者调度

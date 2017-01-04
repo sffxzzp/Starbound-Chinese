@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "叶族族谱"},
+[{"op": "replace","path": "/title","value": "叶族族谱"},
 {"op": "replace","path": "/description","value": "一本写给初出茅庐的新任绿手指们的建议书，由绿手指长老写就。"},
 {"op": "replace","path": "/contentPages","value": [
 "要成为一名成功的绿手指，首先必须了解我们种族家庭结构的复杂性。正如你已知晓的，在叶族文化中没有“父母”的概念，绿手指必须作为部落的权威扮演家长这一角色。

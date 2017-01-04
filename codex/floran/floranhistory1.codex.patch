@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "如何猎取肉"},
+[{"op": "replace","path": "/title","value": "如何猎取肉"},
 {"op": "replace","path": "/description","value": "一本关于狩猎技术的叶族老书。封面由开裂的骨头制成。"},
 {"op": "replace","path": "/contentPages","value": [
 "叶族狩猎指导书

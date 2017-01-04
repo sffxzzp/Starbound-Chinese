@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "看门人准则"},
-{"op": "replace","path": "/species","value": "翼族"},
 {"op": "replace","path": "/description","value": "大君王神庙看门人的准则。"},
 {"op": "replace","path": "/contentPages","value": [
 "—永远准备着且警示着

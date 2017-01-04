@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "鲛人"},
-{"op": "replace","path": "/title","value": "愚蠢的科技发展部"},
+[{"op": "replace","path": "/title","value": "愚蠢的科技发展部"},
 {"op": "replace","path": "/description","value": "摘自鲛人探险家平木·圣咏的日志。"},
 {"op": "replace","path": "/contentPages","value": [
 "作者：鲛人冒险家平木·圣咏

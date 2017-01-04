@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "铁喙的日志"},
-{"op": "replace","path": "/species","value": "鲛人"},
 {"op": "replace","path": "/description","value": "一份《逃生第23天》节选。作者：铁喙。"},
 {"op": "replace","path": "/contentPages","value": [
 "我只是想用微波炉。

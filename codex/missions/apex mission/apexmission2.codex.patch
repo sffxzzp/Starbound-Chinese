@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "防御系统"},
-{"op": "replace","path": "/species","value": "猿族"},
 {"op": "replace","path": "/description","value": "从科技发展部要塞#1发往科技发展部总部的传真。"},
 {"op": "replace","path": "/contentPages","value": [
 "今日发布

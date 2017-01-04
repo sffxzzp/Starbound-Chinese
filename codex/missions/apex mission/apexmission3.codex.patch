@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "关于叛军基地的报告"},
-{"op": "replace","path": "/species","value": "猿族"},
 {"op": "replace","path": "/description","value": "科技发展部内部的一份关于叛军基地的报告。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们现已能够确定当前所有剩余猿族部落都参与了叛乱活动。

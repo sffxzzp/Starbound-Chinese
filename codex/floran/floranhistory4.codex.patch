@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "叶族人的行为规范"},
+[{"op": "replace","path": "/title","value": "叶族人的行为规范"},
 {"op": "replace","path": "/description","value": "一本旨在帮助绿手指们在部落间鼓励叶族人规范行为的书。"},
 {"op": "replace","path": "/contentPages","value": [
 "在当了多年的绿手指后我可以证实，规范的行为是叶族部落生存的关键。最初也是最重要的，我建议制止同类相食的习惯，尤其是在他们的葬礼上。

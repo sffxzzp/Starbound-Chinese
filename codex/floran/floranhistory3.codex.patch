@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "一个远行的叶族人"},
+[{"op": "replace","path": "/title","value": "一个远行的叶族人"},
 {"op": "replace","path": "/description","value": "一封由一个拒绝传统的叶族人所写的信。"},
 {"op": "replace","path": "/contentPages","value": [
 "写给我出生部落的族人，

@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "激斗机甲Mk I"},
+[{"op": "replace","path": "/title","value": "激斗机甲Mk I"},
 {"op": "replace","path": "/description","value": "激斗机甲Mk I的一则广告。"},
 {"op": "replace","path": "/contentPages","value": [
 "一个新的难以置信的的优惠！

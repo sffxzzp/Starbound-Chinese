@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "电子人"},
-{"op": "replace","path": "/title","value": "疯狂症疫病"},
+[{"op": "replace","path": "/title","value": "疯狂症疫病"},
 {"op": "replace","path": "/description","value": "一位电子人镇长对村民的警告。"},
 {"op": "replace","path": "/contentPages","value": [
 "^orange;你们来看，村庄的村民们！^white;

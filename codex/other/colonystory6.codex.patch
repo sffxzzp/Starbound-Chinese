@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "我是如何成为地主的 6"},
-{"op": "replace","path": "/species","value": "人类"},
 {"op": "replace","path": "/description","value": "关于一个成为了地主的探险者的连载。"},
 {"op": "replace","path": "/contentPages","value": [
 "一段时间后，安比利开始请求我的帮助。一开始都是些小事，比如种些奇怪的蔬菜啦或者偶尔烹饪些菜之类的。我很高兴帮忙，甚至为了方便，我在房子的旁边盖了个小农场。

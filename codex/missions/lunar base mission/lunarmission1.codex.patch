@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "能源煞魔"},
-{"op": "replace","path": "/species","value": "人类"},
 {"op": "replace","path": "/description","value": "一份来自莱西亚公司被煞魔所困矿工的日记。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们将他称之为能源煞魔。我们从设备锁上开始就一直被困在这里，并且相信我，煞魔用来描述它是最为自然贴切的。

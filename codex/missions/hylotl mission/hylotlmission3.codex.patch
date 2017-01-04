@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "官方告示"},
-{"op": "replace","path": "/species","value": "鲛人"},
 {"op": "replace","path": "/description","value": "一则自大塔图书馆被修复起张贴给前来此处游客的通知。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们十分欢迎学者们前来最新修复的大塔图书馆，但同时我们希望在这座建筑中所有游客都小心一些。

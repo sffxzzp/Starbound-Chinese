@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "猿族"},
-{"op": "replace","path": "/title","value": "猿人配给书"},
+[{"op": "replace","path": "/title","value": "猿人配给书"},
 {"op": "replace","path": "/description","value": "一本科技发展部规定下的猿人配给书。"},
 {"op": "replace","path": "/contentPages","value": [
 "科技发展部每日公民补给清单

@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "艾丝特的日志"},
+[{"op": "replace","path": "/title","value": "艾丝特的日志"},
 {"op": "replace","path": "/description","value": "前大守护者艾丝特·布莱特的私人日志。"},
 {"op": "replace","path": "/contentPages","value": [
 "^cyan;守护者日志：条目6901^white;

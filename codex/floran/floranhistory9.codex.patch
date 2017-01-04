@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "一位绿手指的日记"},
+[{"op": "replace","path": "/title","value": "一位绿手指的日记"},
 {"op": "replace","path": "/description","value": "一位绿手指描绘某叶族部落日常生活的日记"},
 {"op": "replace","path": "/contentPages","value": [
 "今天继续研究新的传送门。若我不被打扰，有望在日落以前完工。

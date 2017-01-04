@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "翼族"},
-{"op": "replace","path": "/title","value": "雅洛里的日记 条目3"},
+[{"op": "replace","path": "/title","value": "雅洛里的日记 条目3"},
 {"op": "replace","path": "/description","value": "一个翼族升华者的个人日记。"},
 {"op": "replace","path": "/contentPages","value": [
 "九天过去了，我们一直在开展盛宴。九天的每一天！我生命中从未吃得这么好过。

@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "电子人"},
-{"op": "replace","path": "/title","value": "天任所生？二"},
+[{"op": "replace","path": "/title","value": "天任所生？二"},
 {"op": "replace","path": "/description","value": "一本电子人起源书籍中的专家。"},
 {"op": "replace","path": "/contentPages","value": [
 "若我们的确只是高等文明显微镜下的碌碌白鼠，我必须考虑这种努力的所应设置的参数。

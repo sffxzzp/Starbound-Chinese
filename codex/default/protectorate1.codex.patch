@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "大地守护团工作指南"},
+[{"op": "replace","path": "/title","value": "大地守护团工作指南"},
 {"op": "replace","path": "/description","value": "这本书用来给守护者新人提供一些有用的建议。"},
 {"op": "replace","path": "/contentPages","value": [
 "欢迎你，新守护者！

@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "企鹅骇翼"},
+[{"op": "replace","path": "/title","value": "企鹅骇翼"},
 {"op": "replace","path": "/description","value": "企鹅的天灾—骇翼上的作品。"},
 {"op": "replace","path": "/contentPages","value": [
 "仔细聆听你们周围的骇翼的传说，宇宙的灾祸，所有航天员的诅咒。很少有这个可耻的野兽没有执行什么新的邪恶计划的日子。他在飞碟中巡游于群星之中，仅留下很少却又令人怨恨的事在身后。

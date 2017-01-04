@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "我在假期中做了什么"},
+[{"op": "replace","path": "/title","value": "我在假期中做了什么"},
 {"op": "replace","path": "/description","value": "一篇由绿手指布置给部族中一个叶族年轻人的作文"},
 {"op": "replace","path": "/contentPages","value": [
 "叶族人过了好假期。叶族人桐莱达和基卡狩猎，叶族人杀了四只彩鸟。几乎被叱了两次，不过茅茅用的很好，狠狠戳在脸上。基卡之后做了好吃的肉。

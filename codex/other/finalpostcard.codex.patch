@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "感谢卡"},
+[{"op": "replace","path": "/title","value": "感谢卡"},
 {"op": "replace","path": "/description","value": "来自朋友的卡片。"},
 {"op": "replace","path": "/contentPages","value": [
 "

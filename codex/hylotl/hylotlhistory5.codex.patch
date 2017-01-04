@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "鲛人"},
-{"op": "replace","path": "/title","value": "鲛人的演化"},
+[{"op": "replace","path": "/title","value": "鲛人的演化"},
 {"op": "replace","path": "/description","value": "一个鲛人学者对本族演化历程的观察。"},
 {"op": "replace","path": "/contentPages","value": [
 "鲛人原是陆生生物。自从选择在水下生活以来，几千年间我们的生理特征发生了剧烈演变。这可能是由于我们天生的相较其他种族更快的遗传代谢、短寿和频繁的世代更替。从最初依靠技术来辅助游泳，如今我们的身体已经进化出了展鳍状突起和可伸缩的手指和脚趾间的蹼。",

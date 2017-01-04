@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "人类"},
-{"op": "replace","path": "/title","value": "一个团结的地球"},
+[{"op": "replace","path": "/title","value": "一个团结的地球"},
 {"op": "replace","path": "/description","value": "大地守护团形成后学院发表的书。"},
 {"op": "replace","path": "/contentPages","value": [
 "许多世纪之前，地球被近乎无休止的阶级斗争中统治着；帝国的兴盛然后轰然倒塌，国家欣欣向荣却走向毁灭，小心翼翼建立起和平的外表最终在自我崩溃。这场波动与转变持续了大约千年。

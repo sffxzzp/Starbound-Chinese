@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "紧急关闭"},
-{"op": "replace","path": "/species","value": "人类"},
 {"op": "replace","path": "/description","value": "在事故中由莱西亚公司紧急发出的信息。"},
 {"op": "replace","path": "/contentPages","value": [
 "依照α程序：苏醒，这件工厂已处于完全关闭状态。

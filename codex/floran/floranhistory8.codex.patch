@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "玛库的日志"},
+[{"op": "replace","path": "/title","value": "玛库的日志"},
 {"op": "replace","path": "/description","value": "一个有读写能力的叶族人在个人日志上描述与一个翼族人的遭遇。"},
 {"op": "replace","path": "/contentPages","value": [
 "叶族人今天找到了鸟人。

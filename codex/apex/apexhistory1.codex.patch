@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "猿族"},
-{"op": "replace","path": "/title","value": "优越的物种"},
+[{"op": "replace","path": "/title","value": "优越的物种"},
 {"op": "replace","path": "/description","value": "一本带有偏见的介绍猿人由来的教科书。"},
 {"op": "replace","path": "/contentPages","value": [
 "在不知多长的时间里，猿人梦想着曾向我们承诺的命运，来自星辰的低语诉说着超越我们自然形态约束的伟大。受限于DNA而庸庸碌碌，我们却前后不一地守着宇宙中我们自己安静的角落。

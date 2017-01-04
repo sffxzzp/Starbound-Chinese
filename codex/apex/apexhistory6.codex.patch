@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "猿族"},
-{"op": "replace","path": "/title","value": "VEP的副作用"},
+[{"op": "replace","path": "/title","value": "VEP的副作用"},
 {"op": "replace","path": "/description","value": "一份科技发展部的内部报告。"},
 {"op": "replace","path": "/contentPages","value": [
 "^red;仅限内部传播^white;

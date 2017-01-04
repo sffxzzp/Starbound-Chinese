@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "殖民地建设指南"},
+[{"op": "replace","path": "/title","value": "殖民地建设指南"},
 {"op": "replace","path": "/description","value": "殖民公司生产的殖民地契约手册。"},
 {"op": "replace","path": "/contentPages","value": [
 "你是一个初出茅庐的房地产开发商吗？你有能给你带来额外像素的空置地产吗？

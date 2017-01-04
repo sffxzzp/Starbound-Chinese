@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "打捞计划"},
-{"op": "replace","path": "/species","value": "鲛人"},
 {"op": "replace","path": "/description","value": "关于计划修复大塔图书馆的文件。"},
 {"op": "replace","path": "/contentPages","value": [
 "关于大塔图书馆：

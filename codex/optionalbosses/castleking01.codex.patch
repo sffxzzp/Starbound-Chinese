@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "冒充的国王#1"},
+[{"op": "replace","path": "/title","value": "冒充的国王#1"},
 {"op": "replace","path": "/description","value": "一则电子人民间故事。"},
 {"op": "replace","path": "/contentPages","value": [
 "曾几何时，虽然不是很久以前，一个奇怪的事情发生在电子人之间。

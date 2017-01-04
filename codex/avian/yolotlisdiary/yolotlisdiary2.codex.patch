@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "翼族"},
-{"op": "replace","path": "/title","value": "雅洛里的日记 条目2"},
+[{"op": "replace","path": "/title","value": "雅洛里的日记 条目2"},
 {"op": "replace","path": "/description","value": "一个翼族升华者的个人日记。"},
 {"op": "replace","path": "/contentPages","value": [
 "现在我在神庙里花好多时间，我从未感到如此接近克鲁西斯。我们每天祈祷和吟诵，我是受膏者。

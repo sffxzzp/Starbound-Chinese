@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "人类"},
-{"op": "replace","path": "/title","value": "人类需要你！"},
+[{"op": "replace","path": "/title","value": "人类需要你！"},
 {"op": "replace","path": "/description","value": "陨日的宣传。"},
 {"op": "replace","path": "/contentPages","value": [
 "人类同胞，团结起来

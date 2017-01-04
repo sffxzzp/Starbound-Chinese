@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "人类"},
-{"op": "replace","path": "/title","value": "来自地球的紧急广播"},
+[{"op": "replace","path": "/title","value": "来自地球的紧急广播"},
 {"op": "replace","path": "/description","value": "在地球遭到灾难性打击时发出的最后一条绝望的消息。"},
 {"op": "replace","path": "/contentPages","value": [
 "S.O.S.—求救！救命！救救我们的种族！  //

@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "电子人"},
-{"op": "replace","path": "/title","value": "发现了被毁灭的机械文明！"},
+[{"op": "replace","path": "/title","value": "发现了被毁灭的机械文明！"},
 {"op": "replace","path": "/description","value": "自著名‘类电子人遗迹’阴谋论刊籍。"},
 {"op": "replace","path": "/contentPages","value": [
 "各位探险者你们好！你们曾有在群星探索未知时—遇到尽是荒芜废墟的世界吗？我知道我有！

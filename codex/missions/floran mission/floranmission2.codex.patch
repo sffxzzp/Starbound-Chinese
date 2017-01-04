@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "狩猎的历史"},
-{"op": "replace","path": "/species","value": "叶族"},
 {"op": "replace","path": "/description","value": "一份人类科学家观察叶族部落的记录摘要。"},
 {"op": "replace","path": "/contentPages","value": [
 "狩猎制度在很久以前被一位名叫艾达它的绿手指所建立。

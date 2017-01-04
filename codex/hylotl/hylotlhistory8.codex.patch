@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "鲛人"},
-{"op": "replace","path": "/title","value": "关于战士的培养"},
+[{"op": "replace","path": "/title","value": "关于战士的培养"},
 {"op": "replace","path": "/description","value": "描述鲛人战士的哲学教科书。"},
 {"op": "replace","path": "/contentPages","value": [
 "鲛人战士必须受到诸多艺术领域的教育—不只是那些用于抵御入侵、保护亲属的战争艺术，也包括那些能让战士们保持冷静的技艺。哲学则是他们的心灵港湾，惟其如此，他们才可能渐渐理解这个世界和其中的他们的分野。他们必须接受这样的观点：所有的生物都是纠缠、共生的，所有生物都应当承认自己强大如猛兽，也脆弱如蛆虫。"

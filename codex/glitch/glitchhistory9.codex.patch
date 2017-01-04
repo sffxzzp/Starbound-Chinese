@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "电子人"},
-{"op": "replace","path": "/title","value": "机械的企图"},
+[{"op": "replace","path": "/title","value": "机械的企图"},
 {"op": "replace","path": "/description","value": "一段关于电子人统治家族的有趣历史。"},
 {"op": "replace","path": "/contentPages","value": [
 "在整个暗流势力涌动、旋游并徘徊于城堡堡垒间的电子人历史中，

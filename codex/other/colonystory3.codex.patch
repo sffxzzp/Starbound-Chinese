@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "我是如何成为地主的 3"},
-{"op": "replace","path": "/species","value": "人类"},
 {"op": "replace","path": "/description","value": "关于一个成为了地主的探险者的连载。"},
 {"op": "replace","path": "/contentPages","value": [
 "我曾经见过一位在前哨站开家具店的青蛙商人，他当时告诉我说如果我想涉足银河房地产事业，可以回去找他。所以我放下了一面旗帜，然后回到了飞船上去找他。

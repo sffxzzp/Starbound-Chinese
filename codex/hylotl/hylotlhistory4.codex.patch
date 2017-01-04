@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "鲛人"},
-{"op": "replace","path": "/title","value": "我们幸存者"},
+[{"op": "replace","path": "/title","value": "我们幸存者"},
 {"op": "replace","path": "/description","value": "记录鲛人族在叶族侵略后如何重建的历史著述。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们与生俱来的与自然的和谐融洽是所有鲛人攫取力量和启示的源泉。即便在最黑暗的年代里，即便鲛人的造物在形式、功能上仍不适应。这个蒸蒸日上的文明正在大洋深处涅槃重生。

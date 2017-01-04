@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "翼族"},
-{"op": "replace","path": "/title","value": "折翼者宣言"},
+[{"op": "replace","path": "/title","value": "折翼者宣言"},
 {"op": "replace","path": "/description","value": "一份由摒弃他们文化的翼族人写的文献。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们折翼者，

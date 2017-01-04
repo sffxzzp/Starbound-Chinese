@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "翼族"},
-{"op": "replace","path": "/title","value": "翼族人战斗技巧"},
+[{"op": "replace","path": "/title","value": "翼族人战斗技巧"},
 {"op": "replace","path": "/description","value": "关于古代翼族人战斗策略的记录。"},
 {"op": "replace","path": "/contentPages","value": [
 "统率三万战士

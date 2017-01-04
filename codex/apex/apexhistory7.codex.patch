@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "猿族"},
-{"op": "replace","path": "/title","value": "猿人：身份迷失"},
+[{"op": "replace","path": "/title","value": "猿人：身份迷失"},
 {"op": "replace","path": "/description","value": "反叛者科学家的论文。"},
 {"op": "replace","path": "/contentPages","value": [
 "作为猿人社会的一个反叛者，第一次拒绝我们一生中不停被灌输的虚假的故事才能赢得我们历史的真相。

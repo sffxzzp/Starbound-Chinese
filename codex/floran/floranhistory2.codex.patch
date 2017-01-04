@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "绿手指的工作"},
+[{"op": "replace","path": "/title","value": "绿手指的工作"},
 {"op": "replace","path": "/description","value": "一本解释绿手指在部落中的作用的书。"},
 {"op": "replace","path": "/contentPages","value": [
 "一般的叶族人没有耐心开发比原始武器铠甲更高明的技术，这一职责就落到了绿手指的身上。

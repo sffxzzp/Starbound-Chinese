@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "叶族"},
-{"op": "replace","path": "/title","value": "雾中的叶族人"},
+[{"op": "replace","path": "/title","value": "雾中的叶族人"},
 {"op": "replace","path": "/description","value": "一份自人类科学家针对某叶族部落的观察日志中摘录的节选。"},
 {"op": "replace","path": "/contentPages","value": [
 "对每一个同我一样的人类科学家来说，在叶族人中生活的每一天都是一次绝妙的体验。

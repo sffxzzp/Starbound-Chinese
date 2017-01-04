@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "猿族"},
-{"op": "replace","path": "/title","value": "十年过去了"},
+[{"op": "replace","path": "/title","value": "十年过去了"},
 {"op": "replace","path": "/description","value": "果皮日报的一篇归档新闻。"},
 {"op": "replace","path": "/contentPages","value": [
 "很难相信已经过去整整十年了，那一次我们发现几乎不可治愈的水性病原体，严重威胁到了我们脆弱的人民。

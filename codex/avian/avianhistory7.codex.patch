@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "翼族"},
-{"op": "replace","path": "/title","value": "朝圣阿沃斯"},
+[{"op": "replace","path": "/title","value": "朝圣阿沃斯"},
 {"op": "replace","path": "/description","value": "一位虔诚的翼族人日记中的一页"},
 {"op": "replace","path": "/contentPages","value": [
 "像大多数翼族人一样，我不是在阿沃斯出生的，但是我听着关于母星的传说长大。从我记事起，我就梦想有一天能前往那里。我花了好多年辛苦工作和锻炼才负担得起中间的旅途，也就是翼族人朝圣最关键的部分。

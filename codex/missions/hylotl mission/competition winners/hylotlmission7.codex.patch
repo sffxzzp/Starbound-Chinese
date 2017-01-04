@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "自由"},
-{"op": "replace","path": "/species","value": "鲛人"},
 {"op": "replace","path": "/description","value": "一首摘自毕夫杰夫诗集的诗，作者：皮尔斯"},
 {"op": "replace","path": "/contentPages","value": [
 "船已备好，我听到它的歌唱。

@@ -1,5 +1,4 @@
-[{"op": "add","path": "/species","value": "其他"},
-{"op": "replace","path": "/title","value": "冒充的国王#5"},
+[{"op": "replace","path": "/title","value": "冒充的国王#5"},
 {"op": "replace","path": "/description","value": "一则电子人民间故事。"},
 {"op": "replace","path": "/contentPages","value": [
 "军队在彩车上游行过去，被几十电子人劳工和一个不请自来的叶族拖着。

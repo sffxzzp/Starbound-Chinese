@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "电子人"},
-{"op": "replace","path": "/title","value": "它的来龙去脉"},
+[{"op": "replace","path": "/title","value": "它的来龙去脉"},
 {"op": "replace","path": "/description","value": "由鲛人博士“K. 魚”所作的一份关于电子人医疗的观察记录。"},
 {"op": "replace","path": "/contentPages","value": [
 "电子人的繁殖是由一对伴侣完成的，这似乎是电子人程序中的另一处盲点。

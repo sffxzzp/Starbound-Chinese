@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "生活在恐惧中"},
-{"op": "replace","path": "/species","value": "叶族"},
 {"op": "replace","path": "/description","value": "一份来源于曾在仪式狩猎洞中安家的人的日记。"},
 {"op": "replace","path": "/contentPages","value": [
 "野兽到处都是。他们流着口水发出低吟，到处乱戳然后进食！他们把自己称作是叶族人。

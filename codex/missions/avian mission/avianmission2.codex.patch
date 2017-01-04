@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "赠礼"},
-{"op": "replace","path": "/species","value": "翼族"},
 {"op": "replace","path": "/description","value": "一则大君王神庙的记录。"},
 {"op": "replace","path": "/contentPages","value": [
 "我的名字是帕潘，大君王神庙最后一个占星师。我明天将离开，同时我将把神庙托付给远古守卫，托付给值得信赖的看门人。

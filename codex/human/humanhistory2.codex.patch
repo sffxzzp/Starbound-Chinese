@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "人类"},
-{"op": "replace","path": "/title","value": "人类对群星的义务"},
+[{"op": "replace","path": "/title","value": "人类对群星的义务"},
 {"op": "replace","path": "/description","value": "大地守护团形成前的一篇人类新闻。"},
 {"op": "replace","path": "/contentPages","value": [
 "对人类最真切的呼唤

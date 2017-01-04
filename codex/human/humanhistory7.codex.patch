@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "人类"},
-{"op": "replace","path": "/title","value": "离地人口普查"},
+[{"op": "replace","path": "/title","value": "离地人口普查"},
 {"op": "replace","path": "/description","value": "在地球之外长期定居的人类的人口普查报告。"},
 {"op": "replace","path": "/contentPages","value": [
 "第329卷，第804页

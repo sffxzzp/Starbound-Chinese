@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "通讯失败"},
-{"op": "replace","path": "/species","value": "人类"},
 {"op": "replace","path": "/description","value": "具有自动锁定来源位置功能的无线电消息在发送失败时的抄送。"},
 {"op": "replace","path": "/contentPages","value": [
 "抄送打印件#13

@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "人类"},
-{"op": "replace","path": "/title","value": "人类的救赎"},
+[{"op": "replace","path": "/title","value": "人类的救赎"},
 {"op": "replace","path": "/description","value": "一段在大地守护团成立时写下的地球简史。"},
 {"op": "replace","path": "/contentPages","value": [
 "为了能够欣赏人类至今所成就的一切，这段历史需要被载入史册。

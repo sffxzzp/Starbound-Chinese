@@ -1,5 +1,4 @@
 [{"op": "replace","path": "/title","value": "图书管理员的来信"},
-{"op": "replace","path": "/species","value": "鲛人"},
 {"op": "replace","path": "/description","value": "一份来自于大塔图书馆原始图书管理员的通告。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们获得了消息—他们正在使图书馆下沉。这座代表知识的神殿将要落入阴影的深处，而我们伟大的文明也将暂时被黑暗遮盖。很快，就像其它部分一样，它仅存的部分也将被波涛所吞没。

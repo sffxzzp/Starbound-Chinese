@@ -1,5 +1,4 @@
-[{"op": "replace","path": "/species","value": "鲛人"},
-{"op": "replace","path": "/title","value": "和平的陷落"},
+[{"op": "replace","path": "/title","value": "和平的陷落"},
 {"op": "replace","path": "/description","value": "一首古老的鲛人诗。"},
 {"op": "replace","path": "/contentPages","value": [
 "我们赞颂和平

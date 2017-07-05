@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/speedStatLabel/value","value": "飞行速度"},
+{"op": "replace","path": "/controlStatLabel/value","value": "机动性"}]

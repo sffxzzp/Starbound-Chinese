@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个很好的瓷杯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "经典杯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一种装热果汁的杯子。这种果汁已在禁令中被禁止。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族没有这种形态的杯子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "里里面有令人厌厌恶的水果香香味。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。玻璃杯里似乎装有热果汁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种气味使我想起热带水果汁。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人采用更小型号的杯子来饮用热饮料。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个装着热饮大杯，我猜。"}]

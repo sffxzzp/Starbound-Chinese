@@ -1,4 +1,3 @@
 [{"op": "replace","path": "/scriptConfig/crew/role/name","value": "工程师"},
 {"op": "replace","path": "/scriptConfig/crew/role/field","value": "工程学"},
-{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["我将着手改进你的飞船燃料燃烧效率！"]},
-{"op": "replace","path": "/scriptConfig/dialog/crewmember/shipImprovementApplied/default/default","value": ["搞定了！燃料燃烧效率已经提升了百分之十！我会继续努力改进它的！"]}]
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["我会将你的引擎保养在良好的状态。推进速度提高25%！"]}]

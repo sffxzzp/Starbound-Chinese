@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "莱西亚商人"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "出售太空家具！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/tout/hylotl/default/0","value": "欢迎来莱西亚公司分部！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/hylotl/default/0","value": "欢迎来莱西亚公司分部, 您需要点什么？"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/hylotl/default/0","value": "请切记: “没有莱西亚的人生没有意义。”"}]

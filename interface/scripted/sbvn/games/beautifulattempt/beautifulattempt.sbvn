@@ -1,0 +1,942 @@
+{
+  "displayConfig" : {
+    "title" : "美丽的尝试！樱花神社少女心+",
+    "subtitle" : "在遥远的过去寻找伟大的爱情",
+    "textColor" : "#605030",
+    "selFormat" : "^darkgreen;[%s]",
+    "unselFormat" : "^darkgray; %s ",
+    "textRate" : 50
+  },
+
+  "titleScene" : {
+    "background" : "bg_sky",
+    "foreground" : "title"
+  },
+
+  "entryScene" : "pre_credits",
+
+  "scenes" : {
+    "pre_credits" : {
+      "background" : "bg_black",
+      "foreground" : "title",
+      "text" : "[这个故事是由一个鲛人族学者组成的多样化的团队所写。若玩家对游戏中的虚拟角色产生心痛和爱慕，该团队将不承担任何责任。]",
+      "continue" : "intro0"
+    },
+    "intro0" : {
+      "background" : "bg_black",
+      "text" : "对于我，一个谦逊而又勤奋的鲛人族男孩来说，生活显得过于平静。犹如顺流而下的塑料袋，我有时觉得我仅仅只是漂泊在生活的海洋中的一片荷叶。",
+      "continue" : "intro1"
+    },
+    "intro1" : {
+      "background" : "bg_school",
+      "text" : "但是这样的一生中唯一的慰藉就是我在空气曲棍球上难以置信并绝妙的技巧。 没错，空气曲棍球虽然并不是宇宙间很最有名的游戏，但是我至少可以在这个领域找到一些独特的技巧。",
+      "continue" : "intro2"
+    },
+    "intro2" : {
+      "background" : "bg_school",
+      "text" : "至于现在嘛，我在学校的宿舍中学习着。以龟速来阅读着一本名为'鲛人：被动侵略艺术'的教科书。",
+      "continue" : "intro3"
+    },
+    "intro3" : {
+      "background" : "bg_school",
+      "text" : "但是，脑中呼唤我去玩空气曲棍球的念头再度开始诱惑我，虽然我很想去玩但是我的学习的事情也不能置之高阁...",
+      "options" : [
+        ["继续学习", "intro3b"],
+        ["去练习空气曲棍球", "intro3a", null, ["hockey+1"]]
+      ]
+    },
+    "intro3a" : {
+      "background" : "bg_school",
+      "text" : "我当然能意识到知识的重要性，但是一个没啥竞争对手并且技巧点全满的游戏可以永远陪伴我。",
+      "continue" : "intro4"
+    },
+    "intro3b" : {
+      "background" : "bg_school",
+      "text" : "我低下了头，准备继续苦学，但是很快欲望的作祟钻了我潜意识中的空子，把我脑袋中对耍一把空气曲棍球的欲望强烈的勾引了起来。",
+      "continue" : "intro4"
+    },
+    "intro4" : {
+      "background" : "bg_school",
+      "text" : "我踮起脚尖小心翼翼的溜了出了寝室，最主要还是为了不让自己太激动搞得自己在走廊上大喊‘空气曲棍球！！’然后被人当成疯子。",
+      "continue" : "intro5"
+    },
+    "intro5" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我顺利的来到了学校园区的游戏区，我的三只眼睛如同看见美人一般的盯着空气曲棍球的桌子。嗨，老伙计，我们又见面了。",
+      "continue" : "intro6"
+    },
+    "intro6" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "空气曲棍球桌子……哦那妙不可言的光滑漆面桌和侧边缘的开口，假若这石桌是刻画我的精神的石碑，球槌则是展现我演技的真正道具！",
+      "continue" : "intro7"
+    },
+    "intro7" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我把球摆放在桌面上，原本想要好好品尝这个游戏的开头。突然我感觉我的心脏漏了一拍...我感到了有什么东西有些不对劲。",
+      "continue" : "intro8"
+    },
+    "intro8" : {
+      "background" : "bg_black",
+      "foreground" : "hockey_table",
+      "text" : "心脏的跳的越来越快，我感觉世界在我眼中开始疯狂的旋转。我感觉手找不到支撑点，犹如搁浅的鲸鱼一般的无助，除非我这不是搁浅，而是...穿越了时空！",
+      "continue" : "intro9"
+    },
+    "intro9" : {
+      "background" : "bg_black",
+      "text" : "这个感觉难以形容，如同慢慢从梦中清醒过来，唯一的区别就是正常的醒来时人是宁静的，我醒来时总感觉有一群人在我面前对着我嘶吼。",
+      "continue" : "intro10"
+    },
+    "intro10" : {
+      "background" : "bg_black",
+      "text" : "模糊的视野渐渐清晰，我感觉我掌心和脚下的沙子非常的温暖。我是到了一个星球的表面，还是被阳光照耀着，或者说更坏一点的情况：我被火焰包裹了？",
+      "continue" : "intro11"
+    },
+    "intro11" : {
+      "background" : "bg_shrine",
+      "text" : "我很确认自己并没有着火，但是我发现一个比着火还要糟糕的事实：我在一个我完全陌生的地方",
+      "continue" : "intro12"
+    },
+    "intro12" : {
+      "background" : "bg_shrine",
+      "text" : "我在一个小岛的海滩上，岛屿的中央有一个大宝塔。目前骄阳在我头顶肆虐。明显的我的下一步必须非常谨慎...",
+      "options" : [
+        ["潜行观察", "sneak1", null, ["sneak+1"]],
+        ["哭喊闹腾", "yell1", null, ["cry+1"]]
+      ]
+    },
+    "sneak1" : {
+      "background" : "bg_shrine",
+      "text" : "在这个完全不熟悉的岛屿上带着宛如受到重击后头痛的脑袋，对于这种情况...我还决定在附近潜行。我轻轻蹲下，慢慢的穿过沙滩，走向大宝塔。",
+      "continue" : "sneak2"
+    },
+    "sneak2" : {
+      "background" : "bg_shrine",
+      "text" : "整个岛屿非常的宁静，除了海浪轻抚这神秘沙滩的声音。重点是这个海域是水组成的，不是可怕的岩浆或者酸液，这点倒是让我稍稍放下心来了。",
+      "continue" : "sneak3"
+    },
+    "sneak3" : {
+      "background" : "bg_shrine",
+      "text" : "有声音！我赶紧藏在了一个附近的柱子后面。不过这里的建筑风格都是鲛人族的，所以我落到叶族人的领地的几率挺小的。",
+      "continue" : "sneak4"
+    },
+    "sneak4" : {
+      "background" : "bg_shrine",
+      "text" : "在高塔出口的外面，我看见了一个漂亮的女孩，跪在沙子中。由于我倒抽了一口气，这下根本藏不住了，她马上转头并看见了我！",
+      "continue" : "kasumi1a"
+    },
+    "yell1" : {
+      "background" : "bg_shrine",
+      "text" : "我开始慌张并且在宁静的海滩上大喊大叫。我很确定这招可以招来这个区域的管理人员然后带我走出这个困境。",
+      "continue" : "yell2"
+    },
+    "yell2" : {
+      "background" : "bg_shrine",
+      "text" : "出乎我的意料的是，迎接我的是一位美丽的女孩，穿着与我的时代不符的仪式用长袍，手上握着一根粉色的法杖。",
+      "continue" : "kasumi1b"
+    },
+    "kasumi1a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"你是谁？为什么你在这里鬼鬼祟祟的？\"女孩起身问我，阳光在她的皮肤粘膜上显得非常的养眼。",
+      "options" : [
+        ["我在哪里？", "explanation1a"],
+        ["敢问芳名？", "explanation1b", null, ["name+1"]]
+      ]
+    },
+    "kasumi1b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"你是谁？怎么在这种地方像个书呆子一样的大喊大叫的？\"女孩看着我，阳光在她的皮肤粘膜上显得非常的养眼。",
+      "options" : [
+        ["我在哪里？", "explanation1a"],
+        ["敢问芳名？", "explanation1b", null, ["name+1"]]
+      ]
+    },
+    "explanation1a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"阁下现在位于鲛人族大图书馆，确切来讲这里应该是下周才开放进入。\"她向我解释道。",
+      "continue" : "explanation2a"
+    },
+    "explanation2a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"在我做祈福仪式的时候，这里是不该有人的！阁下是怎么到这里来的？\"",
+      "options" : [
+        ["我期待着一场美丽的邂逅！", "question_beauty1", null, ["romantic+1"]],
+        ["我是被时空穿越过来的！", "question_time1", null, ["intelligent+1"]]
+      ]
+    },
+    "explanation1b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"我叫卡苏米，是神社派往鲛人族大图书馆进行祈福仪式的巫女，应为这里下周就要开放了呢。\"她向我解释道。",
+      "continue" : "explanation2b"
+    },
+    "explanation2b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"虽说在我做祈福仪式的时候不该有人...阁下是怎么到这里来的？\"",
+      "options" : [
+        ["我期待着一场美丽的邂逅！", "question_beauty1", null, ["romantic+1"]],
+        ["我是被时空穿越过来的！", "question_time1", null, ["intelligent+1"]]
+      ]
+    },
+
+    "question_beauty1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "因为我的惊天动地的回答，她倒抽了一口气。啊，可能是我突如其来的话语惊吓到了她，我开始方了，并且怀疑自己脑子是不是进水了，谁会对初次见面的女孩说这些事情啊！",
+      "continue" : "question_beauty2"
+    },
+    "question_beauty2" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "她喃喃了半天才回答我，\"哎呀，那我觉得阁下你肯定来错了地方呢，因为鲛人族大图书馆正式开放的时间还没到呢。\"",
+      "continue" : "question_beauty3"
+    },
+    "question_beauty3" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "我感觉她弄错了我回答话语中的含义，但是我的确无法把目光停留在她那如同红宝石一般美丽的三颗大眼睛上。",
+      "continue" : [["name>0", "question_beauty4a"], "question_beauty4b"]
+    },
+    "question_beauty4a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"哎呀哎呀，看看我这样真没礼貌\" 她突然说道，\"我都忘记了问问你的名字了。那么阁下的名字是？\"",
+      "options" : [
+        ["告诉她你的名字", "question_beauty5a", null, ["intelligent+1"]],
+        ["给她一个假的但是很浪漫的名字", "question_beauty5b", null, ["romantic+1", "fakename+1"]]
+      ]
+    },
+    "question_beauty4b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"哎呀，看看我这样子，真没礼貌\"她突然说道，\"我的名字叫做卡苏米。阁下的名字呢 ？\"",
+      "options" : [
+        ["告诉她你的名字", "question_beauty5a", null, ["intelligent+1"]],
+        ["给她一个假的但是很浪漫的名字", "question_beauty5b", null, ["romantic+1", "fakename+1"]]
+      ]
+    },
+    "question_beauty5a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"……并没有冒犯之意，但是……\"她将信将疑的说到。\"这个名字真的很奇怪，你父母为什么这么叫你？\"",
+      "continue" : "question_beauty6a"
+    },
+    "question_beauty5b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"哎呀哎呀，非常高兴见到您，沃根·圣·爱堡先生！\"她的回复中带着一抹阳光中的微笑\"那么，又是这个没开门的图书馆的什么地方，引起了阁下的兴趣呢？\"",
+      "continue" : "pagoda1"
+    },
+    "question_beauty6a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "我很干脆地避免了我名字那糟糕的由来。",
+      "continue" : "question_beauty6b"
+    },
+    "question_beauty6b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"那么，\"她说到，\"为什么阁下会对这个没开门的图书馆产生兴趣了呢？\"",
+      "continue" : "pagoda1"
+    },
+
+    "question_time1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"时空……旅行？\"她重复道我的话，满脸疑惑。\"但是……有人这样子时空旅行过吗？\"",
+      "continue" : "question_time2"
+    },
+    "question_time2" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "我尝试询问她的意思。",
+      "continue" : "question_time3"
+    },
+    "question_time3" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"我么们都在时空旅行啊，而且速率是一秒钟每秒呢。\"她阐述了自己的想法。",
+      "continue" : "question_time4"
+    },
+    "question_time4" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "……说真的，此时我无法说明这个女孩到底是个天才还是个笨蛋……",
+      "continue" : [["name>0", "question_beauty4a"], "question_beauty4b"]
+    },
+
+    "pagoda1" : {
+      "background" : "bg_black",
+      "text" : "图书馆……这不是鲛人族大图书馆吗？！",
+      "continue" : "pagoda2"
+    },
+    "pagoda2" : {
+      "background" : "bg_black",
+      "text" : "当然我听说过这个历史性的景点，不过这个图书馆至今也没开放！原来这才是我被送到过去的原因！",
+      "continue" : "pagoda3"
+    },
+    "pagoda3" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "我以尽可能快的速度想卡苏米解释道在我生活的时代，图书馆已经开放了。",
+      "continue" : [["fakename>0", "pagoda4a"], "pagoda4b"]
+    },
+    "pagoda4a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"……阁下的故事有些难以置信啊，爱堡先生吗，\"她听我说完话了后回答了我，\"但是你跟我说话的方式跟其他人的不一样，这也许能证明你的故事是真实的。\"",
+      "continue" : "pagoda5"
+    },
+    "pagoda4b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"……阁下的故事……感觉很疯狂啊，\"她听我说完话了后回答了我，\"但是你跟我说话的方式跟其他人的不一样，这也许能证明你的故事是真实的。\"",
+      "continue" : "pagoda5"
+    },
+    "pagoda5" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"如果阁下真的是通过跟正常的一秒钟每秒的速率不同的时空被送达这里的话过来的话，阁下认为又是什么导致了您被送到了鲛人族大图书馆呢？\"",
+      "options" : [
+        ["应该是你的仪式", "ritual1", null, ["intelligent+1"]],
+        ["空气曲棍球的力量！", "hockey1", null, ["hockey+1"]]
+      ]
+    },
+
+    "hockey1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"空气曲棍球？那是什么东西？\"",
+      "continue" : "hockey2"
+    },
+    "hockey2" : {
+      "background" : "bg_black",
+      "text" : "...",
+      "continue" : "hockey3"
+    },
+    "hockey3" : {
+      "background" : "bg_black",
+      "text" : "看起来她并不知道 空气曲棍球 是个什么东西。",
+      "continue" : "hockey4"
+    },
+    "hockey4" : {
+      "background" : "bg_black",
+      "text" : "也许是这个时代根本没有空气曲棍球的原因吧。",
+      "continue" : "hockey5"
+    },
+    "hockey5" : {
+      "background" : "bg_black",
+      "text" : "我突然感受到了背上的压力山大，现在的空气也感觉非常的紧张。",
+      "continue" : "hockey6"
+    },
+    "hockey6" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"你所说的'空气曲棍球'，是一个经常把人送回过去的东西吗？\"",
+      "options" : [
+        ["不一定是", "hockey7"],
+        ["我很确定不是", "hockey7"]
+      ]
+    },
+    "hockey7" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"那也许是其他的东西？\"她一边说一边思考着……",
+      "options" : [
+        ["是你的仪式召唤了我", "ritual1"],
+        ["不，一定是空气曲棍球！", "hockey8", ["hockey>1"], ["hockey+1"]]
+      ]
+    },
+    "hockey8" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "她彻底的无视了我的话语，在思考了一小会儿后她的脸色终于明朗了起来。",
+      "options" : [
+        ["会是什么？", "ritual1", null, ["romantic-2"]]
+      ]
+    },
+
+    "ritual1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"是仪式！\"她惊叹到。\"但是这些仪式仅仅只是传统，并不具备神力。并且仪式还没有完成啊。\"",
+      "continue" : [["sneak>0", "ritual2a"], "ritual2b"]
+    },
+    "ritual2a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "我向她询问为什么仪式没有完成。",
+      "continue" : "ritual3a"
+    },
+    "ritual3a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"当然没有啊，别忘了我可是被阁下鬼鬼祟祟的行动打断了的哦\"她有点不满的说到。",
+      "continue" : "ritual4"
+    },
+    "ritual2b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "我向她询问为什么仪式没有完成。",
+      "continue" : "ritual3b"
+    },
+    "ritual3b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"当然没有啊，别忘了我可是被阁下的呜咽和求救声打断了的哦\"她有点不满的说到。",
+      "continue" : "ritual4"
+    },
+    "ritual4" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"但是也许……\"她一边说一边专心的看着她手中的那根法杖，\"也许……完成仪式可以帮你回到你的时代？\"",
+      "options" : [
+        ["那么我该做什么？", "ritual5"]
+      ]
+    },
+    "ritual5" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"首先是'祷告的敬意' - 接着是'才能的进贡'，最后才是'歌曲的进贡'。\"",
+      "options" : [
+        ["才能的进贡？那是什么？", "ritual6"]
+      ]
+    },
+    "ritual6" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "她羞涩的笑了，\"我是一名画家呢。我也是必须为仪式而展现我的才艺呢！\"",
+      "options" : [
+        ["绘画？", "art1"]
+      ]
+    },
+
+    "art1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"说的对啊！\"她突然起身，\"在这里等我完成后回来哦，你可以评论一下我的作品是不是有价值！\"",
+      "continue" : "art2"
+    },
+    "art2" : {
+      "background" : "bg_shrine",
+      "text" : "卡苏米离开了海滩，到了一个装满了书法和毛笔的箱子附近。我在大宝塔的门口尴尬的坐着，从一个很短的距离看着她完成她的作品。",
+      "continue" : "art3"
+    },
+    "art3" : {
+      "background" : "bg_shrine",
+      "text" : "这短短的片刻我用于收集自己当前的想法。",
+      "continue" : "art4"
+    },
+    "art4" : {
+      "background" : "bg_shrine",
+      "text" : "一想到她如此的美丽动人，还是一名有才艺的艺术家？我现在肯定是在做梦吧，或者是我短暂而又精美的白日梦",
+      "continue" : [["fakename>0", "art5a"], "art5b"]
+    },
+    "art5a" : {
+      "background" : "bg_shrine",
+      "text" : "她认为我的名字是沃根·圣·爱堡……如果我们真的是命中注定，她又会怎么看待我的真名呢？",
+      "continue" : "art6"
+    },
+    "art5b" : {
+      "background" : "bg_shrine",
+      "text" : "很难想象她是否真正喜欢我？她能跟我一起来现代生活吗，这不会造成时空连续的裂缝？",
+      "continue" : "art6"
+    },
+    "art6" : {
+      "background" : "bg_shrine",
+      "text" : "我一直苦恼着，但是卡苏米已经回来了，还带着一个卷好的卷轴。",
+      "continue" : "art7"
+    },
+    "art7" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"我完成啦！\"她在我面前宣布着。夕阳下她的笑容如同灯笼鱼在海底诱人的光球一般的吸引着我。",
+      "options" : [
+        ["我能看吗？", "art8a"],
+        ["你画了什么呢？", "art8b"]
+      ]
+    },
+    "art8a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"嗯！准备，一，二！\"",
+      "continue" : "art9"
+    },
+    "art8b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"你马上就可以看到了哦，就现在哦！\"",
+      "continue" : "art9"
+    },
+    "art9" : {
+      "background" : "bg_black",
+      "text" : "她以迅雷不及掩耳之势对我展开了卷轴。",
+      "continue" : "art10"
+    },
+    "art10" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "...",
+      "continue" : "art11"
+    },
+    "art11" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "......",
+      "continue" : "art12"
+    },
+    "art12" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "\"告诉我这是什么呢~\"她急迫的问道。",
+      "options" : [
+        ["一种犬类生物？", "art13"],
+        ["一种异形？", "art13"]
+      ]
+    },
+    "art13" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "她发出了银铃一般的笑声，\"才不是呢，笨蛋，这是鸭子哦~\"",
+      "options" : [
+        ["...", "art14"]
+      ]
+    },
+    "art14" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "......",
+      "continue" : "art15"
+    },
+    "art15" : {
+      "background" : "bg_shrine",
+      "foreground" : "drawing",
+      "foregroundFrame" : "default",
+      "text" : "我从理论上质疑卡苏米是否真真正正见过一只活着的鸭子，或者她仅仅只是从别人的耳朵里听到的对鸭子的描述……",
+      "continue" : "art16"
+    },
+    "art16" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "我转过头，看向满脸期待的她。\"怎么样？\"她激动的说到。\"你觉得我画的如何？\"",
+      "options" : [
+        ["你在开玩笑嘛？", "art17a"],
+        ["这真是太美了！", "art17b", null, ["romantic+1"]]
+      ]
+    },
+    "art17a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"…呜，我觉得对艺术的鉴赏也是分年代的吧…不是吗？\"她听了我的回答后对我断然到。但是我认为这副画并不是艺术鉴赏的问题，从根本角度来说，就是一个玩笑啊。",
+      "continue" : "art18"
+    },
+    "art18" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "我感觉到我直白的话语可能让她有些沮丧，她也不想在这个折磨人的话题上停留太久。",
+      "options" : [
+        ["那……下一项是'歌曲的进贡'？", "song1"]
+      ]
+    },
+    "art17b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"哎呀哎呀，谢谢你哦~\"说完她的脸上露出了孩童般灿烂的笑容。",
+      "options" : [
+        ["那么下一项是'歌曲的进贡'？", "song1"]
+      ]
+    },
+
+    "song1" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "她稍稍点了点头。\"我倒是能想出一些可以驱除不洁之地上的诅咒的歌谣。但是我需要一些点子……\"",
+      "options" : [
+        ["我能帮忙！", "song2"]
+      ]
+    },
+    "song2" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"听起来很棒哦！你觉得应该是什么样的歌曲呢？\"",
+      "options" : [
+        ["一首有趣的歌谣！", "song3a"],
+        ["一首浪漫的歌谣！", "song3b", null, ["romantic+1"]]
+      ]
+    },
+    "song3a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "default",
+      "text" : "\"一首有趣的歌谣？这听起来...还行。你希望里面有一个怎样的角色呢？\"",
+      "options" : [
+        ["一只会说话的鱼！", "song4a"],
+        ["一只很伤心的熊！", "song4b"]
+      ]
+    },
+    "song4a" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"一条会说话的鱼？这个听起来还真有趣。那这条鱼会做些什么呢？\"",
+      "options" : [
+        ["它会淘金！", "song5a"],
+        ["它会尖叫！", "song5b"]
+      ]
+    },
+    "song5a" : {
+      "background" : "bg_black",
+      "text" : "\"好的，我觉得我想到了些什么…\"她缓缓地唱出：",
+      "continue" : "song6a"
+    },
+    "song6a" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"一条会说话的鱼，快乐健康的活着；究竟是什么，让你踏上淘金之旅啊……\"",
+       "options" : [
+        ["结束了吗？", "finale1"]
+      ]
+    },
+    "song5b" : {
+      "background" : "bg_black",
+      "text" : "\"会尖叫？那也行。正好我的脑袋里也有些东西……\"她慢慢的唱出：",
+      "continue" : "song6b"
+    },
+    "song6b" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"一条怪怪的说话鱼，渐渐淡出我的梦境；我们要如何，如何才能让你停止哭泣……\"",
+       "options" : [
+        ["只有这些了吗？", "finale1"]
+      ]
+    },
+    "song4b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"一只伤心的熊？嗯……那这只熊为什么伤心呢？\"",
+      "options" : [
+        ["它的房屋被拿去抵债了！", "song5c"],
+        ["因为它不存在！", "song5d"]
+      ]
+    },
+    "song5c" : {
+      "background" : "bg_black",
+      "text" : "\"它失去了自己的家？嗯，这也太令人难过了！我倒是想出了歌谣，不过这并不是很有趣。\"她轻轻地吟唱到：",
+      "continue" : "song6c"
+    },
+    "song6c" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"可怜的老熊，注定要漂流；万恶的金库，收走了它的熊洞……\"",
+       "options" : [
+        ["结束了？", "finale1"]
+      ]
+    },
+    "song5d" : {
+      "background" : "bg_black",
+      "text" : "\"它不存在？嗯，真可怜。我的确想到了歌谣的内容，但是这可能没有你想象的有趣……\"她缓缓地吟唱到：",
+      "continue" : "song6d"
+    },
+    "song6d" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"可怜的老熊，注定要大凶；当你想到它，它已化成风……\"",
+       "options" : [
+        ["没有了？", "finale1"]
+      ]
+    },
+    "song3b" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"一首情歌吗？真美妙！那你希望讲些什么呢？\"",
+      "options" : [
+        ["海星们恋爱了！", "song4c"],
+        ["为情所困的章鱼！", "song4d"]
+      ]
+    },
+    "song4c" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"哎呀哎呀，那还真可爱呢~它们会在哪里相遇呢？\"",
+      "options" : [
+        ["青少年俱乐部！", "song5e"],
+        ["乡村的舞会上！", "song5f"]
+      ]
+    },
+    "song5e" : {
+      "background" : "bg_black",
+      "text" : "\"听起来很棒哦！我觉得我的脑内已经有歌词了哦。\"她哼着旋律，歌词渐渐跟随旋律出来：",
+      "continue" : "song6e"
+    },
+    "song6e" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"相恋的海星，相互依偎的心；相聚于俱乐部，愉快的玩耍着……\"",
+       "options" : [
+        ["结束了？", "finale1"]
+      ]
+    },
+    "song5f" : {
+      "background" : "bg_black",
+      "text" : "\"那可真是美妙！我觉得我的脑内已经浮现出歌词了哦。\"她轻哼歌谣的旋律，歌词渐渐在旋律中浮现：",
+      "continue" : "song6f"
+    },
+    "song6f" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"相恋的海星，甜甜的恋爱；要如何舞蹈，要用哪只脚~\"",
+       "options" : [
+        ["还有吗？", "finale1"]
+      ]
+    },
+    "song4d" : {
+      "background" : "bg_shrine",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"啊！我马上就能想到哦！为什么它会为情所困呢？\"",
+      "options" : [
+        ["它爱上了一个鲛人！", "song5g"],
+        ["它不敢约会！", "song5h"]
+      ]
+    },
+    "song5g" : {
+      "background" : "bg_black",
+      "text" : "\"听起来很伤感啊！我脑中正好有跟这个有关的歌词……\"她的唇齿之间渐渐哼唱出美妙的旋律和歌词：",
+      "continue" : "song6g"
+    },
+    "song6g" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"伤心的章鱼，爱情的劳累；疲惫的爱情，它并不擅长……\"",
+       "options" : [
+        ["嗯哼？", "finale1"]
+      ]
+    },
+    "song5h" : {
+      "background" : "bg_black",
+      "text" : "\"哦，可怜的章鱼！我觉得这首歌应该挺适合它的……\"她的唇齿之间缓缓地流出旋律和歌词：",
+      "continue" : "song6h"
+    },
+    "song6h" : {
+      "background" : "bg_black",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "pleased",
+      "text" : "\"孤独的章鱼，等待不是一切；再勇敢一些，和她去约会……\"",
+       "options" : [
+        ["还有吗？", "finale1"]
+      ]
+    },
+
+    "finale1" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "当动人的歌谣离开她的嘴唇时，一道飘渺的光突然笼罩了这片区域。我的胃部如同被丢入太阳的洗衣机一样的搅动着。",
+       "options" : [
+        ["发生了什么？！", "finale2"]
+      ]
+    },
+    "finale2" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "\"我也不知道啊！\"她几乎哭出声。我感觉有一双无形的命运的大手，在拉扯这我，催促我离开这个区域。我意识到我能呆在这里的时间非常有限了。",
+      "continue" : "finale3"
+    },
+    "finale3" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "此刻的每一秒对我来说都是珍贵的，也许我不能真正让她落入爱河，但是我一定要完成这一次尝试！这一次美丽的尝试！",
+       "options" : [
+        ["请别忘记我！", "finale4a", null, ["romantic+1"]],
+        ["我喜欢你！", "finale4b"]
+      ]
+    },
+    "finale4a" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "shocked",
+      "text" : "我无法听见她的回应，时间和空间再度把我和我的意识扯向一片虚无之地……",
+      "continue" : [["romantic>3", "goodEnding"], "badEnding"]
+    },
+    "finale4b" : {
+      "background" : "bg_shrine2",
+      "foreground" : "girl_1",
+      "foregroundFrame" : "annoyed",
+      "text" : "\"啊，这么说可能有点奇怪啊，我们都没有深入的了解对方啊！\"她回复到。我已经没有时间去反驳她了，我只能感觉到周围的时间和空间都在消逝……",
+      "continue" : "badEnding"
+    },
+
+    "goodEnding" : {
+      "background" : "bg_black",
+      "text" : "卡苏米的歌谣在我的脑袋里回响着，慢慢的引导着我的意识离开了黑暗，如同在黑暗中的鱼儿，被引导回光明。",
+      "continue" : "goodEnding1"
+    },
+    "goodEnding1" : {
+      "background" : "bg_black",
+      "text" : "宛如穿过了千年的爱恋，但是也许仅仅只是过了几分钟。我回到了我最初的地方。",
+      "continue" : "goodEnding2"
+    },
+    "goodEnding2" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "眼前的空气曲棍球桌……刚刚所发生的…………卡苏米！我深感我的命运捉弄了我，把她从我身边抢走了。",
+      "continue" : "goodEnding3"
+    },
+    "goodEnding3" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我开始大哭大喊大闹，泪水模糊的视线中我看见了曲棍球桌，但是比起爱情这什么都不是！一股怒火，我将桌子掀翻，任其狠狠地砸在地上。",
+      "continue" : "goodEnding4"
+    },
+    "goodEnding4" : {
+      "background" : "bg_school",
+      "text" : "我一边抽泣着，一边看着被毁坏的桌子和地面……太真实了，一点都不像做梦 - 卡苏米不可能只是梦境！",
+      "continue" : "goodEnding5"
+    },
+    "goodEnding5" : {
+      "background" : "bg_school",
+      "foreground" : "letter",
+      "foregroundFrame" : "1",
+      "text" : "在地砖的瓦楞之间，我看见了一封信，这封信看起来非常非常的老旧，明显不是这个年代的产物，难到它一直都在这里？",
+       "options" : [
+        ["打开信封", "goodEnding6"]
+      ]
+    },
+    "goodEnding6" : {
+      "background" : "bg_school",
+      "foreground" : "letter",
+      "foregroundFrame" : "1",
+      "text" : "跪在地上，我焦急的打开了火漆印章封住的信封，小心翼翼的避免自己撕到信纸。这难道是一封来自卡苏米的信？她是不是在里面陈述了她的爱慕？！",
+      "continue" : "goodEnding7"
+    },
+    "goodEnding7" : {
+      "background" : "bg_school",
+      "foreground" : "letter",
+      "foregroundFrame" : "2",
+      "text" : "渐渐打开信封，我能感受到心脏在加速跳动。是不是卡苏米找到了让我回到过去的方法，并且希望我能够回去跟她继续我们史诗一般的恋情吗？",
+      "continue" : "goodEnding8"
+    },
+    "goodEnding8" : {
+      "background" : "bg_black",
+      "foreground" : "letter",
+      "foregroundFrame" : "2",
+      "text" : "怀揣着焦急的心，没有任何等待，我赶紧翻开了信件，信件上的内容一览无余：",
+      "continue" : "goodEnding9"
+    },
+    "goodEnding9" : {
+      "background" : "bg_end",
+      "foreground" : "letter",
+      "foregroundFrame" : "3",
+      "text" : " "
+    },
+
+    "badEnding" : {
+      "background" : "bg_black",
+      "text" : "卡苏米的歌谣在我的脑袋里回响着，慢慢的引导着我的意识离开了黑暗，如同在黑暗中的鱼儿，被引导回光明。",
+      "continue" : "badEnding1"
+    },
+    "badEnding1" : {
+      "background" : "bg_black",
+      "text" : "宛如穿过了千年的爱恋，但是也许仅仅只是过了几分钟。我回到了我最初的地方。",
+      "continue" : "badEnding2"
+    },
+    "badEnding2" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "眼前的空气曲棍球桌……刚刚所发生的…………卡苏米！我深感我的命运捉弄了我，把她从我身边抢走了。",
+      "continue" : "badEnding3"
+    },
+    "badEnding3" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我开始大哭大喊大闹，泪水模糊的视线中我看见了曲棍球桌，但是比起爱情这什么都不是！一股怒火，我试图将桌子掀翻，但是我的手臂并没有我所期待的力气",
+      "continue" : "badEnding4"
+    },
+    "badEnding4" : {
+      "background" : "bg_school",
+      "foreground" : "hockey_table",
+      "text" : "我可能永远无法摧毁这个曲棍球桌。和美丽的神社巫女一起的梦想也是竹篮打水一场空……",
+      "continue" : "badEnding5"
+    },
+    "badEnding5" : {
+      "background" : "bg_black",
+      "foreground" : "hockey_table",
+      "text" : "……但是，我至少还有空气曲棍球啊。",
+      "continue" : "badEnding6"
+    },
+    "badEnding6" : {
+      "background" : "bg_end",
+      "foreground" : "hockey_table",
+      "text" : " "
+    }
+  }
+}

@@ -1,9 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "上面显示了一份病人的病历。看起来是个人类，但是…他有两颗心脏？"},
+[{ "op" : "replace", "path" : "/description", "value" : "这是一个屏幕，显示着旧的医疗扫描结果。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "医疗数据面板"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "有两颗心脏的人类。这世上有什么生物会有这种构造?"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "有两颗心脏的病人，也许人类进化了吧。"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "这个人类有两个心脏脏脏，多么怪异！"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "羞愧。有着两个心脏的家伙，在我们电子人的文化中，有这种制造缺陷的家伙会被销毁的。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "这个人有两颗心！我想知道是不是我也有两颗心，我有许多爱要献给别人。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一副躯体里有两颗心脏。这个人去看医生一点也不奇怪。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "看上去这个病人有两个心脏。那可一点都不正常。"}]
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这屏幕似乎显示的是医疗诊断。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "扫描结果看起来似乎是医疗数据。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "屏幕显示示示鲜肉人人人。叶族想想想如果人人人被困在里里里面会怎么样。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这似乎是一个全身医疗扫描。我不知道他们有什么问题？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "数字医疗扫描！这都是蓝色的，因为蓝色是科学技术的默认色。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "医学扫描—根据图像判断，它不是鲛人。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我不知道这些信息是用来干什么的？"}]

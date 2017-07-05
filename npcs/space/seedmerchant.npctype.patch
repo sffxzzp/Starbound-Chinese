@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title","value": "种子商人"},
+{"op": "replace","path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle","value": "卖种植用的种子！"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/start/floran/default/0","value": "叶族人的种子能在太太太空生长。叶族人没几个顾顾顾客。"},
+{"op": "replace","path": "/scriptConfig/dialog/merchant/end/floran/default/0","value": "在太太太空玩的开开开心点！"}]

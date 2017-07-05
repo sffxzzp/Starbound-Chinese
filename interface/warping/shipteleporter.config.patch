@@ -1,1 +1,2 @@
-[{"op":"replace","path":"/destinations/0","value":{"name":"传送到星球","planetName":"飞船停靠的星球","warpAction":"OrbitedWorld","icon":"beamdown"}}]
+[{"op":"replace","path":"/destinations/0","value":{"name":"传送到星球","planetName":"飞船停靠的星球","warpAction":"OrbitedWorld","icon":"beamdown"}},
+{"op":"replace","path":"/destinations/1","value":{"name" : "部署机械","planetName" : "飞船停靠的星球","warpAction" : "OrbitedWorld","deploy" : true,"icon" : "deploy"}}]

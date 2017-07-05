@@ -1,9 +1,9 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个精细的太阳系的矮行星模型，天王星。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "天王星模型"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个精细的太阳系的矮行星模型，冥王星。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冥王星模型"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "我不明白为什么人类对这个小矮人般的矮行星如此痴迷。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "在古地球神话中，冥王星是以一个地狱之神撒旦的名字命名的。这让我想起了一些翼族类似的神话。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "在太阳系系系外围一个轨道上的小小小矮人行星。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。为什么人类在如此慎重考虑中依然认定持有冥王星？它甚至不是一个行星。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "可怜的天王星…你真的撞倒了一个钉子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "可怜的冥王星…你真的撞倒了一个钉子。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "我了解到在学院这颗矮行星的文化地位在地球文化101的会议中具有争议性。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "冥王星被认为是太阳系中的第九颗行星，在它被撤销太阳系成员之前。它只是个小流氓。"}]

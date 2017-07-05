@@ -6,4 +6,4 @@
 {"op": "replace","path": "/scriptConfig/descriptions/collectRepairItem","value": "收集^orange;星核碎片^reset;"},
 {"op": "replace","path": "/scriptConfig/descriptions/repairGate","value": "使用^orange;星核碎片^reset;激活星门"},
 {"op": "replace","path": "/scriptConfig/descriptions/findEsther","value": "找到^orange;神秘信息^reset;的发送源"},
-{"op": "replace","path": "/scriptConfig/outpostBookmark/name","value": "前哨站－方舟"}]
+{"op": "replace","path": "/scriptConfig/outpostBookmark/bookmarkName","value": "前哨站－方舟"}]

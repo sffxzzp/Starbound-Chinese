@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "要是我有时间，一定洗个热水澡。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "淋浴器流流流出了锈水。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "不适。电子人和淋浴不共戴天。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "我想洗澡，但我唱歌的时候可能被捡肥皂。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想洗个澡，但我的歌声可能会惊动敌人。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "与水接触会受到祝福。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "喔，一个淋浴器。"}]

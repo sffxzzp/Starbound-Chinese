@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用于工业货船的典型通信设备。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工业乘员头盔"}]

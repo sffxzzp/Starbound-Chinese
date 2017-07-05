@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "配置你自己的空间站部署探测器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站应答器"}]

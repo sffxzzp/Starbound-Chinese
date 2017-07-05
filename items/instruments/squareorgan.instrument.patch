@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "能在你的表演中完美加入合成感。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "方波"}]

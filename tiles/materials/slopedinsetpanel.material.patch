@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种能承受大多数风化的廉价材料。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这种便宜的材料能承受大部分的风化。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这种空空间金属看起来很硬。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个坚固的金属板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "嵌板"}]

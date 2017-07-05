@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "精灵飞蝇"},
+{ "op" : "replace", "path" : "/description", "value" : "一种脑死亡的生物武器，由不负责任的人类科学家创造出来。"}]

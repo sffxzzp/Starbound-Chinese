@@ -1,6 +1,8 @@
-[{"op": "replace","path": "/title","value": "^green;企鹅武器试验场"},
-{"op": "replace","path": "/text","value": "我可以帮你升级一些稀有的武器，但是我的供货商总是把精力用在^orange;测试他的新武器^white;上。如果你可以…帮我摧毁它，那么他大概就有空给我发货了吧！^green;准备好了就说一声，我会带你去见他^white;！"},
-{"op": "replace","path": "/completionText","value": "你把我的供货商的新武器摧毁了？太好了！比吉的知名武器商店重新开张—^green;每天都来瞧一瞧有什么新货吧^white;！"},
-{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "跟^orange;比吉^reset;交谈让带你去^orange;试验场^reset;"},
-{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "打败^orange;激斗机甲MK I^reset;"},
-{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "回到^orange;前哨站^reset;向^orange;比吉^reset;汇报情况"}]
+[{"op": "replace","path": "/title","value": "^orange;企鹅武器测试场"},
+{"op": "replace","path": "/text","value": "我的一个武器经销商需要我现在给他供货，但是我一直忙着修复我新的试验型^orange;激斗机甲^white;。理所当然，^green;我需要一个愣头青进行对抗测试^white;，懂我的意思吧？ 你准备就绪之后跟我说，我们一起去我的^orange;武器测试场^white;。"},
+{"op": "replace","path": "/completionText","value": "感谢你这次紧张刺激的测试环节，朋友。这给了我一大堆有用的数据！我已经给我的武器经销商发货了，^green;他的货摊应该已经在前哨站这开业了^white;。"},
+{"op": "replace","path": "/scriptConfig/portraits/questStarted/title","value": "阿卡基博士"},
+{"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "阿卡基博士"},
+{"op": "replace","path": "/scriptConfig/descriptions/enterInstance","value": "与^orange;阿卡基博士^reset;交谈以前往^orange;测试场^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/findGoal","value": "击败^orange;激斗机甲MK I^reset;"},
+{"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "返回位于^orange;前哨站^reset;的^orange;阿卡基博士^reset;处"}]

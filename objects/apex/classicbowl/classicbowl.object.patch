@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个很好的瓷碗。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "经典碗"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个很好的瓷碗。猿族经常用的都是塑料碗。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "翼族通常只从盘子吃。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族试图吃刚杀的鲜肉。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "调皮。碗扔在地上的声音最令人满意。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "漂亮的厨房用具。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "鲛人也能做出上好的瓷器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个漂亮的碗干净到我能看见自己的倒影。"}]

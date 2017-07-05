@@ -1,4 +1,3 @@
 [{"op": "replace","path": "/scriptConfig/crew/role/name","value": "机械师"},
 {"op": "replace","path": "/scriptConfig/crew/role/field","value": "机械技术"},
-{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["喔，这油箱看上去好小！我来解决这个问题…"]},
-{"op": "replace","path": "/scriptConfig/dialog/crewmember/shipImprovementApplied/default/default","value": ["油箱容量增加了，船长！让我们加点燃料进去看看是否能容纳更多！"]}]
+{"op": "replace","path": "/scriptConfig/dialog/crewmember/roleDescription/default/default","value": ["我会在这清理化油器。燃油效率将提高10％！"]}]

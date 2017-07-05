@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个未知星球的模型。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "中世界星球仪"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "中世纪星球仪"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "一个星球仪。与飞船上关于这个星球的数据不符。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这上面似乎标注了所有的大陆块。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "好小的星球。"},

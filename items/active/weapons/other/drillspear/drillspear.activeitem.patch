@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "打穿天堂，或至少打穿地球。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "钻枪"}]

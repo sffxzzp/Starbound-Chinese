@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "翼手蝠"},
+{ "op" : "replace", "path" : "/description", "value" : "其内部的氮反应堆经常超载，导致它螺栓爆炸。"}]

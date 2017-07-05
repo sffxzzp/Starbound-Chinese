@@ -1,5 +1,5 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这门是用一种防弹材料制造的。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "大型气闸"},
+[{ "op" : "replace", "path" : "/description", "value" : "这自动门是用一种防弹材料制造的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "大型气闸门"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "气闸。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "气闸。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "这是是是气闸。"},

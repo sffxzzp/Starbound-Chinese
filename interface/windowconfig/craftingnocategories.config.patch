@@ -1,4 +1,4 @@
-{"op": "replace","path": "/paneLayout/windowtitle/title","value": "制作"},
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "制作"},
 {"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "创造各式各样的好东西！"},
 {"op": "replace","path": "/paneLayout/lblSchematics/value","value": "^#b9b5b2;原理图"},
 {"op": "replace","path": "/paneLayout/lblProducttitle/value","value": "^#b9b5b2;生产"},

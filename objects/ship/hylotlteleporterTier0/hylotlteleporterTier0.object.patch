@@ -1,9 +1,9 @@
 [{ "op" : "replace", "path" : "/description", "value" : "值得信赖的传送器，没有你我们该怎么办？"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "传送器"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "飞船的传送器。没电了。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "飞船的传送器。我要给它送上电。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "传送器！要是这个接通了电源就好了。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "飞船传送器。这个已经报废了。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "失望。没有通电的传送器，我需要给它接通电源。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "传送器！没有通电这一情况简直太糟糕了。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "传送器！没有通电简直太糟糕了。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这个传送器停用了。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个老旧的传送器看起来没法正常运转了。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "飞船传送器。我需要给她接上电。"}]

@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/gui/windowtitle/title","value": "商品交易商"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "通过空间站之间的交易盈利"},
+{"op": "replace","path": "/gui/btnBuy/caption","value": "购买"},
+{"op": "replace","path": "/gui/btnSell/caption","value": "售出"}]

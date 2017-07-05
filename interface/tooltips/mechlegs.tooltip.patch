@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/speedStatLabel/value","value": "地面速度"},
+{"op": "replace","path": "/jumpStatLabel/value","value": "跳跃力"}]

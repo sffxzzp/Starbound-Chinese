@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/energyStatLabel/value","value": "最大能量"},
+{"op": "replace","path": "/protectionStatLabel/value","value": "防御"}]

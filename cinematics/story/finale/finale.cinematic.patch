@@ -17,4 +17,4 @@
 {"op": "replace","path": "/panels/64/text","value": "STARBOUND 制作团队"},
 {"op": "replace","path": "/panels/65/text","value": "特别感谢"},
 {"op": "replace","path": "/panels/66/text","value": "赞助"},
-{"op": "replace","path": "/panels/82/text","value": "\nSEIGA\nSMOOTH MCGROOVE\nSUIKA IBUKI\nTANZNUKETERROR\nTATTERDEMALION\nTHE SUIT\nTOBY FOX\nTOMSERVO\nTRAMSAN\nYEN\nYMEDRON\n星核汉化组\n"}]
+{"op": "replace","path": "/panels/82/text","value": "\nSAYTER\nSEIGA\nSMOOTH MCGROOVE\nSUIKA IBUKI\nTANZNUKETERROR\nTATTERDEMALION\nTHE SUIT\nTOBY FOX\nTOMSERVO\nTRAMSAN\nYEN\nYMEDRON\n星核汉化组\n"}]

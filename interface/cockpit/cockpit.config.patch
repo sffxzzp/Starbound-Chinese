@@ -1,76 +1,692 @@
-[{"op": "replace","path": "/starmapTypeDescription","value": {"default": "神秘的星","whitestar": "和平的星","orangestar": "温和的星","yellowstar": "放射性星","bluestar": "寒冷的星","redstar": "炽热的星"}},
-{"op": "replace","path": "/threatLevelToText/default","value": ["Lv. 1 低","Lv. 2 中等","Lv. 3 冒险","Lv. 4 危险","Lv. 5 极限","Lv. 6 不可思议","Lv. 7 虚幻","Lv. 8 ***","Lv. 9 ***","Lv. 10 ***"]},
-{"op": "replace","path": "/threatLevelToText/moon","value": ["未知"]},
-{"op": "replace","path": "/threatLevelText/label/text","value": "威胁"},
-{"op": "replace","path": "/planetTypeLabel/text","value": "着陆地点分析"},
-{"op": "replace","path": "/planetTypeToDescription/garden","value": ["^#76fe68;葱郁的^white;山脚下标出了这个着陆地点。这里有丰富的动植物群。直接传送非常安全的地点。","这传送点在一处生物丰富的宁静地带。这里有你可利用的资源。一个^#76fe68;葱郁^white;且宜人的地方。","读数表示这个着陆点是有利的—这个区域是安全的，动物和植物都很丰富一个^#76fe68;葱郁^white;好客的地方。"]},
-{"op": "replace","path": "/planetTypeToDescription/forest","value": ["由密集的树木及其他植物占领，这个^#15ce02;森林^white;着陆点是个拥有生物多样化（—也包括你）的地区。","多叶树木环绕着这个^#15ce02;森林^white;。这个地方欢迎生命，我的数据库显示你可能遇到林地生物。","你在这个星球的传送点位于^#15ce02;森林^white;中。读数显示这一片林地相对宁静。"]},
-{"op": "replace","path": "/planetTypeToDescription/desert","value": ["这里仅有少量的生命，但这里确实可以存活。这里同样有丰富的沙子。简单来说，这是个^#e6c801;沙漠^white;。","一个有仙人掌及各种动物的^#e6c801;沙漠^white;区域。一个相对安全的降落地点，只要你记得避开沙尘暴。","沙子。读数显示沙子。还有一些仙人掌…但主要是沙子。我从可用信息推测出这个着陆点位于^#e6c801;沙漠^white;。"]},
-{"op": "replace","path": "/planetTypeToDescription/snow","value": ["这个寒冷的着陆点充满了^#69f1fd;雪^white;。各式各样的树木在这里成长，寒冷的条件下动物也很多。一个适合做雪球的地方。","着陆地点很冷，但并不危险。^#69f1fd;雪^white;覆盖了这个区域且可能存在暴风雪。最好带上帽子和手套。","这个位置比较寒冷，^#69f1fd;雪^white;在地面上覆盖的厚厚的。我的传感器显示有小动物在“白色地毯”上跳来跳去。"]},
-{"op": "replace","path": "/planetTypeToDescription/savannah","value": ["降落地点位于既热又容易出现沙尘暴的^#ffe21d;干草地^white;。既不是特别舒适，也不是特别危险。","这片^#ffe21d;干草地^white;只有稀疏的树木。并不过于荒凉—读数显示有一只野兔正在跳。","着陆位置位于^#ffe21d;干草地^white;中。树木和灌木由于热而生长稀疏。一个有宽阔、平坦景观的多尘土的地方。"]},
-{"op": "replace","path": "/planetTypeToDescription/ocean","value": ["一个有深^#008aff;海^white;和小岛的星球。我的读数显示水生生物丰富，而且表面的小岛非常美丽。","一个由^#008aff;海洋^white;覆盖的星球，有岛屿并充满生命。我的读数显示海域深处有大量的活动。","浮动的沙岛像是撒在这个^#008aff;海^white;星球表面的胡椒粉。一个有着热带氛围与美的环境。"]},
-{"op": "replace","path": "/planetTypeToDescription/toxic","value": ["这颗行星有^#06ff00;毒^white;—^red;辐射超出安全水平^white;几千倍。","这颗^red;高辐射^white;的星球对于成长在被辐照环境下的生命形式来说也是有毒的。它的发光表面是有^#06ff00;毒^white;的。一个不诱人的目的地。","这是一个充满了^red;辐射的^white;、有^#06ff00;毒^white;的星球。海洋里充满了致命的毒液…请允许我提醒你，还有其他的目的地可供选择。"]},
-{"op": "replace","path": "/planetTypeToDescription/jungle","value": ["着陆点在茂密的^#12a003;丛林^white;。动物展览般的那些令人惊讶的动物生活在葱郁的植物中。这对于^red;如此高级别的辐射^white;来说简直是耻辱。","一个由密集的植物群和多种动物构成的^#12a003;丛林^white;中的着陆点。该地区有丰富的资源，但^red;辐射惊人的高^white;。","^red;高水平的辐射^white;将这片^#12a003;丛林^white;的环境变的极其恶劣，动物也同样是不友好的。"]},
-{"op": "replace","path": "/planetTypeToDescription/alien","value": ["这是一个很危险的着陆点—^red;辐射水平非常高^white;。然而，这^#7800ff;突变^white;的地形可被描述为黑暗且离奇的。","着陆地点的特征在于古怪的植物、侵略性的动物和^red;病态的高辐射水平^white;。该地区的居民严重^#7800ff;变异^white;。","传送点坐落于一个^#7800ff;变异^white;的景观中。这^red;高水平的辐射^white;使环境带有毒素。我建议你别游泳了。"]},
-{"op": "replace","path": "/planetTypeToDescription/arctic","value": ["^red;着陆点的温度低的危险。^white;你将被传送至一个被^#00ffe4;寒冷海洋^white;所环绕的小岛。我强烈建议你戴围巾。","着陆点^red;非常冷^white;：一个在^#00ffe4;寒冷海洋^white;中的小岛。你大概有0.025%的概率会被误传进水里，并很快的屈服于那强烈的寒意。","一个有着^red;低的危险的温度的^white;着陆点。这里只有很少的动物，并且根本没有植物生命—仅有^#00ffe4;寒冷海洋^white;中的遗弃岛屿。"]},
-{"op": "replace","path": "/planetTypeToDescription/tundra","value": ["一个^#61ffe3;寒冷^white;的地方，由冰组成—深层是冻土。雪暴经常发生，而且^red;温度低的危险^white;。","这^red;极端寒冷^white;的着陆点是^#61ffe3;冻^white;成的。意外自我冻存的可能性极高。请在寒冷中保护自己。","^red;着陆点的温度低的危险^white;。这区域非常^#61ffe3;冷^white;，只有极其耐冷的动植物才能生存。"]},
-{"op": "replace","path": "/planetTypeToDescription/volcanic","value": ["^#e11212;火山^white;上的着陆点^red;灾难般的热^white;。如果你愿意的话，我可以计算出你传送下去后瞬间被点燃的可能性…","^#e11212;火山^white;活动摧残了这个星球，着陆点在一个具有特定毒性的区域中。^red;温度远超过正常生存水平^white;。","着陆点位于^#e11212;火山^white;地形中，而且^red;热的出奇^white;。你对于这个地方的兴致表明了你大无畏的执着。"]},
-{"op": "replace","path": "/planetTypeToDescription/midnight","value": ["这是一个太阳永不会升起的^#e11212;黑暗^white;世界，表面^red;极其寒冷^white;。你应当给自己做好心理和生理上的双重准备。","这^#e11212;黑暗^white;的世界^red;十分寒冷^white;。这里住着奇怪的、隐藏在永夜之中的影子。","扫描显示星球表面是^#e11212;黑暗^white;的。实际上，扫描除了黑暗之外无其他显示。然而，我推测表面肯定^red;寒冷刺骨^white;。"]},
-{"op": "replace","path": "/planetTypeToDescription/scorchedcity","value": ["着陆点是^#b24301;烧焦^white;的荒地。大气^red;温度高的危险^white;。你考虑这个目的地显示出了你的勇敢。","着陆点是^#b24301;烧焦^white;且荒凉的。几乎没什么能在这里生存因为^red;温度致命的高^white;。我不能理解为什么会有人住。","着陆点位于^red;星球表面的酷热^white;造成的^#b24301;焦土^white;上。只有少数顽强的个体依然存活，也许仅是出于习性。"]},
-{"op": "replace","path": "/planetTypeToDescription/magma","value": ["这^red;极其热^white;的星球主要由^#ff1818;岩浆^white;构成。记住，你的思维适应力很强，但并不是阻热剂。","这星球的表面^red;极端的热^white;。几乎没有生物能在这星球的庞大^#ff1818;岩浆^white;海里勉强存活。","着陆点是^#ff1818;岩浆^white;海中孤立的小岛。如果你想表达你的坚毅，那就考虑选择这颗^red;十分热^white;的星球。"]},
-{"op": "replace","path": "/planetTypeToDescription/moon","value": ["孤单的^#949493;卫星^white;^red;没有可以呼吸的大气^white;。表面直接暴露在宇宙中，地下有燃料。感到寂寞荒凉的可能性：92%。","这个^#949493;卫星^white;上没有生命并且也^red;没有大气^white;。然而，这里有丰富的燃料—扫描显示地标以下埋藏了大量燃料。","这个^#949493;卫星^white;^red;没有可以呼吸的大气^white;，但地下的洞穴含有丰富的燃料。总结：有用，但不诱人。"]},
-{"op": "replace","path": "/planetTypeToDescription/asteroids","value": ["一个^#d7711e;小行星^white;群。读数显示这里^red;没有大气^white;和生命。只有无尽的虚无，和大量可用来建造的空间。","一个无生命的^#d7711e;小行星^white;群。^red;没有大气^white;：从遥远的空间漂流而来，锚定在一个恒星系内…一个适合建房子的地方。","一个沿着椭圆轨道漂移的^#d7711e;小行星^white;群。读数显示^red;这里没有大气^white;。以及其他任何东西…"]},
-{"op": "replace","path": "/planetTypeToDescription/barren","value": ["这个位置是^#999966;荒芜^white;且无生命的。读数显示这里什么都没有，一个空地方。","这个地方是^#999966;荒芜^white;的，不适宜任何形式的生命。这里什么都没有…","读数显示着陆点有着不寻常的色调。并且，是个^#999966;荒芜^white;且适合建造的地方。"]},
-{"op": "replace","path": "/terraformedPlanetDescription","value": ["这个星球已经被大规模转化而改变的超出认知。","转化让这个星球可以安全居住，虽然外形上看起来不太自然。","这个星球的气候和生态系统已转化大改变。"]},
-{"op": "replace","path": "/planetTypeToDescription/ancientgateway","value": ["一个来源不明的^#571cff;古代门户^white;；有关巨大力量的神秘建筑。"]},
-{"op": "replace","path": "/worldTypeToDescription/gasgiant","value": ["气体相互交织形成的大球。没有可以落脚的地方。","一个巨大气体球。这个气体星球没有坚硬的表面，仅仅是一个旋转的气体集合。","无法着陆。气体星球的压力和能将人撕裂的风会立即杀死你。"]},
-{"op": "replace","path": "/dayLengthText/label/text","value": "日周期"},
-{"op": "replace","path": "/dayLengthText/value/text","value": "<value>日"},
-{"op": "replace","path": "/sizeText/label/text","value": "星球大小"},
-{"op": "replace","path": "/sizeText/value/text","value": "<value>区"},
-{"op": "replace","path": "/oreText/text","value": "地质分析"},
-{"op": "replace","path": "/displayOres/0/displayName","value": "铜"},
-{"op": "replace","path": "/displayOres/1/displayName","value": "银"},
-{"op": "replace","path": "/displayOres/2/displayName","value": "金"},
-{"op": "replace","path": "/displayOres/3/displayName","value": "铁"},
-{"op": "replace","path": "/displayOres/4/displayName","value": "钨"},
-{"op": "replace","path": "/displayOres/5/displayName","value": "钛"},
-{"op": "replace","path": "/displayOres/6/displayName","value": "耐钢"},
-{"op": "replace","path": "/displayOres/7/displayName","value": "菲洛"},
-{"op": "replace","path": "/displayOres/8/displayName","value": "霓磷"},
-{"op": "replace","path": "/displayOres/9/displayName","value": "维奥"},
-{"op": "replace","path": "/displayOres/10/displayName","value": "日耀"},
-{"op": "replace","path": "/displayOres/11/displayName","value": "水晶能源燃料"},
-{"op": "replace","path": "/weatherText/text","value": "天气"},
-{"op": "replace","path": "/displayWeathers/rain/displayName","value": "雨"},
-{"op": "replace","path": "/displayWeathers/drizzle/displayName","value": "细雨"},
-{"op": "replace","path": "/displayWeathers/storm/displayName","value": "风暴"},
-{"op": "replace","path": "/displayWeathers/ember/displayName","value": "土雹"},
-{"op": "replace","path": "/displayWeathers/snow/displayName","value": "雪"},
-{"op": "replace","path": "/displayWeathers/fog/displayName","value": "雾"},
-{"op": "replace","path": "/displayWeathers/ash/displayName","value": "落尘"},
-{"op": "replace","path": "/displayWeathers/lightash/displayName","value": "轻落尘"},
-{"op": "replace","path": "/displayWeathers/meteorshower/displayName","value": "小陨石"},
-{"op": "replace","path": "/displayWeathers/largemeteor/displayName","value": "大陨石"},
-{"op": "replace","path": "/displayWeathers/glowingrain/displayName","value": "光雨"},
-{"op": "replace","path": "/displayWeathers/crystalrain/displayName","value": "晶雨"},
-{"op": "replace","path": "/displayWeathers/hailstones/displayName","value": "冰雹"},
-{"op": "replace","path": "/displayWeathers/groundmist/displayName","value": "薄雾"},
-{"op": "replace","path": "/displayWeathers/windstorm/displayName","value": "风暴"},
-{"op": "replace","path": "/displayWeathers/spacejunk/displayName","value": "轨道碎片"},
-{"op": "replace","path": "/displayWeathers/spacedustshower/displayName","value": "星尘"},
-{"op": "replace","path": "/displayWeathers/snowstorm/displayName","value": "暴雪"},
-{"op": "replace","path": "/displayWeathers/sandstorm/displayName","value": "沙尘暴"},
-{"op": "replace","path": "/displayWeathers/duststorm/displayName","value": "尘暴"},
-{"op": "replace","path": "/displayWeathers/icestorm/displayName","value": "冰暴"},
-{"op": "replace","path": "/displayWeathers/acidrain/displayName","value": "酸雨"},
-{"op": "replace","path": "/ftlOfflineText/text","value": "FTL驱动离线"},
-{"op": "replace","path": "/guiConfig/showBookmarkList/caption","value": "标签"},
-{"op": "replace","path": "/guiConfig/addBookmark/caption","value": "添加/编辑标签"},
-{"op": "replace","path": "/guiConfig/goToMyShip/caption","value": "显示飞船位置"},
-{"op": "replace","path": "/guiConfig/goToQuest/caption","value": "显示任务位置"},
-{"op": "replace","path": "/guiConfig/windowtitle/title","value": "导航控制台"},
-{"op": "replace","path": "/guiConfig/windowtitle/subtitle","value": "^#b9b5b2;选择你的目的地"},
-{"op": "replace","path": "/guiConfig/bookmarkListLabel/value","value": "^shadow;标签"},
-{"op": "replace","path": "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value","value": "标签名"},
-{"op": "replace","path": "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value","value": "星球名"}]
+[
+  {
+    "op": "replace",
+    "path": "/terraformedPlanetDescription",
+    "value": [
+      "这个星球已经被大规模转化而改变的超出认知。",
+      "转化让这个星球可以安全居住，虽然外形上看起来不太自然。",
+      "这个星球的气候和生态系统已转化大改变。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/clusterMoons",
+    "value": {
+      "none": "无卫星",
+      "singular": "1卫星",
+      "plural": "%s卫星"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames",
+    "value": {
+      "garden": "Lush",
+      "forest": "Forest",
+      "desert": "Desert",
+      "snow": "Snowy",
+      "savannah": "Savannah",
+      "ocean": "Oceanic",
+      "toxic": "Toxic",
+      "jungle": "Jungle",
+      "alien": "Alien",
+      "arctic": "Arctic",
+      "tundra": "Tundra",
+      "volcanic": "Volcanic",
+      "midnight": "Midnight",
+      "scorchedcity": "Scorched",
+      "magma": "Lava",
+      "moon": "Lunar",
+      "asteroids": "Asteroids",
+      "barren": "Barren",
+      "ancientgateway": "Gateway"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames",
+    "value": {
+      "default": "神秘的星",
+      "whitestar": "和平的星",
+      "orangestar": "温和的星",
+      "yellowstar": "放射性星",
+      "bluestar": "寒冷的星",
+      "redstar": "炽热的星"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/jumpDialog",
+    "value": {
+      "valid": "超光速航行将消耗^green;%s燃料^reset;。\n点击确认以继续。",
+      "invalid": "超光速航行需要^red;%i燃料^reset;。\n没有足够的燃料以继续。"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/topLeftButtonTooltips",
+    "value": {
+      "showBookmarkList": "标签",
+      "goToShip": "查看飞船",
+      "goToQuest": "查看任务地点",
+      "showCoordinates": "坐标"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": "导航控制台"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "^#b9b5b2;选择你的目的地"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
+    "value": "标签名"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value",
+    "value": "星球名"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/ok/caption",
+    "value": "接受"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/remove/caption",
+    "value": "删除"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/close/caption",
+    "value": "取消"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/title/value",
+    "value": "新标签"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/name/hint",
+    "value": "输入标签名"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/editBookmarkFrame/children/name/regex",
+    "value": ".{0,28}"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/jump/caption",
+    "value": "跃迁"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/cancel/caption",
+    "value": "取消"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/title/value",
+    "value": "确认超光速航行"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/jumpDialog/children/text/value",
+    "value": "超光速航行将消耗^green;%s燃料^reset;。\n点击确认以继续。"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clusterinfo/children/inner/children/name/value",
+    "value": "这是个集群"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clusterinfo/children/inner/children/moons/value",
+    "value": "很多卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clusterinfo/children/inner/children/view/caption",
+    "value": "未探索"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/name/value",
+    "value": "空间对象"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/description/value",
+    "value": "这是个非常好的空间对象"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/threat/value",
+    "value": "需要机械以部署"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/objectinfo/children/inner/children/bookmark/caption",
+    "value": "添加标签"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/type/value",
+    "value": "星球类型"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/name/value",
+    "value": "系统"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value",
+    "value": "星球种类"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/systeminfo/children/inner/children/view/caption",
+    "value": "未探索"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/name/value",
+    "value": "这是个星球"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/description/value",
+    "value": "此星球的描述"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/threatLabel/value",
+    "value": "威胁度："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/threatValue/value",
+    "value": "危险"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/ores/value",
+    "value": "地质分析"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/weather/value",
+    "value": "天气"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/planetinfo/children/inner/children/bookmark/caption",
+    "value": "添加标签"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/disabledLabel/value",
+    "value": "导航离线"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/transitLabel/value",
+    "value": "跃迁中"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/remoteTitle/value",
+    "value": "远程系统视图"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/remoteDescription/value",
+    "value": "未映射的天体不可用"
+  },
+  {
+    "op": "replace",
+    "path": "/planetInfoBox/bookmarkButtonCaption",
+    "value": {
+      "add": "添加标签",
+      "edit": "编辑标签",
+      "disabled": "无法标签"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/clusterInfoBox/viewButtonCaption",
+    "value": {
+      "enabled": "查看",
+      "disabled": "未探索"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/objectInfoBox/bookmarkButtonCaption",
+    "value": {
+      "add": "添加标签",
+      "edit": "编辑标签",
+      "disabled": "无法标签",
+      "unexplored": "未探索"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/systemInfoBox/viewButtonCaption",
+    "value": {
+      "enabled": "查看",
+      "disabled": "未探索"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/garden",
+    "value": [
+      "^#76fe68;葱郁的^white;山脚下标出了这个着陆地点。这里有丰富的动植物群。直接传送非常安全的地点。",
+      "这传送点在一处生物丰富的宁静地带。这里有你可利用的资源。一个^#76fe68;葱郁^white;且宜人的地方。",
+      "读数表示这个着陆点是有利的—这个区域是安全的，动物和植物都很丰富一个^#76fe68;葱郁^white;好客的地方。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/forest",
+    "value": [
+      "由密集的树木及其他植物占领，这个^#15ce02;森林^white;着陆点是个拥有生物多样化（—也包括你）的地区。",
+      "多叶树木环绕着这个^#15ce02;森林^white;。这个地方欢迎生命，我的数据库显示你可能遇到林地生物。",
+      "你在这个星球的传送点位于^#15ce02;森林^white;中。读数显示这一片林地相对宁静。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/desert",
+    "value": [
+      "这里仅有少量的生命，但这里确实可以存活。这里同样有丰富的沙子。简单来说，这是个^#e6c801;沙漠^white;。",
+      "一个有仙人掌及各种动物的^#e6c801;沙漠^white;区域。一个相对安全的降落地点，只要你记得避开沙尘暴。",
+      "沙子。读数显示沙子。还有一些仙人掌…但主要是沙子。我从可用信息推测出这个着陆点位于^#e6c801;沙漠^white;。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/snow",
+    "value": [
+      "这个寒冷的着陆点充满了^#69f1fd;雪^white;。各式各样的树木在这里成长，寒冷的条件下动物也很多。一个适合做雪球的地方。",
+      "着陆地点很冷，但并不危险。^#69f1fd;雪^white;覆盖了这个区域且可能存在暴风雪。最好带上帽子和手套。",
+      "这个位置比较寒冷，^#69f1fd;雪^white;在地面上覆盖的厚厚的。我的传感器显示有小动物在“白色地毯”上跳来跳去。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/savannah",
+    "value": [
+      "降落地点位于既热又容易出现沙尘暴的^#ffe21d;干草地^white;。既不是特别舒适，也不是特别危险。",
+      "这片^#ffe21d;干草地^white;只有稀疏的树木。并不过于荒凉—读数显示有一只野兔正在跳。",
+      "着陆位置位于^#ffe21d;干草地^white;中。树木和灌木由于热而生长稀疏。一个有宽阔、平坦景观的多尘土的地方。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ocean",
+    "value": [
+      "一个有深^#008aff;海^white;和小岛的星球。我的读数显示水生生物丰富，而且表面的小岛非常美丽。",
+      "一个由^#008aff;海洋^white;覆盖的星球，有岛屿并充满生命。我的读数显示海域深处有大量的活动。",
+      "浮动的沙岛像是撒在这个^#008aff;海^white;星球表面的胡椒粉。一个有着热带氛围与美的环境。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/toxic",
+    "value": [
+      "这颗行星有^#06ff00;毒^white;—^red;辐射超出安全水平^white;几千倍。",
+      "这颗^red;高辐射^white;的星球对于成长在被辐照环境下的生命形式来说也是有毒的。它的发光表面是有^#06ff00;毒^white;的。一个不诱人的目的地。",
+      "这是一个充满了^red;辐射的^white;、有^#06ff00;毒^white;的星球。海洋里充满了致命的毒液…请允许我提醒你，还有其他的目的地可供选择。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/jungle",
+    "value": [
+      "着陆点在茂密的^#12a003;丛林^white;。动物展览般的那些令人惊讶的动物生活在葱郁的植物中。这对于^red;如此高级别的辐射^white;来说简直是耻辱。",
+      "一个由密集的植物群和多种动物构成的^#12a003;丛林^white;中的着陆点。该地区有丰富的资源，但^red;辐射惊人的高^white;。",
+      "^red;高水平的辐射^white;将这片^#12a003;丛林^white;的环境变的极其恶劣，动物也同样是不友好的。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/alien",
+    "value": [
+      "这是一个很危险的着陆点—^red;辐射水平非常高^white;。然而，这^#7800ff;突变^white;的地形可被描述为黑暗且离奇的。",
+      "着陆地点的特征在于古怪的植物、侵略性的动物和^red;病态的高辐射水平^white;。该地区的居民严重^#7800ff;变异^white;。",
+      "传送点坐落于一个^#7800ff;变异^white;的景观中。这^red;高水平的辐射^white;使环境带有毒素。我建议你别游泳了。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arctic",
+    "value": [
+      "^red;着陆点的温度低的危险。^white;你将被传送至一个被^#00ffe4;寒冷海洋^white;所环绕的小岛。我强烈建议你戴围巾。",
+      "着陆点^red;非常冷^white;：一个在^#00ffe4;寒冷海洋^white;中的小岛。你大概有0.025%的概率会被误传进水里，并很快的屈服于那强烈的寒意。",
+      "一个有着^red;低的危险的温度的^white;着陆点。这里只有很少的动物，并且根本没有植物生命—仅有^#00ffe4;寒冷海洋^white;中的遗弃岛屿。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/tundra",
+    "value": [
+      "一个^#61ffe3;寒冷^white;的地方，由冰组成—深层是冻土。雪暴经常发生，而且^red;温度低的危险^white;。",
+      "这^red;极端寒冷^white;的着陆点是^#61ffe3;冻^white;成的。意外自我冻存的可能性极高。请在寒冷中保护自己。",
+      "^red;着陆点的温度低的危险^white;。这区域非常^#61ffe3;冷^white;，只有极其耐冷的动植物才能生存。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/volcanic",
+    "value": [
+      "^#e11212;火山^white;上的着陆点^red;灾难般的热^white;。如果你愿意的话，我可以计算出你传送下去后瞬间被点燃的可能性…",
+      "^#e11212;火山^white;活动摧残了这个星球，着陆点在一个具有特定毒性的区域中。^red;温度远超过正常生存水平^white;。",
+      "着陆点位于^#e11212;火山^white;地形中，而且^red;热的出奇^white;。你对于这个地方的兴致表明了你大无畏的执着。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/midnight",
+    "value": [
+      "这是一个太阳永不会升起的^#e11212;黑暗^white;世界，表面^red;极其寒冷^white;。你应当给自己做好心理和生理上的双重准备。",
+      "这^#e11212;黑暗^white;的世界^red;十分寒冷^white;。这里住着奇怪的、隐藏在永夜之中的影子。",
+      "扫描显示星球表面是^#e11212;黑暗^white;的。实际上，扫描除了黑暗之外无其他显示。然而，我推测表面肯定^red;寒冷刺骨^white;。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/scorchedcity",
+    "value": [
+      "着陆点是^#b24301;烧焦^white;的荒地。大气^red;温度高的危险^white;。你考虑这个目的地显示出了你的勇敢。",
+      "着陆点是^#b24301;烧焦^white;且荒凉的。几乎没什么能在这里生存因为^red;温度致命的高^white;。我不能理解为什么会有人住。",
+      "着陆点位于^red;星球表面的酷热^white;造成的^#b24301;焦土^white;上。只有少数顽强的个体依然存活，也许仅是出于习性。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/magma",
+    "value": [
+      "这^red;极其热^white;的星球主要由^#ff1818;岩浆^white;构成。记住，你的思维适应力很强，但并不是阻热剂。",
+      "这星球的表面^red;极端的热^white;。几乎没有生物能在这星球的庞大^#ff1818;岩浆^white;海里勉强存活。",
+      "着陆点是^#ff1818;岩浆^white;海中孤立的小岛。如果你想表达你的坚毅，那就考虑选择这颗^red;十分热^white;的星球。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon",
+    "value": [
+      "孤单的^#949493;卫星^white;^red;没有可以呼吸的大气^white;。表面直接暴露在宇宙中，地下有燃料。感到寂寞荒凉的可能性：92%。",
+      "这个^#949493;卫星^white;上没有生命并且也^red;没有大气^white;。然而，这里有丰富的燃料—扫描显示地标以下埋藏了大量燃料。",
+      "这个^#949493;卫星^white;^red;没有可以呼吸的大气^white;，但地下的洞穴含有丰富的燃料。总结：有用，但不诱人。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/asteroids",
+    "value": [
+      "一个^#d7711e;小行星^white;群。读数显示这里^red;没有大气^white;和生命。只有无尽的虚无，和大量可用来建造的空间。",
+      "一个无生命的^#d7711e;小行星^white;群。^red;没有大气^white;：从遥远的空间漂流而来，锚定在一个恒星系内…一个适合建房子的地方。",
+      "一个沿着椭圆轨道漂移的^#d7711e;小行星^white;群。读数显示^red;这里没有大气^white;。以及其他任何东西…"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/barren",
+    "value": [
+      "这个位置是^#999966;荒芜^white;且无生命的。读数显示这里什么都没有，一个空地方。",
+      "这个地方是^#999966;荒芜^white;的，不适宜任何形式的生命。这里什么都没有…",
+      "读数显示着陆点有着不寻常的色调。并且，是个^#999966;荒芜^white;且适合建造的地方。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ancientgateway",
+    "value": [
+      "一个来源不明的^#571cff;古代门户^white;；有关巨大力量的神秘建筑。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/worldTypeDescription/GasGiant",
+    "value": [
+      "气体相互交织形成的大球。没有可以落脚的地方。",
+      "一个巨大气体球。这个气体星球没有坚硬的表面，仅仅是一个旋转的气体集合。",
+      "无法着陆。气体星球的压力和能将人撕裂的风会立即杀死你。"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/default",
+    "value": [
+      "Lv. 1 低",
+      "Lv. 2 中等",
+      "Lv. 3 冒险",
+      "Lv. 4 危险",
+      "Lv. 5 极限",
+      "Lv. 6 不可思议",
+      "Lv. 7 虚幻",
+      "Lv. 8 ***",
+      "Lv. 9 ***",
+      "Lv. 10 ***"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/threatLevelText/moon",
+    "value": [
+      "未知"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/copper/displayName",
+    "value": "铜"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/silver/displayName",
+    "value": "银"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/gold/displayName",
+    "value": "金"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/iron/displayName",
+    "value": "铁"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/tungsten/displayName",
+    "value": "钨"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/titanium/displayName",
+    "value": "钛"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/durasteel/displayName",
+    "value": "耐钢"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/ferozium/displayName",
+    "value": "菲洛合金"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/aegisalt/displayName",
+    "value": "霓磷盐"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/violium/displayName",
+    "value": "维奥合金"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/solarium/displayName",
+    "value": "日耀石"
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/erchius/displayName",
+    "value": "能源结晶"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/rain/displayName",
+    "value": "雨"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/drizzle/displayName",
+    "value": "细雨"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/storm/displayName",
+    "value": "暴风雨"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/ember/displayName",
+    "value": "煤渣阵雨"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/snow/displayName",
+    "value": "雪"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/fog/displayName",
+    "value": "雾"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/ash/displayName",
+    "value": "落尘"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/lightash/displayName",
+    "value": "轻落尘"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/meteorshower/displayName",
+    "value": "小陨石"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/largemeteor/displayName",
+    "value": "大陨石"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/glowingrain/displayName",
+    "value": "光雨"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/crystalrain/displayName",
+    "value": "晶雨"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/hailstones/displayName",
+    "value": "冰雹"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/groundmist/displayName",
+    "value": "薄雾"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/windstorm/displayName",
+    "value": "风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/spacejunk/displayName",
+    "value": "轨道碎片"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/spacedustshower/displayName",
+    "value": "星尘"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/snowstorm/displayName",
+    "value": "暴雪"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/sandstorm/displayName",
+    "value": "沙暴"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/duststorm/displayName",
+    "value": "尘暴"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/icestorm/displayName",
+    "value": "冰风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/displayWeathers/acidrain/displayName",
+    "value": "酸雨"
+  },
+  {
+    "op": "replace",
+    "path": "/bookmarks/newTitle",
+    "value": "新建标签"
+  },
+  {
+    "op": "replace",
+    "path": "/bookmarks/editTitle",
+    "value": "编辑标签"
+  },
+  {
+    "op": "replace",
+    "path": "/threatTextPrefix",
+    "value": "^white;威胁度：^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/unavailable",
+    "value": "需要机械以部署"
+  },
+  {
+    "op": "replace",
+    "path": "/objectThreatText/available",
+    "value": [
+      "无",
+      "低",
+      "中等",
+      "危险",
+      "极限"
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 [{"op": "replace","path": "/gaterepair-findGate/text","value": "我的探测器检测到这个星球上有某种^orange;古老的能量^reset;。我计算出^green;如果去探索将有32%的概率会是一次有意义的调查^reset;，但也有98%的几率你会一无所获。"},
 {"op": "replace","path": "/gaterepair-gateFound1/text","value": "我的探测器收到了一条来自这个^orange;古老的能量^reset;发出的未知信息。现在我把这条信息发送给你。"},
 {"op": "replace","path": "/gaterepair-gateFound1b/text","value": "如果你收到了这条消息，那你一定是找到了一个^orange;古老的星门^reset;，请使用它过来找我吧。^green;你可以使用^orange;星核碎片^reset;来为星门充能。"},
-{"op": "replace","path": "/gaterepair-gateFound2/text","value": " 我已经扫描了附近的^orange;星核碎片^reset;。它们自然生成在这个星球的地质中；数据表明地下深处、接近地心处有数量庞大的矿群。"},
+{"op": "replace","path": "/gaterepair-gateFound2/text","value": "我已经扫描了附近的^orange;星核碎片^reset;。它们自然生成在这个星球的地质中；数据表明地下深处、接近地心处有数量庞大的矿群。"},
 {"op": "replace","path": "/gaterepair-gateOpened1/text","value": "似乎你已经成功激活了星门，又有一条^orange;信息^reset;传过来了。"},
 {"op": "replace","path": "/gaterepair-gateOpened2/text","value": "^green;请过来这边^reset;。我迫切地需要你的帮助；宇宙的命运就取决于此了。^orange;使用这个古老的星门，然后穿过前哨站到方舟废墟找我^reset;。"}]

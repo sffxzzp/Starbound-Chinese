@@ -4,6 +4,6 @@
 { "op" : "replace", "path" : "/avianDescription", "value" : "大量的科学书籍。看起来没有多少宗教经文。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "许多书籍里都是文字字，很少书籍里有图片片。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这些书有的已经有百年历史了，只要轻轻一碰它们就会散架。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "有许多熟悉的书，甚至还有《战争与和平》的复制本。显然，这书还没被读过。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "书籍丰富了人类的历史。这本书讲述了一个打扮的像蝙蝠一样的男人与犯罪做斗争的生涯故事。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有一堆人类熟悉的书籍。我想知道有多少人读过这些？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "书籍丰富了人类的历史。当然，它们并不像鲛人的书籍那样精良。"},
 { "op" : "replace", "path" : "/novakidDescription", "value" : "一个书架。有许多自助的书籍在上面。"}]

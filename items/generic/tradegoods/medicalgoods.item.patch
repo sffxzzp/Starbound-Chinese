@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种密封的医疗用品箱，对星际贸易有价值。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "医药用品"}]

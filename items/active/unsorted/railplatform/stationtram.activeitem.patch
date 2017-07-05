@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "放置一个用户控制的与铁轨电车站一起工作的电车。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "轨道电车"}]

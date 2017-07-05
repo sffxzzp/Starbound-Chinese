@@ -1,0 +1,5 @@
+[{ "op" : "replace", "path" : "/description", "value" : "坚固的金属板，经过漫长的时间早已生锈。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "渴望。我确定用一些球关节润滑剂，这个金属板可以清理干净。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族想用这些生锈的金属作矛。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些生锈的金属板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "锈板"}]

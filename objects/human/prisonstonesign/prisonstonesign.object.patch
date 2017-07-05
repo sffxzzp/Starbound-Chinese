@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "USCM，哈？我可不想成为他们的囚犯。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "USCM流放地标志"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "赤裸裸的展示了USCM的权威。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "赤裸裸的展示了USCM的权威—不再像以前那样意义繁多。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "那些来到这儿的人永远都不会忘记这里。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "一块刻有短短的名字的石头。现在叶族人想想要刻有叶族人名字字的石头！"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "担忧。分析表明这块石头是从一个被诅咒的远古墓地拿回来的。可能被诅咒了。"},

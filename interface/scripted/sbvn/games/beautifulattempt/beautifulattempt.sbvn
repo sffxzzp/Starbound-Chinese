@@ -178,7 +178,7 @@
       "background" : "bg_shrine",
       "foreground" : "girl_1",
       "foregroundFrame" : "pleased",
-      "text" : "\"我叫卡苏米，是神社派往鲛人族大图书馆进行祈福仪式的巫女，应为这里下周就要开放了呢。\"她向我解释道。",
+      "text" : "\"我叫小霞，是神社派往鲛人族大图书馆进行祈福仪式的巫女，应为这里下周就要开放了呢。\"她向我解释道。",
       "continue" : "explanation2b"
     },
     "explanation2b" : {
@@ -227,7 +227,7 @@
       "background" : "bg_shrine",
       "foreground" : "girl_1",
       "foregroundFrame" : "pleased",
-      "text" : "\"哎呀，看看我这样子，真没礼貌\"她突然说道，\"我的名字叫做卡苏米。阁下的名字呢 ？\"",
+      "text" : "\"哎呀，看看我这样子，真没礼貌\"她突然说道，\"我的名字叫做小霞。阁下的名字呢 ？\"",
       "options" : [
         ["告诉她你的名字", "question_beauty5a", null, ["intelligent+1"]],
         ["给她一个假的但是很浪漫的名字", "question_beauty5b", null, ["romantic+1", "fakename+1"]]
@@ -305,7 +305,7 @@
       "background" : "bg_shrine",
       "foreground" : "girl_1",
       "foregroundFrame" : "default",
-      "text" : "我以尽可能快的速度想卡苏米解释道在我生活的时代，图书馆已经开放了。",
+      "text" : "我以尽可能快的速度想小霞解释道在我生活的时代，图书馆已经开放了。",
       "continue" : [["fakename>0", "pagoda4a"], "pagoda4b"]
     },
     "pagoda4a" : {
@@ -462,7 +462,7 @@
     },
     "art2" : {
       "background" : "bg_shrine",
-      "text" : "卡苏米离开了海滩，到了一个装满了书法和毛笔的箱子附近。我在大宝塔的门口尴尬的坐着，从一个很短的距离看着她完成她的作品。",
+      "text" : "小霞离开了海滩，到了一个装满了书法和毛笔的箱子附近。我在大宝塔的门口尴尬的坐着，从一个很短的距离看着她完成她的作品。",
       "continue" : "art3"
     },
     "art3" : {
@@ -487,7 +487,7 @@
     },
     "art6" : {
       "background" : "bg_shrine",
-      "text" : "我一直苦恼着，但是卡苏米已经回来了，还带着一个卷好的卷轴。",
+      "text" : "我一直苦恼着，但是小霞已经回来了，还带着一个卷好的卷轴。",
       "continue" : "art7"
     },
     "art7" : {
@@ -563,7 +563,7 @@
       "background" : "bg_shrine",
       "foreground" : "drawing",
       "foregroundFrame" : "default",
-      "text" : "我从理论上质疑卡苏米是否真真正正见过一只活着的鸭子，或者她仅仅只是从别人的耳朵里听到的对鸭子的描述……",
+      "text" : "我从理论上质疑小霞是否真真正正见过一只活着的鸭子，或者她仅仅只是从别人的耳朵里听到的对鸭子的描述……",
       "continue" : "art16"
     },
     "art16" : {
@@ -837,7 +837,7 @@
 
     "goodEnding" : {
       "background" : "bg_black",
-      "text" : "卡苏米的歌谣在我的脑袋里回响着，慢慢的引导着我的意识离开了黑暗，如同在黑暗中的鱼儿，被引导回光明。",
+      "text" : "小霞的歌谣在我的脑袋里回响着，慢慢的引导着我的意识离开了黑暗，如同在黑暗中的鱼儿，被引导回光明。",
       "continue" : "goodEnding1"
     },
     "goodEnding1" : {
@@ -848,7 +848,7 @@
     "goodEnding2" : {
       "background" : "bg_school",
       "foreground" : "hockey_table",
-      "text" : "眼前的空气曲棍球桌……刚刚所发生的…………卡苏米！我深感我的命运捉弄了我，把她从我身边抢走了。",
+      "text" : "眼前的空气曲棍球桌……刚刚所发生的…………小霞！我深感我的命运捉弄了我，把她从我身边抢走了。",
       "continue" : "goodEnding3"
     },
     "goodEnding3" : {
@@ -859,7 +859,7 @@
     },
     "goodEnding4" : {
       "background" : "bg_school",
-      "text" : "我一边抽泣着，一边看着被毁坏的桌子和地面……太真实了，一点都不像做梦 - 卡苏米不可能只是梦境！",
+      "text" : "我一边抽泣着，一边看着被毁坏的桌子和地面……太真实了，一点都不像做梦 - 小霞不可能只是梦境！",
       "continue" : "goodEnding5"
     },
     "goodEnding5" : {
@@ -875,14 +875,14 @@
       "background" : "bg_school",
       "foreground" : "letter",
       "foregroundFrame" : "1",
-      "text" : "跪在地上，我焦急的打开了火漆印章封住的信封，小心翼翼的避免自己撕到信纸。这难道是一封来自卡苏米的信？她是不是在里面陈述了她的爱慕？！",
+      "text" : "跪在地上，我焦急的打开了火漆印章封住的信封，小心翼翼的避免自己撕到信纸。这难道是一封来自小霞的信？她是不是在里面陈述了她的爱慕？！",
       "continue" : "goodEnding7"
     },
     "goodEnding7" : {
       "background" : "bg_school",
       "foreground" : "letter",
       "foregroundFrame" : "2",
-      "text" : "渐渐打开信封，我能感受到心脏在加速跳动。是不是卡苏米找到了让我回到过去的方法，并且希望我能够回去跟她继续我们史诗一般的恋情吗？",
+      "text" : "渐渐打开信封，我能感受到心脏在加速跳动。是不是小霞找到了让我回到过去的方法，并且希望我能够回去跟她继续我们史诗一般的恋情吗？",
       "continue" : "goodEnding8"
     },
     "goodEnding8" : {
@@ -901,7 +901,7 @@
 
     "badEnding" : {
       "background" : "bg_black",
-      "text" : "卡苏米的歌谣在我的脑袋里回响着，慢慢的引导着我的意识离开了黑暗，如同在黑暗中的鱼儿，被引导回光明。",
+      "text" : "小霞的歌谣在我的脑袋里回响着，慢慢的引导着我的意识离开了黑暗，如同在黑暗中的鱼儿，被引导回光明。",
       "continue" : "badEnding1"
     },
     "badEnding1" : {
@@ -912,7 +912,7 @@
     "badEnding2" : {
       "background" : "bg_school",
       "foreground" : "hockey_table",
-      "text" : "眼前的空气曲棍球桌……刚刚所发生的…………卡苏米！我深感我的命运捉弄了我，把她从我身边抢走了。",
+      "text" : "眼前的空气曲棍球桌……刚刚所发生的…………小霞！我深感我的命运捉弄了我，把她从我身边抢走了。",
       "continue" : "badEnding3"
     },
     "badEnding3" : {

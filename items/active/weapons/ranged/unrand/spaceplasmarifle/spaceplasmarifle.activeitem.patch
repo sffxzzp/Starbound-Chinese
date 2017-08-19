@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一种最先进的突击步枪，为在极端环境中使用而硬化。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一种最先进的突击步枪，为在极端环境中使用而改进。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "等离子突击步枪"}]

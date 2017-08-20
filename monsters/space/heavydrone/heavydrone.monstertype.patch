@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "重型无人机"},
+{ "op" : "replace", "path" : "/description", "value" : "自动化防御技术的巅峰。他们的人工智能可能比你原先预想的更令人高兴。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "锈蚀怪"},
+{ "op" : "replace", "path" : "/description", "value" : "如果他们不与另一个锈蚀怪建立连接，他们可能会感到孤独。"}]

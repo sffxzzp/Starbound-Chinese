@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个独特的星之子风格机体，为不知疲倦的老飞行员制造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "元帅机体"}]

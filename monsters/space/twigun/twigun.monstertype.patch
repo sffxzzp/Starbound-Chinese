@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "绞枪"},
+{ "op" : "replace", "path" : "/description", "value" : "批量生产的自主防御炮塔。它努力的不射空。"}]

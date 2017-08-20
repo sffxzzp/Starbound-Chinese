@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个坚固的机体，最初由莱西亚公司设计。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冒险者机体"}]

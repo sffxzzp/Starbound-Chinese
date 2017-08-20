@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "发射一个可以制造微型引力奇点的远程地雷。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "重力雷机械臂"}]

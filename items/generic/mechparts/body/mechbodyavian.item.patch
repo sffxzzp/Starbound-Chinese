@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种威风的机体，以翼族战士的形象设计。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "冠军机体"}]

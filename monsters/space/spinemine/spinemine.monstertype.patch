@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "棘雷"},
+{ "op" : "replace", "path" : "/description", "value" : "当它新遇到一个人的时候就会爆炸。没有人知道他们是不是已经灭绝了。"}]

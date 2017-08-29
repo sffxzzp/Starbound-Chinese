@@ -1,0 +1,86 @@
+{
+  "objectName" : "astroconsole",
+  "colonyTags" : ["astro","electronic","wired"],
+  "rarity" : "Common",
+  "description" : "A large display built to monitor a variety of devices.",
+  "shortdescription" : "Astro Console",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 200,
+  "lightColor" : [128, 98, 38],
+  "lightColorOff" : [64, 17, 17],
+  
+  "flickerPeriod" : 0.5,
+  "flickerMinIntensity" : 0.975,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "I like this big display, seems important.",
+  "avianDescription" : "This console looks a bit clunky in my opinion.",
+  "floranDescription" : "Such a ssshiny display sscreen.",
+  "glitchDescription" : "Impressed. This information display is in good condition.",
+  "humanDescription" : "Anything could be connected to a big console like this.",
+  "hylotlDescription" : "This size of this console display makes reading information very easy.",
+  "novakidDescription" : "This is a mighty hefty console.",
+
+  "inventoryIcon" : "astroconsoleicon.png",
+  "orientations" : [
+    {
+      "image" : "astroconsole.png:<color>.on",
+      "imagePosition" : [-24, 0],
+      "animationPosition" : [-24, 0],
+
+      "flipImages" : true,
+      "direction" : "left",
+
+      "lightPosition" : [-1, 2],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "astroconsole.png:<color>.on",
+      "imagePosition" : [-24, 0],
+      "animationPosition" : [-24, 0],
+
+      "direction" : "right",
+
+      "lightPosition" : [0, 2],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "astroconsole.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "astroconsole.png",
+    "fg" : "astroconsolelit.png"
+  },
+
+  "outputNodes" : [ [0, 1] ],
+
+  "npcToy" : {
+    "ownerOnly" : true,
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

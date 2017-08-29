@@ -1,0 +1,46 @@
+{
+  "objectName" : "industrialbed",
+  "colonyTags" : ["misc","industrial"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A cheap bed with a sturdy metal frame. It doesn't seem very comfortable.",
+  "shortdescription" : "Industrial Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 180,
+
+  "apexDescription" : "This bed looks like it was designed with structural integrity in mind instead of comfort.",
+  "avianDescription" : "This bed looks quite heavy...",
+  "floranDescription" : "Floran might not ssssleep well in big metal bed.",
+  "glitchDescription" : "Analytical. This bed appears to be able to withstand extremely turbulent movement.",
+  "humanDescription" : "With a little extra padding this bed could actually be quite comfortable.",
+  "hylotlDescription" : "This bed looks horribly uncomfortable, but I'm not judgemental so I could still sleep in it.",
+  "novakidDescription" : "This bed may look mighty stiff but luckily I'm an easy sleeper.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/space/industrialbed/industrialbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "industrialbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "industrialbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

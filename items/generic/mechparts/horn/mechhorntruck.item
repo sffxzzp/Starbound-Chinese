@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhorntruck",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhorntruck.png",
+  "description" : "For beeping angrily when someone won't move out of the way.",
+  "shortdescription" : "Truck Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "truck"]
+}

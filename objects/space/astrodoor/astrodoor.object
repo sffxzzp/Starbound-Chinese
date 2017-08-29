@@ -1,0 +1,66 @@
+{
+  "objectName" : "astrodoor",
+  "colonyTags" : ["astro","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 125,
+  "description" : "This door forms an airtight seal when closed.",
+  "shortdescription" : "Astro Door",
+  "race" : "generic",
+
+  "apexDescription" : "Doors like these are designed to seal sections of ships or stations.",
+  "avianDescription" : "This door is designed to survive the harshness of space.",
+  "floranDescription" : "Space door can ssslide open and closed.",
+  "glitchDescription" : "Interested. This door design was once popular in ship and station construction.",
+  "humanDescription" : "This modern door can create an airtight seal to contain atmosphere.",
+  "hylotlDescription" : "This modern door type is sleek and responsive.",
+  "novakidDescription" : "This fancy lookin' door looks like it'd stand up t'about anything.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "astrodoor.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "astrodoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "sensorConfig" : {},
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "astrodoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

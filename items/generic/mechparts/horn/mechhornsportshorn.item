@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhornsportshorn",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhornsportshorn.png",
+  "description" : "Shrill and loud, this horn is perfect for obnoxiously announcing your presence.",
+  "shortdescription" : "Sports Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "sportshorn"]
+}

@@ -1,0 +1,96 @@
+{
+  "objectName" : "stationvendingmachine",
+  "colonyTags" : ["station","mechanical","commerce"],
+  "rarity" : "Common",
+  "category" : "other",
+  "price" : 300,
+  "printable" : false,
+  "description" : "A vending machine, there are some quality snacks in here.",
+  "shortdescription" : "Station Vending Machine",
+  "race" : "generic",
+
+  "apexDescription" : "This vending machine looks helpful, it could provide some necessary food supplies.",
+  "avianDescription" : "This machine looks like it has some supplies inside, and appears to be in working order.",
+  "floranDescription" : "Ssspace snacks!",
+  "glitchDescription" : "Interested. This vending machine seems in working order, it may have supplies.",
+  "humanDescription" : "What luck having this vending machine here, I'm feeling a little hungry.",
+  "hylotlDescription" : "A vending machine, similar to those found inside Hylotl cities.",
+  "novakidDescription" : "This machine is like a robot shopkeeper! I give it money and supplies come out.",
+
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/vendingmachine.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Vending Machine",
+        "subtitle" : " Tasty Snacks"
+      }
+    },
+    "buyFactor" : 0.5,
+    "sellFactor" : 0.2,
+    "items" : [
+      { "item" : "oculemonade" },
+      { "item" : "soda" },
+      { "item" : "chocolate" },
+      { "item" : "bottledwater" }
+    ]
+  },
+
+  "inventoryIcon" : "stationvendingmachineicon.png",
+  "orientations" : [
+    {
+      "image" : "stationvendingmachine.png:<color>",
+      "imagePosition" : [-16, -0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    },
+    {
+      "image" : "stationvendingmachine.png:<color>",
+      "imagePosition" : [-16, -0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_loud.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "scripts" : [
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 60,
+
+  "npcToy" : {
+    "influence" : [
+      "vendingmachineActivate",
+      "vendingmachineCollect",
+      "vendingmachineConsume",
+      "vendingmachineComplete"
+    ],
+    "defaultReactions" : {
+      "vendingmachineActivate" : [
+        [1.0, "pressbutton"]
+      ],
+      "vendingmachineCollect" : [
+        [1.0, "crouchcollect"]
+      ],
+      "vendingmachineConsume" : [
+        [1.0, "drink"]
+      ],
+      "vendingmachineComplete" : [
+        [1.0, "smile"],
+        [0.1, "vomit"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-2.0, 1.0],
+    "preciseStandPositionRight" : [2.0, 1.0],
+    "maxNpcs" : 1
+  }
+}

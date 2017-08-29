@@ -1,0 +1,27 @@
+{
+  "objectName" : "stationbackgroundshaftglassbottom",
+  "colonyTags" : [],
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "Glass shaft bottom piece background",
+  "shortdescription" : "Glass shaft bottom piece background",
+  "scannable" : false,
+  "printable" : false,
+  "race" : "generic",
+
+  "inventoryIcon" : "core.png",
+  "orientations" : [
+    {
+      "image" : "shaftglassbottom.png",
+      "imagePosition" : [-136, -136],
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-17, -17, 17, 17]
+    }
+  ]
+}

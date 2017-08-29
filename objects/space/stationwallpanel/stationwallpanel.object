@@ -1,0 +1,39 @@
+{
+  "objectName" : "stationwallpanel",
+  "colonyTags" : ["station","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 60,
+  "description" : "A panel which is designed to attach to a space structure or ship.",
+  "shortdescription" : "Station Wall Panel",
+  "race" : "generic",
+
+  "apexDescription" : "I'm not sure what this panel does, but it's interesting looking.",
+  "avianDescription" : "This panel must have a purpose, I'm just not sure what it is.",
+  "floranDescription" : "Thisss round panel sticks on the wall.",
+  "glitchDescription" : "Confused. I'm not sure what the function of this panel is.",
+  "humanDescription" : "This is a panel which attaches to the wall, can't really say more.",
+  "hylotlDescription" : "This industrial looking wall panel has some obscure purpose I'm sure.",
+  "novakidDescription" : "Some sorta fancy wall panel. Dunno what it's used for.",
+
+  "inventoryIcon" : "stationwallpanelicon.png",
+  "orientations" : [
+    {
+      "image" : "stationwallpanel.png:<color>",
+      "imagePosition" : [-8, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "stationwallpanel.png:<color>",
+      "imagePosition" : [-8, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

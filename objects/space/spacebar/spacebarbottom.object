@@ -1,0 +1,59 @@
+{
+  "objectName" : "spacebarbottom",
+  "colonyTags" : ["commerce"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 280,
+  "race" : "generic",
+  "description" : "A metal bar with with a smoothly polished surface.",
+  "shortdescription" : "Space Bar",
+
+
+  "apexDescription" : "This bar doesn't serve much purpose except a place to waste time.",
+  "avianDescription" : "This bar is cold and industrial, but at least the stools seem comfortable.",
+  "floranDescription" : "Thisss bar may be a good place for Floran to start fights...",
+  "glitchDescription" : "Uninterested. Most Glitch prefer a large table over a bar for drinking and celebration.",
+  "humanDescription" : "This bar is nice, but not much use without someone to tend it.",
+  "hylotlDescription" : "Nothing like sitting beside some new faces at a bar to make friends.",
+  "novakidDescription" : "Looks t'me like a fine place to pull up a stool and rest a spell.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "spacebarbottomicon.png",
+  "orientations" : [
+    {
+      "image" : "spacebarbottom.png:<color>",
+      "imagePosition" : [-32, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-16, 24], // Right
+        [5, 24], // Middle
+        [25, 24] // Left
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "spacebarbottom.png:<color>",
+      "imagePosition" : [-32, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [-8, 24], // Left
+        [13, 24], // Middle
+        [33, 24] // Right
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

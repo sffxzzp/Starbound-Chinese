@@ -1,0 +1,27 @@
+{
+  "objectName" : "stationbackgroundstart",
+  "colonyTags" : [],
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "Start piece background",
+  "shortdescription" : "Start piece background",
+  "scannable" : false,
+  "printable" : false,
+  "race" : "generic",
+
+  "inventoryIcon" : "core.png",
+  "orientations" : [
+    {
+      "image" : "start.png",
+      "imagePosition" : [-136, -136],
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-17, -17, 17, 17]
+    }
+  ]
+}

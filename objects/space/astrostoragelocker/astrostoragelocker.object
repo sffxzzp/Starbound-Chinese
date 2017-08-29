@@ -1,0 +1,40 @@
+{
+  "objectName" : "astrostoragelocker",
+  "colonyTags" : ["astro","storage"],
+  "rarity" : "Rare",
+  "category" : "storage",
+  "price" : 225,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "An astro panel storage locker.",
+  "shortdescription" : "Astro Storage Locker",
+  "race" : "generic",
+  "health" : 1.5,
+
+  "apexDescription" : "An airtight storage locker.",
+  "avianDescription" : "A metal wall locker.",
+  "floranDescription" : "Sstorage locker good for hiding thingss.",
+  "glitchDescription" : "Curious. Lockers like this often have large capacities.",
+  "humanDescription" : "A wall mounted storage locker.",
+  "hylotlDescription" : "A simple looking storage locker.",
+  "novakidDescription" : "Y'could stash a whole lotta somethin' into a locker like this.",
+
+  "inventoryIcon" : "astrostoragelockericon.png",
+  "orientations" : [
+    {
+      "image" : "astrostoragelocker.png:<color>.<key>",
+      "imagePosition" : [-16, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/gunchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/gunchest_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

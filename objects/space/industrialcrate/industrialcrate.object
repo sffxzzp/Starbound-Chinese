@@ -1,0 +1,63 @@
+{
+  "objectName" : "industrialcrate",
+  "colonyTags" : ["industrial","storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A pressurised cargo crate, designed to withstand the conditions of space travel.",
+  "shortdescription" : "Industrial Crate",
+  "race" : "generic",
+  "category" : "storage",
+  "price" : 160,
+  "lightColor" : [77, 2, 2],
+  "health" : 1.5,
+
+  "apexDescription" : "A sturdy looking crate, illuminated by a set of dim red lights.",
+  "avianDescription" : "This crate looks like it would be difficult to destroy.",
+  "floranDescription" : "Doesss thisss box have red eyesss? Floran worried.",
+  "glitchDescription" : "Impressed. The exterior of this crate is made to withstand extreme pressure. If only I was as tough as this...",
+  "humanDescription" : "I could pretend to be interested in how this crate looks, but really I just want to see what's inside.",
+  "hylotlDescription" : "This crate is designed to withstand extreme pressure. I wonder if a Hylotl helped design it?",
+  "novakidDescription" : "I'd have a hard time pryin' this tough ol' thing open by force.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+
+      "imageLayers" : [ { "image" : "industrialcrate.png:<color>", "fullbright" : true }, { "image" : "industrialcratelit.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      "lightPosition" : [-1, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+
+      "imageLayers" : [ { "image" : "industrialcrate.png:<color>", "fullbright" : true }, { "image" : "industrialcratelit.png:<color>" } ],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/metalbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/metalbox_close.ogg" ],
+  "slotCount" : 32,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

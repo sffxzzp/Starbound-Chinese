@@ -1,0 +1,27 @@
+{
+  "objectName" : "stationbackgroundtjunchorizontaltop",
+  "colonyTags" : [],
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "T Junction Horizontal Top Piece Background",
+  "shortdescription" : "T Junction Horizontal Top Piece Background",
+  "scannable" : false,
+  "printable" : false,
+  "race" : "generic",
+
+  "inventoryIcon" : "core.png",
+  "orientations" : [
+    {
+      "image" : "tjunchorizontaltop.png",
+      "imagePosition" : [-72, -40],
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-9, -5, 8, 6]
+    }
+  ]
+}

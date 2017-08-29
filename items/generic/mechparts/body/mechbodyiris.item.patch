@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "使用尖端能量场保护座舱的机体。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "独眼巨人机体"}]

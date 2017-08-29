@@ -1,0 +1,66 @@
+{
+  "objectName" : "stationdoor",
+  "colonyTags" : ["station","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 125,
+  "description" : "A sleek automated door, made from the same materials found on the exterior of space stations.",
+  "shortdescription" : "Station Door",
+  "race" : "generic",
+
+  "apexDescription" : "A sleek metal door. I appreciate its pointed design.",
+  "avianDescription" : "This is a rather well-made metal door!",
+  "floranDescription" : "Door looksss sharp. Floran consssidering door as potential weapon.",
+  "glitchDescription" : "Reminiscent. The angled design of this door reminds me of traditional Glitch banners.",
+  "humanDescription" : "This door could probably take a few hits, to say the least.",
+  "hylotlDescription" : "A rather impressively made door. Surprisingly, I find myself approving of it.",
+  "novakidDescription" : "This here door looks like it could last through a storm or two.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "stationdoor.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "stationdoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "sensorConfig" : {},
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "stationdoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboosterzero",
+  "price" : 6720,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboosterzero.png",
+  "description" : "A set of pointed, high quality mech boosters. Be careful with those corners.",
+  "shortdescription" : "Zero Mech Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "zero"]
+}

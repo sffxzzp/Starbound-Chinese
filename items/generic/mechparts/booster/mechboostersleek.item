@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboostersleek",
+  "price" : 5760,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboostersleek.png",
+  "description" : "Very sleek mech boosters.",
+  "shortdescription" : "Sleek Mech Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "sleek"]
+}

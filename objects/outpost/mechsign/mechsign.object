@@ -1,0 +1,33 @@
+{
+  "objectName" : "mechsign",
+  "colonyTags" : ["outpost"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+
+  "description" : "This metal sign indicates a mech work station.",
+  "shortdescription" : "Mech Sign",
+  "race" : "human",
+
+  "apexDescription" : "This sign has a large mech vehicle printed on it.",
+  "avianDescription" : "This sign displays a large mech suit.",
+  "floranDescription" : "There isss a suit of mech armour on this sssign.",
+  "glitchDescription" : "Observant. This sign indicates a work station for mech assembly.",
+  "humanDescription" : "This round sign has a large mech suit on it.",
+  "hylotlDescription" : "A coloured sign, with an image of a mech suit.",
+  "novakidDescription" : "A sign with a big 'ol mech suit printed on it.",
+  
+  "inventoryIcon" : "mechsignicon.png",
+  "orientations" : [
+    {
+      "image" : "mechsign.png",
+      "imagePosition" : [-16, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "比一个巨大的机枪更好的是什么？两个巨大的机枪。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "双枪机械臂"}]

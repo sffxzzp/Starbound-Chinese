@@ -1,0 +1,45 @@
+{
+  "objectName" : "remoteteleporter",
+  "colonyTags" : ["misc"],
+  "objectType" : "teleporter",
+  "rarity" : "Legendary",
+  "description" : "A personal teleporter, connects to bookmarked locations.",
+  "shortdescription" : "Outpost Teleporter",
+  "price" : 3000,
+  "printable" : false,
+
+  "apexDescription" : "A personal teleporter. A functional but fun piece of equipment.",
+  "avianDescription" : "I love the whoosh of my feathers when I teleport!",
+  "floranDescription" : "Perssonal teleporter is fancy!",
+  "glitchDescription" : "Enticed. A personal teleporter, with a custom design.",
+  "humanDescription" : "A personal teleporter! Now this is travelling in style.",
+  "hylotlDescription" : "A personal teleporter, it sports a custom design.",
+  "novakidDescription" : "As teleporters go, this sure is fancy lookin'!",
+
+  "category" : "teleporter",
+  "lightColor" : [56, 102, 124],
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/remoteteleporter.config",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "returnoutpostteleporter.png:<color>", "fullbright" : true }, { "image" : "returnoutpostteleporterlit.png:<color>" } ],
+
+      "imagePosition" : [-32, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid",
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
+    }
+  ],
+
+  "health" : 10,
+  "rooting" : true,
+
+  "breakDropPool" : "remoteteleporter",
+
+  "teleporterFootPosition" : [0, 1]
+}

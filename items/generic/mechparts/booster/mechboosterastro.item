@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboosterastro",
+  "price" : 4800,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboosterastro.png",
+  "description" : "A set of mid-range boosters that use a series of long thrusters.",
+  "shortdescription" : "Astro Mech Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "astro"]
+}

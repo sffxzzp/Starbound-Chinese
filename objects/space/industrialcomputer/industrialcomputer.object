@@ -1,0 +1,86 @@
+{
+  "objectName" : "industrialcomputer",
+  "colonyTags" : ["industrial","electronic","wired"],
+  "rarity" : "Common",
+  "description" : "An old metal computer tower. Untidy cables hang out of its back.",
+  "shortdescription" : "Industrial Computer",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 140,
+
+  "lightColor" : [38, 110, 70],
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.1,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "This console has many buttons and levers. I'm sure I could understand it with an instruction manual.",
+  "avianDescription" : "This computer shows lots of tiny green text. I wonder what it's for?",
+  "floranDescription" : "Box hasss green words on it. Green isss good colour. Floran approvesss.",
+  "glitchDescription" : "Intrigued. This screen shows a lot of information - I wonder what it is all for?",
+  "humanDescription" : "I wonder why all the text on this computer display is green? Is it a stylistic choice?",
+  "hylotlDescription" : "This computer is much larger than it needs to be. Hylotl engineers could build something more compact.",
+  "novakidDescription" : "This here box sure has a lot o' words on it, but I just ain't got the attention span t'keep up with it.",
+
+  "inventoryIcon" : "industrialcomputericon.png",
+  "orientations" : [
+    {
+      "image" : "industrialcomputer.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,3], [0,3] ]
+    },
+    {
+      "image" : "industrialcomputer.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,3], [0,3] ]
+    }
+  ],
+
+  "animation" : "industrialcomputer.animation",
+  "animationParts" : {
+    "bg" : "industrialcomputer.png",
+    "fg" : "industrialcomputerlit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/apexconsole2switch.ogg" ],
+      "off" : [ "/sfx/objects/apexconsole2switch.ogg" ]
+    }
+  },
+  "animationPosition" : [-16, 0],
+
+  "soundEffect" : "/sfx/objects/bunkerconsole.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "scripts" : [ 
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+
+  "scriptDelta" : 5,
+
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "ownerOnly" : true,
+    "influence" : [
+      "wallbutton"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

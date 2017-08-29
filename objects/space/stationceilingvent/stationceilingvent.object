@@ -1,0 +1,39 @@
+{
+  "objectName" : "stationceilingvent",
+  "colonyTags" : ["station","mechanical"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 55,
+  "description" : "A vent typically used for keeping the air clean aboard space stations.",
+  "shortdescription" : "Station Ceiling Vent",
+  "race" : "generic",
+
+  "apexDescription" : "A vent. It is beneficial to maintain air cleanliness.",
+  "avianDescription" : "I suppose this is used to help clean the air.",
+  "floranDescription" : "Vent too sssmall for Floran to hide in.",
+  "glitchDescription" : "Curious. I wonder if Glitch lungs work similar to this vent.",
+  "humanDescription" : "It's the end of a vent. I'm not sure I could fit inside.",
+  "hylotlDescription" : "An ugly device to keep air clean from pollution. At least it is for a noble cause.",
+  "novakidDescription" : "A big ol' metal ceilin' vent.",
+
+  "inventoryIcon" : "stationceilingventicon.png",
+  "orientations" : [
+    {
+      "image" : "stationceilingvent.png:<color>",
+      "imagePosition" : [-8, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    },
+    {
+      "image" : "stationceilingvent.png:<color>",
+      "imagePosition" : [-8, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ]
+}

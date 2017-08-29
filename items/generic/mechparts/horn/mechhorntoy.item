@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhorntoy",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhorntoy.png",
+  "description" : "This horn module is surprisingly small... I wonder what it sounds like?",
+  "shortdescription" : "Toy Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "toy"]
+}

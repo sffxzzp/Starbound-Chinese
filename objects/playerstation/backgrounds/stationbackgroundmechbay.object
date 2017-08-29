@@ -1,0 +1,27 @@
+{
+  "objectName" : "stationbackgroundmechbay",
+  "colonyTags" : [],
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "Mech bay piece background",
+  "shortdescription" : "Mech bay piece background",
+  "scannable" : false,
+  "printable" : false,
+  "race" : "generic",
+
+  "inventoryIcon" : "core.png",
+  "orientations" : [
+    {
+      "dualImage" : "mechbay.png",
+      "imagePosition" : [-72, -40],
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-9, -5, 8, 6]
+    }
+  ]
+}

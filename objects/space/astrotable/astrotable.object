@@ -1,0 +1,43 @@
+{
+  "objectName" : "astrotable",
+  "colonyTags" : ["astro","commerce"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 85,
+  "description" : "A solid, floor mounted working surface.",
+  "shortdescription" : "Astro Table",
+  "race" : "generic",
+
+  "apexDescription" : "An industrial looking table.",
+  "avianDescription" : "This table has a stripe painted on it.",
+  "floranDescription" : "Jusst a metal table.",
+  "glitchDescription" : "Indifferent. This table is unremarkable.",
+  "humanDescription" : "This table is fixed to the floor, otherwise I think it might tip over.",
+  "hylotlDescription" : "A metal table which has been mounted to the floor.",
+  "novakidDescription" : "A little table made from metal.",
+
+  "inventoryIcon" : "astrotableicon.png",
+  "orientations" : [
+    {
+      "image" : "astrotable.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-2, 1], [-1, 1], [0, 1], [1, 1] ]
+    },
+    {
+      "image" : "astrotable.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-2, 1], [-1, 1], [0, 1], [1, 1] ]
+    }
+  ]
+}

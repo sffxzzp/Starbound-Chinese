@@ -1,0 +1,67 @@
+{
+  "objectName" : "stationtradesignweapons",
+  "colonyTags" : ["station","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 85,
+
+  "lightColor" : [62, 84, 89],
+
+  "flickerPeriod" : 0.4,
+  "flickerMinIntensity" : 0.97,
+  "flickerMaxIntensity" : 1.0,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+  
+  "description" : "A sign with an image of a gun, indicating a weapons station.",
+  "shortdescription" : "Weapons Station Sign",
+  "race" : "generic",
+
+  "apexDescription" : "This sign is meant to indicate a weapons station.",
+  "avianDescription" : "This sign denotes a weapons station.",
+  "floranDescription" : "Thisss sign is meant to indicate a weapons ssstation.",
+  "glitchDescription" : "Informed. The image of this symbol is meant to indicate a weapons station.",
+  "humanDescription" : "A sign which marks a weapons station.",
+  "hylotlDescription" : "Signs like this usually mean there is a nearby weapons station.",
+  "novakidDescription" : "Reckon this sign means there's meant to be a weapons station 'round here.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "stationtradesignweapons.png:<color>.<frame>",
+      "imagePosition" : [-8, -8],
+      "animationPosition" : [-8, -8],
+      
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "stationtradesignweapons.png:<color>.<frame>",
+      "imagePosition" : [-8, -8],
+      "animationPosition" : [-8, -8],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  // "soundEffect" : "/sfx/objects/tv_static.ogg",
+
+  "animation" : "stationtradesign.animation",
+  "animationParts" : {
+    "bg" : "stationtradesignweapons.png",
+    "fg" : "stationtradesignlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false
+}

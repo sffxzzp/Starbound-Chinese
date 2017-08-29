@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhorntrain",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhorntrain.png",
+  "description" : "Put on your conductor's hat and get on track for fun!",
+  "shortdescription" : "Train Whistle Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "train"]
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhornbull",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhornbull.png",
+  "description" : "Why simply grab the bull by the horns, when you can BE the bull?",
+  "shortdescription" : "Bull Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "bull"]
+}

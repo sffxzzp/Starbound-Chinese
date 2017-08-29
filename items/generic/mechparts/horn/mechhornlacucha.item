@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhornlacucha",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhornlacucha.png",
+  "description" : "La cucaracha, la cucaracha, ya no puede caminar!",
+  "shortdescription" : "Melody Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "lacucha"]
+}

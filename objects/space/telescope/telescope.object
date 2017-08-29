@@ -1,0 +1,50 @@
+{
+  "objectName" : "telescope",
+  "colonyTags" : ["science","space"],
+  "rarity" : "Uncommon",
+  "description" : "A scientific telescope, perfect for observing the stars.",
+  "shortdescription" : "Astronomy Telescope",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 400,
+  "printable" : false,
+
+  "apexDescription" : "This large telescope may allow me to see objects far away.",
+  "avianDescription" : "A telescope specially made for looking at the stars.",
+  "floranDescription" : "Telessscopes let Floran look closely at the stars.",
+  "glitchDescription" : "Excited. This telescope is the perfect tool for inspecting the stars from afar.",
+  "humanDescription" : "This big telescope looks specially designed for stargazing.",
+  "hylotlDescription" : "Mirrors on telescopes like this have to be very precisely positioned.",
+  "novakidDescription" : "A big ol' telescope, for lookin' at stars.",
+
+  "inventoryIcon" : "telescopeicon.png",
+  "orientations" : [
+    { 
+      "image" : "telescope.png:<color>",
+      "imagePosition" : [-28, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "anchors" : [ "bottom" ],
+
+      "sitPosition" : [-16, 20],
+
+      "spaceScan" : 0.1
+    },
+    {
+      "image" : "telescope.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+      "anchors" : [ "bottom" ],
+
+      "sitPosition" : [-14, 20],
+
+      "spaceScan" : 0.1
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitOrientation" : "lay",
+  "sitAngle" : 0,
+  "sitCoverImage" : "/objects/space/telescope/telescope.png"
+}

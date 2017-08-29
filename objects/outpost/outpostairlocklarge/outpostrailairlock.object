@@ -1,0 +1,69 @@
+{
+  "objectName" : "outpostrailairlock",
+  "colonyTags" : ["outpost","door","rails"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 150,
+  "description" : "This door is made of some sort of bulletproof material. It has a composite rail running through it.",
+  "shortdescription" : "Rail Airlock Door",
+  "race" : "generic",
+
+  "apexDescription" : "An airlock with a rail.",
+  "avianDescription" : "An airlock with a rail running through it.",
+  "floranDescription" : "It'ss an airlock with railsss.",
+  "glitchDescription" : "Appreciative. A sturdy airlock with a rail running through it.",
+  "humanDescription" : "An airlock that includes a rail. Useful!",
+  "hylotlDescription" : "A basic airlock for rail systems.",
+  "novakidDescription" : "Looks like an airlock with rails running through the middle.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "outpostrailairlock.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "outpostrailairlock.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "openMaterialSpaces" : [
+    [[-1, 1], "metamaterial:rail"], [[0, 1], "metamaterial:rail"]
+    // [[-1, 5], "metamaterial:rail"], [[0, 5], "metamaterial:rail"]
+  ],
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "outpostrailairlock.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 6] ],
+  "outputNodes" : [ [0, 0] ]
+}

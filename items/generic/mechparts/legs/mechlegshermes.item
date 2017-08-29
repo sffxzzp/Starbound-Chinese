@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechlegshermes",
+  "price" : 4480,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechlegs",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechlegshermes.png",
+  "description" : "Finely crafted mech legs that provide the fastest possible ground movement.",
+  "shortdescription" : "Hermes Mech Legs",
+  "itemTags" : [ ],
+
+  "mechPart" : ["legs", "hermes"]
+}

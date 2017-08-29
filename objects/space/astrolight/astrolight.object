@@ -1,0 +1,59 @@
+{
+  "objectName" : "astrolight",
+  "colonyTags" : ["light","astro"],
+  "rarity" : "Common",
+  "category" : "light",
+  "lightColor" : [229, 152, 57],
+  "price" : 75,
+  "description" : "A ceiling mounted utility lantern.",
+  "shortdescription" : "Astro Light",
+  "race" : "generic",
+
+  "apexDescription" : "This lantern isn't flashy, but it's functional.",
+  "avianDescription" : "This electric lamp casts a faint yellow light.",
+  "floranDescription" : "Sspace pod casssts just a little bit of light.",
+  "glitchDescription" : "Curious. This light source is self-sustaining somehow.",
+  "humanDescription" : "This pod light provides just enough light to get around.",
+  "hylotlDescription" : "This lamp looks like it's air sealed, I imagine it would work well underwater.",
+  "novakidDescription" : "This electric lamp burns brighter'n a campfire.",
+
+  "inventoryIcon" : "astrolighticon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "astrolight.png:<color>.<frame>", "fullbright" : true }, { "image" : "astrolightlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, -8],
+      
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "astrolight.png:<color>.<frame>", "fullbright" : true }, { "image" : "astrolightlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, -8],
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+  
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "astrolight.png"
+  },
+  "animationPosition" : [-8, -8],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+  
+}

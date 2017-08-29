@@ -1,0 +1,50 @@
+{
+  "objectName" : "playerstationconsole",
+  "colonyTags" : ["technology"],
+  "printable" : false,
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "lightColor" : [130, 130, 130],
+  "lightPosition" : [-1, 0],
+
+  "description" : "A console for monitoring the conditions inside an orbiting station.",
+  "shortdescription" : "Space Station Console",
+  "race" : "generic",
+
+  "apexDescription" : "This advanced console can monitor every area of a station.",
+  "avianDescription" : "A terminal for monitoring the conditions inside a station.",
+  "floranDescription" : "Fancy ssspace station computer terminal.",
+  "glitchDescription" : "Interested. This terminal is able to interconnect itself through a stations many components.",
+  "humanDescription" : "This advanced terminal is designed to keep track of space station conditions.",
+  "hylotlDescription" : "This terminal is made to control systems inside a space station.",
+  "novakidDescription" : "A fancy computer for adjustin' systems inside a station.",
+
+  "inventoryIcon" : "playerstationconsoleicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "playerstationconsole.png:<color>.<frame>", "fullbright" : true }, { "image" : "playerstationconsolelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, -8],
+      "frames" : 18,
+      "animationCycle" : 1.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ],
+
+  "animation" : "/objects/ship/techstation.animation",
+  "scripts" : [
+    "playerstationconsole.lua"
+  ],
+  "updateDelta" : 1,
+
+  "keepAlive" : true,
+
+  "uniqueId" : "playerstationconsole",
+  "unbreakable" : true,
+
+  "interactAction" : "ScriptPane",
+  "interactData" : "/interface/scripted/playerstationconsole/playerstationconsolegui.config"
+}

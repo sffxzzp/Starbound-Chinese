@@ -1,0 +1,82 @@
+{
+  "objectName" : "industrialdisplay",
+  "colonyTags" : ["industrial","electronic","wired"],
+  "rarity" : "Common",
+  "description" : "A display which appears to be connected to some sort of radar.",
+  "shortdescription" : "Industrial Display",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 105,
+
+  "lightColor" : [38, 110, 70],
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.1,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "This display shows some sort of radar. I wonder if it is important intel?",
+  "avianDescription" : "The green radar on this screen is hypnotic...",
+  "floranDescription" : "Glasss isss flashing green. Good colour.",
+  "glitchDescription" : "Intrigued. I wonder where the information on this display is coming from.",
+  "humanDescription" : "This looks like it might be important, but really I have no idea.",
+  "hylotlDescription" : "I wonder what the purpose of this display is?",
+  "novakidDescription" : "The flashin' light on this here glass must mean somethin' t'someone.",
+
+  "inventoryIcon" : "industrialdisplayicon.png",
+  "orientations" : [
+    {
+      "image" : "industrialdisplay.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      "lightPosition" : [-1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "industrialdisplay.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+      "lightPosition" : [0, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "industrialdisplay.animation",
+  "animationParts" : {
+    "bg" : "industrialdisplay.png",
+    "fg" : "industrialdisplaylit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+    }
+  },
+  "animationPosition" : [-16, 0],
+
+  "scripts" : [ 
+    "/objects/wired/switch/switchwithinput.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+
+  "scriptDelta" : 5,
+
+  "inputNodes" : [ [-1, 1] ],
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "ownerOnly" : true,
+    "influence" : [
+      "wallbutton"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

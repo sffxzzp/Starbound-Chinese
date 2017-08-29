@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboostergallant",
+  "price" : 6720,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboostergallant.png",
+  "description" : "A set of slick mech boosters built with intricate circuitry for high performance.",
+  "shortdescription" : "Gallant Mech Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "gallant"]
+}

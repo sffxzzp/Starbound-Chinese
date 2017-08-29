@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechlegsronin",
+  "price" : 4480,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechlegs",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechlegsronin.png",
+  "description" : "A high quality set of mech legs designed for maximum jump height.",
+  "shortdescription" : "Ronin Mech Legs",
+  "itemTags" : [ ],
+
+  "mechPart" : ["legs", "ronin"]
+}

@@ -1,0 +1,84 @@
+{
+  "objectName" : "shipgreeble2",
+  "colonyTags" : ["misc"],
+  "rarity" : "Common",
+  "description" : "A strange piece of ship. Looks like it might serve a purpose, but who really knows?",
+  "shortdescription" : "Ship Greeble 2",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 0,
+  "scannable" : false,
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "shipgreeble2.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "shipgreeble2.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "shipgreeble2_top.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    },
+    {
+      "image" : "shipgreeble2_top.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    },
+    {
+      "image" : "shipgreeble2_side.png:<color>",
+      "imagePosition" : [0, -16],
+      "direction" : "right",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "left" ]
+    },
+    {
+      "image" : "shipgreeble2_side.png:<color>",
+      "imagePosition" : [0, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "right" ]
+    },
+    // PREVIEW IMAGES
+    {
+      "image" : "shipgreeble2.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "fgAnchors" : [ [0,0] ]
+    },
+    {
+      "image" : "shipgreeble2.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "fgAnchors" : [ [0,0] ]
+    }
+  ]
+}

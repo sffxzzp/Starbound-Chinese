@@ -1,0 +1,49 @@
+{
+  "objectName" : "stationlighth",
+  "colonyTags" : ["station","light"],
+  "rarity" : "Common",
+  "category" : "light",
+  "price" : 85,
+  "description" : "A long industrial looking fluorescent light.",
+  "shortdescription" : "Wide Station Light",
+  "race" : "generic",
+
+  "apexDescription" : "This industrial light is quite large.",
+  "avianDescription" : "This light isn't very nice looking, and the light it casts is cold.",
+  "floranDescription" : "Floran dissslikes cold electric light.",
+  "glitchDescription" : "Informed. These lights each have a compact power source built inside.",
+  "humanDescription" : "Some big fluorescent lights, the kind seen in ships and stations.",
+  "hylotlDescription" : "A large fluorescent light, I wonder if it's waterproof.",
+  "novakidDescription" : "A big ol' electric light.",
+
+  "lightColor" : [106, 146, 166],
+
+  "inventoryIcon" : "stationlighthicon.png",
+  "orientations" : [
+    {
+      "image" : "stationlighth.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "stationlighth.png",
+    "fg" : "stationlighthlit.png"
+  },
+  "animationPosition" : [-16, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+
+}

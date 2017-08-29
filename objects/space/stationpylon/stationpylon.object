@@ -1,0 +1,57 @@
+{
+  "objectName" : "stationpylon",
+  "colonyTags" : ["station","mechanical"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 240,
+  "description" : "A large rotating generator, or radar, or perhaps an engine...",
+  "shortdescription" : "Station Pylon",
+  "race" : "generic",
+
+  "health" : 5,
+
+  "apexDescription" : "This seems to be an incredibly complex piece of machinery. I wonder what it actually does?",
+  "avianDescription" : "What a delightful machine! I cannot identify its purpose, however.",
+  "floranDescription" : "Floran not sssure what ssspinning thing is.",
+  "glitchDescription" : "Confused. This machine appears to be very important, but I cannot identify its purpose.",
+  "humanDescription" : "This piece of machinery is very big and important looking. Does it... Actually do anything?",
+  "hylotlDescription" : "This unkempt machine doesn't appear to do anything immediately useful.",
+  "novakidDescription" : "This certainly looks a splinter more complex than a steam engine, that's for sure...",
+
+  "inventoryIcon" : "stationpylonicon.png",
+  "orientations" : [
+    {
+      "image" : "stationpylon.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "frames" : 12,
+      "animationCycle" : 1.2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid",
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0], [-2, 10], [-1, 10], [0, 10], [1, 10] ]
+    },
+    {
+      "image" : "stationpylon.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "frames" : 12,
+      "animationCycle" : 1.2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid",
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [0, 0], [1, 0], [-2, 10], [-1, 10], [0, 10], [1, 10] ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/bunkervent.ogg",
+  "soundEffectRangeMultiplier" : 0.75
+
+}

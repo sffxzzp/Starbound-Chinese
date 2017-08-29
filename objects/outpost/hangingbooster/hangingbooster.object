@@ -1,0 +1,30 @@
+{
+  "objectName" : "hangingbooster",
+  "colonyTags" : ["outpost"],
+  "rarity" : "Common",
+  "description" : "A hanging mech booster.",
+  "shortdescription" : "Hanging Booster",
+  "race" : "generic",
+  "category" : "decorative",
+  "printable" : false,
+
+  "apexDescription" : "A large mech booster, suspended by chains.",
+  "avianDescription" : "This mech booster is partially disassembled.",
+  "floranDescription" : "Mech rocket hanging on chainsss.",
+  "glitchDescription" : "Interested. Suspended like this gives easy access to the internal mechanics of this mech booster.",
+  "humanDescription" : "A mech booster, hanging on chains. It's probably under repair.",
+  "hylotlDescription" : "This mech booster looks like it's being worked on.",
+  "novakidDescription" : "A mech booster, hangin' on some big chains.",
+
+  "inventoryIcon" : "hangingboostericon.png",
+  "orientations" : [
+    {
+      "image" : "hangingbooster.png",
+      "imagePosition" : [-16, -32],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+
+    }
+  ]
+}

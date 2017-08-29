@@ -1,0 +1,41 @@
+{
+  "objectName" : "stationbackgroundbendtop",
+  "colonyTags" : [],
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "Bend top piece background",
+  "shortdescription" : "Bend top piece background",
+  "scannable" : false,
+  "printable" : false,
+  "race" : "generic",
+
+  "inventoryIcon" : "core.png",
+  "orientations" : [
+    {
+      "image" : "bendtopflip.png",
+      "imagePosition" : [-136, -136],
+
+      "direction" : "left",
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-17, -17, 17, 17]
+    },
+    {
+      "image" : "bendtop.png",
+      "imagePosition" : [-136, -136],
+
+      "direction" : "right",
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-17, -17, 17, 17]
+    }
+  ]
+}

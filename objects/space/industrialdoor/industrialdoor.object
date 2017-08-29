@@ -1,0 +1,66 @@
+{
+  "objectName" : "industrialdoor",
+  "colonyTags" : ["industrial","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 125,
+  "description" : "A tough automated door, reinforced to be able to survive intense intergalactic conditions.",
+  "shortdescription" : "Industrial Door",
+  "race" : "generic",
+
+  "apexDescription" : "This door could probably withstand an asteroid storm or two.",
+  "avianDescription" : "This door isn't very pretty but it's impressively sturdy.",
+  "floranDescription" : "Floran could break door with big enough ssspear.",
+  "glitchDescription" : "Observant. Judging by how this door was engineered, I would conclude it is built for function over aesthetics.",
+  "humanDescription" : "The red lights and hazard stripes on this door really add to that industrial look.",
+  "hylotlDescription" : "Whilst this door is impressively strong, it lacks the visual flair of traditional Hylotl handiwork.",
+  "novakidDescription" : "I think it'd take more than a few pistol slugs t' break down this here door.",
+
+  "inventoryIcon" : "industrialdooricon.png",
+  "orientations" : [
+    {
+      "image" : "industrialdoor.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "industrialdoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "sensorConfig" : {},
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "industrialdoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

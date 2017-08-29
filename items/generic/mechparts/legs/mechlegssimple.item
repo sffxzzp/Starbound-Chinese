@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechlegssimple",
+  "price" : 2560,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechlegs",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechlegssimple.png",
+  "description" : "Mass-produced mech legs that allow for basic mobility.",
+  "shortdescription" : "Basic Mech Legs",
+  "itemTags" : [ ],
+
+  "mechPart" : ["legs", "simple"]
+}

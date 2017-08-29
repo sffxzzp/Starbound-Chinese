@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechlegstwinjet",
+  "price" : 3200,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechlegs",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechlegstwinjet.png",
+  "description" : "Mech legs that have an extra jet booster for balanced performance.",
+  "shortdescription" : "Twinjet Mech Legs",
+  "itemTags" : [ ],
+
+  "mechPart" : ["legs", "twinjet"]
+}

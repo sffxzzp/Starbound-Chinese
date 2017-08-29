@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechlegsintrepid",
+  "price" : 4480,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechlegs",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechlegsintrepid.png",
+  "description" : "Heavy duty mech legs that balance speed and thruster power.",
+  "shortdescription" : "Intrepid Mech Legs",
+  "itemTags" : [ ],
+
+  "mechPart" : ["legs", "intrepid"]
+}

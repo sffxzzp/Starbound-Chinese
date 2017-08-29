@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechlegssleek",
+  "price" : 3840,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechlegs",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechlegssleek.png",
+  "description" : "Sleek mech legs that pair composite socks with titanium sandals.",
+  "shortdescription" : "Sleek Mech Legs",
+  "itemTags" : [ ],
+
+  "mechPart" : ["legs", "sleek"]
+}

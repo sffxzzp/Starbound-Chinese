@@ -1,0 +1,40 @@
+{
+  "objectName" : "industrialstoragelocker",
+  "colonyTags" : ["industrial","storage"],
+  "rarity" : "Rare",
+  "category" : "storage",
+  "price" : 225,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A wall mounted locker, complete with hazard stripes and a red light.",
+  "shortdescription" : "Industrial Storage Locker",
+  "race" : "generic",
+  "health" : 1.5,
+
+  "apexDescription" : "This looks like a secure container for valuable goods.",
+  "avianDescription" : "A metal wall locker, for keeping things in.",
+  "floranDescription" : "Floran could keep trophiesss in here.",
+  "glitchDescription" : "Intrigued. I wonder why there are hazard stripes on this locker?",
+  "humanDescription" : "A wall locker, to keep stuff in.",
+  "hylotlDescription" : "A somewhat crudely made locker for storing things.",
+  "novakidDescription" : "I reckon I could stuff some belongings in here, if I wanted.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "industrialstoragelocker.png:<color>.<key>",
+      "imagePosition" : [-16, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/gunchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/gunchest_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 4,
+  "autoCloseCooldown" : 3600
+}

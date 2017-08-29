@@ -1,0 +1,89 @@
+{
+  "objectName" : "expansionslot",
+  "colonyTags" : [],
+  "printable" : false,
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "A port which modular station expansion pieces can be attached to.",
+  "shortdescription" : "Expansion Slot",
+  "race" : "generic",
+
+  "apexDescription" : "This port is used for adding additional modules to a space station.",
+  "avianDescription" : "This terminal is for managing the expansion modules for this station.",
+  "floranDescription" : "Computersss can attach more spacesss to the station.",
+  "glitchDescription" : "Observant. This terminal type can be used attach a variety of interior modules to the station.",
+  "humanDescription" : "An expansion port, there's a bunch of different station modules which can be attached to it.",
+  "hylotlDescription" : "This panel can be used to expand the station's interior.",
+  "novakidDescription" : "Some fancy computers for making the station even bigger.",
+
+  "inventoryIcon" : "expansionslot.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "expansionslot.png", "fullbright" : true } ],
+      "imagePosition" : [-9, -1],
+
+      "spaceScan" : 0.5,
+      "anchors" : [ "bottom", "top" ],
+
+      "renderLayer" : "ForegroundTile",
+
+      "materialSpaces" : [
+        [[-1, 6], "metamaterial:expansionslot"], [[0, 6], "metamaterial:expansionslot"],
+        [[-1, 5], "metamaterial:expansionslot"], [[0, 5], "metamaterial:expansionslot"],
+        [[-1, 4], "metamaterial:expansionslot"], [[0, 4], "metamaterial:expansionslot"],
+        [[-1, 3], "metamaterial:expansionslot"], [[0, 3], "metamaterial:expansionslot"],
+        [[-1, 2], "metamaterial:expansionslot"], [[0, 2], "metamaterial:expansionslot"],
+        [[-1, 1], "metamaterial:expansionslot"], [[0, 1], "metamaterial:expansionslot"],
+        [[-1, 0], "metamaterial:expansionslot"], [[0, 0], "metamaterial:expansionslot"]
+      ],
+
+      "interactiveSpaces" : [
+        [-1, 6], [0, 6],
+        [-1, 5], [0, 5],
+        [-1, 4], [0, 4],
+        [-1, 3], [0, 3],
+        [-1, 2], [0, 2],
+        [-1, 1], [0, 1],
+        [-1, 0], [0, 0]
+      ]
+    }
+  ],
+
+  "shownMaterialSpaces" : [
+    [[-1, 6], "metamaterial:expansionslot"], [[0, 6], "metamaterial:expansionslot"],
+    [[-1, 5], "metamaterial:expansionslot"], [[0, 5], "metamaterial:expansionslot"],
+    [[-1, 4], "metamaterial:expansionslot"], [[0, 4], "metamaterial:expansionslot"],
+    [[-1, 3], "metamaterial:expansionslot"], [[0, 3], "metamaterial:expansionslot"],
+    [[-1, 2], "metamaterial:expansionslot"], [[0, 2], "metamaterial:expansionslot"],
+    [[-1, 1], "metamaterial:expansionslot"], [[0, 1], "metamaterial:expansionslot"],
+    [[-1, 0], "metamaterial:expansionslot"], [[0, 0], "metamaterial:expansionslot"]
+  ],
+  "hiddenMaterialSpaces" : [
+    [[-1, 6], "slopedhullpanel"], [[0, 6], "slopedhullpanel"],
+    [[-1, 5], "slopedhullpanel"], [[0, 5], "slopedhullpanel"],
+    [[-1, 4], "slopedhullpanel"], [[0, 4], "slopedhullpanel"],
+    [[-1, 3], "slopedhullpanel"], [[0, 3], "slopedhullpanel"],
+    [[-1, 2], "slopedhullpanel"], [[0, 2], "slopedhullpanel"],
+    [[-1, 1], "slopedhullpanel"], [[0, 1], "slopedhullpanel"],
+    [[-1, 0], "slopedhullpanel"], [[0, 0], "slopedhullpanel"]
+  ],
+
+  "animation" : "expansionslot.animation",
+  "animationParts" : {
+    "slotfullbright" : "expansionslotfullbright.png",
+    "slot" : "expansionslot.png"
+  },
+  "animationPosition" : [-9, -1],
+
+  "breakDropOptions" : [ ],
+  "smashDropOptions" : [ ],
+  "unbreakable" : true,
+
+  "scripts" : [ "expansionslot.lua" ],
+  "scriptDelta" : 30,
+
+  "interactAction" : "ScriptPane",
+  "interactData" : "/interface/expandstation/expandstation.config"
+}

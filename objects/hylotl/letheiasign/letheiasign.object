@@ -1,0 +1,34 @@
+{
+  "objectName" : "letheiasign",
+  "colonyTags" : ["hylotl", "commerce"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 200,
+  "lightColor" : [165, 165, 165],
+
+  "description" : "A halogen sign for the Letheia corporation.",
+  "shortdescription" : "Letheia Corp Sign",
+  "race" : "hylotl",
+
+  "apexDescription" : "A bright corporate-looking sign.",
+  "avianDescription" : "This is a very angular sign.",
+  "floranDescription" : "Sssign is very ssslanted.",
+  "glitchDescription" : "Curious. This appears to be sign for some sort of brand, or company.",
+  "humanDescription" : "A sign for the Letheia Corporation, a conglomerate company with a lot of money to spare.",
+  "hylotlDescription" : "A sign for the Letheia Corporation, a well known Hylotl-ran company.",
+  "novakidDescription" : "It's a little gaudy for a sign, ain't it?",
+
+  "inventoryIcon" : "letheiasignicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "letheiasign.png:<color>.<frame>", "fullbright" : true }, { "image" : "letheiasignlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-32, -8],
+      "frames" : 2,
+      "animationCycle" : 0.2,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

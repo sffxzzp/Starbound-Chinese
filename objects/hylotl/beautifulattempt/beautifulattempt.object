@@ -1,0 +1,42 @@
+{
+  "objectName" : "beautifulattempt",
+  "colonyTags" : ["hylotl","hylotloceancity","electronic"],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 210,
+  "printable" : false,
+
+  "description" : "An arcade machine with an interactive narrative game.",
+  "shortdescription" : "Beautiful Attempt! Machine",
+  "race" : "generic",
+
+  "apexDescription" : "A brightly coloured arcade machine, what sort of game is this?",
+  "avianDescription" : "The game on this bright arcade machine seems like it could be relaxing.",
+  "floranDescription" : "Thisss arcade machine isss colourful like a flower.",
+  "glitchDescription" : "Confused. Games of this type have an unclear objective.",
+  "humanDescription" : "This bright machine has a popular Hylotl game on it.",
+  "hylotlDescription" : "This one is a classic, every Hylotl knows all the endings.",
+  "novakidDescription" : "This arcade machine is mighty pretty lookin'.",
+
+  "inventoryIcon" : "beautifulattempticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "beautifulattempt.png:<color>.<frame>",
+      "imagePosition" : [-12, 0],
+      "frames" : 2,
+      "animationCycle" : 0.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : ["/interface/scripted/sbvn/sbvnobject.lua"],
+  "scriptDelta" : 0,
+
+  "interactAction" : "ScriptPane",
+  "interactData" : {
+    "baseConfig" : "/interface/scripted/sbvn/sbvngui.config",
+    "gameFile" : "/interface/scripted/sbvn/games/beautifulattempt/beautifulattempt.sbvn"
+  }
+}

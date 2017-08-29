@@ -1,0 +1,38 @@
+{
+  "objectName" : "industrialchair",
+  "colonyTags" : ["misc","industrial"],
+  "rarity" : "Common",
+  "description" : "A solid metal chair with only the slightest bit of padding.",
+  "shortdescription" : "Industrial Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 85,
+
+  "apexDescription" : "This chair looks like it is cheap to mass-produce, but may be a little uncomfortable.",
+  "avianDescription" : "I don't think I'd like to rest my feathers for too long on this stiff chair.",
+  "floranDescription" : "Chair looksss heavy. Floran could ssstill throw it!",
+  "glitchDescription" : "Uncomfortable. This chair looks like it was made for efficient production rather than comfort.",
+  "humanDescription" : "You'd think with all this spacefaring technology, people would figure out how to make consistently comfy chairs.",
+  "hylotlDescription" : "A chair this uncomfortable could not have been made accidentally.",
+  "novakidDescription" : "It ain't the comfiest of seats, but I could relax on this if I tried hard enough.",
+
+  "inventoryIcon" : "industrialchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "industrialchair.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22]
+
+}

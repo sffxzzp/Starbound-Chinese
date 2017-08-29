@@ -1,0 +1,49 @@
+{
+  "objectName" : "industriallight",
+  "colonyTags" : ["light","industrial"],
+  "rarity" : "Common",
+  "category" : "light",
+  "lightColor" : [227, 156, 70],
+  "price" : 60,
+  "description" : "A metal wall light which emits a sickly orange glow.",
+  "shortdescription" : "Industrial Light",
+  "race" : "generic",
+
+  "apexDescription" : "This light gives off an orange glow. It appears to be fairly cheaply produced.",
+  "avianDescription" : "This light gives off an orange glow, but it isn't warm like a sun.",
+  "floranDescription" : "Floran wants to sssmash light, but Floran will be polite inssstead.",
+  "glitchDescription" : "Analytical. This light has been built to be able to power itself for a very long time.",
+  "humanDescription" : "An unpleasant orange light. I wonder how long the bulb lasts?",
+  "hylotlDescription" : "The orange glow of this light reminds me of the ember corals commonly seen on ocean floors.",
+  "novakidDescription" : "This light ain't quite as bright as I am!",
+
+  "inventoryIcon" : "industriallighticon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "industriallight.png:<color>.<frame>", "fullbright" : true }, { "image" : "industriallightlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+  
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "industriallight.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+  
+}

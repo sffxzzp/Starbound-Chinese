@@ -1,0 +1,35 @@
+{
+  "objectName" : "astrochair",
+  "colonyTags" : ["misc","astro"],
+  "rarity" : "Common",
+  "description" : "A modern chair design, commonly found inside spaceships.",
+  "shortdescription" : "Astro Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 85,
+
+  "apexDescription" : "Maybe sitting in this would help keep my back straight.",
+  "avianDescription" : "This chair has a very familiar design, though no Avian would build with materials like these.",
+  "floranDescription" : "Firm metal seat lookss uncomfortable.",
+  "glitchDescription" : "Interested. This seat is designed to support launch forces for space travellers.",
+  "humanDescription" : "This chair is the kind you'd find in a spaceship.",
+  "hylotlDescription" : "This sturdy chair is built to withstand launch forces.",
+  "novakidDescription" : "This here chair is pretty solid, I can't even kick it over.",
+
+  "inventoryIcon" : "astrochairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "astrochair.png:<color>",
+      "imagePosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 24]
+
+}

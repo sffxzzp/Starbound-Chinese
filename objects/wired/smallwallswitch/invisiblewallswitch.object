@@ -1,0 +1,48 @@
+{
+  "objectName" : "invisiblewallswitch",
+  "colonyTags" : ["wired"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "wire",
+  "price" : 0,
+  "health" : 0.1,
+  "description" : "...",
+  "shortdescription" : "Invisible Wall Switch",
+  "race" : "generic",
+
+  "smashOnBreak" : true,
+
+  "inventoryIcon" : "invisiblewallswitch.png:off",
+  "orientations" : [
+    {
+      "image" : "invisiblewallswitch.png:off",
+      "imagePosition" : [-8, -8],
+      "spaces" : [ [0, 0] ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switchwithinput.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/switch/switchtoggle2.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [],
+      "off" : []
+    }
+  },
+
+  "animationParts" : {
+    "switch" : "invisiblewallswitchhidden.png"
+  },
+  "animationPosition" : [-8, -8],
+
+  "inputNodes" : [ [-1, 0] ],
+  "outputNodes" : [ [0, -1] ],
+
+  "interactive" : false
+}

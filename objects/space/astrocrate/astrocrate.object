@@ -1,0 +1,56 @@
+{
+  "objectName" : "astrocrate",
+  "colonyTags" : ["astro","storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A large container specialized for space transport.",
+  "shortdescription" : "Astro Crate",
+  "race" : "generic",
+  "category" : "storage",
+  "price" : 220,
+  "health" : 1.5,
+
+  "apexDescription" : "A standard space shipping crate.",
+  "avianDescription" : "This container is large, but that means lots of space to store things inside.",
+  "floranDescription" : "Big ssstriped metal box.",
+  "glitchDescription" : "Interested. The metals used in this crate makes it strong, but quite light.",
+  "humanDescription" : "An oversized shipping crate, this can store a lot inside.",
+  "hylotlDescription" : "A large shipping container, made for goods transport.",
+  "novakidDescription" : "I'd reckon you could store near anything this big ol' crate.",
+
+  "inventoryIcon" : "astrocrateicon.png",
+  "orientations" : [
+    {
+
+      "image" : "astrocrate.png:<color>",
+      "imagePosition" : [-24, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+
+      "image" : "astrocrate.png:<color>",
+      "imagePosition" : [-24, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/metalbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/metalbox_close.ogg" ],
+  "slotCount" : 48,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

@@ -1,0 +1,59 @@
+{
+  "objectName" : "stationdisplay",
+  "colonyTags" : ["station","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 120,
+  "description" : "A wall-mounted screen lit up with lots of blue text.",
+  "shortdescription" : "Station Display",
+  "race" : "generic",
+
+  "apexDescription" : "A screen, displaying what I presume is important information.",
+  "avianDescription" : "The text on this screen is an icy cold blue.",
+  "floranDescription" : "Floran doesssn't care about blue sssign.",
+  "glitchDescription" : "Intrigued. I wonder how much of the text on this screen is actually useful?",
+  "humanDescription" : "An angular screen, complete with infinitely scrolling blue text. ",
+  "hylotlDescription" : "The cold blue lights remind me of rippling moonlight on the surface of a river.",
+  "novakidDescription" : "There sure is a lot of information on this. I ain't sure I'd be able to remember it all.",
+  
+  "lightColor" : [27, 50, 64],
+
+  "inventoryIcon" : "stationdisplayicon.png",
+  "orientations" : [
+    {
+      "image" : "stationdisplay.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "stationdisplay.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "stationdisplay.animation",
+  "animationParts" : {
+    "bg" : "stationdisplay.png",
+    "fg" : "stationdisplaylit.png"
+  },
+  "animationPosition" : [-16, -8],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/bunkerdisplay.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+
+}

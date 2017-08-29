@@ -1,0 +1,59 @@
+{
+  "objectName" : "spaceslideshow",
+  "colonyTags" : ["station","electronic","space"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 750,
+  "description" : "A screen displaying a series of space-themed photographs.",
+  "shortdescription" : "Space Slideshow",
+  "race" : "generic",
+
+  "apexDescription" : "This oversized screen shows images of deep space.",
+  "avianDescription" : "The resolution of these photos is incredible.",
+  "floranDescription" : "Ssserene pictures of space locations.",
+  "glitchDescription" : "Curious. These images are of specific locations in space, are they somehow connected?",
+  "humanDescription" : "With this screen I could watch space from the safety of a couch.",
+  "hylotlDescription" : "This screen displays super high resolution photographs of space.",
+  "novakidDescription" : "Jus 'bout the biggest television I ever seen, only has one channel though.",
+  
+  "lightColor" : [45, 45, 45],
+
+  "inventoryIcon" : "spaceslideshowicon.png",
+  "orientations" : [
+    {
+      "image" : "spaceslideshow.png:<color>.<frame>",
+      "imagePosition" : [-32, -16],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "spaceslideshow.png:<color>.<frame>",
+      "imagePosition" : [-32, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "spaceslideshow.animation",
+  "animationParts" : {
+    "bg" : "spaceslideshow.png",
+    "fg" : "spaceslideshowlit.png"
+  },
+  "animationPosition" : [-32, -16],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/bunkerdisplay.ogg",
+  "soundEffectRangeMultiplier" : 0.25
+
+}

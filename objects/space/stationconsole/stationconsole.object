@@ -1,0 +1,84 @@
+{
+  "objectName" : "stationconsole",
+  "colonyTags" : ["station","electronic","wired"],
+  "rarity" : "Common",
+  "description" : "A small terminal, with a compact display screen.",
+  "shortdescription" : "Station Console",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 125,
+  "lightColor" : [21, 40, 51],
+  "lightPosition" : [0, 3],
+  
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.1,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "This compact terminal has a small display screen.",
+  "avianDescription" : "This terminal doesn't need a bunch of buttons, just the basics.",
+  "floranDescription" : "Floran wantsss to push the buttons on this console.",
+  "glitchDescription" : "Interested. This console seems designed for a specific purpose, there are not many buttons.",
+  "humanDescription" : "A small standing console, with an attached display screen.",
+  "hylotlDescription" : "This small console has only the buttons it needs, I'm sure it has a clear purpose.",
+  "novakidDescription" : "Jus' a few tiny buttons on this here console.",
+
+  "inventoryIcon" : "stationconsoleicon.png",
+  "orientations" : [
+    {
+      "image" : "stationconsole.png:<color>.on",
+      "imagePosition" : [-8, 0],
+      "animationPosition" : [-8, 0],
+
+      "flipImages" : true,
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "stationconsole.png:<color>.on",
+      "imagePosition" : [-8, 0],
+      "animationPosition" : [-8, 0],
+
+      "direction" : "right",
+
+      "lightPosition" : [0, 3],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "stationconsole.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "stationconsole.png",
+    "fg" : "stationconsolelit.png"
+  },
+
+  "outputNodes" : [ [0, 2] ],
+
+  "npcToy" : {
+    "ownerOnly" : true,
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-0.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

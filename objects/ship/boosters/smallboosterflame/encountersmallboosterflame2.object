@@ -1,0 +1,141 @@
+{
+  "objectName" : "encountersmallboosterflame2",
+  "colonyTags" : [],
+  "scannable" : false,
+  "rarity" : "Common",
+  "description" : "I wonder how quickly that would cook a burger.",
+  "shortdescription" : "Damaging Small Booster Flame",
+  "race" : "generic",
+
+  "apexDescription" : "A booster. These have been known to malfunction and explode.",
+  "avianDescription" : "A booster, the wings of a ship.",
+  "floranDescription" : "Ssscary fire.",
+  "glitchDescription" : "Analyse. Temperature too high to measure.",
+  "humanDescription" : "This thing eats through fuel.",
+  "hylotlDescription" : "Propulsion.",
+
+  "category" : "light",
+  "lightColor" : [59, 183, 255],
+  "pointLight" : true,
+  "flickerDistance" : 0.2,
+  "flickerStrength" : 0.05,
+  "flickerTiming" : 4,
+
+  "inventoryIcon" : "torchicon.png",
+  "orientations" : [
+    {
+      "image" : "smallboosterflame.png:on.1",
+      "imagePosition" : [-15, -21],
+      "animationPosition" : [-15, -21],
+      "fullbright" : true,
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [
+        [-2, 0], [-1, 0], [0, 0], [1, 0],
+        [-2, -1], [-1, -1], [0, -1], [1, -1],
+        [-2, -2], [-1, -2], [0, -2], [1, -2]
+      ],
+      "anchors" : [ "top" ],
+
+      "touchDamage" : {
+        "poly" : [ [-1.25, 1], [-1.25, 0.5], [1.25, 0.5], [1.25, 1] ],
+        "damage" : 50,
+        "knockback" : 50,
+
+        "damageType" : "Environment",
+        "damageSourceKind" : "plasma"
+      }
+    },
+    {
+      "image" : "smallboosterflame.png:on.1",
+      "imagePosition" : [-14, -21],
+      "animationPosition" : [-14, -21],
+      "fullbright" : true,
+
+      "direction" : "right",
+
+      "spaces" : [
+        [-2, 0], [-1, 0], [0, 0], [1, 0],
+        [-2, -1], [-1, -1], [0, -1], [1, -1],
+        [-2, -2], [-1, -2], [0, -2], [1, -2]
+      ],
+      "anchors" : [ "top" ],
+
+      "touchDamage" : {
+        "poly" : [ [-1.25, 1], [-1.25, 0.5], [1.25, 0.5], [1.25, 1] ],
+        "damage" : 50,
+        "knockback" : 50,
+
+        "damageType" : "Environment",
+        "damageSourceKind" : "plasma"
+      }
+    },
+    {
+      "image" : "smallboosterflameflip.png:on.1",
+      "imagePosition" : [-15, 1],
+          
+      "animationParts" : {
+        "booster" : "smallboosterflameflip.png"
+      },
+      "animationPosition" : [-15, 1],
+      "fullbright" : true,
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [
+        [-2, 0], [-1, 0], [0, 0], [1, 0],
+        [-2, 1], [-1, 1], [0, 1], [1, 1],
+        [-2, 2], [-1, 2], [0, 2], [1, 2]
+      ],
+      "anchors" : [ "bottom" ],
+
+      "touchDamage" : {
+        "poly" : [ [-1.25, 0], [-1.25, 0.5], [1.25, 0.5], [1.25, 0] ],
+        "damage" : 50,
+        "knockback" : 50,
+
+        "damageType" : "Environment",
+        "damageSourceKind" : "plasma"
+      }
+    },
+    {
+      "image" : "smallboosterflameflip.png:on.1",
+      "imagePosition" : [-14, 1],
+          
+      "animationParts" : {
+        "booster" : "smallboosterflameflip.png"
+      },
+      "animationPosition" : [-14, 1],
+      "fullbright" : true,
+
+      "direction" : "right",
+
+      "spaces" : [
+        [-2, 0], [-1, 0], [0, 0], [1, 0],
+        [-2, 1], [-1, 1], [0, 1], [1, 1],
+        [-2, 2], [-1, 2], [0, 2], [1, 2]
+      ],
+      "anchors" : [ "bottom" ],
+
+      "touchDamage" : {
+        "poly" : [ [-1.25, 0], [-1.25, 0.5], [1.25, 0.5], [1.25, 0] ],
+        "damage" : 50,
+        "knockback" : 50,
+
+        "damageType" : "Environment",
+        "damageSourceKind" : "plasma"
+      }
+    }
+  ],
+
+  "animation" : "/objects/ship/boosters/boosterflame.animation",
+  "animationParts" : {
+    "booster" : "smallboosterflame.png"
+  },
+
+  "soundEffect" : "/sfx/objects/smallboosterflame.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+}

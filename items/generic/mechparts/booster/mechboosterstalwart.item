@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboosterstalwart",
+  "price" : 4800,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboosterstalwart.png",
+  "description" : "A classic design of mid-range boosters, historically used by delivery crafts.",
+  "shortdescription" : "Stalwart Mech Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "stalwart"]
+}

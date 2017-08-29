@@ -1,0 +1,31 @@
+{
+  "objectName" : "industrialtable",
+  "colonyTags" : ["commerce","industrial"],
+  "rarity" : "Common",
+  "description" : "A cold metal table, built to survive turbulent trips.",
+  "shortdescription" : "Industrial Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 85,
+
+  "apexDescription" : "This table looks very sturdy - I'd feel safe hiding under it during an earthquake.",
+  "avianDescription" : "There isn't much to say about this cold, impersonal table.",
+  "floranDescription" : "Table looksss heavy.",
+  "glitchDescription" : "Unimpressed. This table could use a little decoration.",
+  "humanDescription" : "If you can't decide how to decorate a piece of furniture, the best solution isn't to put warning stripes on it.",
+  "hylotlDescription" : "The shape of this table is so rigid. Where is the elegance?!",
+  "novakidDescription" : "Must take a blacksmith a whole day of hammerin' to make a table this flat!",
+
+  "inventoryIcon" : "industrialtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "industrialtable.png:<color>",
+      "imagePosition" : [-16, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

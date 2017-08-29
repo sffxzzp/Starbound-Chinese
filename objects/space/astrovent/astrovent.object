@@ -1,0 +1,39 @@
+{
+  "objectName" : "astrovent",
+  "colonyTags" : ["astro","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 70,
+  "description" : "An artificial atmospheric system exhaust port.",
+  "shortdescription" : "Astro Vent",
+  "race" : "generic",
+
+  "apexDescription" : "An exhaust pipe.",
+  "avianDescription" : "This appears to be some sort of exhaust port.",
+  "floranDescription" : "Pipe is to sssmall for Floran to hide inside.",
+  "glitchDescription" : "Observant. Exhaust vents like these are usually found on ships and stations in space.",
+  "humanDescription" : "Appears to be an exhaust vent.",
+  "hylotlDescription" : "This is a vent of some kind I believe.",
+  "novakidDescription" : "Stuff some weapons in that vent an' it'd probably make a decent cannon.",
+
+  "inventoryIcon" : "astroventicon.png",
+  "orientations" : [
+    {
+      "image" : "astrovent.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "astrovent.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

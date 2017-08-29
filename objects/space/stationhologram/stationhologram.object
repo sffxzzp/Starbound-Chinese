@@ -1,0 +1,70 @@
+{
+  "objectName" : "stationhologram",
+  "colonyTags" : ["station","electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 200,
+  
+  "description" : "A flickering holographic display of an unidentified planet.",
+  "shortdescription" : "Station Hologram",
+  "race" : "generic",
+
+  "apexDescription" : "A hologram of a planet and a moon. The quality of the projection is questionable.",
+  "avianDescription" : "A hologram of a planet - a 3-dimensional image made of light!",
+  "floranDescription" : "Floran can't throw blue ball, ball isss not real.",
+  "glitchDescription" : "Curious. I wonder what planet this hologram is depicting?",
+  "humanDescription" : "I still wonder why all holograms are required to be blue. Is it a stylistic choice?",
+  "hylotlDescription" : "Blue is truly the best colour for holographic projections.",
+  "novakidDescription" : "A floatin' image of a sky blue world.",
+
+  "lightColor" : [62, 84, 89],
+
+  "flickerPeriod" : 0.4,
+  "flickerMinIntensity" : 0.97,
+  "flickerMaxIntensity" : 1.0,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "inventoryIcon" : "stationhologramicon.png",
+  "orientations" : [
+    {
+      "image" : "stationhologram.png:<color>.off",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+      
+      "lightPosition" : [0, 2],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "stationhologram.png:<color>.off",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "lightPosition" : [0, 2],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/proximitysensor/proximitysensor.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "stationhologram.animation",
+  "animationParts" : {
+    "bg" : "stationhologram.png",
+    "fg" : "stationhologramlit.png"
+  },
+  "animationPosition" : [-16, 0],
+  
+  "interactive" : false,
+
+  "detectDuration" : 0.2,
+  "detectEntityTypes" : [ "creature", "vehicle" ],
+  "detectArea" : [ [-1.0, 0.5], [1.0, 3] ]
+}

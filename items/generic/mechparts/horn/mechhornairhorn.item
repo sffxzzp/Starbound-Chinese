@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhornairhorn",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhornairhorn.png",
+  "description" : "Make a little noise from the comfort of your own mech.",
+  "shortdescription" : "Airhorn Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "airhorn"]
+}

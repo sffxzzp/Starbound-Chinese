@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "通过一个强大的能量刀片切断…几乎一切物体。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "能量刃机械臂"}]

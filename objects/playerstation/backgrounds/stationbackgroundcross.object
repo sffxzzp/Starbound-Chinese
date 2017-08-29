@@ -1,0 +1,27 @@
+{
+  "objectName" : "stationbackgroundcross",
+  "colonyTags" : [],
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "Cross piece background",
+  "shortdescription" : "Cross piece background",
+  "scannable" : false,
+  "printable" : false,
+  "race" : "generic",
+
+  "inventoryIcon" : "core.png",
+  "orientations" : [
+    {
+      "dualImage" : "cross.png",
+      "imagePosition" : [-136, -136],
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-17, -17, 17, 17]
+    }
+  ]
+}

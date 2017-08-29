@@ -1,0 +1,27 @@
+{
+  "objectName" : "stationbackgroundhugecorediagbot",
+  "colonyTags" : [],
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "Huge Core Diagonal Bottom Piece Background",
+  "shortdescription" : "Huge Core Diagonal Bottom Piece Background",
+  "scannable" : false,
+  "printable" : false,
+  "race" : "generic",
+
+  "inventoryIcon" : "core.png",
+  "orientations" : [
+    {
+      "dualImage" : "hugecorediagbot.png",
+      "imagePosition" : [-136, -136],
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-17, -17, 17, 17]
+    }
+  ]
+}

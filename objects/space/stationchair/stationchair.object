@@ -1,0 +1,38 @@
+{
+  "objectName" : "stationchair",
+  "colonyTags" : ["misc","station"],
+  "rarity" : "Common",
+  "description" : "A curved, formal looking metal chair.",
+  "shortdescription" : "Station Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 85,
+
+  "apexDescription" : "A simple chair, made entirely out of metallic alloys.",
+  "avianDescription" : "A shiny silver chair.",
+  "floranDescription" : "Floran hasss no time for sssitting.",
+  "glitchDescription" : "Impressed. This chair appears to be significantly stronger than the majority of chairs in the universe.",
+  "humanDescription" : "I've seen a lot of chairs in my time, but this... Isn't my favourite.",
+  "hylotlDescription" : "A chair decorated with bands of colour that fit well together.",
+  "novakidDescription" : "Yessir, that's a chair alright.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "stationchair.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [3, 23]
+
+}

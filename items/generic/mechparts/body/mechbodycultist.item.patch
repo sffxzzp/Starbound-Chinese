@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个做工粗糙的机体，由陨日邪教成员设计。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "陨日机体"}]

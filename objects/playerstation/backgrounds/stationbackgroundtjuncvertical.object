@@ -1,0 +1,41 @@
+{
+  "objectName" : "stationbackgroundtjuncvertical",
+  "colonyTags" : [],
+  "rarity" : "Common",
+
+  "category" : "playerstation",
+  "price" : 125,
+  "description" : "T Junction Vertical Piece Background",
+  "shortdescription" : "T Junction Vertical Piece Background",
+  "scannable" : false,
+  "printable" : false,
+  "race" : "generic",
+
+  "inventoryIcon" : "core.png",
+  "orientations" : [
+    {
+      "image" : "tjuncverticalflip.png",
+      "imagePosition" : [-72, -40],
+
+      "direction" : "left",
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-9, -5, 8, 6]
+    },
+    {
+      "image" : "tjuncvertical.png",
+      "imagePosition" : [-72, -40],
+
+      "direction" : "right",
+
+      "renderLayer" : "BackgroundTile-10",
+
+      "spaces" : [ ],
+      "anchors" : [ ],
+      "metaBoundBox" : [-9, -5, 8, 6]
+    }
+  ]
+}

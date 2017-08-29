@@ -1,0 +1,47 @@
+{
+  "objectName" : "astroserver",
+  "colonyTags" : ["astro"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "lightColor" : [25, 25, 25],
+  "price" : 70,
+  "description" : "A large computer server rack, with brackets for floor mounting.",
+  "shortdescription" : "Astro Server",
+  "race" : "generic",
+
+  "apexDescription" : "This server rack looks loaded with computer equipment.",
+  "avianDescription" : "A sleek looking server rack.",
+  "floranDescription" : "Fancy looking sserver cabinet full of computersss.",
+  "glitchDescription" : "Amused. Most of the technology inside this server can now be contained inside a portable device.",
+  "humanDescription" : "This server looks like it's setup for something important.",
+  "hylotlDescription" : "It appears this server is liquid cooled, that's smart.",
+  "novakidDescription" : "Big 'ol computer. 'Bout the size of an outhouse.",
+
+  "inventoryIcon" : "astroservericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "astroserver.png", "fullbright" : true }, { "image" : "astroserverlit.png" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "lightPosition" : [0, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "astroserver.png", "fullbright" : true }, { "image" : "astroserverlit.png" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "lightPosition" : [0, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/server_loop.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+}

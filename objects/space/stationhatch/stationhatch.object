@@ -1,0 +1,60 @@
+{
+  "objectName" : "stationhatch",
+  "colonyTags" : ["station","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 140,
+  "description" : "A large, sleek automated hatch, made from the same materials found on the exterior of space stations.",
+  "shortdescription" : "Station Hatch",
+  "race" : "generic",
+
+  "apexDescription" : "A sleek metal hatch. I appreciate its pointed design.",
+  "avianDescription" : "This is a rather well-made metal hatch!",
+  "floranDescription" : "Hatch looksss sharp. Floran consssidering hatch as potential weapon.",
+  "glitchDescription" : "Reminiscent. The angled design of this hatch reminds me of traditional Glitch banners.",
+  "humanDescription" : "This hatch could probably take a few hits, to say the least.",
+  "hylotlDescription" : "A rather impressively made hatch. Surprisingly, I find myself approving of it.",
+  "novakidDescription" : "This here hatch looks like it could last through a storm or two.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "stationhatch.png:default",
+      "imagePosition" : [-24, -8],
+      "renderLayer" : "Object+5",
+      "animationPosition" : [-24, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "left", "right" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "sensorConfig" : {
+    "detectArea" : "vertical"
+  },
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "stationhatch.png"
+  },
+
+  "inputNodes" : [ [-2, 0] ],
+  "outputNodes" : [ [2, -1] ]
+}

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个强大的电子人风格机体，由镀了维奥合金的厚金属板制作。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "阿尔托莉雅机体"}]

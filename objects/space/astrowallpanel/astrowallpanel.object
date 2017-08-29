@@ -1,0 +1,39 @@
+{
+  "objectName" : "astrowallpanel",
+  "colonyTags" : ["astro","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 70,
+  "description" : "A panel designed for inside space environments.",
+  "shortdescription" : "Astro Wall Panel",
+  "race" : "generic",
+
+  "apexDescription" : "This wall panel is made from some sort of polymer.",
+  "avianDescription" : "I'm not sure if panels like this serve a function.",
+  "floranDescription" : "Sssome kind of plastic panel.",
+  "glitchDescription" : "Confused. The function of this panel is not understood.",
+  "humanDescription" : "A space panel made from some plastics.",
+  "hylotlDescription" : "Panels designed like this were once common inside ships.",
+  "novakidDescription" : "Some kinda plastic space panel.",
+
+  "inventoryIcon" : "astrowallpanelicon.png",
+  "orientations" : [
+    {
+      "image" : "astrowallpanel.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "astrowallpanel.png:<color>",
+      "imagePosition" : [-16, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

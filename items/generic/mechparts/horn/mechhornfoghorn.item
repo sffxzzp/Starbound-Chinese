@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhornfoghorn",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhornfoghorn.png",
+  "description" : "A horn traditionally used to warn others of nearby hazards.",
+  "shortdescription" : "Foghorn Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "foghorn"]
+}

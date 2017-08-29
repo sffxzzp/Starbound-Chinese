@@ -1,0 +1,56 @@
+{
+  "objectName" : "stationcrate",
+  "colonyTags" : ["station","storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A shipping crate, designed to ship space goods.",
+  "shortdescription" : "Station Crate",
+  "race" : "generic",
+  "category" : "storage",
+  "price" : 110,
+  "health" : 1.5,
+
+  "apexDescription" : "This crate looks very sturdy, and has a fair amount of storage space inside.",
+  "avianDescription" : "This metal crate could hold goods quite securely.",
+  "floranDescription" : "Thisss metal crate is designed to carry space suppliesss.",
+  "glitchDescription" : "Observant. This simple industrial crate is designed for space transport.",
+  "humanDescription" : "An industrial looking shipping crate, I've seen these inside ships and stations.",
+  "hylotlDescription" : "I'm not sure what these markings mean, but it's clear this crate is designed for transporting space goods.",
+  "novakidDescription" : "A metal crate, made for holdin' space supplies.",
+
+  "inventoryIcon" : "stationcrateicon.png",
+  "orientations" : [
+    {
+
+      "image" : "stationcrate.png:<color>",
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+
+      "image" : "stationcrate.png:<color>",
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/metalbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/metalbox_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

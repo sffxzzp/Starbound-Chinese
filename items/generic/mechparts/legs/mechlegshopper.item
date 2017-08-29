@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechlegshopper",
+  "price" : 3200,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechlegs",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechlegshopper.png",
+  "description" : "A mid-quality set of mech legs designed for jumping.",
+  "shortdescription" : "Hopper Mech Legs",
+  "itemTags" : [ ],
+
+  "mechPart" : ["legs", "hopper"]
+}

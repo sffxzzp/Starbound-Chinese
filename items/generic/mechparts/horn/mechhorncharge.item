@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhorncharge",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhorncharge.png",
+  "description" : "A musical fanfare, typically a prelude to a sporting event or gruesome battle.",
+  "shortdescription" : "Charge Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "charge"]
+}

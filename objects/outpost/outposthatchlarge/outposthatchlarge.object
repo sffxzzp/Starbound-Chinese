@@ -1,0 +1,60 @@
+{
+  "objectName" : "outposthatchlarge",
+  "colonyTags" : ["outpost","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 140,
+  "description" : "This automated door is made of some sort of bulletproof material.",
+  "shortdescription" : "Large Airlock Hatch",
+  "race" : "generic",
+
+  "apexDescription" : "An airlock.",
+  "avianDescription" : "An airlock.",
+  "floranDescription" : "It'ss an airlock.",
+  "glitchDescription" : "Appreciative. A sturdy airlock.",
+  "humanDescription" : "An airlock. Useful!",
+  "hylotlDescription" : "A basic airlock.",
+  "novakidDescription" : "Looks like a airlock.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "outposthatchlarge.png:default",
+      "imagePosition" : [-24, -8],
+      "renderLayer" : "Object+5",
+      "animationPosition" : [-24, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "left", "right" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "sensorConfig" : {
+    "detectArea" : "vertical"
+  },
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "outposthatchlarge.png"
+  },
+
+  "inputNodes" : [ [-2, 0] ],
+  "outputNodes" : [ [2, -1] ]
+}

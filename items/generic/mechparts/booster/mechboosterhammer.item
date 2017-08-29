@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboosterhammer",
+  "price" : 6720,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboosterhammer.png",
+  "description" : "A set of large boosters, which trade speed for greater control.",
+  "shortdescription" : "Hammer Mech Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "hammer"]
+}

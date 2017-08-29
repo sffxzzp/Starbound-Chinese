@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechboosterzed",
+  "price" : 4800,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbooster",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechboosterzed.png",
+  "description" : "Speedy mid-range mech boosters that are shaped like the letter Z.",
+  "shortdescription" : "Zed Mech Boosters",
+  "itemTags" : [ ],
+
+  "mechPart" : ["booster", "zed"]
+}

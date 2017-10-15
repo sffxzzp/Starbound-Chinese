@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一种以恒星能驱动的，能发出高速移动光束的机械臂。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "光束狙击手机械臂"}]

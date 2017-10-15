@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一种先进的机械臂，可以部署多个攻击性无人机。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蜂群机械臂"}]

@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "我想知道用它做个汉堡有多快。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "破坏性推进器火焰"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个推进器。已知会有故障和爆炸。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "推进器，船的翅膀。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可怕的火。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。温度过高无法测量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这东西很烧油。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "推进。"}]

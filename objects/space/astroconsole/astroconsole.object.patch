@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用来监视各种设备的大显示器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我喜欢这个大显示器，看起来很重要。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个控制台在我看来有些笨拙。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这样一个闪亮的显示屏屏幕。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个信息显示器的状况良好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "任何东西都可以连接到像这样的大控制台。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种控制台显示的大小使得阅读信息非常容易。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个强大的控制台。"}]

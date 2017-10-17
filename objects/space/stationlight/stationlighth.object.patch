@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "长的工业外观的荧光灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "宽空间站灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个工业灯相当大。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种光线不太好看，而且光线也很冷。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不喜欢冷光电灯。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "见多识广。这些灯都有一个紧凑的电源。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一些大的荧光灯，在飞船和空间站能看到的那种。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个大的荧光灯，我想知道它是否防水。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "大的电灯。"}]

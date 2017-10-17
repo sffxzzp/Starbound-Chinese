@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "带有显示医疗站的图像的标志。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "医疗站标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个标志是用来表示医疗站的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个标志表示一个医疗站。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个标志是用来表示医疗站的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "见多识广。这个符号的图像是用来表示医疗站的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "标记医疗站的标志。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样的标志通常意味着附近有一个医疗站。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "估计这个标志意味着这里有一个医疗站。"}]

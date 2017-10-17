@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为运送太空货物而设计的运输箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个板条箱看起来很坚固，里面有相当大的储藏空间。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个金属箱可以很安全地装东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个金属板条箱是用来运载太空用品的。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这种简单的工业条板箱是为太空运输而设计的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个工业外观的运输箱，我在飞船和空间站里见过。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我不知道这些标记意味着什么，但很明显这个板条箱是为运输太空货物而设计的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个金属箱，为了保存太空货物而制作。"}]

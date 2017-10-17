@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个门在关闭时形成密封。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这样的门是用来密封船只或车站的部分的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门是为了承受空间的严酷而设计的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空间门可滑动开启和关闭。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这门设计曾经在船舶和车站建设中很流行。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种现代门可以制造气密密封以容纳大气。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种现代化的门时尚，反应灵敏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这种漂亮的门看起来没法在上面有任何东西。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "展示一系列以空间为主题的照片的屏幕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "太空幻灯片"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个超大屏幕显示了外太空的图像。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这些照片的分辨率令人难以置信。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空间位置的宁静图片。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这些图像是空间中的特定位置，它们是以某种方式连接的吗？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有了这个屏幕，我可以从沙发的安全中观察到空间。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个屏幕显示超高分辨率的太空照片。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我见过的最大的电视，不过只有一个频道。"}]

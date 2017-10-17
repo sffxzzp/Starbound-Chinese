@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "散发出一种病态的橙色辉光的金属墙灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工业灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这灯发出橙色的光。它的生产成本似乎相当低廉。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这种光发出橙色的光，但不象太阳那样温暖。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族想砸光，但叶族会管好自己。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "分析。这盏灯做出来是为了能够保持长时间发光的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "令人不快的橙灯。我想知道这灯泡能持续多久？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "橙色的光使我想起洋底常见的余烬珊瑚。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这灯不像我一样明亮！"}]

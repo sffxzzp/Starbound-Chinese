@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "批量生产机械推进器，带有外部油箱附件。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基本机械推进器"}]

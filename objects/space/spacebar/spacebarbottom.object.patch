@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有着光滑磨光表面的金属酒吧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空格酒吧"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个酒吧除了浪费时间的地方，没什么其他用途。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个酒吧又冷又工业化，但至少凳子看起来很舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个酒吧可能是一个叶族打架的好去处…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不感兴趣。大多数电子人倾向于在酒吧里放上大桌子来喝酒、庆祝。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个酒吧不错，但没有人用就没啥意义了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "没什么比和同坐在一个酒吧里的新面孔交朋友更好了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像是个拉凳子休息的好地方。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种弯曲的、看起来很正式的金属椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站椅子"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "用金属合金制成的简易椅子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "闪亮的银色椅子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族没时间坐着。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这把椅子似乎比宇宙中大多数椅子强得多。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我曾经讲过很多椅子，但这个…并不是我最喜欢的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一种颜色合适的椅子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "是的，那是一把椅子吧。"}]

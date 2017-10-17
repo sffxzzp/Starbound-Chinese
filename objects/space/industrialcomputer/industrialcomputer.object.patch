@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "旧的金属计算机塔。不整洁的电缆从后面垂下来。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工业电脑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个控制台有很多按钮和控制杆。我相信我能用说明书了解它。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台电脑显示了许多小的绿色文本。我想知道它是做什么用的？"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "盒子上有绿色的字。绿色是好颜色。叶族赞同。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。这个屏幕显示了很多信息—我想知道这都是什么？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我想知道为什么这台电脑显示器上的文字都是绿色的？这是文体上的选择吗？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这台计算机比它需要的更大。鲛人工程师可以建造的更紧凑。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这盒子里肯定有很多的单词，但我只是没有能一直注意到它。"}]

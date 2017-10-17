@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "按键即停轨道停靠站"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "轨道电车站"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个坚固的自动门，能够在激烈的星际环境中生存下来。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工业门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这扇门也许能抵挡小行星的风暴。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门不是很漂亮，但它坚固耐用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族可以用足够大的矛打破门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。根据这扇门是如何设计的，我断定它是为功能而设计的，而不是为了美观。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "门上的红灯和危险条纹真的增加了其工业外观。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "虽然这门是非常强，它缺乏传统的鲛人手工视觉风格。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我认为这只需要几把手枪就能打破这扇大门。"}]

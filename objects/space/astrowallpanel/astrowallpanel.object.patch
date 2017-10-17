@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "为内部空间环境设计的面板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文墙板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个墙板是用某种聚合物制成的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不确定这样的面板是否起作用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "某种塑料板。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这个面板的功能不能理解。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "由一些塑料制成的太空板。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这样设计的嵌板曾经在船上很常见。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有些塑料感的空间板。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个导航信标标志着着陆舱的位置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "着陆信标"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这标志着机械着陆舱的位置。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个标记意味着有一个用于机械进入空间海湾。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "信标显示机械可以进入空间的位置。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "见多识广。这种类型的信标在追踪机械载具可以停靠的时候很有用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个标记告诉飞行员在哪里降落他们的机械套装。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个信标用来标记空机械港湾。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个信标是用来标记在哪儿停靠你的机械。"}]

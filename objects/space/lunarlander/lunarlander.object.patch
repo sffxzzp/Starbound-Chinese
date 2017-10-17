@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "早期太空旅行的传奇证明。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "月球登陆器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我认为这可能是一个副本，这样的登陆器已经长时间没用了。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "提醒我们，每一个旅程都始于一小步…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个登陆舱还没一个小屋大。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吃惊。人类竟然相信这些原始的太空舱能在太空中使用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "他们不会像过去那样再制作它们。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "看着这个，能提醒我们已经在太空探索方面走了多远。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我看过有比这个旧登陆器空间更大的厕所。"}]

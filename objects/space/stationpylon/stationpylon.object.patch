@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "大型旋转发电机、雷达或发动机…"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站桥塔"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这似乎是一件极其复杂的机器。我不知道它到底是干什么的？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "多么令人愉快的机器！然而，我无法确定它的用途。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不确定旋转的是什么。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这台机器似乎很重要，但我不能确定它的用途。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这台机器非常大而且很重要。它…到底是用来做什么的？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个邋里邋遢的机器似乎并没有做任何有用的事情。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这肯定看起来比蒸汽发动机复杂得多，这是肯定的…"}]

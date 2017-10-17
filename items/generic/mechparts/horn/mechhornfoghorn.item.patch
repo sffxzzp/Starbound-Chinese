@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种传统上用来警告附近危险的号角。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "雾号机械喇叭"}]

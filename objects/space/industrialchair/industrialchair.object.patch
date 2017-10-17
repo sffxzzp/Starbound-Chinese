@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "只有一点点衬垫的坚固的金属椅。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工业椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这把椅子看起来很便宜，但可能有点不舒服。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不想在这把僵硬的椅子上休息太久。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "椅子看上去很重。叶族仍然可以扔它！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不舒服。这把椅子看起来像是为了高效率的生产而不是舒适而制造的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你认为有这么样的航天技术，人们会找出如何让椅子更舒服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种不舒服的椅子不可能是偶然制造的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这不是个舒服的位置，但我足够努力的话还是可以放松的。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这扇门是用防弹材料做的。它有一条贯穿它的复合轨。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "轨道气密仓"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个带轨道的气闸。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个气闸，有轨道贯穿而过。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这是是一个带轨道的气闸。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。一个坚固的气闸，并有轨道贯穿而过。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "气闸，带有轨道，有用！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "轨道系统的基础气闸。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像有轨道从中穿过的气闸。"}]

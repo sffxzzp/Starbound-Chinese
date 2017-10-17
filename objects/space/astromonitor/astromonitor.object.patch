@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "小型电子显示屏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文监视器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个监视器似乎是用来显示重要数据的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我不太清楚这个监视器上的按钮都是用来干什么的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "太空屏幕正在制造奇怪的词语。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。此显示的信息可能很重要。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个显示器有点过时，但仍有用。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我喜欢它，一个简单而实用的显示器。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这显示可以显示任何你需要知道的事。"}]

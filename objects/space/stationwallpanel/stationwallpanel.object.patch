@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "设计成附在空间结构或船上的嵌板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站墙板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "我不确定这个面板是做什么的，但是看起来很有趣。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个面板必须有一个目的，我只是不知道是用来干什么的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个圆形的板贴在墙上。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。我不确定这个面板的功能是什么。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是一个附在墙上的嵌板，没什么好说的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我确信这个工业外观的墙板有某种用途。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些有点奇特的墙板。我不知道用来做什么。"}]

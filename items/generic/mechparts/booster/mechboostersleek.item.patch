@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "非常光滑的机械推进器。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "光滑机械推进器"}]

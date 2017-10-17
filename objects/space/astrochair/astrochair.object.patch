@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "宇宙飞船中常见的现代椅子设计。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "也许坐在这里可以帮助我保持背部挺直。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这把椅子有一个非常熟悉的设计，虽然没有翼族会制作这样的材料。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "坚固的金属座椅看起来来不舒服。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这个座位是为太空旅行者提供发射力量的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这把椅子是那种你会在宇宙飞船里发现的那种。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这把结实的椅子是用来抵挡发射力的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这把椅子很结实，我甚至不能把它踢过去。"}]

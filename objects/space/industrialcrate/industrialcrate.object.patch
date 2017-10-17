@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "加压货物箱，用来抵御太空旅行的条件。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工业箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个看上去很坚固的板条箱，由一组昏暗的红灯照亮。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个板条箱看起来很难被摧毁。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个盒子有红色的眼睛吗？叶族很担心。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个板条箱的外部可以承受极端的压力。要是我像这样坚强就好了…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我可以假装对这个板条箱看起来很感兴趣，但实际上我只是想看看里面有什么。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个板条箱设计得能承受极端的压力。我想知道是不是有鲛人帮助设计？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我很难用武力打开这个坚固的玩意儿。"}]

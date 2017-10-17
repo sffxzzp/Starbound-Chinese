@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个可以附加模块化的空间站扩展部件的端口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "扩展槽"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个端口用于向空间站添加额外的模块。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "此终端用于管理本站的扩展模块。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "计算机可以把更多的空间连接到空间站。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这种终端类型可用于连接各种内部模块到空间站。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个扩展端口，有一堆不同的空间站模块可以连接到它。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个面板可以用来扩展空间站的内部。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一些让空间站更大的漂亮电脑。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "涂有靶子的金属片。适合你的练习目的。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "射击目标"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "瞄准练习的标准目标。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个人形设计目标。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不需要目标来练习，叶族一瞄一个准。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "自信。我确信我能在很远的地方击中这个目标的中心。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "打靶练习！现在我可以向大家展示我到底能瞄多准…真棒。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我觉得没有必要磨练我的瞄准技术—我已经足够好了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "射击练习？好吧，那有点儿花花公子的意味—我直接射爆！"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个练习目标输出一个有线信号直到被破坏。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "有线目标"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个练习目标通过有线信号直到被破坏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这样的练习目标可以连接到有线对象。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪亮的目标正等着被打破。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这似乎是一个练习目标，可以连接到一些东西。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个练习目标可以通过有线信号直到它坏掉为止。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种练习目标令人困倦，打破它可能会触发什么东西。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "正是我需要的射击练习。想知道打破这个目标会触发什么。"}]

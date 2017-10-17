@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "通常用于保持空间站空气清洁的通风口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站通风口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个通风口。保持空气清洁是有益的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想这是用来帮助清洁空气的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "通风口太小，叶族藏不进去。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道电子人肺的工作原理是否和这个通风口相似。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这是通风口的末端。我不确定我能适应里面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "防止空气污染的丑陋装置。但至少它是一项高尚的事业。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个大的金属天花板通风口。"}]

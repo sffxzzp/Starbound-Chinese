@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "带有地板安装支架的现代金属橱柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些储物柜长这样是有原因的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个橱柜有点不合我的品味，但我喜欢它。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "橱柜柜可以容纳各种东西。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个小柜子有很高的储藏容量。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个柜子让我想起了什么。不能把我的手指放在上面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很喜欢这个柜子的设计。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个足够好的储物柜，可以堆放任何你需要的东西。"}]

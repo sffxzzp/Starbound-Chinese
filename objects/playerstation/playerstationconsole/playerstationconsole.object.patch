@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "监视空间站内状况的控制台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站控制台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个高级控制台可以监控空间站的每一个区域。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "监测空间站内状况的终端。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空间站计算机终端。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这个终端可以通过空间站很多组件来实现内联。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这种先进的终端是为了跟踪空间站的情况而设计的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个终端是用来控制空间站内的系统的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个用于调整空间站内部系统的电脑。"}]

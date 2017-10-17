@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "中距离推进器的经典设计，历史上用作送货工具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "坚定机械推进器"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用太阳能发电的面板。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "太阳能电池板"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个太阳能电池板吸收太阳能并产生电能。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个面板利用来自恒星的能量发电！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "面板用阳光产生能量，叶族也一样。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个面板吸收光来产生电力。要是我当初是这么设计的…"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个太阳能电池板由光产生能量的。我听说古代人类非常喜欢它们。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个太阳能电池板能产生来自太阳的清洁能源。我认为在水下就不那么管用了。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这从太阳光发电？我做在上面就可以赚一笔可观的生活费了。"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "装备和定制您的个人机甲！"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "机械装配站"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有了这个装配站，我就可以把部件组装成一套机械。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个装配站是用于组装大型机械载具的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "野猪可以用这个装配站做大机械。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "惊讶。这种先进的装配站是被设计用来制造机械套装。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个装配站是用于建造和舾装机械套装的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个终端可用于定制和装备机械载具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个装配站可以让我以任意我喜欢的方式组装一个机械。"}]

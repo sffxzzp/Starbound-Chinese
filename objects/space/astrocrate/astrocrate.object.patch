@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "专门用于空间运输的大型集装箱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文箱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "标准的太空运输箱。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个容器很大，但这意味着里面有很多空间存放东西。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大条纹金属盒。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这箱用的金属使它结实，但很轻。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个超大的运输箱，里面可以储存很多东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "为货物运输而制造的大型船运集装箱。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我认为你可以在这个大箱子旁边存放任何东西。"}]

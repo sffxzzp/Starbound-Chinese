@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个个人传送点，连接到标记过的位置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "前哨传送器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "个人传送器。功能齐全但有趣的设备。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我爱我传送时嗖嗖的羽毛！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "个人传送，美滋滋！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "吸引。个人传送器，带有自定义的设计。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "个人传送器！现在这才是流行的旅行风格。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "个人传送器，支持自定义设计。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "作为传送器，这个真的好看！"}]

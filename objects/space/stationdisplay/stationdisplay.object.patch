@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "安装在墙上的由许多蓝色文字点亮的屏幕。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站显示器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "屏幕，显示我认为是重要的信息。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个屏幕上的文字是冰冷的蓝色。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不在乎蓝色标志。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。我想知道这个屏幕上有多少文本实际上有用？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个角屏幕，配合有无限滚动的蓝色文本。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "冷蓝色的灯光使我想起在水面上荡漾的月光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "肯定有很多信息显示出来。我不确定我能记住这一切。"}]

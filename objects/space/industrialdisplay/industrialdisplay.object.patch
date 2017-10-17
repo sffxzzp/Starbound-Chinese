@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "显示器，似乎是连接到某种形式的雷达上。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "工业显示器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个显示器显示某种雷达。我想知道有没有什么重要信息（双关：英特尔）？"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个屏幕上的绿色雷达是催眠的…"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "玻璃闪烁绿色。好颜色。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。我不知道这个显示器上的信息是从哪里来的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这看起来很重要，但我真的不知道。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我想知道显示这个的目的是什么？"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这玻璃上的闪光灯对于某些人来说肯定意味着什么。"}]

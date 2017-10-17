@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由空间站外部发现的相同材料制成的大而光滑的自动舱口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站舱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "光滑的金属舱口。我很欣赏它的设计。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一个相当不错的金属舱口！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "舱口看起来很锋利。叶族考虑用舱口作为潜在的武器。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "联想。这个舱口的角度设计让我想起了传统的电子人横幅。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个舱口可以挨几下，或者说至少可以挨几下。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "相当令人难忘的舱口。令人惊讶的是，我发现自己挺喜欢的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个舱口看起来好像能经受住一两次暴风雨。"}]

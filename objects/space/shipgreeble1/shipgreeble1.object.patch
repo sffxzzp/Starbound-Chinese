@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一艘奇怪的船。看起来这可能是有意义的，但谁知道呢？"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "船立体像1"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "通道部分背景"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "通道部分背景"}]

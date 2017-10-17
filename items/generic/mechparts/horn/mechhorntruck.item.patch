@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "适用于当有人堵着路的时候一直哔哔的按。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "卡车机械喇叭"}]

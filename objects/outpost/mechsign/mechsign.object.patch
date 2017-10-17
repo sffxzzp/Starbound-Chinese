@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这个金属标志表示一个机械工作站。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "机械标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个牌子上印着大型机械载具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个标志显示了一个大型机械套装。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个标志上有一套机械盔甲。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这个标志表示一个机械组装工作站。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个圆形标志上有一套大型的机械套装。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个彩色的标志，有一套机械服的图像。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "上面印着一个大的机械服的牌子。"}]

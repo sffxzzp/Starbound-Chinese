@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有眼的紫色门，适合邪教。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "异教徒的门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这只大眼睛…感觉好像被监视着。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这门上的眼睛显然是一些异教徒的象征。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不喜欢这个大眼睛的门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "不安。门上的大眼睛符号似乎在四周凝视。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这扇门上有一个大眼睛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "门上的大眼睛符号最令人不安。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个门给人一种什么东西不太对劲儿的感觉。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "批量生产的机械腿，允许基本的机动性。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "基础机械腿"}]

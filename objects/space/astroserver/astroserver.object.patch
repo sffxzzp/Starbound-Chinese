@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "大型电脑服务器架，带有地板安装支架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "天文服务器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个服务器机架看起来装有计算机设备。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "光滑的服务器机架。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "漂亮的服服务器机柜，里面全市电脑。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好笑。这个服务器中的大多数技术现在可以包含在便携设备中。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这台服务器看起来像是在安装重要的东西。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个服务器似乎是液冷的，很聪明。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "大电脑，大概有一个厕所那么大。"}]

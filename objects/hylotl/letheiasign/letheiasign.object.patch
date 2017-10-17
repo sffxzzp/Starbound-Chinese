@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个莱西亚公司的卤素标志。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "莱西亚公司标志"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鲜明的企业形象。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这是一个非常有角的标志。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "标志很斜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这似乎是某种品牌或公司的标志。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个莱西亚公司的标志，一个有很多钱的集团公司。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "莱西亚公司的标志，一个众所周知的鲛人运作的公司。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有点花哨，不是吗？"}]

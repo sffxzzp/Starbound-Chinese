@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "自动售货机，这里有质量好的小吃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空间站自动售货机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台自动售货机看起来很有用，它可以提供一些必要的粮食供应。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台机器看起来好像里面有一些东西，而且好像正常工作。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "空间零食！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这台自动售货机好像在正常工作，可能有货。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这里有自动售货机真是太幸运了，我有点饿了。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "一个自动售货机，类似于鲛人城市里那些。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这台机器就像一个机器人店主！我给它钱，东西就出来了。"}]

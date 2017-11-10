@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhornbikebell",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhornbikebell.png",
+  "description" : "Assert yourself with a gentle ring.",
+  "shortdescription" : "Bike Bell Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "bikebell"]
+}

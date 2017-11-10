@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhornrobotvoice",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhornrobotvoice.png",
+  "description" : "Give your mech a booming voice to intimidate your foes.",
+  "shortdescription" : "Robot Voice Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "robotvoice"]
+}

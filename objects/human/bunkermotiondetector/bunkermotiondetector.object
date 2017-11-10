@@ -1,0 +1,49 @@
+{
+  "objectName" : "bunkermotiondetector",
+  "colonyTags" : ["human","humanbunker","electronic","wired"],
+  "rarity" : "Common",
+  "description" : "Stay still! It can't see you if you stay still.",
+  "shortdescription" : "Motion Detector",
+  "race" : "human",
+
+  "category" : "wire",
+  "price" : 75,
+
+  "apexDescription" : "This appears to be a motion detector.",
+  "avianDescription" : "A motion detector. Better be careful.",
+  "floranDescription" : "Floran think this machine want Floran to dance.",
+  "glitchDescription" : "Analysis. A fairly rudimentary motion detector.",
+  "humanDescription" : "A motion detector. Better watch out.",
+  "hylotlDescription" : "This appears to be some kind of motion detecting device.",
+  "novakidDescription" : "Looks like this thing is scannin' for movement.",
+
+  "inventoryIcon" : "bunkermotiondetectoricon.png",
+  "orientations" : [
+    {
+      "image" : "bunkermotiondetector.png:<color>.off",
+      "imagePosition" : [-8, -8],
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/proximitysensor/proximitysensor.lua" ],
+  "scriptDelta" : 12,
+
+  "animation" : "/objects/wired/switch/switchtoggle4loop.animation",
+  "animationParts" : {
+    "switch" : "bunkermotiondetector.png"
+  },
+  "animationPosition" : [-8, -8],
+
+  "outputNodes" : [ [0, 0] ],
+  
+  "interactive" : false,
+
+  "detectDuration" : 0.5,
+  "detectEntityTypes" : [ "creature" ],
+  "detectArea" : [ [0, 0], 5 ]
+}

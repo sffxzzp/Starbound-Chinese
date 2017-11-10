@@ -1,0 +1,13 @@
+{
+  "itemName" : "mechhornrubberduck",
+  "price" : 2500,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "inventoryIcon" : "mechhornrubberduck.png",
+  "description" : "A timeless classic.",
+  "shortdescription" : "Rubber Duck Mech Horn",
+  "itemTags" : [ ],
+
+  "mechPart" : ["horn", "rubberduck"]
+}

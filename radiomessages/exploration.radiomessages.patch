@@ -3,5 +3,5 @@
 {"op": "replace","path": "/biomeradiation/text","value": "辐射警告！该星球的辐射量达到了极端危险的等级！\n你在获得合适的防辐射装备之前不要尝试进行进一步的探索！"},
 {"op": "replace","path": "/biomecold/text","value": "低温警告！该星球的温度极低！\n你在获得合适的保暖装备之前不要尝试进行进一步的探索！"},
 {"op": "replace","path": "/biomeheat/text","value": "高温警告！该星球的温度极高！\n你在获得合适的冷却装备之前不要尝试进行进一步的探索！"},
-{"op": "replace","path": "/biomeairless/text","value": "值得注意的是，这个星球没有大气层，在这里你将会慢慢的窒息。我建议你先离开，回去制作出一个能够让你在这里呼吸的设备再来。"},
+{"op": "replace","path": "/biomeairless/text","value": "值得注意的是，这个地方没有大气层，在这里你将会慢慢的窒息。我建议你先离开，回去制作出一个能够让你在这里呼吸的设备再来。"},
 {"op": "replace","path": "/erchiussickness/text","value": "我检测到“它们”被月球的矿物所吸引着。你背包中的燃料越多它们就对你越感兴趣，我对它们的定义是“极端致命的”。我对你的无所畏惧致以崇高的敬意。"}]

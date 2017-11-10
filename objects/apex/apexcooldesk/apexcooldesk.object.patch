@@ -5,4 +5,5 @@
 {"op":"replace","path":"/floranDescription","value":"摸起来很酷的桌子子子。"},
 {"op":"replace","path":"/glitchDescription","value":"冷漠。一张桌子。"},
 {"op":"replace","path":"/humanDescription","value":"看起来很专业的桌子。"},
-{"op":"replace","path":"/hylotlDescription","value":"一个轻薄的金属桌子。"}]
+{"op":"replace","path":"/hylotlDescription","value":"一个轻薄的金属桌子。"},
+{"op":"replace","path":"/novakidDescription","value":"一个由金属制作的，闪亮的桌子。"}]

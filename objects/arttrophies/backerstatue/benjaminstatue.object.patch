@@ -1,5 +1,8 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个献给本杰明“Meuterion”杜斯特的雕像。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个献给本杰明“马特里翁”杜斯特的雕像。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "本杰明杜斯特的雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "铭牌上说“献给本杰明“马特里翁”杜斯特的雕像”。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人觉觉觉既然得他被刻成雕像那肯定是做了什么很重要的事。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这个铭牌是献给伟大的本杰明-马特里翁-杜斯特的。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "据说伟人的雕像都是由在他们有生之年被扔的石头做成的。"}]
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "细心。这个铭牌上说，这是献给伟大的本杰明-马特里翁-杜斯特的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "铭牌上说“献给本杰明“马特里翁”杜斯特的雕像”。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "据说伟人的雕像都是由在他们有生之年被扔的石头做成的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "铭牌上说“献给本杰明“马特里翁”杜斯特的雕像”。"}]

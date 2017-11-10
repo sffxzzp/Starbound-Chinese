@@ -1,3 +1,5 @@
 [{"op":"replace","path":"/altAbilityTitleLabel/value","value":"特殊："},
 {"op":"replace","path":"/speedTitleLabel/value","value":"挥动速度："},
-{"op":"replace","path":"/damagePerShotTitleLabel/value","value":"每次挥动伤害："}]
+{"op":"replace","path":"/damagePerShotTitleLabel/value","value":"每次挥动伤害："},
+{"op":"replace","path":"/handednessLabel/position/0","value":70},
+{"op":"replace","path":"/handednessLabel/hAnchor","value":"mid"}]

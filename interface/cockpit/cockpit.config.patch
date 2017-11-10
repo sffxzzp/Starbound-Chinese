@@ -73,6 +73,7 @@
 {"op": "replace","path": "/gui/transitLabel/value","value": "跃迁中"},
 {"op": "replace","path": "/gui/remoteTitle/value","value": "远程系统视图"},
 {"op": "replace","path": "/gui/remoteDescription/value","value": "未映射的天体不可用"},
+{"op": "replace","path": "/gui/systemName/value","value": "系统名"},
 {"op": "replace","path": "/planetInfoBox/bookmarkButtonCaption","value": {
     "add": "添加标签",
     "edit": "编辑标签",

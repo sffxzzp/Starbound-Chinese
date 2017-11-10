@@ -1,2 +1,3 @@
 [{ "op" : "replace", "path" : "/description", "value" : "这次升级为你的危险环境保护装置增加了供热的能力。有助于在^red;极冷^reset;行星活动。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "防严寒改良EPP"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "防严寒改良EPP"},
+{ "op" : "add", "path" : "/currentAugment", "value" : {"displayName": "^gray;未安装插件^reset;"}}]

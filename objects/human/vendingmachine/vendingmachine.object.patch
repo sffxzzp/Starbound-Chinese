@@ -8,4 +8,4 @@
 {"op": "replace","path": "/hylotlDescription","value": "一个贩卖苏打饮料的机器。售货机总有这个。"},
 {"op": "replace","path": "/novakidDescription","value": "一个贩卖苏打类饮料的机器。"},
 {"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/title","value": "自动贩卖机"},
-{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/subtitle","value": "美味的零食"}]
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/subtitle","value": "美味小吃"}]

@@ -1,0 +1,6 @@
+[{"op": "replace", "path": "/joinMessage", "value": "Discord 用户 ^green;<username>^reset; 希望加入你的游戏。\n\n是否同意？"},
+{"op": "replace", "path": "/paneLayout/windowtitle/title", "value": "加入请求"},
+{"op": "replace", "path": "/paneLayout/windowtitle/subtitle", "value": "接收到 Discord 加入请求"},
+{"op": "replace", "path": "/paneLayout/yes/caption", "value": "是"},
+{"op": "replace", "path": "/paneLayout/no/caption", "value": "否"},
+{"op": "replace", "path": "/paneLayout/ignore/caption", "value": "忽略"}]

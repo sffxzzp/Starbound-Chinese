@@ -1,0 +1,58 @@
+{
+  "objectName" : "peacekeeperfurnishings",
+  "colonyTags" : ["peacekeeper","commerce"],
+  "rarity" : "Common",
+  "category" : "other",
+  "price" : 50,
+  "printable" : false,
+  "description" : "Fine furnishings, with a Peacekeeper twist.",
+  "shortdescription" : "Peacekeeper Furnishings",
+  "race" : "generic",
+
+  "apexDescription" : "This frog appears to be selling Peacekeeper furniture.",
+  "avianDescription" : "I suppose I could buy some Peacekeeper furniture for myself!",
+  "floranDescription" : "Floran wandersss why frog doesss not ssspeak.",
+  "glitchDescription" : "Impressed. This amphibious gent has polished his helmet to a shine!",
+  "humanDescription" : "I guess \"Frögg Furnishing\" must be a chain store?",
+  "hylotlDescription" : "This curious individual appears to be selling furniture.",
+  "novakidDescription" : "This looks like a mighty fine opportunity for some decoratin'!",
+
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/vendingmachine.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Peacekeeper Furnishings",
+        "subtitle" : " Decorate like a Peacekeeper!"
+      }
+    },
+    "buyFactor" : 1,
+    "sellFactor" : 0.2,
+    "items" : [
+      { "item" : "peacekeeperchair" },
+      { "item" : "peacekeepertable" },
+      { "item" : "peacekeeperdoor" },
+      { "item" : "peacekeepercomputer" },
+      { "item" : "peacekeeperlamppost" },
+      { "item" : "peacekeeperpainting" },
+      { "item" : "peacekeepermug" },
+      { "item" : "peacekeeperemblem" }
+    ]
+  },
+
+  "inventoryIcon" : "peacekeeperfurnishingsicon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeeperfurnishings.png:<color>.<frame>",
+      "imagePosition" : [-24, -0],
+
+      "direction" : "right",
+
+      "frames" : 23,
+      "animationCycle" : 3,
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"]
+    }
+  ]
+}

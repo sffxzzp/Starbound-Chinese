@@ -1,0 +1,32 @@
+{
+  "objectName" : "outpostpeacekeeperposter",
+  "colonyTags" : ["peacekeeper"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 400,
+  "description" : "A poster advertising the Peacekeeper Initiative.",
+  "shortdescription" : "Peacekeeper Poster",
+  "race" : "generic",
+
+  "apexDescription" : "This poster appears to be offering a job as a \"Peacekeeper\".",
+  "avianDescription" : "This poster is offering a job!",
+  "floranDescription" : "Poster wantsss to hire Floran.",
+  "glitchDescription" : "Intrigued. This poster is offering some sort of job.",
+  "humanDescription" : "This crumpled poster seems to be offering an exciting job opportunity.",
+  "hylotlDescription" : "This job offering has seen better days. The paper is very crumpled and stained.",
+  "novakidDescription" : "This here poster wants to offer me a job.",
+
+  "inventoryIcon" : "outpostpeacekeeperpostericon.png",
+  "orientations" : [
+    {
+      "image" : "outpostpeacekeeperposter.png:<color>",
+      "imagePosition" : [-8, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+  
+  "offeredQuests" : [ "bountyassignment" ]
+}

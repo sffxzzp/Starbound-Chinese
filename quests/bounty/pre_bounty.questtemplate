@@ -1,0 +1,30 @@
+{
+  "id" : "pre_bounty",
+  "mainQuest" : true,
+  "title" : "This title won't be displayed.",
+  "text" : "This text won't be displayed.",
+  "showAcceptDialog" : true,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "parameters" : {},
+  "completionText" : "This completion text won't be displayed.",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/pre_bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "generatedText" : {
+      "text" : {
+        "default" : [
+          "We need you to locate and apprehend ^orange;<bounty.name>^reset;. We've received a tip that there may be information <coordinate.preposition> <coordinate.name>, so you should start your investigation there.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+        ]
+      }
+    }
+  }
+}

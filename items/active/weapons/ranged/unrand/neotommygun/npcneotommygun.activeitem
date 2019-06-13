@@ -1,0 +1,89 @@
+{
+  "itemName" : "npcneotommygun",
+  "price" : 1080,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "'...because in the end, Doom is all that counts.'",
+  "shortdescription" : "Neo Magnum",
+  "category" : "uniqueWeapon",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","pistol"],
+  "level" : 2,
+
+  "inventoryIcon" : [
+    { "image" : "neotommygun.png" }
+  ],
+
+  "animation" : "neotommygun.animation",
+  "animationParts" : {
+    "middle" : "neotommygun.png",
+    "middleFullbright" : "neotommygunfullbright.png",
+    "muzzleFlash" : "muzzleflash.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/gun/plasma_ar1.ogg"]
+    },
+    "lights" : {
+      "muzzleFlash" : {
+        "color" : [249, 21, 207]
+      }
+    }
+  },
+
+  "baseOffset" : [0.0, 0.125],
+  "muzzleOffset" : [2.25, 0.25],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.15,
+    "baseDps" : 12,
+    "energyUsage" : 15,
+    "projectileCount" : 1,
+    "inaccuracy" : 0.02,
+    "fireType" : "auto",
+
+    "projectileType" : "neotommygunbullet",
+    "projectileParameters" : {
+      "knockbackRange" : [10, 40]
+    },
+    "muzzleFlashVariants" : 1,
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 2,
+        "weaponRotation" : 2,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.05,
+        "armRotation" : 2,
+        "weaponRotation" : 2,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

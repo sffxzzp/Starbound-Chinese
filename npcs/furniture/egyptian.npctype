@@ -1,0 +1,61 @@
+{
+  "type" : "egyptian",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["tenant", "common", "shady"]
+    },
+
+    "dialog" : {
+      "tenant" : {
+        "grumbles" : {
+          "tagCriteria" : "/dialog/grumble.config:tagCriteria",
+          "enclosedArea" : "/dialog/grumble.config:enclosedArea",
+          "otherDeed" : "/dialog/grumble.config:otherDeed",
+          "severe" : "/dialog/grumble.config:severe",
+          "final" : "/dialog/grumble.config:final"
+        },
+        "arrivedHome" : {
+          "beacon" : "/dialog/arrivedhome.config:beacon",
+          "rent" : "/dialog/arrivedhome.config:rent"
+        }
+      },
+      "flee" : {
+        "helpme" : "/dialog/flee.config:helpme",
+        "helpthem" : "/dialog/flee.config:helpthem",
+        "encourage" : "/dialog/flee.config:encourage",
+        "safe" : "/dialog/flee.config:safe"
+      },
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I'm sure you are thankful that you've been graced with my presence.",
+            "When I finally ascend from this mortal form, please bury me with lots of expensive belongings.",
+            "If you want to know the secret behind my boundless confidence, it is that I am secretly an immortal deity made flesh.",
+            "Are you here to worship me? Perhaps you intend to fan me and feed me grapes?"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "pharaohhead" }
+            ],
+            "chest" : [
+              { "name" : "avianfancyshirt", "parameters" : { "colorIndex" : 3 } }
+            ],
+            "legs" : [
+              { "name" : "avianfancyskirt", "parameters" : { "colorIndex" : 3 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

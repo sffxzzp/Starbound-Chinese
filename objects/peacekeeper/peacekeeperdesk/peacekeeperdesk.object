@@ -1,0 +1,46 @@
+{
+  "objectName" : "peacekeeperdesk",
+  "colonyTags" : ["peacekeeper"],
+  "rarity" : "Common",
+  "description" : "A round desk, typically found in Peacekeeper stations.",
+  "shortdescription" : "Peacekeeper Desk",
+  "race" : "generic",
+  "category" : "decorative",
+  "price" : 110,
+
+  "apexDescription" : "This desk is of an appropriately large size.",
+  "avianDescription" : "Someone has kept this desk in good condition!",
+  "floranDescription" : "Floran can ssstand on table to gain tactical advantage.",
+  "glitchDescription" : "This certainly is a round desk... I'm not sure what else I can really say.",
+  "hylotlDescription" : "This large table is remarkably well-polished.",
+  "novakidDescription" : "This round table looks mighty suitable for playin' a game o' cards on.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    { 
+      "imageLayers" : [ { "image" : "peacekeeperdesk.png:<color>" } ],
+      "flipImages" : true,
+      "direction" : "left",
+      
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    { 
+      "imageLayers" : [ { "image" : "peacekeeperdesk.png:<color>" } ],
+      "direction" : "right",
+      
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

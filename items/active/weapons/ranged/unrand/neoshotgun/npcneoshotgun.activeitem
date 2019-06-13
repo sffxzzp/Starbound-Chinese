@@ -1,0 +1,89 @@
+{
+  "itemName" : "npcneoshotgun",
+  "price" : 1080,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "'...because in the end, Doom is all that counts.'",
+  "shortdescription" : "Neo Magnum",
+  "category" : "uniqueWeapon",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","pistol"],
+  "level" : 2,
+
+  "inventoryIcon" : [
+    { "image" : "neoshotgun.png" }
+  ],
+
+  "animation" : "neoshotgun.animation",
+  "animationParts" : {
+    "middle" : "neoshotgun.png",
+    "middleFullbright" : "neoshotgunfullbright.png",
+    "muzzleFlash" : "muzzleflash.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/gun/plasma_pistol4.ogg"]
+    },
+    "lights" : {
+      "muzzleFlash" : {
+        "color" : [249, 21, 207]
+      }
+    }
+  },
+
+  "baseOffset" : [0.5, 0.25],
+  "muzzleOffset" : [2.125, 0.125],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.5,
+    "baseDps" : 7,
+    "energyUsage" : 50,
+    "projectileCount" : 5,
+    "inaccuracy" : 0.13,
+    "fireType" : "auto",
+
+    "projectileType" : "neoshotgunbullet",
+    "projectileParameters" : {
+      "knockbackRange" : [10, 40]
+    },
+    "muzzleFlashVariants" : 1,
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 4,
+        "weaponRotation" : 4,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.2,
+        "armRotation" : 4,
+        "weaponRotation" : 4,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  },
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

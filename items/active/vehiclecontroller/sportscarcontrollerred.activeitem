@@ -1,0 +1,34 @@
+{
+  "itemName" : "sportscarcontrollerred",
+  "level" : 1,
+  "price" : 12500,
+  "rarity" : "Rare",
+  "category" : "vehicleController",
+  "description" : "Create a red painted sports car from stored nanites.",
+  "shortdescription" : "Red Sports Car Controller",
+  "twoHanded" : true,
+  "maxStack" : 1,
+  "itemTags" : ["vehiclecontroller"],
+
+  "animation" : "vehiclecontroller.animation",
+  "scripts" : ["vehiclecontroller.lua"],
+  "animationScripts" : ["vehiclecursor.lua"],
+  "filled" : true,
+  "tooltipKind" : "vehicle",
+"largeImage" : "/vehicles/sportscar/sportscar.png:move.undamaged",
+
+  "respawnTime" : 1.0,
+
+  "vehicleType" : "sportscar",
+  "vehicleBoundingBox" : [-5, -3, 5, 3],
+  "vehicleImage" : "/vehicles/sportscar/sportscarwarp.png:warp.7",
+
+  "animationParts" : {
+    "casing" : "hoverbikecontrollerred.png"
+  },
+
+  "inventoryIcon" : "hoverbikecontrollerred.png:full",
+  "emptyInventoryIcon" : "/items/active/vehiclecontroller/hoverbikecontrollerred.png:empty",
+  "filledInventoryIcon" : "/items/active/vehiclecontroller/hoverbikecontrollerred.png:full"
+
+}

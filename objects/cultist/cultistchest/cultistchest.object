@@ -1,0 +1,51 @@
+{
+  "objectName" : "cultistchestlarge",
+  "colonyTags" : ["cultist","storage"],
+  "rarity" : "Uncommon",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "race" : "human",
+
+  "category" : "storage",
+  "price" : 80,
+  "description" : "A metal chest with a glowing eye emblem on it.",
+  "shortdescription" : "Cultist Chest",
+
+  "apexDescription" : "This decorated chest was probably made to hold objects of significant value.",
+  "avianDescription" : "This chest looks pretty creepy.",
+  "floranDescription" : "Box isss staring at Floran. Floran does not like.",
+  "glitchDescription" : "Cautious. This chest looks rather menacing.",
+  "humanDescription" : "I guess cultists are really into glowing eyes, huh?",
+  "hylotlDescription" : "Orange and purple? A rather ugly colour combination.",
+  "novakidDescription" : "I ain't feelin' good about the vibe this here chest is givin' me.",
+
+  "inventoryIcon" : "cultistchesticon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "cultistchest.png:<color>.<key>", "fullbright" : true }, { "image" : "cultistchestlit.png:<color>.<key>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "cultistchest.png:<color>.<key>", "fullbright" : true }, { "image" : "cultistchestlit.png:<color>.<key>" } ],
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/chest_small_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/chest_small_close.ogg" ],
+  "slotCount" : 16,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,28 @@
+{
+  "type" : "cultistpet",
+  "baseType" : "hostile",
+
+  "persistent" : true,
+
+  "dropPools" : [ "cultisttreasure" ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : "/dialog/cultist.config:attack"
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "cultisthead" } ],
+            "chest" : [ { "name" : "cultistchest" } ],
+            "legs" : [ { "name" : "cultistlegs" } ],
+            "primary" : [ "npcpetcapturepod" ],
+            "sheathedprimary" : [ "npccultistbroadsword", "npcassaultrifle", "npcshotgun" ]
+          }
+        ] ]
+    ]
+  }
+}

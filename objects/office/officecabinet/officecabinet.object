@@ -1,0 +1,42 @@
+{
+  "objectName" : "officecabinet",
+  "colonyTags" : ["office","storage"],
+  "rarity" : "Common",
+  "category" : "storage",
+  "price" : 110,
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A modern metal cabinet with floor mounting brackets.",
+  "shortdescription" : "Office Cabinet",
+  "race" : "generic",
+  "health" : 1.5,
+
+  "apexDescription" : "There must be a reason these lockers are shaped this way.",
+  "avianDescription" : "This cabinet is a little fancy for my tastes, but I like it.",
+  "floranDescription" : "Cabinetss can hold all sorts of thingsss.",
+  "glitchDescription" : "Impressed. This small cabinet has a generous storage capacity.",
+  "humanDescription" : "This locker reminds me of something. Can't put my finger on it.",
+  "hylotlDescription" : "I'm a fan of the way this cabinet is designed.",
+  "novakidDescription" : "A locker, good enough for stashin' whatever y'need.",
+
+  "inventoryIcon" : "officecabineticon.png",
+  "orientations" : [
+    {
+      "dualImage" : "officecabinet.png:<color>.<key>",
+      "imagePosition" : [-16, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+
+  ],
+
+  "openSounds" : [ "/sfx/objects/gunchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/gunchest_close.ogg" ],
+  "slotCount" : 24,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "openFrameIndex" : 3,
+  "autoCloseCooldown" : 3600
+}

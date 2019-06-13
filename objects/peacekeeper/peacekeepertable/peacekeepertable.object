@@ -1,0 +1,42 @@
+{
+  "objectName" : "peacekeepertable",
+  "colonyTags" : ["commerce","peacekeeper"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "A very heavy, sturdy table made from metal.",
+  "shortdescription" : "Peacekeeper Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 40,
+
+  "apexDescription" : "This reinforced table could make for effective firefight cover in a pinch.",
+  "avianDescription" : "Someone has attempted to brighten up this table with a yellow stripe. I'm not sure it has succeeded.",
+  "floranDescription" : "Floran could put hunting trophies on table. Ussseful.",
+  "glitchDescription" : "Curious. I wonder if this strong table could withstand the blow of an executioner's axe?",
+  "humanDescription" : "I have seen many tables in my time, and this certainly is one of them.",
+  "hylotlDescription" : "This is a rather unaesthetically pleasing table.",
+  "novakidDescription" : "This table looks mighty heavy to move around a place!",
+
+  "inventoryIcon" : "peacekeepertableicon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeepertable.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "peacekeepertable.png:<color>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

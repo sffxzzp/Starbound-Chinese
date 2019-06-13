@@ -1,0 +1,40 @@
+{
+  "objectName" : "egyptiancrest",
+  "colonyTags" : ["pretty","egyptian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 200,
+  "description" : "A decorative crest with colourful wings",
+  "shortdescription" : "Egyptian Crest",
+  "race" : "generic",
+
+  "apexDescription" : "Strong bold colours - I like it.",
+  "avianDescription" : "This isn't Avian, but it really speaks to me!",
+  "floranDescription" : "Giant wingsss - a bird like this would mean a great hunt.",
+  "glitchDescription" : "Observant. These are not real wings, but a detailed artistic depiction.",
+  "humanDescription" : "A crest with brightly coloured wings.",
+  "hylotlDescription" : "This crest is powerful and striking.",
+  "novakidDescription" : "Think it's art - looks t'me like giant wings.",
+
+  "inventoryIcon" : "egyptiancresticon.png",
+  "orientations" : [
+    {
+      "image" : "egyptiancrest.png:<color>.<frame>",
+      "imagePosition" : [-24, -8],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    },
+    {
+      "image" : "egyptiancrest.png:<color>.<frame>",
+      "imagePosition" : [-24, -8],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

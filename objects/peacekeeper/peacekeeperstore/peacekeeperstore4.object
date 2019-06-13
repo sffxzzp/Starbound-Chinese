@@ -1,0 +1,53 @@
+{
+  "objectName" : "peacekeeperstore4",
+  "colonyTags" : ["peacekeeper","commerce"],
+  "rarity" : "Uncommon",
+  "category" : "other",
+  "description" : "A store for Peacekeeper supplies.",
+  "shortdescription" : "Peacekeeper Store",
+  "race" : "generic",
+  "printable" : false,
+
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/craftingmerchant.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : "Peacekeeper Store",
+        "subtitle" : "^#b9b5b2;Turn in those Peace Credits!",
+        "icon" : {
+          "file" : "/interface/crafting/peacekeeperstoreicon.png"
+        }
+      },
+      "imgPlayerMoneyIcon" : {
+        "visible" : false
+      },
+      "lblPlayerMoney" : {
+        "visible" : false
+      }
+    },
+    "filter" : [ "peacekeeper1", "peacekeeper2", "peacekeeper3", "peacekeeper4" ]
+  },
+
+  "apexDescription" : "It would be wise to peruse the contents of this supply store.",
+  "avianDescription" : "A fellow Avian, helping the local community! Such a delight.",
+  "floranDescription" : "Floran wantssss new stuff.",
+  "glitchDescription" : "Eager. I wonder what supplies this store has?",
+  "humanDescription" : "I am glad that scrolling neon signs never went out of fashion.",
+  "hylotlDescription" : "This assistant appears to offer supplies.",
+  "novakidDescription" : "This lady seems mighty helpful!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "peacekeeperstore4.png:<color>.<frame>" }, { "image" : "peacekeeperstore_fullbright.png:<color>.<frame>", "fullbright" : true } ],
+
+      "imagePosition" : [-24, -24],
+      "frames" : 18,
+      "animationCycle" : 1.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

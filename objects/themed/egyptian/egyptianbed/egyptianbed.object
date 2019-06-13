@@ -1,0 +1,46 @@
+{
+  "objectName" : "egyptianbed",
+  "colonyTags" : ["egyptian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A lavishly decorated bed designed for lounging.",
+  "shortdescription" : "Egyptian Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 170,
+
+  "apexDescription" : "This bed seems better suited for lounging then for sleeping.",
+  "avianDescription" : "This bed looks somewhat similar to an Avian style.",
+  "floranDescription" : "Ssshiny bed looks sssoft.",
+  "glitchDescription" : "Relieved. This bed looks perfect for resting on.",
+  "humanDescription" : "This bed looks like it belongs in a museum.",
+  "hylotlDescription" : "This bed was clearly made by a master craftsman.",
+  "novakidDescription" : "Bit fancy for my taste - but it'll do!",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-5, 15],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/themed/egyptian/egyptianbed/egyptianbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed3"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "egyptianbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "egyptianbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

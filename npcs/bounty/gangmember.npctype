@@ -1,0 +1,75 @@
+{
+  "type" : "gangmember",
+  "baseType" : "hostile",
+
+  "dropPools" : [ "gangmemberTreasure" ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : "/dialog/bountytarget.config:attack",
+      "resistArrest" : "/dialog/bountytarget.config:resistArrest",
+      "arrested" : "/dialog/bountytarget.config:arrested",
+      "completeArrest" : "/dialog/bountytarget.config:completeArrest",
+      "killedTarget" : "/dialog/bountytarget.config:killedTarget",
+      "lostTarget" : "/dialog/bountytarget.config:lostTarget"
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "explorerchest" } ],
+            "legs" : [ { "name" : "explorerlegs" } ],
+            "primary" : [
+              "npcgangbroadsword",
+              "npcneopistol"
+            ]
+          },
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : 1 } } ],
+            "legs" : [ { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : 1 } } ],
+            "primary" : [
+              "npcgangbroadsword",
+              "npcneopistol"
+            ]
+          },
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "deadbeatstrapschest", "parameters" : { "colorIndex" : 1 } } ],
+            "legs" : [ { "name" : "deadbeatstrapslegs", "parameters" : { "colorIndex" : 1 } } ],
+            "primary" : [
+              "npcgangbroadsword",
+              "npcgangbroadsword",
+              "npcneopistol",
+              "npcneouzi"
+            ]
+          },
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "bettychest", "parameters" : { "colorIndex" : 1 } } ],
+            "legs" : [ { "name" : "bettylegs", "parameters" : { "colorIndex" : 1 } } ],
+            "primary" : [
+              "npcgangbroadsword",
+              "npcgangbroadsword",
+              "npcneopistol",
+              "npcneouzi"
+            ]
+          },
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "toughchest", "parameters" : { "colorIndex" : 0 } } ],
+            "legs" : [ { "name" : "toughlegs", "parameters" : { "colorIndex" : 0 } } ],
+            "primary" : [
+              "npcgangbroadsword",
+              "npcgangbroadsword",
+              "npcneopistol",
+              "npcneouzi"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

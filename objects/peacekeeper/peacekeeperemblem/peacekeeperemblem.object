@@ -1,0 +1,30 @@
+{
+  "objectName" : "peacekeeperemblem",
+  "colonyTags" : ["peacekeeper"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 2500,
+  "description" : "A golden wall plaque, embossed with the Peacekeeper's emblem.",
+  "shortdescription" : "Peacekeeper Emblem",
+  "race" : "generic",
+
+  "apexDescription" : "This emblem is very well polished.",
+  "avianDescription" : "This polished emblem signs like the sun!",
+  "floranDescription" : "Too shiny for Floran. Floran does not trussst.",
+  "glitchDescription" : "Impressed. Someone has kept this emblem very well polished.",
+  "humanDescription" : "What a giant emblem. It looks very official.",
+  "hylotlDescription" : "What an elegantly crafted shield.",
+  "novakidDescription" : "This emblem is purty well polished.",
+
+  "inventoryIcon" : "peacekeeperemblemicon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeeperemblem.png:<color>",
+      "imagePosition" : [-16, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

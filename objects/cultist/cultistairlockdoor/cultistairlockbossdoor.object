@@ -1,0 +1,97 @@
+{
+  "objectName" : "cultistairlockbossdoor",
+  "objectType" : "physics",
+  "colonyTags" : ["cultist","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 175,
+  "description" : "A crudely-made airlock door.",
+  "shortdescription" : "Cultist Airlock Door",
+  "race" : "human",
+
+  "apexDescription" : "A huge airlock, made with various pieces of scrap metal.",
+  "avianDescription" : "A large door, adorned with an intimidating eye.",
+  "floranDescription" : "Door is watching Floran...",
+  "glitchDescription" : "Unimpressed. This isn't a well-made door.",
+  "humanDescription" : "Someone was very eager to make this door look intimidating.",
+  "hylotlDescription" : "This grotesque door barely looks airtight",
+  "novakidDescription" : "This sure is a creepy lookin' door.",
+
+  "inventoryIcon" : "cultistairlockdooricon.png",
+  "orientations" : [
+    {
+      "image" : "cultistairlockdoor.png:default",
+      "imagePosition" : [-8, 0],
+      "renderLayer" : "Object+5",
+      "direction" : "right",
+      "flipImages" : true,
+
+      "animationParts" : {
+        "door" : "cultistairlockdoor.png"
+      },
+      "animationPosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "metaBoundBox" : [-20, -1, 2, 9]
+    }
+  ],
+
+  "scripts" : [ "/objects/mission/bossdoor/bossdoor.lua" ],
+  "scriptDelta" : 5,
+
+  "playerQueryArea" : [-2, 0, 1.0, 8],
+  
+  "physicsCollisions" : {
+    "wall" : {
+      "collision" : [ [-1, 0], [-1, 8], [1, 8], [1, 0] ],
+      "collisionKind" : "slippery",
+      "position" : [0, 0],
+      "categoryBlacklist" : [ "player", "vehicle" ]
+    }
+  },
+
+  "physicsForces" : {
+    "right" : {
+      "type" : "DirectionalForceRegion",
+      "rectRegion" : [-20, 0, 1, 8],
+      "xTargetVelocity" : 16.0,
+      "yTargetVelocity" : 0,
+      "controlForce" : 200,
+      "categoryWhitelist" : [ "player", "vehicle" ],
+      "enabled" : false
+    },
+    "left" : {
+      "type" : "DirectionalForceRegion",
+      "rectRegion" : [-1, 0, 20, 8],
+      "xTargetVelocity" : -16.0,
+      "yTargetVelocity" : 0,
+      "controlForce" : 200,
+      "categoryWhitelist" : [ "player", "vehicle" ],
+      "enabled" : false
+    }
+  },
+
+  "animation" : "/objects/wired/door/lockingdoor.animation",
+  
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/airlock_heavy_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/airlock_heavy_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+
+  "animationParts" : {
+    "door" : "cultistairlockdoor.png"
+  },
+
+  "inputNodes" : [ [-1, 7] ],
+  "outputNodes" : [ [1, 0] ]
+}

@@ -1,0 +1,15 @@
+{
+  "itemName" : "mecharmsoluskatana",
+  "price" : 6200,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "mechPart",
+  "tooltipKind" : "mecharm",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mecharmsoluskatana.png",
+  "description" : "A powerful mech weapon made for Asra Nox's \"Swansong\" mech.",
+  "shortdescription" : "Solus Katana Mech Arm",
+  "itemTags" : [ ],
+
+  "mechPart" : ["arm", "soluskatana"]
+}

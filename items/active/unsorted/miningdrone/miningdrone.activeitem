@@ -1,0 +1,45 @@
+{
+  "itemName" : "miningdrone",
+  "level" : 2,
+  "price" : 1500,
+  "maxStack" : 100,
+  "rarity" : "Rare",
+  "category" : "miningdrone",
+  "description" : "A disposable, mechanical owl that will fly in a direction and dig a tunnel when thrown.",
+  "shortdescription" : "Mining Drone",
+  "tooltipKind" : "base",
+  "twoHanded" : false,
+  "itemTags" : [],
+
+  "inventoryIcon" : "miningdroneicon.png",
+  "animation" : "miningdrone.animation",
+  "animationParts" : {
+    "drone" : "miningdrone.png"
+  },
+  "animationCustom" : { },
+  "scripts" : ["miningdrone.lua"],
+  "animationScripts" : ["/items/active/unsorted/miningdrone/arrow.lua"],
+
+  "fireOffset" : [0.0, 0.0],
+  "cooldownTime" : 0.6,
+
+  "stances" : {
+    "idle" : {
+      "armRotation" : -20,
+      "allowRotate" : true,
+      "allowFlip" : true
+    },
+    "windup" : {
+      "armRotation" : 70,
+      "allowRotate" : false,
+      "allowFlip" : true
+    },
+    "throw" : {
+      "duration" : 0.2,
+      "transition" : "idle",
+      "armRotation" : 0,
+      "allowRotate" : true,
+      "allowFlip" : true
+    }
+  }
+}

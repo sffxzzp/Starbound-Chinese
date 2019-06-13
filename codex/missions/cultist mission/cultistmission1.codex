@@ -1,0 +1,35 @@
+{
+  "id" : "cultistmission1",
+  "species" : "human",
+  "title" : "Occasus Lab Report: RUIN",
+  "description" : "Research logs written by the Occasus cult.",
+  "icon" : "cultistmission1.png",
+  "contentPages" : [
+    "^yellow;ASSIGNMENT^white;
+
+Upon the request of Asra Nox herself, the Occasus Research team on board the Dantalion have began an investigation into the nature of the lifeform or lifeforms associated with the now-deceased entity more commonly referred to as the \"Ruin\". 
+
+The entity was unfortunately destroyed by an individual referred to as the \"Protector\", much to the chagrin of Lady Nox.", 
+
+"Nox has explained how the Protector opened some sort of wormhole to the pocket dimension where the core of the entity resided, where she pursued them. Our most cognizant Lady was wise enough to take some samples of the smaller lifeforms that dwelled on the surface of the entity's planetoid form during her visit.
+
+Nox believes that the remaining organic samples left over from the entity's destruction might give the Occasus some insight into its powers, and how they may be harnessed.",
+
+"^yellow;ANALYSIS^white;
+
+The findings from these specimens has continued to be fascinating. They do not act as independent organisms - their synapses are more akin to wireless radios, broadcasting sensory information across space and dimensions. 
+
+We believe they are remote limbs, used to observe and report back to a central organism - no doubt the Ruin.",
+
+"^yellow;CONCLUSION^white;
+
+Solving the Ruin's talents for cross-dimensional transportation could be incredibly valuable to the Occasus. We are all aware of the Ruin's ability to travel across dimensions as it attempted to leave its pocket dimension (resulting in the unfortunate - but unsympathetic - destruction of Earth) and harnessing this could result in new horizons for our cause. 
+
+Research continues."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

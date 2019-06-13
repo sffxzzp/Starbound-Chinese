@@ -1,0 +1,33 @@
+{
+  "objectName" : "swansongaf",
+  "colonyTags" : ["pretty"],
+  "rarity" : "Legendary",
+  "category" : "actionFigure",
+  "collectablesOnPickup" : { "actionfigures" : "swansongaf" },
+  "price" : 5000,
+  "printable" : false,
+  "description" : "The label reads, \"An experimental mech suit, built and piloted by Asra Nox.\"",
+  "shortdescription" : "Swansong Figurine",
+
+
+  "inventoryIcon" : "swansongaficon.png",
+  "orientations" : [
+    {
+      "image" : "swansongaf.png:<color>",
+      "imagePosition" : [-4, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "swansongaf.png:<color>",
+      "imagePosition" : [-4, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

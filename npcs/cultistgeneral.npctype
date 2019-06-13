@@ -1,0 +1,44 @@
+{
+  "type" : "cultistgeneral",
+  "baseType" : "hostile",
+
+  "persistent" : true,
+
+  "dropPools" : [ "cultisttreasure" ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : "/dialog/cultist.config:attack"
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "armoredcultisthead" } ],
+            "chest" : [ { "name" : "cultistchest" } ],
+            "back" : [ { "name" : "armoredcultistback" } ],
+            "legs" : [ { "name" : "cultistlegs" } ],
+            "primary" : [ "npcpetcapturepod" ],
+            "sheathedprimary" : [ "npcsniperrifle" ],
+            "alt" : [ "npccultistbroadsword" ]
+          }
+        ] ]
+    ]
+  },
+
+  "statusControllerSettings" : {    
+    "stats" : {
+      "maxHealth" : {
+        "baseValue" : 250.0
+      },
+      "powerMultiplier" : {
+        "baseValue" : 1.0
+      },
+      "protection" : {
+        "baseValue" : 1.0
+      }
+    }
+  }
+}

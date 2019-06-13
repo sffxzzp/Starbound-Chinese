@@ -1,0 +1,109 @@
+{
+  "type" : "friendlyguard",
+  "baseType" : "guard",
+
+  "damageTeamType" : "friendly",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0,
+
+      "hostileDamageTeam" : { "type" : "friendly", "team" : 1 }
+    },
+    "attackerLimit" : 8,
+    "attackerLimitCooldown" : 3,
+
+    "idleTimeRange" : [1, 2],
+
+    "questGenerator" : {
+      "pools" : ["common", "guard"],
+      "enableParticipation" : true,
+
+      "timeLimit" : 30,
+      "nearbyQuestLimit" : 2,
+      "nearbyQuestRange" : 50,
+      "chance" : 0.02,
+      "questCountRange" : [1, 4]
+    },
+
+    "dialog" : {
+      "tenant" : {
+        "grumbles" : {
+          "tagCriteria" : "/dialog/grumble.config:tagCriteria",
+          "enclosedArea" : "/dialog/grumble.config:enclosedArea",
+          "otherDeed" : "/dialog/grumble.config:otherDeed",
+          "severe" : "/dialog/grumble.config:severe",
+          "final" : "/dialog/grumble.config:final"
+        },
+        "arrivedHome" : {
+          "beacon" : "/dialog/arrivedhome.config:beacon",
+          "rent" : "/dialog/arrivedhome.config:rent"
+        }
+      },
+
+      // NOTE: The 'hail' dialog option is not used in the guard behavior
+      // You'll want to use villageguard for hail
+      "hail" : {
+        "default" : {
+          "default" : [
+            "Good to see you!"
+          ]
+        },
+        "avian" : {
+          "default" : [
+            "I like keeping this place safe.",
+            "I like this job, I get to meet a lot of interesting people.",
+            "What a quiet day.",
+            "It's very fulfilling, keeping people safe."
+          ]
+        },
+        "apex" : {
+          "default" : [
+            "Do you enjoy your adventures?",
+            "It is quiet right now - a rare chance to relax.",
+            "Do not worry, the area is secure.",
+            "The area is well defended."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "Floran bored, wantsss to fight...",
+            "Floran ready to keep area sssafe!",
+            "Floran iss dressed for battle!",
+            "Do not worry, Floran will ssstab intrudersss."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Protective. I will defend you and guard this place.",
+            "Proud. I have experience guarding things.",
+            "Alert. I need to keep the area safe from hostile activity.",
+            "Sleepy. Do you think I could take a break? It seems quite quiet now, doesn't it?"
+          ]
+        },
+        "human" : {
+          "default" : [
+            "I wasn't slacking off, I swear!",
+            "Man, look at me, being all guard-y and not sleeping on the job.",
+            "I can to keep the area clear of hostile forces. Easy stuff.",
+            "I love being employed as a guard. Gives me lots of thinking time."
+          ]
+        },
+        "hylotl" : {
+          "default" : [
+            "There is virtue in living to protect others.",
+            "I will ensure your time here is tranquil.",
+            "I am here to protect you, and all who rightfully come here.",
+            "I will not let my focus lapse."
+          ]
+        },
+        "novakid" : {
+          "default" : [
+            "Howdy there!",
+            "Howdy!"
+          ]
+        }
+      }
+    }
+  }
+}

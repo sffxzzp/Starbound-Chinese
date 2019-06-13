@@ -1,0 +1,12 @@
+{
+  "itemName" : "papernote",
+  "rarity" : "Common",
+  "category" : "quest",
+  "inventoryIcon" : "papernote.png",
+  "description" : "A handwritten note. I should see what it says!",
+  "shortdescription" : "Handwritten Note",
+
+  "scripts" : ["papernote.lua"],
+  "questId" : "",
+  "noteText" : "Well this is a story all about how my life got flip turned upside down so I'd like to take a moment just sit right there and I'll tell you how I became the prince of a town called Bel Aire"
+}

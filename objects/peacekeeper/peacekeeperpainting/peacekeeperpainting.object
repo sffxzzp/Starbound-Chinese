@@ -1,0 +1,30 @@
+{
+  "objectName" : "peacekeeperpainting",
+  "colonyTags" : ["peacekeeper","pretty"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 400,
+  "description" : "A cool painting of a timeless, hazy beach sunset.",
+  "shortdescription" : "Peacekeeper Painting",
+  "race" : "generic",
+
+  "apexDescription" : "This is a pleasing piece of art.",
+  "avianDescription" : "As an Avian, I am always fond of artistic depictions of the sun.",
+  "floranDescription" : "Floran sees treesss. Floran approvesss.",
+  "glitchDescription" : "Calm. This painted scene evokes a feeling of timelessness.",
+  "humanDescription" : "pink sunsets and palm trees ",
+  "hylotlDescription" : "A rather pleasant gradient of colours.",
+  "novakidDescription" : "A pretty timeless scene, ain't it?",
+
+  "inventoryIcon" : "peacekeeperpaintingicon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeeperpainting.png:<color>",
+      "imagePosition" : [-32, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

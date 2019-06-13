@@ -1,0 +1,94 @@
+{
+  "type" : "miningdrone",
+  "shortdescription" : "Mining Drone",
+  "description" : "--TODO--",
+
+  "categories" : [ "miningdrone" ],
+  "parts" : [ ],
+
+  "animation" : "miningdrone.animation",
+
+  "dropPools" : [ ],
+
+  "baseParameters" : {
+    "scripts" : [
+      "/monsters/unsorted/miningdrone/miningdrone.lua"
+    ],
+    "animationScripts" : [
+      "/monsters/unsorted/miningdrone/dronebeams.lua"
+    ],
+
+    "touchDamage" : { },
+
+    "metaBoundBox" : [-4, -4, 4, 4],
+    "scale" : 1.0,
+
+    "renderLayer" : "ForegroundTile+5",
+
+    "flyTime" : 5.0,
+
+    "tileDamagePerSecond" : 200.0,
+    "harvestLevel" : 99,
+    "mineRadius" : 2.0,
+
+    "movementSettings" : {
+      "collisionPoly" : [ [0.25, 0.5],  [0.5, 0.25],  [0.5, -0.25],  [0.25, -0.5],  [-0.25, -0.5],  [-0.5, -0.25],  [-0.5, 0.25],  [-0.25, 0.5] ],
+
+      "mass" : 1.0,
+      "walkSpeed" : 4,
+      "runSpeed" : 12,
+      "gravityEnabled" : false,
+
+      "airFriction" : 0.0,
+      "airForce" : 200,
+      "flySpeed" : 10.0,
+      "physicsEffectCategories" : [ ]
+    },
+
+    "knockoutTime" : 0.0,
+    "knockoutAnimationStates" : {
+      "damage" : "stunned"
+    },
+    "deathParticles" : "deathPoof",
+    "knockoutEffect" : "",
+
+    "statusSettings" : {
+      "statusProperties" : {
+        "targetMaterialKind" : "stone"
+      },
+
+      "appliesEnvironmentStatusEffects" : false,
+      "appliesWeatherStatusEffects" : true,
+      "minimumLiquidStatusEffectPercentage" : 0.1,
+
+      "primaryScriptSources" : [
+        "/stats/monster_primary.lua"
+      ],
+      "primaryScriptDelta" : 5,
+
+      "stats" : {
+        "maxHealth" : {
+          "baseValue" : 60
+        },
+        "invulnerable" : {
+          "baseValue" : 1.0
+        }
+      },
+
+      "resources" : {
+        "stunned" : {
+          "deltaValue" : -1.0,
+          "initialValue" : 0.0
+        },
+        "health" : {
+          "maxStat" : "maxHealth",
+          "deltaStat" : "healthRegen",
+          "defaultPercentage" : 100
+        }
+      }
+    },
+
+    "mouthOffset" : [0, 0],
+    "feetOffset" : [0, -8]
+  }
+}

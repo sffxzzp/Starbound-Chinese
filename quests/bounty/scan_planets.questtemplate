@@ -1,0 +1,58 @@
+{
+  "id" : "scan_planets",
+  "title" : "^orange;Kill bounty",
+  "text" : "Kill the bounty at the place",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : true,
+  "hideCrossServer" : true,
+  "parameters" : {
+    "system" : {
+      "type" : "coordinate"
+    },
+    "bounty" : {
+      "type" : "npcType"
+    }
+  },
+  "completionText" : "",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "stages" : [
+      "findSystemStage",
+      "scanPlanetsStage"
+    ],
+
+    "objectives" : {
+      "findSystemStage" : [
+        "^orange;Travel^reset; to %s"
+      ],
+      "scanPlanetsStage" : {
+        "searching" : "Searching for planets...",
+        "scan" : "^orange;Enter orbit^reset; around ^orange;%s^reset;"
+      }
+    },
+
+    "scanMessage" : "No signatures detected on ^orange;%s^reset;.",
+
+    "generatedText" : {
+      "text" : {
+        "prev" : [
+          "^green;<coordinate.name>^reset;:\nScanning for the target signature led me to <next.coordinate.name>.\n\n",
+          "^green;<coordinate.name>^reset;:\nBy scanning the planets in this system, I located the target signature at <next.coordinate.name>.\n\n"
+        ],
+        "default" : [
+          "<bounty.name> was last seen somewhere in <coordinate.systemName>."
+        ]
+      }
+    }
+  }
+}

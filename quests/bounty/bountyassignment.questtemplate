@@ -1,0 +1,74 @@
+{
+  "id" : "bountyassignment",
+  "mainQuest" : true,
+  "title" : "Peacekeeper Assignment",
+  "text" : "",
+  "completionText" : "Welcome to your new Peacekeeper Station, partner!",
+  "prerequisites" : [ "shiprepair" ],
+  "moneyRange" : [0, 0],
+  "rewards" : [],
+  "showAcceptDialog" : true,
+  "canBeAbandoned" : false,
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bountyassignment.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "descriptions" : {
+      "searching" : "Searching for ^orange;Peacekeeper Station^reset;...",
+      "findSystem" : "^green;Locate ^orange;Peacekeeper Station^white; in ^orange;%s^white;",
+      "approachStation" : [
+        "^green;Approach^reset; the ^orange;Peacekeeper Station^reset;",
+        "^green;Deploy^reset; to the ^orange;Peacekeeper Station^reset;"
+      ],
+      "findBoard" : "^green;Find the ^orange;Bounty Board^white; in the ^orange;Peacekeeper Station^white;"
+    },
+
+    "compassUpdate" : 0.2,
+
+    "stationTypes" : [
+      "spacestation_peacekeeper1",
+      "spacestation_peacekeeper2",
+      "spacestation_peacekeeper3",
+      "spacestation_peacekeeper4",
+      "spacestation_peacekeeper5"
+    ],
+
+    "rankTitles" : [
+      "Becoming a Peacekeeper", // tier 1
+      "Rookie Assignment", // tier 2
+      "Rising through the Ranks", // tier 3
+      "The Good Fight", // tier 4
+      "Keeping the Peace" // tier 5 - repeating
+    ],
+    "rankText" : [
+      // going to tier 1 station
+      ["Greetings! I'm looking for someone to become my ^orange;partner in crime-fighting^white;! \n\nIf you think you have what it takes, come out into space and meet me at my humble asteroid base!"],
+
+      // going to tier 2 station
+      ["Our growin' reputation has allowed us to open up a new Peacekeeper station! I'm officially reassignin' you to it, partner!"],
+
+      // going to tier 3 station
+      ["Our latest gang bust has given us a lot of fundin' from folks in this sector. So much so that I've been able to contract the development of a new, bigger station! Head on over there, partner!"],
+
+      // going to tier 4 station
+      ["After clearin' out the gang activity in this sector, our reputation has sky-rocketed! I'm reassignin' you to a new station - I'll meet you there!"],
+
+      // going to tier 5 station (repeats)
+      [
+        "With their leader captured, I don't think we'll be seein' THOSE guys again! We've opened another station in a pretty dangerous solar system - an' I'm reassignin' you to it, partner! Meet me over there!",
+        "Those yeller-bellies will be runnin' round like headless chickens without their leader! Great work, partner! As usual, I've got a new assignment for you! Crime doesn't sleep, and neither do I!",
+        "With the head of their organisation gone, those varmints won't be too much trouble from now on! Mighty fine work, partner! I'm openin' a new station and assignin' you to it. The universe is infinite, and so is the crime! Head on over, partner!",
+        "With their boss out o' the picture, those punks have lost the wind in their sails! If you want to bust more gangs, head on over to the new station I'm assignin' you to!"
+      ]
+    ],
+
+    "finalAssignmentTitle" : "Going after the Occasus",
+    "finalAssignmentText" : "Geez louise. We've received an assignment to take out this Occasus Cult. They seem like some real bad apples, partner! I hope you're up for this. We've set up a headquarters in the area where they operate.",
+
+    "arrivalCinematic" : "/cinematics/peacekeeper/peacekeeper.cinematic",
+    "boardUid" : "bountyboard"
+  }
+}

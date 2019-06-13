@@ -1,0 +1,293 @@
+{
+  "name" : "raremonsters",
+  "title" : "Rare Pets",
+  "type" : "monster",
+
+  "collectables" : {
+    "firegleap" : {
+      "order" : 1,
+      "monsterType" : "firegleap",
+      "icon" : "/monsters/walkers/gleap/body/firegleap.png:idle.1"
+    },
+    "poisonnutmidge" : {
+      "order" : 2,
+      "monsterType" : "poisonnutmidge",
+      "icon" : "/monsters/walkers/nutmidge/body/poisonnutmidge.png:idle.1"
+    },
+    "poisonnutmidgeling" : {
+      "order" : 3,
+      "monsterType" : "poisonnutmidgeling",
+      "icon" : "/monsters/walkers/nutmidgeling/body/poisonnutmidgeling.png:idle.1"
+    },
+    "poisonkingnutmidgeling" : {
+      "order" : 4,
+      "monsterType" : "poisonkingnutmidgeling",
+      "icon" : "/monsters/walkers/kingnutmidgeling/body/poisonkingnutmidgeling.png:idle.1"
+    },
+    "albinopoptop" : {
+      "order" : 5,
+      "monsterType" : "albinopoptop",
+      "icon" : "/monsters/walkers/poptop/body/albinopoptop.png:idle.1"
+    },
+    "albinoadultpoptop" : {
+      "order" : 6,
+      "monsterType" : "albinoadultpoptop",
+      "icon" : "/monsters/walkers/adultpoptop/body/albinoadultpoptop.png:idle.1"
+    },
+    "icecrustoise" : {
+      "order" : 7,
+      "monsterType" : "icecrustoise",
+      "icon" : "/monsters/crawlers/crustoise/body/icecrustoise.png:idle.1"
+    },
+    "electrictintic" : {
+      "order" : 8,
+      "monsterType" : "electrictintic",
+      "icon" : "/monsters/crawlers/tintic/body/electrictintic.png:idle.1"
+    },
+    "poisonbatong" : {
+      "order" : 9,
+      "monsterType" : "poisonbatong",
+      "icon" : "/monsters/flyers/batong/body/poisonbatong.png:idle.1"
+    },
+    "firespookit" : {
+      "order" : 10,
+      "monsterType" : "firespookit",
+      "icon" : "/monsters/ghosts/spookit/body/firespookit.png:idle.1"
+    },
+    "icepeblit" : {
+      "order" : 11,
+      "monsterType" : "icepeblit",
+      "icon" : "/monsters/walkers/peblit/body/icepeblit.png:idle.1"
+    },
+    "iceiguarmor" : {
+      "order" : 12,
+      "monsterType" : "iceiguarmor",
+      "icon" : "/monsters/crawlers/iguarmor/body/iceiguarmor.png:idle.1"
+    },
+    "poisonscaveran" : {
+      "order" : 13,
+      "monsterType" : "poisonscaveran",
+      "icon" : "/monsters/walkers/scaveran/body/poisonscaveran.png:idle.1"
+    },
+    "electricvoltip" : {
+      "order" : 14,
+      "monsterType" : "electricvoltip",
+      "icon" : "/monsters/walkers/voltip/body/electricvoltip.png:idle.1"
+    },
+    "icefennix" : {
+      "order" : 15,
+      "monsterType" : "icefennix",
+      "icon" : "/monsters/walkers/fennix/body/icefennix.png:idle.5"
+    },
+    "firelilodon" : {
+      "order" : 16,
+      "monsterType" : "firelilodon",
+      "icon" : "/monsters/walkers/lilodon/body/firelilodon.png:idle.1"
+    },
+    "electricpetricub" : {
+      "order" : 17,
+      "monsterType" : "electricpetricub",
+      "icon" : "/monsters/walkers/petricub/body/electricpetricub.png:idle.1"
+    },
+    "electricquagmutt" : {
+      "order" : 18,
+      "monsterType" : "electricquagmutt",
+      "icon" : "/monsters/walkers/quagmutt/body/electricquagmutt.png:idle.1"
+    },
+    "poisonparatail" : {
+      "order" : 19,
+      "monsterType" : "poisonparatail",
+      "icon" : "/monsters/flyers/paratail/body/poisonparatail.png:windup.1"
+    },
+    "firewisper" : {
+      "order" : 20,
+      "monsterType" : "firewisper",
+      "icon" : "/monsters/ghosts/wisper/body/firewisper.png:windup.3"
+    },
+    "electricskimbus" : {
+      "order" : 21,
+      "monsterType" : "electricskimbus",
+      "icon" : "/monsters/ghosts/skimbus/body/electricskimbus.png:chargeloop.3"
+    },
+    "poisonpulpin" : {
+      "order" : 22,
+      "monsterType" : "poisonpulpin",
+      "icon" : "/monsters/crawlers/pulpin/body/poisonpulpin.png:fire.2"
+    },
+    "electriccapricoat" : {
+      "order" : 23,
+      "monsterType" : "electriccapricoat",
+      "icon" : "/monsters/walkers/capricoat/body/electriccapricoat.png:walk.5"
+    },
+    "iceringram" : {
+      "order" : 24,
+      "monsterType" : "iceringram",
+      "icon" : "/monsters/walkers/ringram/body/iceringram.png:idle.1"
+    },
+    "cultistscandroid" : {
+      "order" : 25,
+      "monsterType" : "cultistscandroid",
+      "icon" : "/monsters/flyers/scandroid/body/cultistscandroid.png:idle.1"
+    },
+    "firebobot" : {
+      "order" : 26,
+      "monsterType" : "firebobot",
+      "icon" : "/monsters/walkers/bobot/body/firebobot.png:idle.1"
+    },
+    "poisonpipkin" : {
+      "order" : 27,
+      "monsterType" : "poisonpipkin",
+      "icon" : "/monsters/walkers/pipkin/body/poisonpipkin.png:idle.1"
+    },
+    "firemonopus" : {
+      "order" : 28,
+      "monsterType" : "firemonopus",
+      "icon" : "/monsters/flyers/monopus/body/firemonopus.png:fly.5"
+    },
+    "icesnaggler" : {
+      "order" : 29,
+      "monsterType" : "icesnaggler",
+      "icon" : "/monsters/crawlers/snaggler/body/icesnaggler.png:idle.1"
+    },
+    "fireoculob" : {
+      "order" : 30,
+      "monsterType" : "fireoculob",
+      "icon" : "/monsters/crawlers/oculob/body/fireoculob.png:idle.1"
+    },
+    "icemiasmop" : {
+      "order" : 31,
+      "monsterType" : "icemiasmop",
+      "icon" : "/monsters/walkers/miasmop/body/icemiasmop.png:idle.1"
+    },
+    "poisonsporgus" : {
+      "order" : 32,
+      "monsterType" : "poisonsporgus",
+      "icon" : "/monsters/walkers/sporgus/body/poisonsporgus.png:idle.1"
+    },
+    "iceagrobat" : {
+      "order" : 33,
+      "monsterType" : "iceagrobat",
+      "icon" : "/monsters/flyers/agrobat/body/iceagrobat.png:fly.6"
+    },
+    "firegosmet" : {
+      "order" : 34,
+      "monsterType" : "firegosmet",
+      "icon" : "/monsters/ghosts/gosmet/body/firegosmet.png:fly.1"
+    },
+    "firesqueem" : {
+      "order" : 35,
+      "monsterType" : "firesqueem",
+      "icon" : "/monsters/ghosts/squeem/body/firesqueem.png:fly.1"
+    },
+    "electricsnaunt" : {
+      "order" : 36,
+      "monsterType" : "electricsnaunt",
+      "icon" : "/monsters/walkers/snaunt/body/electricsnaunt.png:idle.1"
+    },
+    "firepteropod" : {
+      "order" : 37,
+      "monsterType" : "firepteropod",
+      "icon" : "/monsters/flyers/pteropod/body/firepteropod.png:fly.1"
+    },
+    "electriccrutter" : {
+      "order" : 38,
+      "monsterType" : "electriccrutter",
+      "icon" : "/monsters/walkers/crutter/body/electriccrutter.png:idle.1"
+    },
+    "poisonsnuffish" : {
+      "order" : 39,
+      "monsterType" : "poisonsnuffish",
+      "icon" : "/monsters/walkers/snuffish/body/poisonsnuffish.png:idle.1"
+    },
+    "icecrabcano" : {
+      "order" : 40,
+      "monsterType" : "icecrabcano",
+      "icon" : "/monsters/walkers/crabcano/body/icecrabcano.png:idle.1"
+    },
+    "poisonpyromantle" : {
+      "order" : 41,
+      "monsterType" : "poisonpyromantle",
+      "icon" : "/monsters/ghosts/pyromantle/body/poisonpyromantle.png:idle.1"
+    },
+    "electricignome" : {
+      "order" : 42,
+      "monsterType" : "electricignome",
+      "icon" : "/monsters/ghosts/ignome/body/electricignome.png:fly.1"
+    },
+    "poisonsmoglin" : {
+      "order" : 43,
+      "monsterType" : "poisonsmoglin",
+      "icon" : "/monsters/walkers/smoglin/body/poisonsmoglin.png:idle.1"
+    },
+    "electricanglure" : {
+      "order" : 44,
+      "monsterType" : "electricanglure",
+      "icon" : "/monsters/walkers/anglure/body/electricanglure.png:idle.1"
+    },
+    "firelumoth" : {
+      "order" : 45,
+      "monsterType" : "firelumoth",
+      "icon" : "/monsters/ghosts/lumoth/body/firelumoth.png:idle.1"
+    },
+    "fireoogler" : {
+      "order" : 46,
+      "monsterType" : "fireoogler",
+      "icon" : "/monsters/walkers/oogler/body/fireoogler.png:idle.1"
+    },
+    "icenarfin" : {
+      "order" : 47,
+      "monsterType" : "icenarfin",
+      "icon" : "/monsters/walkers/narfin/body/icenarfin.png:idle.1"
+    },
+    "firetoumingo" : {
+      "order" : 48,
+      "monsterType" : "firetoumingo",
+      "icon" : "/monsters/walkers/toumingo/body/firetoumingo.png:idle.1"
+    },
+    "poisontrictus" : {
+      "order" : 49,
+      "monsterType" : "poisontrictus",
+      "icon" : "/monsters/walkers/trictus/body/poisontrictus.png:idle.1"
+    },
+    "poisonmandraflora" : {
+      "order" : 50,
+      "monsterType" : "poisonmandraflora",
+      "icon" : "/monsters/walkers/mandraflora/body/poisonmandraflora.png:idle.1"
+    },
+    "poisonbulbop" : {
+      "order" : 51,
+      "monsterType" : "poisonbulbop",
+      "icon" : "/monsters/walkers/bulbop/body/poisonbulbop.png:idle.1"
+    },
+    "icehypnare" : {
+      "order" : 52,
+      "monsterType" : "icehypnare",
+      "icon" : "/monsters/walkers/hypnare/body/icehypnare.png:idle.1"
+    },
+    "electricyokat" : {
+      "order" : 53,
+      "monsterType" : "electricyokat",
+      "icon" : "/monsters/walkers/yokat/body/electricyokat.png:idle.1"
+    },
+    "iceorbide" : {
+      "order" : 54,
+      "monsterType" : "iceorbide",
+      "icon" : "/monsters/walkers/orbide/body/iceorbide.png:idle.1"
+    },
+    "firetaroni" : {
+      "order" : 55,
+      "monsterType" : "firetaroni",
+      "icon" : "/monsters/walkers/taroni/body/firetaroni.png:idle.1"
+    },
+    "electrichemogoblin" : {
+      "order" : 56,
+      "monsterType" : "electrichemogoblin",
+      "icon" : "/monsters/walkers/hemogoblin/body/electrichemogoblin.png:idle.1"
+    },
+    "poisonbobfae" : {
+      "order" : 57,
+      "monsterType" : "poisonbobfae",
+      "icon" : "/monsters/flyers/bobfae/body/poisonbobfae.png:fly.1"
+    }
+  }
+}

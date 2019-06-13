@@ -1,0 +1,44 @@
+{
+  "objectName" : "peacekeeperteleporter",
+  "objectType" : "teleporter",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "price" : 3000,
+  "rarity" : "Uncommon",
+  "description" : "This teleporter should get you back to the Peacekeeper HQ.",
+  "shortdescription" : "Peacekeeper Teleporter",
+  "race" : "generic",
+
+  "apexDescription" : "This teleporter will return me back to Peacekeeper HQ.",
+  "avianDescription" : "This will beam me back to the Peacekeeper station.",
+  "floranDescription" : "Thisss will bring me back to the Peacekeeper HQ.",
+  "glitchDescription" : "Observant. This is a teleporter designed to beam directly to the Peacekeeper Headquarters.",
+  "humanDescription" : "A teleporter designed to beam to the Peacekeeper HQ.",
+  "hylotlDescription" : "This teleporter will transport me back to the Peacekeeper base.",
+  "novakidDescription" : "This here teleporter will take me right back to the Peacekeepers.",
+
+  "category" : "teleporter",
+  "lightColor" : [56, 102, 124],
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/peacekeeperteleporter.config",
+
+  "inventoryIcon" : "peacekeeperteleportericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "peacekeeperteleporter.png:<color>", "fullbright" : true }, { "image" : "peacekeeperteleporterlit.png:<color>" } ],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid",
+      "collisionSpaces" : [ [-2, 0], [-1, 0], [-0, 0], [1, 0] ]
+    }
+  ],
+  
+  "teleporterFootPosition" : [0, 1]
+
+}

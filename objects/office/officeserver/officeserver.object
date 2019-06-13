@@ -1,0 +1,49 @@
+{
+  "objectName" : "officeserver",
+  "colonyTags" : ["office", "electronic"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "lightColor" : [25, 25, 25],
+  "price" : 70,
+  "description" : "A large computer server rack.",
+  "shortdescription" : "Office Server",
+  "race" : "generic",
+
+  "apexDescription" : "This computer is connected to a mess of unlabeled wires...",
+  "avianDescription" : "This computer is bigger than I am!",
+  "floranDescription" : "Floran likesss all these componentsss jammed together.",
+  "glitchDescription" : "Amused. Computers were once large enough to require dedicated rooms.",
+  "humanDescription" : "A giant server rack with a bunch of old computers.",
+  "hylotlDescription" : "There's nothing aesthetically pleasing about this at all.",
+  "novakidDescription" : "Must be the biggest computer I ever seen.",
+
+  "inventoryIcon" : "officeservericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "officeserver.png", "fullbright" : true }, { "image" : "officeserverlit.png" } ],
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "lightPosition" : [1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "imageLayers" : [ { "image" : "officeserver.png", "fullbright" : true }, { "image" : "officeserverlit.png" } ],
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "lightPosition" : [1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/server_loop.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+}

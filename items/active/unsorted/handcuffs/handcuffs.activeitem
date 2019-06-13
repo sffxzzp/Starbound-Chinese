@@ -1,0 +1,18 @@
+{
+  "itemName" : "handcuffs",
+  "price" : 100,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "common",
+  "category" : "tool",
+  "description" : "There's a safety release button on the side... are these even real?",
+  "shortdescription" : "Handcuffs",
+  "twoHanded" : true,
+
+  "inventoryIcon" : "handcuffsicon.png",
+  "animation" : "handcuffs.animation",
+  "scripts" : ["handcuffs.lua"],
+
+  "armAngle" : -0.5,
+  "beamInTime" : 0.7
+}

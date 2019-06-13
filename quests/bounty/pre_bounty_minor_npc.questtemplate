@@ -1,0 +1,29 @@
+{
+  "id" : "pre_bounty_minor_npc",
+  "title" : "This title won't be displayed.",
+  "text" : "This text won't be displayed.",
+  "showAcceptDialog" : true,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "parameters" : {},
+  "completionText" : "This completion text won't be displayed.",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/pre_bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "generatedText" : {
+      "text" : {
+        "default" : [
+          "We need you to apprehend a small-time crook known as ^orange;<bounty.name>^reset; <coordinate.preposition> <coordinate.name>.\n\nThey're pretty small-time, so they ain't gonna cause you too much of a problem.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+        ]
+      }
+    }
+  }
+}

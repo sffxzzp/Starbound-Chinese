@@ -1,0 +1,129 @@
+{
+  "type" : "captainnoble",
+  "baseType" : "outpostcivilian",
+  
+  "npcname" : "Captain Noble",
+  "identity" : {
+    "name" : "Captain Noble",
+    "gender" : "male",
+    "hairGroup" : "hair",
+    "hairType" : "male20",
+    "facialHairGroup" : "brand",
+    "facialHairType" : "0",
+    "bodyDirectives" : "?replace=fff8b5=fff8b5?replace=fde03f=fde03f?replace=f6b919=f6b919",
+    "hairDirectives" : "?replace=fff8b5=fff8b5?replace=fde03f=fde03f?replace=f6b919=f6b919",
+    "personalityIdle" : "idle.2",
+    "personalityArmIdle" : "idle.2",
+    "personalityHeadOffset" : [-1, 0],
+    "personalityArmOffset" : [0, 0]
+  },
+
+  "damageTeamType" : "assistant",
+  "damageTeam" : 1,
+
+  "persistent" : true,
+
+
+  "scriptConfig" : {
+
+    "uniqueId" : "captainnoble",
+
+    "reactions" : {
+      "spontaneous" : [
+      ]
+    },
+    "personalities" : [
+        [1.0, { "personality" : "normal", "reactions" : {} }]
+    ],
+    "behaviorConfig" : {
+      "greetingChance" : 0,
+      "play" : false,
+      "chat" : false
+    },
+
+    "chatPortrait" : "/interface/chatbubbles/captain.png:<frame>",
+
+    "chatSounds" : {
+      "avian" : {
+        "male" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ]
+      },
+      "apex" : {
+        "male" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ]
+      },
+      "floran" : {
+        "male" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ]
+      },
+      "glitch" : {
+        "male" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ]
+      },
+      "human" : {
+        "male" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ]
+      },
+      "hylotl" : {
+        "male" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ]
+      },
+      "default" : {
+        "male" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/novakid_chatter_male6.ogg"
+        ]
+      }
+    },
+
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Howdy there, Officer <entityname>! Fightin' the good fight as usual?",
+            "Howdy, Officer <entityname>! How's the workload treatin' yer?",
+            "Always keep yer head up, Officer <entityname>!"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "captainnoblehead" } ],
+            "chest" : [ { "name" : "peacekeeperchest" } ],
+            "legs" : [ { "name" : "peacekeeperpants" } ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "objectName" : "cultistairlockhatch",
+  "colonyTags" : ["cultist","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 175,
+  "description" : "A crudely-made airlock hatch.",
+  "shortdescription" : "Cultist Airlock Hatch",
+  "race" : "human",
+
+  "apexDescription" : "A huge airlock, made with various pieces of scrap metal.",
+  "avianDescription" : "A large hatch, adorned with an intimidating eye.",
+  "floranDescription" : "Hatch is watching Floran...",
+  "glitchDescription" : "Unimpressed. This isn't a well-made hatch.",
+  "humanDescription" : "Someone was very eager to make this hatch look intimidating.",
+  "hylotlDescription" : "This grotesque hatch barely looks airtight",
+  "novakidDescription" : "This sure is a creepy lookin' hatch.",
+
+  "inventoryIcon" : "cultistairlockhatchicon.png",
+  "orientations" : [
+    {
+      "image" : "cultistairlockhatch.png:default",
+      "imagePosition" : [-24, -8],
+      "renderLayer" : "Object+5",
+      "direction" : "right",
+      
+      "animationPosition" : [-24, -8],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "left", "right" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/lockingdoor.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/airlock_heavy_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/airlock_heavy_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "cultistairlockhatch.png"
+  },
+
+  "inputNodes" : [ [-3, 1] ],
+  "outputNodes" : [ [4, -1] ]
+}

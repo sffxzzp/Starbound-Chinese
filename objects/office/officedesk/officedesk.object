@@ -1,0 +1,56 @@
+{
+  "objectName" : "officedesk",
+  "colonyTags" : ["office","storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "A simple desk made from wood and metal.",
+  "shortdescription" : "Office Desk",
+  "race" : "generic",
+  "category" : "storage",
+  "price" : 110,
+  "health" : 1.5,
+
+  "apexDescription" : "A plain metal desk with a wood surface.",
+  "avianDescription" : "A very plain looking metal desk.",
+  "floranDescription" : "A desssk made of wood and metal.",
+  "glitchDescription" : "Unimpressed. This desk has a very basic design.",
+  "humanDescription" : "A basic desk, looks like it belongs in an office.",
+  "hylotlDescription" : "This desk isn't pretty, but it's functional.",
+  "novakidDescription" : "Just an 'ol desk with a couple metal drawers.",
+
+  "inventoryIcon" : "officedeskicon.png",
+  "orientations" : [
+    {
+
+      "image" : "officedesk.png:<color>",
+      "imagePosition" : [-24, 0],
+
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+
+      "image" : "officedesk.png:<color>",
+      "imagePosition" : [-24, 0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/bunkercabinet_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/bunkercabinet_close.ogg" ],
+  "slotCount" : 9,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+
+}

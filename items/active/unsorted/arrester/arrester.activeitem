@@ -1,0 +1,55 @@
+{
+  "itemName" : "arrester",
+  "description" : "Used to arrest and incapacitate authorized bounty targets.",
+  "shortdescription" : "Long Arm",
+  "level" : 1,
+  "price" : 2000,
+  "rarity" : "Legendary",
+  "category" : "tool",
+  "tooltipKind" : "base",
+  "inventoryIcon" : "longarm.png:front",
+  "maxStack" : 1,
+
+  "twoHanded" : false,
+
+  "scripts" : ["arrester.lua"],
+
+  "animationScripts" : ["arresteranimation.lua"],
+
+  "animation" : "arrester.animation",
+
+  "stances" : {
+    "idle" : {
+      "armRotation" : 0,
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false
+    },
+    "active" : {
+      "armRotation" : 0,
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false
+    },
+    "success" : {
+      "armRotation" : 0,
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "duration" : 1.0,
+      "transition" : "idle",
+      "transitionFunction" : "reset"
+    },
+    "failure" : {
+      "armRotation" : 0,
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "duration" : 1.0,
+      "transition" : "idle",
+      "transitionFunction" : "reset"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "objectName" : "cultistairlockdoor",
+  "colonyTags" : ["cultist","door"],
+  "rarity" : "Common",
+
+  "category" : "door",
+  "price" : 175,
+  "description" : "A crudely-made airlock door.",
+  "shortdescription" : "Cultist Airlock Door",
+  "race" : "human",
+
+  "apexDescription" : "A huge airlock, made with various pieces of scrap metal.",
+  "avianDescription" : "A large door, adorned with an intimidating eye.",
+  "floranDescription" : "Door is watching Floran...",
+  "glitchDescription" : "Unimpressed. This isn't a well-made door.",
+  "humanDescription" : "Someone was very eager to make this door look intimidating.",
+  "hylotlDescription" : "This grotesque door barely looks airtight",
+  "novakidDescription" : "This sure is a creepy lookin' door.",
+
+  "inventoryIcon" : "cultistairlockdooricon.png",
+  "orientations" : [
+    {
+      "image" : "cultistairlockdoor.png:default",
+      "imagePosition" : [-8, 0],
+      "renderLayer" : "Object+5",
+      "direction" : "left",
+      "flipImages" : true,
+
+      "animationParts" : {
+        "door" : "cultistairlockdoor.png"
+      },
+      "animationPosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    },
+    {
+      "image" : "cultistairlockdoor.png:default",
+      "imagePosition" : [-8, 0],
+      "renderLayer" : "Object+5",
+      "direction" : "left",
+
+      "animationParts" : {
+        "door" : "airlockdoor.png"
+      },
+      "animationPosition" : [-8, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "animation" : "/objects/wired/door/lockingdoor.animation",
+  
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/airlock_heavy_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/airlock_heavy_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+
+  "animationParts" : {
+    "door" : "cultistairlockdoor.png"
+  },
+
+  "inputNodes" : [ [-1, 7] ],
+  "outputNodes" : [ [1, 0] ]
+}

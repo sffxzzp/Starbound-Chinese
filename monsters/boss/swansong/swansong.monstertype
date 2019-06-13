@@ -1,0 +1,270 @@
+{
+  "type" : "swansong",
+  "shortdescription" : "The Swansong",
+  "categories" : [ "swansong" ],
+  "parts" : [ "swansong" ],
+
+  "animation" : "swansong.animation",
+  "reversed" : false,
+
+  "dropPools" : [ "swansongTreasure" ],
+
+  "baseParameters" : {
+    "scripts" : [
+      "/monsters/boss/swansong/swansong.lua"
+    ],
+    "initialScriptDelta" : 3,
+    "animationScripts" : [
+      "/monsters/boss/swansong/telegraph.lua"
+    ],
+
+    "dialogTime" : 28.0,
+    "chatPortrait" : "/interface/chatbubbles/nox.png",
+    "openingDialog" : [
+      "I knew you'd come. We have unfinished business, after all.",
+      "What do I have left to fight for? My quest failed... My ideology was weak.",
+      "And yet I'm too ashamed to give myself up, and I'm too stubborn to die.",
+      "So... Care for one last dance, \"Protector\"?"
+    ],
+
+    "music" : "/music/swansong.ogg",
+
+    "gravityDungeonId" : 666,
+    "attackConfig" : {
+      "activateGravity" : {
+        "hoverHeight" : 20
+      },
+      "rocketSwarm" : {
+        "power" : 15,
+        "rocketCount" : 20,
+        "spawnDelay" : 0.1,
+        "targetDelay" : 0.2 // should be longer than spawnDelay
+      },
+      "melee" : {
+        "dashArea" : 20, // dash if the target is within this range of the center
+        "chargeArea" : 15, // charge if the target is outside this range of the center
+        "slashRange" : 15, // slash if the target is within this range of the boss
+
+        "slash" : {
+          "power" : 10,
+          "rotate" : 0.3,
+          "windup" : 1.0,
+          "postslash" : 0.2,
+          "winddown" : 0.2
+        },
+        "dash" : {
+          "power" : 10,
+          "rotate" : 0.5,
+          "windup" : 0.5,
+          "winddown" : 0.5,
+          "bodyState" : "idle",
+          "wingsState" : "idle"
+        },
+        "charge" : {
+          "power" : 10,
+          "turn" : 0.5,
+          "windup" : 0.3,
+          "winddown" : 0.5
+        }
+      },
+      "hoverFire" : {
+        "power" : 5,
+        "hoverHeight" : 20
+      },
+      "spawnOphanims" : {},
+      "deathLaser" : {},
+
+      "transition" : {
+        "chargeTime" : 20.0,
+        "beams" : 10
+      },
+      "finalMelee" : {
+        "slash" : {
+          "power" : 10,
+          "rotate" : 0.3,
+          "windup" : 1.0,
+          "postslash" : 0.2,
+          "winddown" : 0.2
+        },
+        "dash" : {
+          "power" : 10,
+          "rotate" : 0.5,
+          "windup" : 0.5,
+          "winddown" : 0.5,
+          "bodyState" : "final",
+          "wingsState" : "broken"
+        },
+        "charge" : {
+          "power" : 10,
+          "turn" : 0.5,
+          "windup" : 0.3,
+          "winddown" : 0.5
+        }
+      }
+    },
+    
+    "healthLevelFunction" : "spaceMonsterLevelHealthMultiplier",
+    "powerLevelFunction" : "spaceMonsterLevelPowerMultiplier",
+
+    "renderLayer" : "Projectile-10",
+
+    "damageBar" : "None",
+
+    "metaBoundBox" : [-80, -50, 80, 50],
+    "scale" : 1.0,
+
+    "selfDamagePoly" : [ [2.5, 4], [2.5, -4], [-2.5, -4], [-2.5, 4] ],
+
+    "animationDamageParts" : {
+      "beam" : {
+        "anchorPart" : "beam",
+        "checkLineCollision" : true,
+        "bounces" : 0,
+        "damageSource" : {
+          "line" : [[0.0, 0.0], [50.0, 0.0]],
+          "damage" : 10,
+          "damageSourceKind" : "fireplasma",
+          "teamType" : "enemy",
+          "teamNumber" : 2
+        }
+      },
+      "lhbeam" : {
+        "anchorPart" : "lefthand",
+        "checkLineCollision" : true,
+        "bounces" : 0,
+        "damageSource" : {
+          "line" : [[0.0, 0.5], [0.0, -49.5]],
+          "damage" : 10,
+          "damageSourceKind" : "fireplasma",
+          "damageRepeatGroup" : "lhbeam",
+          "teamType" : "enemy",
+          "teamNumber" : 2
+        }
+      },
+      "rhbeam" : {
+        "anchorPart" : "righthand",
+        "checkLineCollision" : true,
+        "bounces" : 0,
+        "damageSource" : {
+          "line" : [[0.0, -0.25], [0.0, -50.25]],
+          "damage" : 10,
+          "damageSourceKind" : "fireplasma",
+          "damageRepeatGroup" : "rhbeam",
+          "teamType" : "enemy",
+          "teamNumber" : 2
+        }
+      },
+      "sword" : {
+        "anchorPart" : "chargeswoosh",
+        "damageSource" : {
+          "poly" : [[0.1875, 3.625], [-0.4375, 3.625], [-0.4375, 0.5], [-0.0625, -2.0], [0.1875, -2.0]],
+          "damage" : 10,
+          "damageSourceKind" : "fireplasma",
+          "teamType" : "enemy",
+          "teamNumber" : 2
+        }
+      }
+    },
+
+    "movementSettings" : {
+      "gravityEnabled" : false,
+      "collisionPoly" : [ [2, 4], [2, -4], [-2, -4], [-2, 4] ],
+      "mass" : 1.0,
+      "flySpeed" : 25,
+      "airFriction" : 0.0,
+      "airForce" : 50.0,
+      "physicsEffectCategories" : ["boss"]
+    },
+
+    "knockoutTime" : 0.1,
+    "knockoutEffect" : "blink",
+    "deathParticles" : "deathPoof",
+
+    "touchDamage" : {
+      "poly" : [ [2, 4], [2, -4], [-2, -4], [-2, 4] ],
+      "damage" : 4,
+      "knockback" : 50,
+
+      "teamType" : "enemy",
+      "damageSourceKind" : "hammer",
+      "statusEffects" : [ ]
+    },
+
+    "statusSettings" : {
+      "statusProperties" : {
+        "targetMaterialKind" : "metal",
+        "damageFlashColor" : "ff0000=0.05"
+      },
+
+      "appliesEnvironmentStatusEffects" : false,
+      "appliesWeatherStatusEffects" : false,
+      "minimumLiquidStatusEffectPercentage" : 0.1,
+
+      "primaryScriptSources" : [
+        "/stats/monster_primary.lua"
+      ],
+      "primaryScriptDelta" : 5,
+
+      "stats" : {
+        "knockbackStunTime" : {
+          "baseValue" : 0.25
+        },
+        "grit" : {
+          "baseValue" : 1.0
+        },
+        "maxHealth" : {
+          "baseValue" : 6000
+        },
+        "protection" : {
+          "baseValue" : 0.0
+        },
+        "healthRegen" : {
+          "baseValue" : 0.0
+        },
+        "powerMultiplier" : {
+          "baseValue" : 1.0
+        },
+        "physicalResistance" : {
+          "baseValue" : 0.0
+        },
+        "fireStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "iceStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "electricStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "poisonStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "specialStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "healingStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "stunImmunity" : {
+          "baseValue" : 1.0
+        }
+      },
+
+      "resources" : {
+        "stunned" : {
+          "deltaValue" : -1.0,
+          "initialValue" : 0.0,
+          "maxValue" : 0.0
+        },
+        "health" : {
+          "maxStat" : "maxHealth",
+          "deltaStat" : "healthRegen",
+          "defaultPercentage" : 1.0
+        }
+      }
+    },
+
+    "mouthOffset" : [4, 12],
+    "feetOffset" : [0, -8]
+  }
+}

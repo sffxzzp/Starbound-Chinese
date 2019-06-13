@@ -1,0 +1,35 @@
+{
+  "objectName" : "egyptiantable",
+  "colonyTags" : ["commerce","egyptian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A heavy table made from wood and gold.",
+  "shortdescription" : "Egyptian Table",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 145,
+
+  "apexDescription" : "The surface of this table looks very solidly constructed.",
+  "avianDescription" : "This table is clearly intended for an important purpose.",
+  "floranDescription" : "Thisss table looks heavy.",
+  "glitchDescription" : "Confused. It seems the metal on this table serves no functional purpose.",
+  "humanDescription" : "Seems like this table isn't solid good, it's just been covered in a thin layer.",
+  "hylotlDescription" : "This table has been carefully decorated.",
+  "novakidDescription" : "Nice big table, plenty of space for a card game.",
+
+  "inventoryIcon" : "egyptiantableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "egyptiantable.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "ufobeamstun",
+  "blockingStat" : "specialStatusImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 0.25,
+
+  "scripts" : [
+    "ufobeamstun.lua"
+  ],
+
+  "animationConfig" : "ufobeamstun.animation",
+
+  "label" : "Ufo Abduction",
+  "icon" : "/interface/statuses/timefreeze.png"
+}

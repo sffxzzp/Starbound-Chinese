@@ -1,0 +1,120 @@
+{
+  "type" : "bountytarget",
+  "baseType" : "hostile",
+
+  "dropPools" : [ ],
+
+  "scriptConfig" : {
+    "arrestable" : true,
+
+    "behaviorConfig" : {
+      "bribeTitle" : "Accept bribe?",
+      "bribeSubtitle" : "This criminal has offered you a bribe",
+      "bribeIcon" : "/interface/confirmation/confirmationicon.png",
+      "bribeHatMessage" : "If you let this criminal go, they have offered to give you ^orange;their hat^reset;. Do you wish to accept the bribe?",
+      "bribeMessage" : "If you let this criminal go, they have offered to give you ^orange;a rare treasure^reset;. Do you wish to accept the bribe?",
+      "bribeOk" : "Accept",
+      "bribeCancel" : "Decline"
+    },
+
+    "dialog" : {
+      "attack" : "/dialog/bountytarget.config:attack",
+      "resistArrest" : "/dialog/bountytarget.config:resistArrest",
+      "arrested" : "/dialog/bountytarget.config:arrested",
+      "completeArrest" : "/dialog/bountytarget.config:completeArrest",
+      "killedTarget" : "/dialog/bountytarget.config:killedTarget",
+      "lostTarget" : "/dialog/bountytarget.config:lostTarget",
+
+      "bounty" : {
+        "flee" : "/dialog/bounty.config:flee",
+        "caughtFleeing" : "/dialog/bounty.config:caughtFleeing",
+
+        "crazy" : "/dialog/bounty.config:crazy",
+
+        "deceptive" : "/dialog/bounty.config:deceptive",
+        "deceptiveEnd" : "/dialog/bounty.config:deceptiveEnd",
+
+        "fakeArrested" : "/dialog/bountytarget.config:arrested",
+        "tricked" : "/dialog/bounty.config:tricked",
+
+        "bribeWait" : "/dialog/bounty.config:bribeWait",
+        "bribeMysteryItem" : "/dialog/bounty.config:bribeMysteryItem",
+        "bribeHat" : "/dialog/bounty.config:bribeHat",
+        "bribeDeclined" : "/dialog/bounty.config:bribeDeclined",
+        "bribeAccepted" : "/dialog/bounty.config:bribeAccepted"
+      }
+    }
+  },
+
+  "statusControllerSettings" : {
+    "stats" : {
+      "maxHealth" : {
+        "baseValue" : 200.0
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "explorerchest" } ],
+            "legs" : [ { "name" : "explorerlegs" } ],
+            "primary" : [
+              "npcdagger",
+              "npcaxe",
+              "npcshortsword",
+              "npcbroadsword",
+              "npchammer",
+              "npcspear",
+              "npcneoshotgun",
+              "npcneotommygun"
+            ]
+          },
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : 1 } } ],
+            "legs" : [ { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : 1 } } ],
+            "primary" : [
+              "npcneoshotgun",
+              "npcneotommygun"
+            ]
+          },
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "deadbeatstrapschest", "parameters" : { "colorIndex" : 1 } } ],
+            "legs" : [ { "name" : "deadbeatstrapslegs", "parameters" : { "colorIndex" : 1 } } ],
+            "primary" : [
+              "npcneoshotgun",
+              "npcneotommygun"
+            ]
+          },
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "bettychest", "parameters" : { "colorIndex" : 1 } } ],
+            "legs" : [ { "name" : "bettylegs", "parameters" : { "colorIndex" : 1 } } ],
+            "primary" : [
+              "npcpetcapturepod"
+            ],
+            "sheathedprimary" : [
+              "npcneoshotgun",
+              "npcneotommygun"
+            ]
+          },
+          {
+            "head" : [ { "name" : "bandithat1" } ],
+            "chest" : [ { "name" : "toughchest", "parameters" : { "colorIndex" : 0 } } ],
+            "legs" : [ { "name" : "toughlegs", "parameters" : { "colorIndex" : 0 } } ],
+            "primary" : [
+              "npcpetcapturepod"
+            ],
+            "sheathedprimary" : [
+              "npcneoshotgun",
+              "npcneotommygun"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

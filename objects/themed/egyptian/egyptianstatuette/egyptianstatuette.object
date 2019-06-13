@@ -1,0 +1,45 @@
+{
+  "objectName" : "egyptianstatuette",
+  "colonyTags" : ["pretty","egyptian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A delicately decorated statue of a small creature.",
+  "shortdescription" : "Egyptian Statuette",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 80,
+
+  "apexDescription" : "It looks like this statue is decorated with real gold.",
+  "avianDescription" : "The creature this statue depicts makes me uneasy.",
+  "floranDescription" : "Ssstatue of tasssty looking creature.",
+  "glitchDescription" : "Curious. The creator of this statue must have admired this creature.",
+  "humanDescription" : "This statue shows lots of respect for this animal.",
+  "hylotlDescription" : "The fine detail in this statue is impressive!",
+  "novakidDescription" : "Well, ain't that a fancy lookin' critter.",
+
+  "inventoryIcon" : "egyptianstatuetteicon.png",
+  "orientations" : [
+    {
+      "image" : "egyptianstatuette.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : true,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "egyptianstatuette.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

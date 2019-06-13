@@ -1,0 +1,39 @@
+{
+  "objectName" : "officescanner",
+  "colonyTags" : ["office","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 70,
+  "description" : "A tall antiquated device used for assisting in paperwork.",
+  "shortdescription" : "Office Scanner",
+  "race" : "generic",
+
+  "apexDescription" : "This machine says multi-function, but I don't understand what it does.",
+  "avianDescription" : "This large machine must be very powerful - it says all-in-one.",
+  "floranDescription" : "Big machine makesss funny noisesss.",
+  "glitchDescription" : "Fascinated. This machine has ports designed to connect to an ancient human communication network.",
+  "humanDescription" : "The display on this machine says paper jam.",
+  "hylotlDescription" : "There are so many buttons on this machine!",
+  "novakidDescription" : "This thing looks complicated - I can't figure out what it's all about.",
+
+  "inventoryIcon" : "officescannericon.png",
+  "orientations" : [
+    {
+      "image" : "officescanner.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "officescanner.png:<color>",
+      "imagePosition" : [-24, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

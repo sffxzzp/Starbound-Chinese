@@ -1,0 +1,86 @@
+{
+  "objectName" : "darkcomputer",
+  "colonyTags" : ["electronic","wired"],
+  "rarity" : "Common",
+  "description" : "An antiquated computer terminal, with a deep red display.",
+  "shortdescription" : "Dark Computer",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 140,
+
+  "lightColor" : [147, 38, 37],
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.1,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "The screen on this computer terminal is a menacing red.",
+  "avianDescription" : "This looks like an old computer terminal. It seems to be running well, despite its age.",
+  "floranDescription" : "Floran wantsss to know why box is ssso red.",
+  "glitchDescription" : "Impressed. This old computer seems to be running smoothly despite minimal maintenance.",
+  "humanDescription" : "Ouch, computer display that is only red. That must be a strain on the eyes.",
+  "hylotlDescription" : "This computer has a very off-putting colour scheme, that much is certain.",
+  "novakidDescription" : "This ol' thing was probably more impressive a century ago.",
+
+  "inventoryIcon" : "darkcomputericon.png",
+  "orientations" : [
+    {
+      "image" : "darkcomputer.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,3], [0,3] ]
+    },
+    {
+      "image" : "darkcomputer.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,3], [0,3] ]
+    }
+  ],
+
+  "animation" : "darkcomputer.animation",
+  "animationParts" : {
+    "bg" : "darkcomputer.png",
+    "fg" : "darkcomputerlit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/apexconsole2switch.ogg" ],
+      "off" : [ "/sfx/objects/apexconsole2switch.ogg" ]
+    }
+  },
+  "animationPosition" : [-16, 0],
+
+  "soundEffect" : "/sfx/objects/bunkerconsole.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "scripts" : [ 
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+
+  "scriptDelta" : 5,
+
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "ownerOnly" : true,
+    "influence" : [
+      "wallbutton"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

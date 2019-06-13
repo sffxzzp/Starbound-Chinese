@@ -1,0 +1,43 @@
+{
+  "objectName" : "bountyboard",
+  "colonyTags" : [],
+  "rarity" : "Legendary",
+  "category" : "decorative",
+  "price" : 0,
+
+  "description" : "A noticeboard where bounties for notorious criminals are posted!",
+  "shortdescription" : "Bounty Board",
+  "race" : "generic",
+
+  "inventoryIcon" : "bountyboardicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "bountyboard.png", "fullbright" : true }, { "image" : "bountyboard_lit.png" } ],
+      "imagePosition" : [-24, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  
+  "turnInQuests" : [
+    "bountyassignment"
+  ],
+
+  "scripts" : ["/objects/outpost/bountyboard/bountyboard.lua"],
+  "scriptDelta" : 10,
+
+  "uniqueId" : "bountyboard",
+
+  "rankUniverseFlags" : [
+    "outpost_peacekeeper_1",
+    "outpost_peacekeeper_2",
+    "outpost_peacekeeper_3",
+    "outpost_peacekeeper_4",
+    "outpost_peacekeeper_5"
+  ],
+
+  "interactData" : {
+    "baseConfig" : "/interface/scripted/bountyboard/bountyboardgui.config"
+  }
+}

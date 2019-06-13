@@ -1,0 +1,49 @@
+{
+  "objectName" : "neonpeacekeeperemblem",
+  "colonyTags" : ["neon","light","peacekeeper"],
+  "rarity" : "Uncommon",
+  "category" : "light",
+  "price" : 85,
+  "description" : "This wall ornament glows with a bold magenta light.",
+  "shortdescription" : "Neon Peacekeeper Emblem",
+  "race" : "generic",
+
+  "apexDescription" : "This large neon sign looks particularly well-engineered.",
+  "avianDescription" : "This wall-mounted emblem shines with the colours of a tropical sunset!",
+  "floranDescription" : "Big emblem. It isss big.",
+  "glitchDescription" : "Impressed. This emblem glows as if it has an inner fire!",
+  "humanDescription" : "This is like the regular Peacekeeper emblem, but... Cooler.",
+  "hylotlDescription" : "This is quite a garish thing.",
+  "novakidDescription":  "Mighty cool wall plaque!",
+
+  "lightColor" : [148, 13, 90],
+
+  "inventoryIcon" : "neonpeacekeeperemblemicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "neonpeacekeeperemblem.png:<color>.<frame>", "fullbright" : true }, { "image" : "neonpeacekeeperemblemlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "neonpeacekeeperemblem.png",
+    "fg" : "neonpeacekeeperemblemlit.png"
+  },
+  "animationPosition" : [-16, -16],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_loud.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+
+}

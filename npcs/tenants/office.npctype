@@ -1,0 +1,35 @@
+{
+  "type" : "office",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "human" : {
+          "default" : [
+            "I'm working long hours to help finish an overdue project - luckily I can work from home!",
+            "I work in finance - can't you tell by the bags under my eyes and my freshly-ironed shirt?",
+            "I believe you have my stapler?"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+
+            "chest" : [
+              { "name" : "shirtchest" }
+            ],
+            "legs" : [
+              { "name" : "coollegs", "parameters" : { "colorIndex" : 1 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

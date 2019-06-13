@@ -1,0 +1,86 @@
+{
+  "objectName" : "peacekeepercomputer",
+  "colonyTags" : ["peacekeeper","electronic","wired"],
+  "rarity" : "Uncommon",
+  "description" : "An outdated metal computer. Standard issue for Peacekeeper research teams.",
+  "shortdescription" : "Peacekeeper Computer",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 150,
+
+  "lightColor" : [110, 38, 104],
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.1,
+  "flickerIntensityVariance" : 0.0,
+
+  "apexDescription" : "The casing on this computer looks very durable. It would be difficult to crash it.",
+  "avianDescription" : "This dull-looking computer would look a lot more appealling with a fresh coat of paint.",
+  "floranDescription" : "Floran hasss no time for word box.",
+  "glitchDescription" : "Amused. This large computer looks very sturdy, but also very outdated.",
+  "humanDescription" : "This huge computer looks a bit outdated. Maybe it's time for an upgrade?",
+  "hylotlDescription" : "This large computer looks like it has been in use for decades. What a sorry sight.",
+  "novakidDescription" : "I'm appreciatin' the neon lights on this ol' thing.",
+
+  "inventoryIcon" : "peacekeepercomputericon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeepercomputer.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,3], [0,3] ]
+    },
+    {
+      "image" : "peacekeepercomputer.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,3], [0,3] ]
+    }
+  ],
+
+  "animation" : "peacekeepercomputer.animation",
+  "animationParts" : {
+    "bg" : "peacekeepercomputer.png",
+    "fg" : "peacekeepercomputerlit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/apexconsole2switch.ogg" ],
+      "off" : [ "/sfx/objects/apexconsole2switch.ogg" ]
+    }
+  },
+  "animationPosition" : [-16, 0],
+
+  "soundEffect" : "/sfx/objects/bunkerconsole.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "scripts" : [ 
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+
+  "scriptDelta" : 5,
+
+  "outputNodes" : [ [0, 0] ],
+
+  "npcToy" : {
+    "ownerOnly" : true,
+    "influence" : [
+      "wallbutton"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-1.0, 0.0],
+    "preciseStandPositionRight" : [1.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

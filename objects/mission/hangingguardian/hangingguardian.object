@@ -1,0 +1,51 @@
+{
+  "objectName" : "hangingguardian",
+  "colonyTags" : ["ancient", "light"],
+  "rarity" : "Common",
+  "description" : "This chandelier is made of wrought-iron. It looks expensive.",
+  "shortdescription" : "Hanging Guardian",
+  "race" : "ancient",
+  "printable" : false,
+  "health" : 5.5,
+
+  "category" : "light",
+  "price" : 0,
+  "lightColor" : [22, 98, 27],
+
+  "apexDescription" : "This is an unnerving sight.",
+  "avianDescription" : "This feels... Wrong.",
+  "floranDescription" : "Floran doesssn't like thisss.",
+  "glitchDescription" : "Alarmed. What is this doing here?",
+  "humanDescription" : "This gives me a feeling of foreboding, to say the least.",
+  "hylotlDescription" : "This thing, chained up here, is a truly sad sight to behold.",
+  "novakidDescription" : "Somethin' about this gives me the creeps.",
+
+  "inventoryIcon" : "hangingguardianicon.png",
+  "orientations" : [
+    {
+      "image" : "hangingguardian.png:<color>.<frame>",
+      "imagePosition" : [-32, -40],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "top" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "hangingguardian.png",
+    "fg" : "hangingguardianlit.png"
+  },
+  "animationPosition" : [-32, -40],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+}

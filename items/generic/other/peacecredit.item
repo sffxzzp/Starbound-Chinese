@@ -1,0 +1,9 @@
+{
+  "itemName" : "peacecredit",
+  "price" : 0,
+  "rarity" : "Common",
+  "category" : "currency",
+  "inventoryIcon" : "peacecredit.png",
+  "description" : "A reward token used to reward members of the Terrene Peacekeepers.",
+  "shortdescription" : "Peace Credit"
+}

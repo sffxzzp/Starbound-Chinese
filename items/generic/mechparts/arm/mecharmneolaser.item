@@ -1,0 +1,15 @@
+{
+  "itemName" : "mecharmneolaser",
+  "price" : 5600,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mecharm",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mecharmneolaser.png",
+  "description" : "A ranged offensive beam weapon designed for Peacekeeper agents.",
+  "shortdescription" : "Neo Laser Mech Arm",
+  "itemTags" : [ ],
+
+  "mechPart" : ["arm", "neolaser"]
+}

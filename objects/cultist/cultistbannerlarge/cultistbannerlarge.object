@@ -1,0 +1,36 @@
+{
+  "objectName" : "cultistbannerlarge",
+  "colonyTags" : ["cultist"],
+  "rarity" : "Common",
+  "description" : "A worn wall banner, spraypainted with the Occasus cult emblem.",
+  "shortdescription" : "Cultist Banner",
+  "race" : "human",
+  "category" : "decorative",
+  "price" : 100,
+
+  "apexDescription" : "This cult banner is very crudely made - perhaps due to lack of skill or resources?",
+  "avianDescription" : "This banner gives off a very menacing aura.",
+  "floranDescription" : "Wall banner isss very torn.",
+  "glitchDescription" : "Unimpressed. The seamster who made this banner is clearly unskilled.",
+  "humanDescription" : "Whoever made this needs to take some art lessons.",
+  "hylotlDescription" : "The lack of artistry in this banner is astounding.",
+  "novakidDescription" : "This is a mighty ugly lookin' banner.",
+
+  "inventoryIcon" : "cultistbannerlargeicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "cultistbannerlarge.png:<color>",
+      "imagePosition" : [-16, -40],
+
+      "spaceScan" : 0.1,
+      "bgAnchors" : [ [-2, 0], [-1, 0], [0, 0], [1, 0] ]
+    },
+    {
+      "dualImage" : "cultistbannerlarge.png:<color>",
+      "imagePosition" : [-16, -40],
+
+      "spaceScan" : 0.1,
+      "fgAnchors" : [ [-1, 1], [-1, 1], [0, 1], [1, 1] ]
+    }
+  ]
+}

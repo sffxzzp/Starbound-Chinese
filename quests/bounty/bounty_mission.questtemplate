@@ -1,0 +1,76 @@
+{
+  "id" : "bounty_mission",
+  "title" : "This text will not be displayed",
+  "text" : "This text will not be displayed",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : true,
+  "showFailDialog" : true,
+  "hideCrossServer" : true,
+  "parameters" : {
+    "world" : {
+      "type" : "coordinate"
+    },
+    "bounty" : {
+      "type" : "npcType"
+    }
+  },
+  "completionText" : "This text will not be displayed",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "guiConfigs" : {
+    "questComplete" : "/interface/windowconfig/questcomplete_bounty.config"
+  },
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "stages" : [
+      "findWorldStage",
+      "missionTeleportStage",
+      "missionBountyStage"
+    ],
+
+    "objectives" : {
+      "findWorldStage" : [
+        "Travel to %s"
+      ],
+      "missionTeleportStage" : [
+        "^orange;Search^reset; planet for ^green;target signature^reset;",
+        "^orange;Search^reset; for clues"
+      ],
+      "missionBountyStage" : [
+        "^orange;Apprehend^reset; ^green;<bounty.name>^reset;"
+      ]
+    },
+
+    "warpDialog" : "/interface/confirmation/teleportconfirmation.config:bounty",
+
+    "generatedText" : {
+      "text" : {
+        "prev" : [
+          "My findings <prev.coordinate.preposition> <prev.coordinate.name> have led me to believe <bounty.name> is <coordinate.preposition> <coordinate.name>."
+        ],
+        "default" : [
+          "<bounty.name> was last seen on <coordinate.name>."
+        ]
+      },
+      "complete" : {
+        "default" : [
+          "Mighty fine job takin' on <bounty.name>, partner! Justice truly has been served this day.\n\nCome by the Peacekeeper Station to collect your rewards!",
+          "You apprehended <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper Station to collect your rewards!"
+        ]
+      },
+      "failure" : {
+        "escape" : [
+          "You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"
+        ]
+      }
+    }
+  }
+}

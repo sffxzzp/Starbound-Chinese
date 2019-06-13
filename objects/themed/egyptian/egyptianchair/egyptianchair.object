@@ -1,0 +1,55 @@
+{
+  "objectName" : "egyptianchair",
+  "colonyTags" : ["egyptian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A golden chair decorated with symbols.",
+  "shortdescription" : "Egyptian Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 125,
+
+  "apexDescription" : "There are some strange symbols engraved on this chair.",
+  "avianDescription" : "This chair looks very impressive.",
+  "floranDescription" : "Metal chair could use some sssoft skinsss.",
+  "glitchDescription" : "Interested. This chair slightly resembles a throne in a Glitch castle.",
+  "humanDescription" : "Seems like this chair wouldn't be very comfortable.",
+  "hylotlDescription" : "This chair seems almost too nice to sit on.",
+  "novakidDescription" : "A fella'd feel real important sittin' on this chair.",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+
+  "inventoryIcon" : "egyptianchairicon.png",
+  "orientations" : [
+    {
+      "image" : "egyptianchair.png:<color>",
+      "sitCoverImage" : "/objects/themed/egyptian/egyptianchair/egyptianchaircover.png",
+      "imagePosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [2, 24] // Left
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "egyptianchair.png:<color>",
+      "sitCoverImage" : "/objects/themed/egyptian/egyptianchair/egyptianchaircover.png",
+      "imagePosition" : [-16, 0],
+      "direction" : "right",
+
+      "sitPositions" : [
+        // Positions from front to back.
+        [3, 24] // Left
+      ],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

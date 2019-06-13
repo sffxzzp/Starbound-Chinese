@@ -1,0 +1,90 @@
+{
+  "type" : "ignobletarget",
+  "baseType" : "hostile",
+
+  "npcname" : "Captain Ignoble",
+  "identity" : {
+    "name" : "Captain Ignoble",
+    "gender" : "male",
+    "hairGroup" : "hair",
+    "hairType" : "male20",
+    "facialHairGroup" : "brand",
+    "facialHairType" : "0",
+    "bodyDirectives" : "?replace=fff8b5=fff8b5?replace=fde03f=fde03f?replace=f6b919=f6b919",
+    "hairDirectives" : "?replace=fff8b5=fff8b5?replace=fde03f=fde03f?replace=f6b919=f6b919",
+    "personalityIdle" : "idle.2",
+    "personalityArmIdle" : "idle.2",
+    "personalityHeadOffset" : [-1, 0],
+    "personalityArmOffset" : [0, 0]
+  },
+
+  "dropPools" : [ ],
+
+  "scriptConfig" : {
+    "arrestable" : true,
+
+    "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "It is I, ^orange;Captain Ignoble^reset;, leader of the ^orange;<gangName>^reset;!"
+          ]
+        }
+      },
+      "arrested" : {
+        "default" : {
+          "default" : [
+            "Gosh darnit, I've been handcuffed! I sure hope you don't send me off to space jail, partner!"
+          ]
+        }
+      },
+      "completeArrest" : {
+        "default" : {
+          "default" : [
+            "The ^orange;<gangName>^reset; are done for... Captain Noble must be a mighty smart an' handsome guy to have recruited you!"
+          ]
+        }
+      },
+      "killedTarget" : {
+        "default" : {
+          "default" : [
+            "<entityname>...? Uh-oh..."
+          ]
+        }
+      },
+      "lostTarget" : {
+        "default" : {
+          "default" : [
+            "Running away is not an advisable strategy, partner!"
+          ]
+        }
+      }
+    }
+  },
+
+  "statusControllerSettings" : {
+    "stats" : {
+      "maxHealth" : {
+        "baseValue" : 200.0
+      },
+      "powerMultiplier" : {
+        "baseValue" : 0.2
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "grouchohead" } ],
+            "chest" : [ { "name" : "peacekeeperchest" } ],
+            "legs" : [ { "name" : "peacekeeperpants" } ],
+            "primary" : [
+              "npcneotommygun"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

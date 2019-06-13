@@ -1,0 +1,13 @@
+{
+  "itemName" : "polygonplatform",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Common",
+  "inventoryIcon" : "polygonplatformicon.png",
+  "description" : "A smooth platform made from \"Hard Light\".",
+  "shortdescription" : "Polygon Platform",
+  "glitchdescription" : "Interested. A platform made from \"Hard Light\".",
+  "florandescription" : "Thisss platform humsss with energy.",
+  
+  "materialId" : 311
+}

@@ -1,0 +1,75 @@
+{
+  "id" : "capture_ship_bounty",
+  "title" : "^orange;Kill bounty",
+  "text" : "Kill the bounty at the place",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : true,
+  "showFailDialog" : true,
+  "hideCrossServer" : true,
+  "parameters" : {
+    "system" : {
+      "type" : "coordinate"
+    },
+    "bounty" : {
+      "type" : "npcType"
+    }
+  },
+  "completionText" : "You apprehended the bounty!",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "guiConfigs" : {
+    "questComplete" : "/interface/windowconfig/questcomplete_bounty.config"
+  },
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "stages" : [
+      "findSpaceBountyStage",
+      "killBountyStage"
+    ],
+
+    "objectives" : {
+      "findSpaceBountyStage" : [
+        "^orange;Travel^reset; to ^green;%s^reset;",
+        "^orange;Approach^reset; the ^green;Suspicious Ship^reset;",
+        "^orange;Deploy^reset; to the ^green;Suspicious Ship^reset;"
+      ],
+      "killBountyStage" : [
+        "^orange;Find^reset; the target's ^green; ship^reset;",
+        "^orange;Apprehend^reset; ^green;<bounty.name>^reset;"
+      ]
+    },
+
+    "playExploreMessage" : false,
+    "playApproachMessage" : false,
+    "approachMusic" : "/music/dead-or-alive.ogg",
+
+    "generatedText" : {
+      "text" : {
+        "default" : [
+          "<bounty.name> was last seen <coordinate.preposition> <coordinate.name>."
+        ]
+      },
+      "complete" : {
+        "capture" : [
+          "Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!"
+        ],
+        "default" : [
+          "Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!"
+        ]
+      },
+      "failureText" : {
+        "default" : [
+          "You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"
+        ]
+      }
+    }
+  }
+}

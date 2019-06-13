@@ -1,0 +1,117 @@
+{
+  "type" : "ophanim",
+  "shortdescription" : "Ophanim",
+  "description" : "",
+
+  "categories" : [ "ophanim" ],
+  "parts" : [ "ophanim" ],
+
+  "animation" : "ophanim.animation",
+
+  "dropPools" : [ ],
+
+  "baseParameters" : {
+    "scripts" : [
+      "/monsters/boss/ophanim/ophanim.lua"
+    ],
+    "animationScripts" : [
+      "/monsters/boss/ophanim/ophanimbeam.lua"
+    ],
+
+    "renderLayer" : "Projectile-20",
+
+    "touchDamage" : {
+    },
+
+    "healthLevelFunction" : "spaceMonsterLevelHealthMultiplier",
+
+    "metaBoundBox" : [-4, -4, 4, 4],
+    "scale" : 1.0,
+
+    "movementSettings" : {
+      "collisionPoly" : [[0.875, 1.5], [1.5, 0.875], [1.5, -0.875], [0.875, -1.5], [-0.875, -1.5], [-1.5, -0.875], [-1.5, 0.875], [-0.875, 1.5]],
+
+      "mass" : 0.5,
+      "walkSpeed" : 4,
+      "runSpeed" : 12,
+      "gravityEnabled" : false,
+
+      "airFriction" : 0.5,
+      "airForce" : 20,
+      "flySpeed" : 20,
+      "physicsEffectCategories" : ["monster"]
+    },
+
+    "knockoutTime" : 0.0,
+    "knockoutEffect" : "",
+
+    "statusSettings" : {
+      "statusProperties" : {
+        "targetMaterialKind" : "stone"
+      },
+
+      "appliesEnvironmentStatusEffects" : false,
+      "appliesWeatherStatusEffects" : true,
+      "minimumLiquidStatusEffectPercentage" : 0.1,
+
+      "primaryScriptSources" : [
+        "/stats/monster_primary.lua"
+      ],
+      "primaryScriptDelta" : 5,
+
+      "stats" : {
+        "knockbackStunTime" : {
+          "baseValue" : 0.25
+        },
+        "knockbackThreshold" : {
+          "baseValue" : 9
+        },
+        "maxHealth" : {
+          "baseValue" : 350
+        },
+        "protection" : {
+          "baseValue" : 0.5
+        },
+        "grit" : {
+          "baseValue" : 1.0
+        },
+        "healthRegen" : {
+          "baseValue" : 0.0
+        },
+        "powerMultiplier" : {
+          "baseValue" : 1.0
+        },
+        "fireStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "iceStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "electricStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "poisonStatusImmunity" : {
+          "baseValue" : 1.0
+        }
+      },
+
+      "resources" : {
+        "stunned" : {
+          "deltaValue" : -1.0,
+          "initialValue" : 0.0
+        },
+        "health" : {
+          "maxStat" : "maxHealth",
+          "deltaStat" : "healthRegen",
+          "defaultPercentage" : 100
+        }
+      }
+    },
+
+    "mouthOffset" : [0, 0],
+    "feetOffset" : [0, -8],
+    "capturable" : true,
+    "captureHealthFraction" : 0.5,
+    "nametagColor" : [64, 200, 255]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "objectName" : "officestapler",
+  "colonyTags" : ["office","misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 40,
+  "description" : "A bright red stapler.",
+  "shortdescription" : "Office Stapler",
+  "race" : "generic",
+
+  "apexDescription" : "Bright red, I like this thing.",
+  "avianDescription" : "The colour of this stapler makes it easy to identify.",
+  "floranDescription" : "Floran likesss red ssstapler.",
+  "glitchDescription" : "Approving. This red stapler is a perfectly designed tool.",
+  "humanDescription" : "This stapler is in excellent condition, clearly it was well cared for.",
+  "hylotlDescription" : "It feels like this stapler was important to someone.",
+  "novakidDescription" : "This stapler's just the right size to fit in your hand.",
+
+  "inventoryIcon" : "officestaplericon.png",
+  "orientations" : [
+    {
+      "image" : "officestapler.png:<color>",
+      "imagePosition" : [-8, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "officestapler.png:<color>",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

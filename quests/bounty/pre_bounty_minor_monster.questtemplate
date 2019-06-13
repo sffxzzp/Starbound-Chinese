@@ -1,0 +1,31 @@
+{
+  "id" : "pre_bounty_minor_monster",
+  "title" : "This title won't be displayed.",
+  "text" : "This text won't be displayed.",
+  "showAcceptDialog" : true,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "parameters" : {},
+  "completionText" : "This completion text won't be displayed.",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/pre_bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "generatedText" : {
+      "text" : {
+        "default" : [
+          "We've had reports of a creature wreaking havoc <coordinate.preposition> <coordinate.name>! The locals have taken to calling it '^orange;<bounty.name>^reset;' and they're too afraid to leave their homes. Can you travel there and take care of it?\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+          "We've had reports of a creature running loose <coordinate.preposition> <coordinate.name>. Some darn fool named it '^orange;<bounty.name>^reset;' and now nobody has the heart to put it down. You'd better get over there and put a stop to this monstrosity before anyone else gets hurt.\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank",
+          "We've been recieving word of a local legend <coordinate.preposition> <coordinate.name>. A strangely-coloured creature called ^orange;<bounty.name>^reset; has been known to harass locals for some time, and they're darn sick of it. Can you go and sort out this mess?\n\n- REWARDS -\nKill: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+        ]
+      }
+    }
+  }
+}

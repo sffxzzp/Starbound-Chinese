@@ -1,0 +1,12 @@
+{
+  "name" : "neon",
+  "effectConfig" : {},
+  "defaultDuration" : 2,
+
+  "scripts" : [
+    "neon.lua"
+  ],
+
+  "label" : "neon",
+  "icon" : "/interface/statuses/wet.png"
+}

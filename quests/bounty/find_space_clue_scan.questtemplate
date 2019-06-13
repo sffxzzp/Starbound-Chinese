@@ -1,0 +1,70 @@
+{
+  "id" : "find_space_clue_scan",
+  "title" : "^orange;Kill bounty",
+  "text" : "Find a clue to the location of the bounty",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : true,
+  "hideCrossServer" : true,
+  "parameters" : {
+    "world" : {
+      "type" : "coordinate"
+    },
+    "clue" : {
+      "type" : "scan"
+    }
+  },
+  "completionText" : "You have found a clue. HMMMM, where does it lead?",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "stages" : [
+      "findSpaceBountyStage",
+      "findClueScanStage"
+    ],
+
+    "objectives" : {
+      "findSpaceBountyStage" : [
+        "^orange;Travel^reset; to ^green;%s^reset;",
+        "^orange;Approach^reset; the ^green;Criminal Hideout^reset;",
+        "^orange;Deploy^reset; to the ^green;Criminal Hideout^reset;"
+      ],
+      "findClueScanStage" : [
+        "^orange;Search^reset; space for the target's signature",
+        "^orange;Search^reset; for clues"
+      ]
+    },
+
+    "playExploreMessage" : false,
+    "playApproachMessage" : false,
+    "approachMusic" : "/music/dead-or-alive.ogg",
+
+    "generatedText" : {
+      "text" : {
+        "prev" : [
+          "^green;<coordinate.name>^reset;:\nA clue I found out in space has led me to <next.coordinate.name>.\n\n",
+          "^green;<coordinate.name>^reset;:\nI discovered a lead in a space facility that takes me to <next.coordinate.name>.\n\n"
+        ],
+        "default" : [
+          "^orange;<bounty.name>^reset; was last seen <coordinate.preposition> <coordinate.name>.\n\n",
+          "^orange;<bounty.name>^reset; was last spotted <coordinate.preposition> <coordinate.name>.\n\n",
+          "^orange;<bounty.name>^reset;'s trail went cold <coordinate.preposition> <coordinate.name>.\n\n"
+        ]
+      },
+      "failureText" : {
+        "default" : [
+          "The trail's gone cold! Without any further leads, <bounty.name> has slipped through our fingers once again. Who knows what heinous crimes they'll commit before we get another chance to take them down?",
+          "Having exhausted all available leads, we're forced to abandon the hunt for <bounty.name>. It is a dark day for justice."
+        ]
+      }
+    }
+  }
+}

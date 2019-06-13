@@ -1,0 +1,12 @@
+{
+  "name" : "arrested",
+  "effectConfig" : {},
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "arrested.lua"
+  ],
+
+  "label" : "Arrested",
+  "icon" : "/interface/statuses/arrested.png"
+}

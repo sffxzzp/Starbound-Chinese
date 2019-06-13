@@ -1,0 +1,30 @@
+{
+  "objectName" : "peacekeepernotes",
+  "colonyTags" : ["peacekeeper"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 900,
+  "description" : "A jumbled collection of leads and evidence, used to track criminals.",
+  "shortdescription" : "Peacekeeper Notes",
+  "race" : "generic",
+
+  "apexDescription" : "Someone is making a break in a mystery, it appears.",
+  "avianDescription" : "It looks like someone is passionately trying to solve a mystery. How exciting!",
+  "floranDescription" : "Floran not interested enough to read notesss.",
+  "glitchDescription" : "Excited. These notes seem to indicate that someone is close to a breakthrough on a case!",
+  "humanDescription" : "You can't solve crimes without newspapers, string and notes all messily pinned to a wall!",
+  "hylotlDescription" : "A rather crude approach to solving mysteries, but I suppose it must be effective.",
+  "novakidDescription" : "Yee-haw, look's like someone's close to solvin' a big case!",
+
+  "inventoryIcon" : "peacekeepernotesicon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeepernotes.png:<color>",
+      "imagePosition" : [-24, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

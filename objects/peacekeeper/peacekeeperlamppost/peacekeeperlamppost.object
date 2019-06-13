@@ -1,0 +1,65 @@
+{
+  "objectName" : "peacekeeperlamppost",
+  "colonyTags" : ["peacekeeper","light"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "category" : "light",
+  "price" : 110,
+  "description" : "A bright lamp post, most commonly seen at the Peacekeeper Stations.",
+  "shortdescription" : "Peacekeeper Lamp Post",
+  "race" : "generic",
+
+  
+  "apexDescription" : "A well-made lamp post, possibly made from reinforced durasteel.",
+  "avianDescription" : "A rather fine looking lamp!",
+  "floranDescription" : "Floran has seen many tall lightsss. This is also one.",
+  "glitchDescription" : "Impressed. Despite first appearances, this lamp post's metal exterior is extremely durable.",
+  "humanDescription" : "Encroaching urbanisation isn't complete without a lamp post or two!",
+  "hylotlDescription" : "A rather ugly lamp post.",
+  "novakidDescription":  "This here lamp post is mighty tall, ain't it?",
+  
+
+  "lightColor" : [229, 229, 229],
+
+  "inventoryIcon" : "peacekeeperlampposticon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeeperlamppost.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "left",
+      "flipImages" : true,
+      "lightPosition" : [0, 5],
+      "beamAngle" : 270,
+      "animationPosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "peacekeeperlamppost.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.3,
+      "direction" : "right",
+      "lightPosition" : [0, 5],
+      "beamAngle" : 270,
+      "animationPosition" : [0, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animation" : "peacekeeperlamppost.animation",
+  "animationParts" : {
+    "bg" : "peacekeeperlamppost.png",
+    "fg" : "peacekeeperlamppostlit.png"
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 5] ]
+}

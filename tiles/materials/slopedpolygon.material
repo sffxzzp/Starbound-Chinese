@@ -1,0 +1,24 @@
+{
+  "materialId" : 310,
+  "materialName" : "slopedpolygon",
+  "particleColor" : [124, 145, 86, 255],
+  //"itemDrop" : "slopedpolygon",
+
+  "description" : "A curious material made of \"Hard Light\".",
+  "glitchDescription" : "Observant. This matter is made of \"Hard Light\".",
+  "floranDescription" : "It feelsss electric.",
+  "shortdescription" : "Polygon Panel",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "health" : 24,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "slopedpolygon.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : true,
+    "multiColored" : true,
+    "zLevel" : 5000
+  }
+}

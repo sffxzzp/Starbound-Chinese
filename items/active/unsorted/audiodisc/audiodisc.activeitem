@@ -1,0 +1,15 @@
+{
+  "itemName" : "audiodisc",
+  "rarity" : "Common",
+  "category" : "quest",
+  "inventoryIcon" : "audiodisc.png",
+  "description" : "This data disc contains an audio file. I should listen to it!",
+  "shortdescription" : "Audio Data Disc",
+
+  "scripts" : ["audiodisc.lua"],
+  "questId" : "",
+  "defaultPortrait" : "/interface/chatbubbles/soundonly.png:<frame>",
+  "defaultPortraitFrames" : 4,
+  "defaultSenderName" : "Audio Log",
+  "radioMessages" : []
+}

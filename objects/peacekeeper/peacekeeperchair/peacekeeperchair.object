@@ -1,0 +1,39 @@
+{
+  "objectName" : "peacekeeperchair",
+  "colonyTags" : ["misc","peacekeeper"],
+  "printable" : false,
+  "rarity" : "Uncommon",
+  "description" : "A heavy metal chair with ergonomic cushioning.",
+  "shortdescription" : "Peacekeeper Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 60,
+
+  "apexDescription" : "This chair looks like it would make an effective barricade in a pinch.",
+  "avianDescription" : "This doesn't look like the most comfortable chair I've ever seen.",
+  "floranDescription" : "Floran doesssn't think Floran could lift heavy chair.",
+  "glitchDescription" : "Impressed. This chair looks like it could withstand several fierce blows.",
+  "humanDescription" : "This metal chair looks uncomfortable, but the backrest looks like it improves posture!",
+  "hylotlDescription" : "This chair is designed entirely with function in mind. It is rather repugnant.",
+  "novakidDescription" : "I could take a quick nap in this here chair, if needs be.",
+
+  "inventoryIcon" : "peacekeeperchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "peacekeeperchair.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22]
+
+}

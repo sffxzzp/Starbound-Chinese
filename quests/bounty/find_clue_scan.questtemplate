@@ -1,0 +1,68 @@
+{
+  "id" : "find_clue_scan",
+  "title" : "^orange;Kill bounty",
+  "text" : "Find a clue to the location of the bounty",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : true,
+  "hideCrossServer" : true,
+  "parameters" : {
+    "world" : {
+      "type" : "coordinate"
+    },
+    "clue" : {
+      "type" : "scan"
+    }
+  },
+  "completionText" : "You have found a clue. Where does it lead?",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "stages" : [
+      "findWorldStage",
+      "findClueScanStage"
+    ],
+
+    "objectives" : {
+      "findWorldStage" : [
+        "^orange;Travel^reset; to ^green;%s^reset;"
+      ],
+      "findClueScanStage" : [
+        "^orange;Search^reset; planet for the target's signature",
+        "^orange;Search^reset; for clues"
+      ]
+    },
+
+    "playExploreMessage" : false,
+    "playApproachMessage" : false,
+    "approachMusic" : "/music/dead-or-alive.ogg",
+
+    "generatedText" : {
+      "text" : {
+        "prev" : [
+          "^green;<coordinate.name>^reset;:\nI found a DNA sample that I have traced to <next.coordinate.name>.\n\n",
+          "^green;<coordinate.name>^reset;:\nSome unexpected DNA I found is currently being traced to <next.coordinate.name>.\n\n",
+          "^green;<coordinate.name>^reset;:\nWith my detective skills, I traced a DNA sample I found to <next.coordinate.name>.\n\n"
+        ],
+        "default" : [
+          "^orange;<bounty.name>^reset; was last seen <coordinate.preposition> <coordinate.name>.\n\n"
+
+        ]
+      },
+      "failureText" : {
+        "default" : [
+          "The trail's gone cold! Without any further leads, <bounty.name> has slipped through our fingers once again. Who knows what heinous crimes they'll commit before we get another chance to take them down?",
+          "Having exhausted all available leads, we're forced to abandon the hunt for <bounty.name>. It is a dark day for justice."
+        ]
+      }
+    }
+  }
+}

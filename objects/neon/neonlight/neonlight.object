@@ -1,0 +1,50 @@
+{
+  "objectName" : "neonlight",
+  "colonyTags" : ["light"],
+  "rarity" : "Uncommon",
+  "category" : "light",
+  "lightColor" : [249, 21, 207],
+  "price" : 60,
+  "printable" : false,
+  "description" : "A slick, understated magenta light.",
+  "shortdescription" : "Neon Magenta Light",
+  "race" : "generic",
+
+  "apexDescription" : "These lights give off a warm magenta hue.",
+  "avianDescription" : "This neon light reminds me of a sunset, shining through diamond clouds.",
+  "floranDescription" : "Pink isss a strong colour! Colour of strong and healthy flower!",
+  "glitchDescription" : "Calm. This light creates a pleasant atmosphere.",
+  "humanDescription" : "neon lights, for when you want to give a room a cool atmosphere.",
+  "hylotlDescription" : "This neon light reminds me of sunbeam filtered through sapphire oceans.",
+  "novakidDescription" : "This light's like a cold burnin' star, though a little smaller.",
+
+  "inventoryIcon" : "neonlighticon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "neonlight.png:<color>.<frame>", "fullbright" : true }, { "image" : "neonlightlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_quiet.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+  
+  "animation" : "/objects/wired/light/lighttoggle.animation",
+  "animationParts" : {
+    "light" : "neonlight.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  "interactive" : false,
+
+  "inputNodes" : [ [0, 0] ]
+  
+}

@@ -1,0 +1,35 @@
+{
+  "objectName" : "scanclue2",
+  "colonyTags" : ["misc"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 0,
+  "printable" : false,
+  "race" : "generic",
+
+  "description" : "A clue for a bounty.",
+  "shortdescription" : "Scan Clue 2",
+
+  "apexDescription" : "A handprint!",
+  "avianDescription" : "Someone left this handprint behind, but my scanner can pick up its trace!",
+  "floranDescription" : "Floran can sssee hand!",
+  "glitchDescription" : "Intriguing. The scan can pick up the faint trace of someone who was here recently.",
+  "humanDescription" : "This weirdly large handprint must have been left here somewhat recently.",
+  "hylotlDescription" : "This handprint here is practically invisible to the naked eye. Fortunately, I am rather observant.",
+  "novakidDescription" : "This handprint couldn't have been made too long ago, I'm reckonin'!",
+
+  "inventoryIcon" : "scanclue2icon.png",
+  "orientations" : [
+    {
+      "image" : "scanclue2.png:<color>",
+      "imagePosition" : [-8, -8],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "smashOnBreak" : true
+}

@@ -1,0 +1,86 @@
+{
+  "objectName" : "officecomputer",
+  "colonyTags" : ["office","electronic","wired"],
+  "rarity" : "Common",
+  "description" : "An early-model personal computer from Earth.",
+  "shortdescription" : "Office Computer",
+  "race" : "generic",
+  "category" : "wire",
+  "price" : 140,
+  "lightColor" : [123, 123, 123],
+  "lightColorOff" : [0, 0, 0],
+  
+  "flickerPeriod" : 0.5,
+  "flickerMinIntensity" : 0.975,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0,
+  "flickerIntensityVariance" : 0,
+
+  "apexDescription" : "Hard to believe this old computer is still working.",
+  "avianDescription" : "Looks like an early model Earth computer.",
+  "floranDescription" : "This old machine is ssstill running sssomehow.",
+  "glitchDescription" : "Amused. Early computer processors required extremely large housings.",
+  "humanDescription" : "It's hard to believe humans once spent hours starting at machines like this.",
+  "hylotlDescription" : "The design is very basic, but it's a real historical artifact.",
+  "novakidDescription" : "Wonder if there's any card games on this ol' machine.",
+
+  "inventoryIcon" : "officecomputericon.png",
+  "orientations" : [
+    {
+      "image" : "officecomputer.png:<color>.on",
+      "imagePosition" : [-16, 0],
+      "animationPosition" : [-16, 0],
+
+      "flipImages" : true,
+      "direction" : "left",
+
+      "lightPosition" : [-1, 2],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "officecomputer.png:<color>.on",
+      "imagePosition" : [-16, 0],
+      "animationPosition" : [-16, 0],
+
+      "direction" : "right",
+
+      "lightPosition" : [2, 2],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "scripts" : [
+    "/objects/wired/switch/switch.lua",
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animation" : "officecomputer.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+    }
+  },
+  "animationParts" : {
+    "bg" : "officecomputer.png",
+    "fg" : "officecomputerlit.png"
+  },
+
+  "outputNodes" : [ [0, 1] ],
+
+  "npcToy" : {
+    "ownerOnly" : true,
+    "influence" : [
+      "console"
+    ],
+    "defaultReactions" : {},
+    "preciseStandPositionLeft" : [-1.5, 0.0],
+    "preciseStandPositionRight" : [2.0, 0.0],
+    "maxNpcs" : 1
+  }
+}

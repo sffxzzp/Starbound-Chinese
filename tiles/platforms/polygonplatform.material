@@ -1,0 +1,22 @@
+{
+  "materialId" : 311,
+  "materialName" : "polygonplatform",
+  "collisionKind" : "platform",
+  "itemDrop" : "polygonplatform",
+  "shortdescription" : "Polygon Platform",
+  "description" : "A smooth platform made from \"Hard Light\".",
+  "glitchDescription" : "Interested. A platform made from \"Hard Light\".",
+  "floranDescription" : "Thisss platform humsss with energy.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "polygonplatform.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

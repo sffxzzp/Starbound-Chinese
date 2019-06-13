@@ -1,0 +1,30 @@
+{
+  "objectName" : "peacekeeperposter2",
+  "colonyTags" : ["peacekeeper"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 400,
+  "description" : "A poster with some faded photographs of criminals printed on it.",
+  "shortdescription" : "Peacekeeper Wide Poster",
+  "race" : "generic",
+
+  "apexDescription" : "This poster is a request for information on a local crime organisation.",
+  "avianDescription" : "This poster shows pictures of some recently seen criminals.",
+  "floranDescription" : "Floran uninterested in wall paper.",
+  "glitchDescription" : "Intrigued. This poster shows some local brigands who have so far averted justice.",
+  "humanDescription" : "A classic \"wanted\" poster. Apparently there are some local criminals on the run and up to no good!",
+  "hylotlDescription" : "Hmm - it seems that the Peacekeepers are currently tracking some local criminal who has averted justice.",
+  "novakidDescription" : "This poster is sayin' that there's some real varmints on the run right now.",
+
+  "inventoryIcon" : "peacekeeperposter2icon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeeperposter2.png:<color>",
+      "imagePosition" : [-24, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

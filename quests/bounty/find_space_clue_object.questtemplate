@@ -1,0 +1,66 @@
+{
+  "id" : "find_space_clue_object",
+  "title" : "^orange;Kill bounty",
+  "text" : "Find a clue to the location of the bounty",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : true,
+  "hideCrossServer" : true,
+  "parameters" : {
+    "world" : {
+      "type" : "coordinate"
+    },
+    "clue" : {
+      "type" : "item"
+    }
+  },
+  "completionText" : "You have found a clue. Where does it lead?",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "stages" : [
+      "findSpaceBountyStage",
+      "findClueObjectStage"
+    ],
+
+    "objectives" : {
+      "findSpaceBountyStage" : [
+        "^orange;Travel^reset; to ^green;%s^reset;",
+        "^orange;Approach^reset; the ^green;Criminal Hideout^reset;",
+        "^orange;Deploy^reset; to the ^green;Criminal Hideout^reset;"
+      ],
+      "findClueObjectStage" : [
+        "^orange;Search^reset; space for ^green;hideout^reset;",
+        "^orange;Search^reset; for clues"
+      ]
+    },
+
+    "playExploreMessage" : false,
+    "playApproachMessage" : false,
+    "approachMusic" : "/music/dead-or-alive.ogg",
+
+    "generatedText" : {
+      "text" : {
+        "prev" : [
+          "^green;<coordinate.name>^reset;:\nComputer records here told me that that <bounty.name> is <next.coordinate.preposition> <next.coordinate.name>.\n\n",
+          "^green;<coordinate.name>^reset;:\nMy master hacking skills have led me to <next.coordinate.name>.\n\n",
+          "^green;<coordinate.name>^reset;:\nMy advanced hacking skills have led me to <next.coordinate.name>.\n\n",
+          "^green;<coordinate.name>^reset;:\nCracking the criminal's secure database gave me the location \"<next.coordinate.name>\".\n\n"
+        ],
+        "default" : [
+          "^orange;<bounty.name>^reset; was last seen <coordinate.preposition> <coordinate.name>.\n\n",
+          "^orange;<bounty.name>^reset; was last spotted <coordinate.preposition> <coordinate.name>.\n\n",
+          "^orange;<bounty.name>^reset;'s trail went cold <coordinate.preposition> <coordinate.name>.\n\n"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "objectName" : "bigapescreen",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "price" : 3000,
+  "rarity" : "Common",
+  "description" : "This screen displays a variety of propaganda messages from Big Ape.",
+  "shortdescription" : "Ape Monitor",
+  "race" : "apex",
+
+  "floranDescription" : "Floran thinksss ssso-called 'big' ape not so big.",
+  "glitchDescription" : "Alarmed. These video clips contain numerous subliminal messages.",
+
+  "inventoryIcon" : "bigapescreenframe.png",
+  "orientations" : [
+    {
+      "image" : "bigapescreenframe.png",
+      "imagePosition" : [-32, 0],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "animationPosition" : [0, 72],
+  "animationParts" : {
+    "frame" : "bigapescreenframe.png",
+    "screen" : "bigapescreen.png"
+  },
+  "animation" : "bigapescreen.animation",
+
+  "scripts" : [ "bigapescreen.lua" ],
+
+  // Override launcherGroups when spawning the object
+  // Used to filter which launchers to fire
+  "launcherGroups" : [ 1 ],
+  "fistOffset" : [0, 0]
+}

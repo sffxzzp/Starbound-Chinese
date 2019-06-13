@@ -1,0 +1,100 @@
+{
+  "objectName" : "peacekeepervendingmachine",
+  "colonyTags" : ["peacekeeper","mechanical","commerce"],
+  "rarity" : "Common",
+  "category" : "other",
+  "price" : 300,
+  "printable" : false,
+  "description" : "A vending machine that appears to cook and dispense only donuts.",
+  "shortdescription" : "Peacekeeper Vending Machine",
+  "race" : "generic",
+
+  "apexDescription" : "These pastry products are so unhealthy. I should probably not have too many.",
+  "avianDescription" : "Donuts? How lovely!",
+  "floranDescription" : "Floran doessn't like any treats that aren't made of meat.",
+  "glitchDescription" : "Excited. Such treasures lie within!",
+  "humanDescription" : "Donuts! Mankind's most beloved food. There sure is a variety of them in here!",
+  "hylotlDescription" : "This unhealthy treats are not worth polluting my body with. Well... Maybe just one.",
+  "novakidDescription" : "Y'know, I ain't even sure if these are bad for the health o' someone like me.",
+
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/vendingmachine.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Donut Vendor",
+        "subtitle" : " Stock up on your pastry!"
+      }
+    },
+    "buyFactor" : 0.5,
+    "sellFactor" : 0.2,
+    "items" : [
+      { "item" : "bananacreamdonut" },
+      { "item" : "choconut" },
+      { "item" : "spookydonut" },
+      { "item" : "toxicjamdonut" },
+      { "item" : "wartweedjamdonut" }
+    ]
+  },
+
+  "inventoryIcon" : "peacekeepervendingmachineicon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeepervendingmachine_left.png:<color>",
+      "imagePosition" : [-16, -0],
+
+      "direction" : "left",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,3], [0,3] ]
+    },
+    {
+      "image" : "peacekeepervendingmachine.png:<color>",
+      "imagePosition" : [-16, -0],
+
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : ["bottom"],
+      "collision" : "platform",
+      "collisionSpaces" : [ [-1,3], [0,3] ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_loud.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "scripts" : [
+    "/scripts/npcToyObject.lua"
+  ],
+  "scriptDelta" : 60,
+
+  "npcToy" : {
+    "influence" : [
+      "vendingmachineActivate",
+      "vendingmachineCollect",
+      "vendingmachineConsume",
+      "vendingmachineComplete"
+    ],
+    "defaultReactions" : {
+      "vendingmachineActivate" : [
+        [1.0, "pressbutton"]
+      ],
+      "vendingmachineCollect" : [
+        [1.0, "crouchcollect"]
+      ],
+      "vendingmachineConsume" : [
+        [1.0, "drink"]
+      ],
+      "vendingmachineComplete" : [
+        [1.0, "smile"],
+        [0.1, "vomit"]
+      ]
+    },
+    "preciseStandPositionLeft" : [-2.0, 1.0],
+    "preciseStandPositionRight" : [2.0, 1.0],
+    "maxNpcs" : 1
+  }
+}

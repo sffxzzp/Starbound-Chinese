@@ -1,0 +1,65 @@
+{
+  "id" : "cultist_mission1",
+  "title" : "This text will not be displayed",
+  "text" : "This text will not be displayed",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : true,
+  "showFailDialog" : true,
+  "hideCrossServer" : true,
+  "parameters" : {
+    "world" : {
+      "type" : "coordinate"
+    },
+    "bounty" : {
+      "type" : "npcType"
+    }
+  },
+  "completionText" : "This text will not be displayed",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : false,
+
+  "guiConfigs" : {
+    "questComplete" : "/interface/windowconfig/questcomplete_bounty.config"
+  },
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "associatedMission" : "missioncultist1",
+    "missionUnlockedCinema" : "/cinematics/coordinates.cinematic",
+
+    "stages" : [
+      "finalMissionStage"
+    ],
+
+    "objectives" : {
+      "finalMissionStage" : [
+        "Use ^orange;S.A.I.L^reset; to deploy to the ^green;Dantalion^reset;",
+        "^orange;Apprehend^reset; ^green;Asra Nox^reset;"
+      ]
+    },
+
+    "bountyCinematic" : "/cinematics/prison/prison.cinematic",
+
+    "generatedText" : {
+      "text" : {
+        "prev" : [
+          "My findings <prev.coordinate.preposition> <prev.coordinate.name> have led me to believe <bounty.name> is <coordinate.preposition> <coordinate.name>."
+        ],
+        "default" : [
+          "<bounty.name> was last seen on <coordinate.name>."
+        ]
+      },
+      "complete" : {
+        "default" : [
+          "You took out <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper office next time you're on the Outpost to collect your rewards!"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,795 @@
+{
+  "muteSfx" : true,
+  "muteMusic" : true,
+  "skippable" : true,
+  "letterbox" : false,
+  "backgroundColor" : [0, 0, 0, 255],
+  "backgroundFadeTime" : 0.5,
+
+  "panels" : [
+// -------------------------------- spotlight
+    {
+      "startTime" : 1,
+      "endTime" : 46,
+      "drawables" : [
+        {
+          "image" : "/cinematics/peacekeeper/shadow.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [485, 230]
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 40,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 40.5,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// -------------------------------- Captain
+    {
+      "startTime" : 1,
+      "endTime" : 46,
+      "drawables" : [
+        {
+          "image" : "/cinematics/peacekeeper/captain1.png:<frame>"
+        }
+      ],
+      "animationFrames" : 6,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [484, 256],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 23.45,
+          "alpha" : 1,
+          "frame" : 0
+        },
+        {
+          "timecode" : 23.5,
+          "alpha" : 1,
+          "frame" : 1
+        },
+        {
+          "timecode" : 29.99,
+          "alpha" : 1,
+          "frame" : 1
+        },
+        {
+          "timecode" : 30,
+          "alpha" : 1,
+          "frame" : 2
+        },
+        {
+          "timecode" : 40,
+          "alpha" : 1,
+          "frame" : 2
+        },
+        {
+          "timecode" : 40.5,
+          "alpha" : 0,
+          "frame" : 2
+        }
+      ]
+    },
+
+
+// ------------------ radio message popup background
+    {
+      "startTime" : 1.5,
+      "endTime" : 90,
+      "drawables" : [
+        {
+          "image" : "/cinematics/radiomessagebg.png:<frame>"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [480, 100],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "frame" : 6
+        },
+        {
+          "timecode" : 146.5,
+          "frame" : 6
+        },
+        {
+          "timecode" : 147,
+          "frame" : 12
+        }
+      ]
+    },
+
+
+
+// ----------------- first radio message
+    {
+      "startTime" : 2.0,
+      "endTime" : 7.5,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "You there! You're holdin' a Matter Manipulator, ain't yer?",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+
+      ]
+    },
+
+// -------------------- second radio message
+    {
+      "startTime" : 7.5,
+      "endTime" : 15.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "Well ain't this my lucky day. One of you managed to escape, huh? Looks like you can take care of yourself as well.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3.3,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+//------------------------------- third radio message
+    {
+      "startTime" : 15.0,
+      "endTime" : 24.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "The name's ^orange;Captain Noble^white;, an' I think you and I...",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- fourth radio message
+    {
+      "startTime" : 24.0,
+      "endTime" : 30.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "Are gonna accomplish great things together!",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- fifth radio message
+    {
+      "startTime" : 30.0,
+      "endTime" : 42.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "Let me lay out the facts for yer. Sit tight, partner.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2,
+          "frame" : 12,
+          "textPercentage" : 0.65
+        },
+        {
+          "timecode" : 4,
+          "frame" : 12,
+          "textPercentage" : 0.65
+        },
+        {
+          "timecode" : 4.75,
+          "frame" : 18,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- sixth radio message
+    {
+      "startTime" : 42.0,
+      "endTime" : 50.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "When the Terrene Protectorate formed, it aimed to unite the universe with diplomacy - hugs an' kisses an' all that.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+
+// --------------------- City
+    {
+      "startTime" : 42,
+      "endTime" : 76,
+      "drawables" : [
+        {
+          "image" : "/cinematics/peacekeeper/cityscape.png:<frame>"
+        }
+      ],
+      "animationFrames" : 4,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [479, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 28,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 30,
+          "frame" : 300,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------- eigth radio message
+    {
+      "startTime" : 50.0,
+      "endTime" : 57.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "It was a nice goal, but it don't mean you ain't gonna have some folks wantin' to throw the first punch. That's where we came in.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------------- Emblem
+    {
+      "startTime" : 57,
+      "endTime" : 78,
+      "drawables" : [
+        {
+          "image" : "/cinematics/peacekeeper/emblem.png:<frame>"
+        }
+      ],
+      "animationFrames" : 4,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [480, 386],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.25,
+          "alpha" : 1.0,
+          "frame" : 0
+        },
+        {
+          "timecode" : 1,
+          "alpha" : 1.0,
+          "frame" : 3
+        },
+        {
+          "timecode" : 12,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 14,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------- ninth radio message
+    {
+      "startTime" : 57.0,
+      "endTime" : 65.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "The ^orange;Terrene Peacekeepers^white;, a quiet team of expert detectives an' bounty hunters who dismantled the organisations threatenin' peace on Earth.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 4,
+          "frame" : 16,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+
+// --------------- tenth radio message
+    {
+      "startTime" : 65.0,
+      "endTime" : 73.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captain.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "Out of the public eye, we'd keep Earth safe so that the Protectorate could safely promote their message of unity. It was a darn good time for us all.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// -------------------------------- spotlight
+    {
+      "startTime" : 73,
+      "endTime" : 90,
+      "drawables" : [
+        {
+          "image" : "/cinematics/peacekeeper/shadow.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [485, 230]
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 30,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 32,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// -------------------------------- Captain
+    {
+      "startTime" : 73,
+      "endTime" : 90,
+      "drawables" : [
+        {
+          "image" : "/cinematics/peacekeeper/captain2.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [484, 256],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 30,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 32,
+          "frame" : 260,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------- eleventh radio message
+    {
+      "startTime" : 73.0,
+      "endTime" : 83.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captainrage.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "But now Earth is gone, and so are the Peacekeepers. I may be the only Peacekeeper left, but I ain't gonna let that stop me!",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+
+// --------------- eighteenth radio message
+    {
+      "startTime" : 83.0,
+      "endTime" : 90.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/captainrage.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "I wanna rebuild the Peacekeepers! I wanna bust some crime rings! And I wanna look mighty slick doin' it all! Are you with me, partner?!",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 3.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    }
+
+  ],
+
+
+
+  "audio" : [
+    {
+      "timecode" : 2.25,
+      "endTimecode" : 4.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 7.75,
+      "endTimecode" : 10.75,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 15.25,
+      "endTimecode" : 17,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 24.25,
+      "endTimecode" : 26,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 30.25,
+      "endTimecode" : 32,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 34,
+      "endTimecode" : 34.7,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 42.25,
+      "endTimecode" : 45.25,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 50.25,
+      "endTimecode" : 53.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 57.25,
+      "endTimecode" : 60.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 65.25,
+      "endTimecode" : 68.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 73.25,
+      "endTimecode" : 76,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 83.25,
+      "endTimecode" : 86.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    /*
+    {
+      "timecode" : 0,
+      "resource" : "/sfx/cinematics/esther_start.ogg"
+    },
+    */
+    {
+      "timecode" : 24.3,
+      "endTimecode" : 26.5,
+      "loops" : 0,
+      "resource" : "/sfx/melee/whip_impact1.ogg"
+    },
+    {
+      "timecode" : 90,
+      "endTimecode" : 94,
+      "loops" : 0,
+      "resource" : "/sfx/instruments/drumkit/52.ogg"
+    },
+    {
+      "timecode" : 0,
+      "endTimecode" : 90,
+      "loops" : 0,
+      "resource" : "/music/housecleaning.ogg"
+    }
+  ]
+}

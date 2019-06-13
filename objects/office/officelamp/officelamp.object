@@ -1,0 +1,50 @@
+{
+  "objectName" : "officelamp",
+  "colonyTags" : ["office","light"],
+  "rarity" : "Common",
+  "category" : "light",
+  "lightColor" : [176, 176, 121],
+  "price" : 105,
+  "description" : "A small lamp with an adjustable head.",
+  "shortdescription" : "Office Desk Lamp",
+  "race" : "generic",
+
+  "apexDescription" : "This small lamp is very solidly made.",
+  "avianDescription" : "This lamp is made to sit on a desk.",
+  "floranDescription" : "Sssmall light can be placed anywhere.",
+  "glitchDescription" : "Interested. This small lamp can be pointed in any direction.",
+  "humanDescription" : "A small lamp designed to be placed on a desk.",
+  "hylotlDescription" : "This reading lamp is simple but works very well.",
+  "novakidDescription" : "Just a small lamp for readin'.",
+
+  "inventoryIcon" : "officelampicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "officelamp.png:<color>.<frame>",
+      "imagePosition" : [-8, 0],
+      "animationPosition" : [-8, 0],
+      "lightPosition" : [1, 1],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+  
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "officelamp.png",
+    "fg" : "officelamplit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/tinywallswitch.ogg" ],
+      "off" : [ "/sfx/objects/tinywallswitch.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [-1, 3] ]
+}

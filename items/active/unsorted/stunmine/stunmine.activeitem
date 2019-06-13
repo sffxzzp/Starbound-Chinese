@@ -1,0 +1,100 @@
+{
+  "itemName" : "stunmine",
+  "description" : "This remotely-triggered inertial inhibitor keep subjects briefly locked in place.",
+  "shortdescription" : "Stun Mine",
+  "level" : 1,
+  "price" : 500,
+  "rarity" : "Rare",
+  "category" : "tool",
+  "tooltipKind" : "base",
+  "inventoryIcon" : "iconfull.png",
+  "maxStack" : 1,
+
+  "icons" : {
+    "full" : "/items/active/unsorted/stunmine/iconfull.png",
+    "trigger" : "/items/active/unsorted/stunmine/icontrigger.png"
+  },
+
+  "twoHanded" : false,
+
+  "scripts" : ["stunmine.lua"],
+
+  "animation" : "stunmine.animation",
+  "animationCustom" : {},
+
+  "fireAngleOffset" : 20,
+
+  "stances" : {
+    "idle" : {
+      "armRotation" : -50,
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "animationState" : {
+        "inHand" : "mine"
+      }
+    },
+    "windup" : {
+      "armRotation" : [-50, -100],
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "duration" : 0.1,
+      "transition" : "throw"
+    },
+    "throw" : {
+      "armRotation" : [-100, -20],
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "duration" : 0.1,
+      "transition" : "afterThrow",
+
+      "transitionFunction" : "launchMine"
+    },
+    "afterThrow" : {
+      "armRotation" : -20,
+      "allowRotate" : false,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "animationState" : {
+        "inHand" : "empty"
+      },
+
+      "duration" : 0.2,
+      "transitionFunction" : "launchComplete"
+    },
+    "readyTrigger" : {
+      "armRotation" : -30,
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "animationState" : {
+        "inHand" : "trigger"
+      }
+    },
+    "trigger" : {
+      "armRotation" : [-30, -50],
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "duration" : 0.1,
+      "transition" : "afterTrigger"
+    },
+    "afterTrigger" : {
+      "armRotation" : [-50, -30],
+      "allowRotate" : true,
+      "allowFlip" : true,
+      "twoHanded" : false,
+
+      "duration" : 0.1,
+      "transitionFunction" : "triggerComplete"
+    }
+  }
+}

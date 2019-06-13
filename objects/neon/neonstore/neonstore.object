@@ -1,0 +1,52 @@
+{
+  "objectName" : "neonstore",
+  "colonyTags" : ["peacekeeper","commerce"],
+  "rarity" : "Uncommon",
+  "category" : "other",
+  "description" : "A store with an assortment of Neon Peacekeeper furniture.",
+  "shortdescription" : "Neon Store",
+  "race" : "generic",
+  "printable" : false,
+
+  "interactAction" : "OpenMerchantInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/vendingmachine.config",
+    "paneLayoutOverride" : {
+      "windowtitle" : {
+        "title" : " Neon Furnishings",
+        "subtitle" : " Decorate like a Peacekeeper!"
+      }
+    },
+    "buyFactor" : 1,
+    "sellFactor" : 0.2,
+    "items" : [
+      { "item" : "neonlight" },
+      { "item" : "neontriangle" },
+      { "item" : "neonlamppost" },
+      { "item" : "neonhologram" },
+      { "item" : "neonpeacekeeperemblem" }
+    ]
+  },
+
+  "apexDescription" : "The individual manning this stall doesn't appear to be a Glitch. Perhaps they are some other kind of automaton?",
+  "avianDescription" : "This store's neon aesthetic sure is intriguing!",
+  "floranDescription" : "Floran thinksss Floran could beat shop perssson in fistfight.",
+  "glitchDescription" : "Intrigued. This shopkeeper appears to be mechanical, but he does not appear to be a Glitch.",
+  "humanDescription" : "This guy doesn't seem to say much, but his shop sure looks pretty cool.",
+  "hylotlDescription" : "If this shop needs to insist it is \"cool\" then my expectations are already low.",
+  "novakidDescription" : "I sure would like to peruse this here store!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "neonstore.png:<color>.<frame>" }, { "image" : "neonstore_fullbright.png:<color>.<frame>", "fullbright" : true } ],
+
+      "imagePosition" : [-24, -24],
+      "frames" : 18,
+      "animationCycle" : 1.8,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

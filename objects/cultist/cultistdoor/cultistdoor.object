@@ -1,0 +1,66 @@
+{
+  "objectName" : "cultistdoor",
+  "colonyTags" : ["cultist","evil","door"],
+  "rarity" : "Uncommon",
+
+  "category" : "door",
+  "price" : 145,
+  "description" : "A purple door with an eye, fit for an evil cult.",
+  "shortdescription" : "Cultist Door",
+  "race" : "human",
+
+  "apexDescription" : "This large eye... Feels like I'm being watched.",
+  "avianDescription" : "The eye on this door is clearly some cultist symbolism.",
+  "floranDescription" : "Floran does not like thisss large eye door.",
+  "glitchDescription" : "Unsettled. The large eye symbol on this door seems to gaze around.",
+  "humanDescription" : "This door has a large eye emblazoned on it.",
+  "hylotlDescription" : "The large eye symbol on this door is most unsettling.",
+  "novakidDescription" : "Get the feelin' somethin' just ain't right about this door.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "image" : "cultistdoor.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "cultistdoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "sensorConfig" : {},
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "cultistdoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

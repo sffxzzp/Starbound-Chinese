@@ -1,0 +1,50 @@
+{
+  "type" : "peacekeepervillager",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/peacekeeperconverse.config:converse"
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "peacekeeperchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "peacekeeperpants", "parameters" : { "colorIndex" : [0] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+          {
+            "chest" : [ { "name" : "peacekeeperchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "peacekeeperpants", "parameters" : { "colorIndex" : [0] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+          {
+            "chest" : [ { "name" : "peacekeeperchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "peacekeeperpants", "parameters" : { "colorIndex" : [0] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+          {
+            "head" : [ { "name" : "peacekeeperhead", "parameters" : { "colorIndex" : [0] } } ],
+            "chest" : [ { "name" : "peacekeeperchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "peacekeeperpants", "parameters" : { "colorIndex" : [0] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

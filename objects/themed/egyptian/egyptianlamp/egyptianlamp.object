@@ -1,0 +1,75 @@
+{
+  "objectName" : "egyptianlamp",
+  "colonyTags" : ["light", "egyptian"],
+  "rarity" : "Common",
+  "description" : "A large ornate oil lamp that burns with a soft blue flame.",
+  "shortdescription" : "Egyptian Lamp",
+  "race" : "generic",
+  "category" : "light",
+  "price" : 30,
+
+  "maximumLiquidLevel" : 1,
+
+  "apexDescription" : "A raised wooden torch.",
+  "avianDescription" : "A tall flickering torch.",
+  "floranDescription" : "High torch holdss fire.",
+  "glitchDescription" : "Serene. A tall torch, the flame flickers.",
+  "humanDescription" : "A crackling torch.",
+  "hylotlDescription" : "A raised torch provides light for a large area.",
+  "novakidDescription" : "The flame is cracklin' away.",
+
+  "statusEffects" : [ ],
+
+  "lightColor" : [115, 186, 216, 255],
+
+  "flickerPeriod" : 0.3,
+  "flickerMinIntensity" : 0.95,
+  "flickerMaxIntensity" : 1,
+  "flickerPeriodVariance" : 0.075,
+  "flickerIntensityVariance" : 0.025,
+
+  "inventoryIcon" : "egyptianlampicon.png",
+  "orientations" : [
+    {
+      "image" : "egyptianlamp.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "animationPosition" : [-16, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "egyptianlamp.png:<color>.<frame>",
+      "imagePosition" : [-16, 0],
+      "animationPosition" : [-16, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "soundEffect" : "/sfx/objects/torch.ogg",
+  "soundEffectRangeMultiplier" : 0.5,
+
+  "animation" : "egyptianlamp.animation",
+  "animationParts" : {
+    "bg" : "egyptianlamp.png",
+    "fg" : "egyptianlamplit.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "on" : [ "/sfx/objects/torch_on1.ogg", "/sfx/objects/torch_on2.ogg" ],
+      "off" : [ "/sfx/objects/torch_off1.ogg", "/sfx/objects/torch_off2.ogg", "/sfx/objects/torch_off3.ogg" ]
+    }
+  },
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+  
+  // "interactive" : false,
+
+  "inputNodes" : [ [0, 2] ]
+}

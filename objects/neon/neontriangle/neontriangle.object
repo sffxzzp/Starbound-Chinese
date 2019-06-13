@@ -1,0 +1,49 @@
+{
+  "objectName" : "neontriangle",
+  "colonyTags" : ["neon","light"],
+  "rarity" : "Uncommon",
+  "category" : "light",
+  "price" : 85,
+  "description" : "This wall ornament glows with a bold magenta light.",
+  "shortdescription" : "Neon Triangle",
+  "race" : "generic",
+
+  "apexDescription" : "A triangle of glass tubing, filled with a neon filament.",
+  "avianDescription" : "This wall light radiates with a calming glow!",
+  "floranDescription" : "Floran wantsss to use wall thing as throwing weapon.",
+  "glitchDescription" : "Curious. The design of this wall-mounted emblem is very minimalist.",
+  "humanDescription" : "This wall light definitely makes a room feel cool and ready for parties.",
+  "hylotlDescription" : "What a garish colour.",
+  "novakidDescription":  "I hafta say, I do have a personal preference for anythin' neon and glowin'!",
+
+  "lightColor" : [249, 21, 207],
+
+  "inventoryIcon" : "neontriangleicon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "neontriangle.png:<color>.<frame>", "fullbright" : true }, { "image" : "neontrianglelit.png:<color>.<frame>" } ],
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/wired/light/lighttogglebgfullbright.animation",
+  "animationParts" : {
+    "bg" : "neontriangle.png",
+    "fg" : "neontrianglelit.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "scripts" : [ "/objects/wired/light/light.lua" ],
+  "scriptDelta" : 60,
+
+  "inputNodes" : [ [0, 0] ],
+  "interactive" : false,
+
+  "soundEffect" : "/sfx/objects/fluorescent_light_loud.ogg",
+  "soundEffectRangeMultiplier" : 0.5
+
+}

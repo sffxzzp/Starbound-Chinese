@@ -1,0 +1,131 @@
+{
+  "type" : "noxcapture",
+  "shortdescription" : "Asra Nox",
+  "categories" : [ "noxcapture" ],
+  "parts" : [ ],
+
+  "animation" : "noxcapture.animation",
+  "reversed" : false,
+
+  "dropPools" : [ ],
+
+  "baseParameters" : {
+    "scripts" : [
+      "/monsters/boss/swansong/noxcapture.lua"
+    ],
+    "initialScriptDelta" : 3,
+
+    "dialogTime" : 15.0,
+    "chatPortrait" : "/interface/chatbubbles/noxcapture.png",
+    "dialog" : [
+      "Hngh... In a way, I admire what you have, \"Protector\".",
+      "All these years driven by vengeance, surrounded by hateful people? I've lived a lonely life.",
+      "Tell Esther that I'm... Sorry."
+    ],
+
+    "renderLayer" : "Projectile-10",
+
+    "damageBar" : "None",
+
+    "metaBoundBox" : [-80, -50, 80, 50],
+    "scale" : 1.0,
+
+    "selfDamagePoly" : [ [-0.75, -2.0], [-0.35, -2.5], [0.35, -2.5], [0.75, -2.0], [0.75, -1], [0.35, -0.5], [-0.35, -0.5], [-0.75, -1] ],
+
+    "movementSettings" : {
+      "collisionPoly" : [ [-0.75, -2.0], [-0.35, -2.5], [0.35, -2.5], [0.75, -2.0], [0.75, -1], [0.35, -0.5], [-0.35, -0.5], [-0.75, -1] ],
+      "mass" : 1.0,
+      "physicsEffectCategories" : ["boss"]
+    },
+
+    "knockoutTime" : 0.1,
+    "knockoutEffect" : "blink",
+    "deathParticles" : "deathPoof",
+
+    "touchDamage" : {
+      "poly" : [ [-5, -13.5], [5, -13.5], [5, 5], [-5, 5] ],
+      "damage" : 20,
+
+      "teamType" : "enemy",
+      "damageSourceKind" : "hammer",
+      "statusEffects" : [ ]
+    },
+
+    "statusSettings" : {
+      "statusProperties" : {
+        "targetMaterialKind" : "metal",
+        "damageFlashColor" : "ff0000=0.05"
+      },
+
+      "appliesEnvironmentStatusEffects" : false,
+      "appliesWeatherStatusEffects" : false,
+      "minimumLiquidStatusEffectPercentage" : 0.1,
+
+      "primaryScriptSources" : [
+        "/stats/monster_primary.lua"
+      ],
+      "primaryScriptDelta" : 5,
+
+      "stats" : {
+        "knockbackStunTime" : {
+          "baseValue" : 0.25
+        },
+        "grit" : {
+          "baseValue" : 1.0
+        },
+        "maxHealth" : {
+          "baseValue" : 50
+        },
+        "protection" : {
+          "baseValue" : 75.0
+        },
+        "healthRegen" : {
+          "baseValue" : 0.0
+        },
+        "powerMultiplier" : {
+          "baseValue" : 1.0
+        },
+        "physicalResistance" : {
+          "baseValue" : 0.0
+        },
+        "fireStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "iceStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "electricStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "poisonStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "specialStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "healingStatusImmunity" : {
+          "baseValue" : 1.0
+        },
+        "invulnerable" : {
+          "baseValue" : 1.0
+        }
+      },
+
+      "resources" : {
+        "stunned" : {
+          "deltaValue" : -1.0,
+          "initialValue" : 0.0,
+          "maxValue" : 0.0
+        },
+        "health" : {
+          "maxStat" : "maxHealth",
+          "deltaStat" : "healthRegen",
+          "defaultPercentage" : 1.0
+        }
+      }
+    },
+
+    "mouthOffset" : [0, 0],
+    "feetOffset" : [0, -8]
+  }
+}

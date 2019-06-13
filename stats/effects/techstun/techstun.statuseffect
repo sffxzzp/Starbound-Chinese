@@ -1,0 +1,13 @@
+{
+  "name" : "techstun",
+  "blockingStat" : "specialStatusImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "techstun.lua"
+  ],
+
+  "label" : "Tech Stun",
+  "icon" : "/interface/statuses/timefreeze.png"
+}

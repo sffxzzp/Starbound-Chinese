@@ -1,0 +1,66 @@
+{
+  "objectName" : "peacekeeperdoor",
+  "colonyTags" : ["peacekeeper","door"],
+  "rarity" : "Uncommon",
+
+  "category" : "door",
+  "price" : 165,
+  "description" : "An automatic door, typically used in Peacekeeper Stations.",
+  "shortdescription" : "Peacekeeper Door",
+  "race" : "generic",
+
+  "apexDescription" : "This automatic door is stylised with a Peacekeeper emblem.",
+  "avianDescription" : "This door is adorned with a proud emblem.",
+  "floranDescription" : "Floran sees door. Floran wantsss to walk through door.",
+  "glitchDescription" : "Impressed. I appreciate that this door chooses to open itself, rather than waiting to be opened.",
+  "humanDescription" : "Y'know, the Peacekeeper emblem sure looks like a happy face...",
+  "hylotlDescription" : "I have seen more elegant doors than this.",
+  "novakidDescription" : "This door opens itself! Mighty convenient...",
+
+  "inventoryIcon" : "peacekeeperdooricon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeeperdoor.png:default",
+      "flipImages" : true,
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "left"
+    },
+    {
+      "image" : "peacekeeperdoor.png:default",
+      "imagePosition" : [-20, 0],
+      "renderLayer" : "Object+5",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "top" ],
+      "direction" : "right"
+    }
+  ],
+
+  "scripts" : [ "/objects/wired/door/door.lua" ],
+  "scriptDelta" : 5,
+
+  "sensorConfig" : {},
+
+  "animation" : "/objects/wired/door/door.animation",
+  "animationCustom" : {
+    "sounds" : {
+      "open" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_open.ogg" ],
+        "rangeMultiplier" : 0.5
+      },
+      "close" : {
+        "pool" : [ "/sfx/objects/apexcooldoor_close.ogg" ],
+        "rangeMultiplier" : 0.5
+      }
+    }
+  },
+  "animationParts" : {
+    "door" : "peacekeeperdoor.png"
+  },
+  "animationPosition" : [-20, 0],
+
+  "inputNodes" : [ [-1, 4] ],
+  "outputNodes" : [ [0, 0] ]
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "officenoticeboard",
+  "colonyTags" : ["office"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 70,
+
+  "shortdescription" : "Office Noticeboard",
+  "description" : "A hanging board with papers tacked on it.",
+  "race" : "generic",
+
+  "apexDescription" : "There are various small bits of information attached to this board.",
+  "avianDescription" : "A board filled with seemingly unimportant information.",
+  "floranDescription" : "A board filled with coloured papersss.",
+  "glitchDescription" : "Confused. There are scattered pieces of information on this board, it may have been important to someone.",
+  "humanDescription" : "This looks like a good place to post a reminder.",
+  "hylotlDescription" : "The arrangement of these papers looks almost artistic.",
+  "novakidDescription" : "Looks t'me like a notice board.",
+
+  "inventoryIcon" : "officenoticeboardicon.png",
+  "orientations" : [
+    {
+      "image" : "officenoticeboard.png:<color>",
+      "imagePosition" : [-16, -8],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

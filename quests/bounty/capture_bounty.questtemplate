@@ -1,0 +1,71 @@
+{
+  "id" : "capture_bounty",
+  "title" : "^orange;Bounty^reset;",
+  "text" : "",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : true,
+  "showFailDialog" : true,
+  "hideCrossServer" : true,
+  "parameters" : {
+    "world" : {
+      "type" : "coordinate"
+    },
+    "bounty" : {
+      "type" : "npcType"
+    }
+  },
+  "completionText" : "You killed the bounty",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "guiConfigs" : {
+    "questComplete" : "/interface/windowconfig/questcomplete_bounty.config"
+  },
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "stages" : [
+      "findWorldStage",
+      "killBountyStage"
+    ],
+
+    "objectives" : {
+      "findWorldStage" : [
+        "^orange;Travel^reset; to %s"
+      ],
+      "killBountyStage" : [
+        "^orange;Search^reset; planet for target signature",
+        "^orange;Apprehend^reset; ^green;<bounty.name>^reset;"
+      ]
+    },
+
+    "playExploreMessage" : false,
+    "playApproachMessage" : false,
+    "approachMusic" : "/music/dead-or-alive.ogg",
+
+    "generatedText" : {
+      "text" : {
+        "default" : [
+          "<bounty.name> was last seen <coordinate.preposition> <coordinate.name>."
+        ]
+      },
+      "complete" : {
+        "default" : [
+          "You took on <bounty.name>? an' came out on top! The universe is vast, but the arm of the law is long.\n\nCome by the Peacekeeper Station to collect your rewards!",
+          "Mighty fine job takin' on <bounty.name>! The universe is vast, but the arm of the law is long!\n\nCome by the Peacekeeper Station to collect your rewards!"
+        ]
+      },
+      "failureText" : {
+        "default" : [
+          "You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"
+        ]
+      }
+    }
+  }
+}

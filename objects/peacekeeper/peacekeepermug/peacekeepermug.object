@@ -1,0 +1,32 @@
+{
+  "objectName" : "peacekeepermug",
+  "colonyTags" : ["peacekeeper"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 80,
+
+  "description" : "A fresh mug of coffee. It seems perpetually steaming hot.",
+  "shortdescription" : "Peacekeeper Mug",
+  "race" : "generic",
+
+  "apexDescription" : "Caffeine intake is useful for remaining sharp when on an assignment.",
+  "avianDescription" : "This mug continues to steam. Is it ever going to cool down?",
+  "floranDescription" : "Hot coffee an effective improvisssational weapon against flesh people.",
+  "glitchDescription" : "Curious. An inscription on this mug reads, \"Universe's #1 Detective\".",
+  "humanDescription" : "There's writing on this mug says, \"Universe's #1 Detective\".",
+  "hylotlDescription" : "This looks much too hot to drink. I best leave it.",
+  "novakidDescription" : "Nothin' like a fresh cup o' coffee to get you goin' in the mornin'.",
+
+  "inventoryIcon" : "peacekeepermugicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "peacekeepermug.png:<color>.<frame>",
+      "imagePosition" : [0, 0],
+      "frames" : 14,
+      "animationCycle" : 1.4,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

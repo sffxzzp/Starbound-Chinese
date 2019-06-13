@@ -1,0 +1,22 @@
+{
+  "itemName" : "peacekeeperaugment1",
+  "price" : 250,
+  "rarity" : "Uncommon",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "peacekeeperaugment.png",
+  "description" : "An EPP module that increases your defense and gives you a soft light.",
+  "shortdescription" : "Peacekeeper I Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "peacekeeper1",
+    "displayName" : "Peacekeeper I",
+    "displayIcon" : "/items/augments/back/peacekeeperaugment.png",
+    "effects" : [ "peacekeeperaugment1" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

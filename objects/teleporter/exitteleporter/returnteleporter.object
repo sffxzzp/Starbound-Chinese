@@ -1,0 +1,39 @@
+{
+  "objectName" : "returnteleporter",
+  "colonyTags" : ["misc"],
+  "printable" : false,
+  "price" : 3000,
+  "rarity" : "Common",
+  "description" : "This teleporter will take you back to where you came from.",
+  "shortdescription" : "Return Teleporter",
+
+  "apexDescription" : "This will let me get out easily.",
+  "avianDescription" : "I can get out by using this!",
+  "floranDescription" : "Teleporter letss Floran get out.",
+  "glitchDescription" : "Relieved. This teleporter will allow me to return.",
+  "humanDescription" : "I can use this once I'm ready to return.",
+  "hylotlDescription" : "A useful way to quickly return.",
+  "novakidDescription" : "A handy way to get out and on to the next adventure!",
+
+  "category" : "teleporter",
+  "lightColor" : [99, 132, 153],
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/returnteleporter.config",
+
+  "inventoryIcon" : "exitteleportericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "exitteleporter.png:<color>", "fullbright" : true }, { "image" : "exitteleporterlit.png:<color>" } ],
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "solid",
+      "collisionSpaces" : [ [-1, 0], [0, 0], [1, 0], [2, 0] ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "exploreclueplanet" : {
+      "senderName" : "Captain Noble",
+      "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+      "text" : "We know the target has been here recently. ^orange;Search^reset; for clues. Don't know where to start? Look around, partner!",
+      "unique" : false
+  },
+  "approachingclue" : {
+      "senderName" : "Captain Noble",
+      "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+      "text" : "Looks like you're gettin' close to the target, partner. ^orange;Investigate^reset; the designated area!",
+      "unique" : false
+  },
+  "approachingbounty" : {
+      "senderName" : "Captain Noble",
+      "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+      "text" : "It looks like your target is real close. ^orange;Apprehend the target^reset;, partner!",
+      "unique" : false
+  },
+
+  "tutorialexplore" : {
+      "senderName" : "Captain Noble",
+      "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+      "text" : "Your target could be anywhere on this planet, even underground! ^green;Explore^reset; the planet until we pick up the ^orange;target's signature^reset;, partner!",
+      "unique" : false
+  },
+  "tutorialapproachclue" : {
+      "senderName" : "Captain Noble",
+      "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+      "text" : "We've picked up the ^orange;target signature^reset;! Your ^green;compass^reset; will show you the direction - follow it, partner!",
+      "unique" : false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "glueslow",
+  "blockingStat" : "tarStatusImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 3,
+
+  "scripts" : [
+    "glueslow.lua"
+  ],
+
+  "animationConfig" : "glueslow.animation",
+
+  "label" : "Slow",
+  "icon" : "/interface/statuses/glue.png"
+}

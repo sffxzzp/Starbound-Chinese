@@ -1,0 +1,30 @@
+{
+  "objectName" : "peacekeeperemblem2",
+  "colonyTags" : ["peacekeeper"],
+  "rarity" : "Uncommon",
+  "category" : "decorative",
+  "price" : 2500,
+  "description" : "A rusty wall plaque, embossed with the Peacekeeper's emblem.",
+  "shortdescription" : "Peacekeeper Rusty Emblem",
+  "race" : "generic",
+
+  "apexDescription" : "This emblem need some maintenence.",
+  "avianDescription" : "This emblem has clearly seen better days.",
+  "floranDescription" : "Wall thing is... Russsted.",
+  "glitchDescription" : "Unimpressed. Metal surfaces can be kept in good condition with a good maintenence routine.",
+  "humanDescription" : "This emblem has seen better days.",
+  "hylotlDescription" : "This emblem is in a clear state of disrepair.",
+  "novakidDescription" : "This here shield could do with a bit o' spit-shine.",
+
+  "inventoryIcon" : "peacekeeperemblemicon.png",
+  "orientations" : [
+    {
+      "image" : "peacekeeperemblem2.png:<color>",
+      "imagePosition" : [-16, -16],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  // ------- LUNAR BASE -------
+  "lunarbase01" : {
+    "type" : "mission",
+    "text" : "All life readings emanate from a great depth below the surface. The readings are... Difficult to define. Congratulations in advance for your courage."
+  },
+
+  "lunarbase02" : {
+    "type" : "mission",
+    "text" : "It appears lockdown has been instigated. You must locate a breaker to restore full power. Please proceed with caution in conditions of low light."
+  },
+
+  "lunarbase03" : {
+    "type" : "mission",
+    "text" : "I detect both Erchius chemical signatures and human DNA in these entities. High likelihood of behavioural volatility predicted."
+  },
+
+  "lunarbase04" : {
+    "type" : "mission",
+    "text" : "Erchius readings have reached 94 rad. You are in peril. Your Peril level is currently 14,607 morts."
+  },
+
+  "lunarbase04a" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/estherthoughtful.png:<frame>",
+    "text" : "Sorry about the AI, dear."
+  },
+
+  "lunarbase05" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "Look at them; prolonged contact with the Erchius crystals seems to have denatured their very being! The poor creatures have lost themselves completely."
+  },
+
+  "lunarbase06" : {
+    "type" : "mission",
+    "text" : "Erchius readings have reached 101 rad. Your current Peril level is 18,472 morts..."
+  },
+
+  "lunarbase06a" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/estherthoughtful.png:<frame>",
+    "text" : "Hush! You're not helping."
+  },
+
+
+  "lunarbase07" : {
+    "type" : "mission",
+    "text" : "Conventional weapons have an estimated 0% chance of damaging the Erchius crystal. You are invited to devise another means of attack."
+  },
+
+  "lunarbase08" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "persistTime" : 2.0,
+    "text" : "Well done!"
+  },
+
+  "lunarbase08a" : {
+    "type" : "mission",
+    "text" : "There is enough Erchius here to fully repair the ship."
+  },
+
+  // ------- FLORAN MISSION -------
+
+  "floranmission101" : {
+    "type" : "mission",
+    "text" : "These ruins are ancient and appear to be sacred to the Floran. Readings show they are also dark and ominous."
+  },
+
+  "floranmission102" : {
+    "type" : "mission",
+    "text" : "Bio readings show many lifesigns in these tunnels. 97% hostile. I commend your valour."
+  },
+
+  "floranmission103" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "What a feisty Floran! Reminds me of myself when I was younger, though I had fewer leaves."
+  },
+
+  "floranmission104" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "Whatever these Floran are pursuing is obviously of grave importance to them. They're worse than me on a bug hunt! Be careful, dear."
+  },
+
+  "floranmission105" : {
+    "type" : "mission",
+    "text" : "This substance is organic. Analysis is inconclusive, but it would take a fairly large creature to produce this much matter."
+  },
+
+  "floranmission106" : {
+    "type" : "mission",
+    "text" : "Evidence indicates these entities are not yet fully mature; there is a high likelihood that they are only freshly hatched. You appear to have stumbled into a nest."
+  },
+
+  // ------- APEX MISSION -------
+
+  "apexmission01" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "Looks like we've coincided with a rebel attack against the Miniknog. I think this will be advantageous to both them and us, dear."
+  },
+
+  "apexmission02" : {
+    "type" : "mission",
+    "text" : "Scans show this facility is densely defended by heavily armed guards, patrolling on every level."
+  },
+
+  "apexmission02a" : {
+    "type" : "mission",
+    "text" : "My scanners have just detected another guard... And another one."
+  },
+
+  "apexmission03" : {
+    "type" : "mission",
+    "text" : "This is a linked circuit: lowering this barricade has lowered a corresponding one above ground."
+  },
+
+  "apexmission03a" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "It looks like we can make a positive impact on the rebel war against oppression! Wonderful. Every little helps."
+  },
+
+  "apexmission04" : {
+    "type" : "mission",
+    "text" : "There is another barricade above ground sustained by this shielded generator. I believe if you shut down the shields you can then disable the power, causing the barricade to drop."
+  },
+
+  "apexmission04a" : {
+    "type" : "mission",
+    "text" : "I applaud your tenacious moxie in the pursuit of complex goals."
+  },
+
+  "apexmission05" : {
+    "type" : "mission",
+    "text" : "There are strange life signs down here in the depths of the lab."
+  },
+
+  "apexmission06" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "This is a well established stronghold of the Miniknog... I know you're always sensibly cautious, dear, but I think this time extra care should be taken..."
+  },
+
+  "apexmission06a" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "Big Ape is a profoundly dangerous enemy."
+  },
+
+  // ------- AVIAN MISSION -------
+
+  "avianmission01" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "Best to look around for a way in while he's sleeping, dear. We wouldn't want to worry him."
+  },
+
+  "avianmission02" : {
+    "type" : "mission",
+    "text" : "Previous data would imply that a temple this ancient could not maintain a security system this deadly... Recalibrating Intimation Parameters."
+  },
+
+  "avianmission03" : {
+    "type" : "mission",
+    "text" : "Path split detected. I would advise taking neither the right nor the left path. Regrettably, this is not an option."
+  },
+
+  "avianmission04" : {
+    "type" : "mission",
+    "senderName" : "Nuru",
+    "portraitImage" : "/interface/chatbubbles/nuru.png:<frame>",
+    "text" : "I. Hate. Fire."
+  },
+
+  "avianmission05" : {
+    "type" : "mission",
+    "senderName" : "Nuru",
+    "portraitImage" : "/interface/chatbubbles/nuru.png:<frame>",
+    "text" : "You have to AVOID it! You can't sstab it! You can't shoot it! You just have to sskulk around and hope it doesn't notice you."
+  },
+
+  "avianmission06" : {
+    "type" : "mission",
+    "senderName" : "Koichi",
+    "portraitImage" : "/interface/chatbubbles/koichi.png:<frame>",
+    "text" : "This place is sort of homely... Minus the abominable spikes of course. Obviously..."
+  },
+
+  // ------- HYLOTL MISSION -------
+
+  "hylotlmission01" : {
+    "type" : "mission",
+    "text" : "This island is home to the \"Grand Pagoda Library\" entrance."
+  },
+
+  "hylotlmission02" : {
+    "type" : "mission",
+    "text" : "Current exterior pressure reading 15 quash. Scans show this structure is capable of withstanding in excess of 80 quash. Chance of survival - surprisingly high."
+  },
+
+  "hylotlmission03" : {
+    "type" : "mission",
+    "text" : "You are now approaching the basement level. My readings are distorted but I can estimate your Peril level if you wish... "
+  },
+
+  "hylotlmission03a" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/estherthoughtful.png:<frame>",
+    "text" : "I've heard of these cultists, but I know little about them... I wonder if...? Who can say."
+  },
+
+  "hylotlmission03b" : {
+    "type" : "mission",
+    "senderName" : "Nuru",
+    "portraitImage" : "/interface/chatbubbles/nuru.png:<frame>",
+    "text" : "Don't worry about it! Murderous strangers are totally your sspeciality."
+  },
+
+  "hylotlmission04" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "That woman... Her voice... Could it be, after all this time?"
+  },
+
+  "hylotlmission05" : {
+    "type" : "mission",
+    "text" : "Having analysed the data, I conclude it should have been impossible to reach this room alive. Congratulations on your stubborn perseverance in the face of reason!"
+  },
+
+  // ------- GLITCH MISSION -------
+
+  "glitchmission01" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "This keep belongs to a Glitch known as the Baron. He is a retired hero, and by all accounts a little... Eccentric..."
+  },
+
+  "glitchmission01a" : {
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "He may have a few screws loose, dear, but he's not dangerous."
+  },
+
+
+  // --------- TENTACLE MISSION --------
+
+  "tentaclemission-arrived" : {
+    "type" : "mission",
+    "text" : "Readings indicate that while this structure would appear to be a planet, it is in fact one giant living organism."
+  },
+
+ "tentaclemission-arrived2" : {
+    "unique" : false,
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/lana.png:<frame>",
+    "text" : "You're standing on the Ruin, dear. You can't do much damage on its surface - you'll have to work your way down into it."
+  },
+
+   "tentaclemission-arrived3" : {
+    "unique" : false,
+    "senderName" : "Lana Blake",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "Careful down there. Every creature and substance you encounter is bound to be hostile... "
+  },
+
+    "tentaclemission-bottom" : {
+    "type" : "mission",
+    "text" : "Readings show that there is a vast chasm beneath you that extends fathoms deep. I advise you to try and avoid falling to your death."
+  },
+
+  "tentaclemission-bottom2" : {
+    "unique" : false,
+    "senderName" : "Koichi",
+    "portraitImage" : "/interface/chatbubbles/koichi.png:<frame>",
+    "text" : "SAIL's right, there's a void just under your feet; a huge gap between you and the central structure of the Ruin. You're going to have to figure out a safe way to get down."
+  },
+
+//-- Could this message from the Baron be triggered when you get to the ground on the brain layer?
+//-- "Impressed. A novel decent!"
+
+  "tentaclemission-bossroom" : {
+    "unique" : false,
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "You've reached the Ruin's heart. You must destroy it."
+  },
+
+  "tentaclemission-bossroom2" : {
+    "unique" : false,
+    "senderName" : "Tonauac",
+    "portraitImage" : "/interface/chatbubbles/tonauactalk.png:<frame>",
+    "text" : "May Kluex guide you."
+  },
+
+  "tentaclemission-destruction1" : {
+    "unique" : false,
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "You did it! ...But something's wrong. The Ruin... Its structure is unstable!",
+    "persistTime" : 2.0
+  },
+
+  "tentaclemission-destruction2" : {
+    "unique" : false,
+    "senderName" : "Koichi",
+    "portraitImage" : "/interface/chatbubbles/koichi.png:<frame>",
+    "text" : "It's going to explode! Get out!",
+    "persistTime" : 2.0
+  },
+
+  "tentaclemission-destruction3" : {
+    "unique" : false,
+    "senderName" : "Nuru",
+    "portraitImage" : "/interface/chatbubbles/nuru.png:<frame>",
+    "text" : "Don't tell them what to do, fishface! They've dealt with situations way worse than this before!"
+  },
+
+  // --------- CULTIST MISSION --------
+
+  "cultistmission01a" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "So you've found her... You've found Asra."
+  },
+
+  "cultistmission01b" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Captain Noble",
+    "portraitImage" : "/interface/chatbubbles/captainrage.png:<frame>",
+    "text" : "Is that the legendary Esther Bright on your communication line, partner?! Ma'm, it is an honour to meet you!"
+  },
+
+  "cultistmission01c" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>",
+    "text" : "The pleasure is all mine, dear!"
+  },
+
+  "cultistmission02" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Koichi",
+    "portraitImage" : "/interface/chatbubbles/koichi.png:<frame>",
+    "text" : "It looks like you can, um, summon your mech with this platform. That should be useful in your current excursion."
+  },
+
+  "cultistmission03a" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Lana Blake",
+    "portraitImage" : "/interface/chatbubbles/lana.png:<frame>",
+    "text" : "It is fortunate that our enemy's flying fortress has such weak security protocols."
+  },
+
+  "cultistmission03b" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Captain Noble",
+    "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+    "text" : "Let's see your mighty fine hackin' skills, partner!"
+  },
+
+  "cultistmission03c" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "The Baron",
+    "portraitImage" : "/interface/chatbubbles/baron.png:<frame>",
+    "text" : "Impressed. Despite their deeds, these loathsome cultists at least know how to keep a privy chamber spotless! Ha ha!"
+  },
+
+  "cultistmission04a" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Nuru",
+    "portraitImage" : "/interface/chatbubbles/nuru.png:<frame>",
+    "text" : "A fridge! I wonder what bad guyss eat for breakfast?"
+  },
+
+  "cultistmission04b" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "The Baron",
+    "portraitImage" : "/interface/chatbubbles/baron.png:<frame>",
+    "text" : "Amused. Perhaps they eat... Bad apples? Ho ho! My wit is impeccable!"
+  },
+
+  "cultistmission05a" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Captain Noble",
+    "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+    "text" : "You're makin' good progress, partner. This ship sure is vast, ain't it?"
+  },
+
+  "cultistmission05b" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Tonauac",
+    "portraitImage" : "/interface/chatbubbles/tonauactalk.png:<frame>",
+    "text" : "Why, it's big enough to rival the greatest of Kluex's divine temples!"
+  },
+
+  "cultistmission06a" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/noxstatic.png:<frame>",
+    "text" : "Whose communication channel is this?! Why are you aboard the Dantalion?!"
+  },
+
+  "cultistmission06b" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Asra Nox",
+    "portraitImage" : "/interface/chatbubbles/nox.png",
+    "text" : "Oh. It's ^orange;you^white;."
+  },
+
+  "cultistmission07" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "Oh Asra, when will your obsession with the Ruin end?"
+  },
+
+  "cultistmission08" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Captain Noble",
+    "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+    "text" : "I don't like the look of any of this, partner."
+  },
+
+  "cultistmission09a" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Asra Nox",
+    "portraitImage" : "/interface/chatbubbles/nox.png",
+    "text" : "Don't keep me waiting, \"Protector\"."
+  },
+
+  "cultistmission09b" : {
+    "unique" : false,
+    "type" : "mission",
+    "senderName" : "Esther Bright",
+    "portraitImage" : "/interface/chatbubbles/esthersad.png:<frame>",
+    "text" : "I think this is it, dear. I hope you're ready..."
+  }
+}

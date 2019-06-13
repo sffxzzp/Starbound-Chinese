@@ -1,0 +1,63 @@
+{
+  "type" : "nobleclue",
+  "baseType" : "hostile",
+  
+  "npcname" : "Captain Noble",
+  "identity" : {
+    "name" : "Captain Noble",
+    "gender" : "male",
+    "hairGroup" : "hair",
+    "hairType" : "male20",
+    "facialHairGroup" : "brand",
+    "facialHairType" : "0",
+    "bodyDirectives" : "?replace=fff8b5=fff8b5?replace=fde03f=fde03f?replace=f6b919=f6b919",
+    "hairDirectives" : "?replace=fff8b5=fff8b5?replace=fde03f=fde03f?replace=f6b919=f6b919",
+    "personalityIdle" : "idle.2",
+    "personalityArmIdle" : "idle.2",
+    "personalityHeadOffset" : [-1, 0],
+    "personalityArmOffset" : [0, 0]
+  },
+
+  "dropPools" : [ ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "You're gonna have to fight me, Peacekeeper!"
+          ]
+        }
+      },
+      "killedTarget" : {
+        "default" : {
+          "default" : [
+            "<entityname>...? Uh-oh..."
+          ]
+        }
+      },
+      "lostTarget" : {
+        "default" : {
+          "default" : [
+            "Running away is not an advisable strategy, partner!"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "grouchohead" } ],
+            "chest" : [ { "name" : "peacekeeperchest" } ],
+            "legs" : [ { "name" : "peacekeeperpants" } ],
+            "primary" : [
+              "npcneopistol"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "objectName" : "officetable",
+  "colonyTags" : ["office","commerce"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 105,
+  "description" : "A wooden table with metal legs.",
+  "shortdescription" : "Office Table",
+  "race" : "generic",
+
+  "apexDescription" : "A basic table with metal legs.",
+  "avianDescription" : "This table isn't very fancy, but it works.",
+  "floranDescription" : "Thisss table has a wood sssurface.",
+  "glitchDescription" : "Uninterested. This table is a simple wood surface with metal legs.",
+  "humanDescription" : "Just a simple table made from metal.",
+  "hylotlDescription" : "A very basic table with no frills or decoration.",
+  "novakidDescription" : "A nice table, I could rest my boots up on this for a bit.",
+
+  "inventoryIcon" : "officetableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "officetable.png:<color>",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

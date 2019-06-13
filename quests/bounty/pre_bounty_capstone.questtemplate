@@ -1,0 +1,30 @@
+{
+  "id" : "pre_bounty_capstone",
+  "mainQuest" : true,
+  "title" : "This title won't be displayed.",
+  "text" : "This text won't be displayed.",
+  "showAcceptDialog" : true,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "parameters" : {},
+  "completionText" : "This completion text won't be displayed.",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/pre_bounty.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+
+    "generatedText" : {
+      "text" : {
+        "default" : [
+          "It's time to take down the ^orange;<bounty.gang.name>^reset; for good. We've picked up the trail of their leader, ^orange;<bounty.name>^reset;, <coordinate.preposition> <coordinate.name>.\n\nMake sure you're well prepared for this one - their base is sure to be heavily fortified.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"
+        ]
+      }
+    }
+  }
+}

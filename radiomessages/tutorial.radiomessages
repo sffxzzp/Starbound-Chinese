@@ -1,0 +1,145 @@
+{
+// on various food and starvation states
+
+  "full" : {
+    "type" : "tutorial",
+    "text" : "I see that you are eating sufficiently! With a full stomach, your body will slowly regenerate and heal."
+  },
+
+  "hungry" : {
+    "type" : "tutorial",
+    "text" : "The weakness you are feeling is likely due to hunger. You should find something to eat in order to maintain your body's functionality."
+  },
+
+  "starving" : {
+    "type" : "tutorial",
+    "text" : "You are starving! It is imperative that you obtain and consume some food immediately."
+  },
+
+// on picking up materials
+
+  "pickuplogblock" : {
+    "type" : "tutorial",
+    "text" : "You have found some wood. My databanks tell me wood is a material with a great many uses. I suggest you kill additional trees and explore your crafting menu."
+  },
+
+// on picking up various tables
+
+  "pickupinventorstable" : {
+    "type" : "tutorial",
+    "text" : "Did you just craft an inventor's table? I estimate your chances of survival have improved by 7.2%."
+  },
+
+// on picking up misc objects/items
+
+  "pickupseed" : {
+    "type" : "tutorial",
+    "text" : "I see that you've discovered some seeds. I suggest planting them in some tilled soil, and watering them until they grow. The tools you need can be built at a foraging table."
+  },
+  "pickupcampfire" : {
+    "type" : "tutorial",
+    "text" : "It seems you have discovered fire. My databanks tell me you're the 714 billionth person to do so. Well done! You can use the fire to cook food!"
+  },
+  "pickupflag" : {
+    "type" : "tutorial",
+    "text" : "I am able to reconfigure the ship's teleporter to teleport directly to the location marked by this flag. Place and interact with the flag to establish a name."
+  },
+  "pickupcoal" : {
+    "type" : "tutorial",
+    "text" : "You discovered coal! You can turn coal into torches to light your way. The chance of fatal incidents is dramatically increased in the dark. Explore the crafting menu."
+  },
+  "pickupore" : {
+    "type" : "tutorial",
+    "text" : "You discovered some ore. Ore can be turned into bars using a furnace, bars are useful for crafting a wide range of equipment that may increase your life expectancy."
+  },
+  "pickupcorefrag" : {
+    "type" : "tutorial",
+    "text" : "You discovered a core fragment! These are useful objects. I estimate that you will require at least 20 of them."
+  },
+  "pickupplantfibre" : {
+    "type" : "tutorial",
+    "text" : "You discovered some plant fibre. This can be woven into useful fabrics at a spinning wheel."
+  },
+  "pickupdye" : {
+    "type" : "tutorial",
+    "text" : "You discovered dye. With these you can colour your attire to your liking. You can apply one to any piece of armour or clothing with a right-click."
+  },
+  "pickupepp" : {
+    "type" : "tutorial",
+    "text" : "You obtained an Enviro Protection Pack (EPP). These specialised devices enable the user to survive in otherwise inhospitable environments. You can also enhance EPPs with augments."
+  },
+  "pickupaugment" : {
+    "type" : "tutorial",
+    "text" : "You obtained an augment. These modules can provide a wide range of benefits. Install them to an Enviro Protection Pack (EPP) with a right-click."
+  },
+  "pickupcollar" : {
+    "type" : "tutorial",
+    "text" : "You discovered a collar. When worn by a tamed monster, these collars can provide a wide range of benefits. You can add them to a filled capture pod with a right-click."
+  },
+  "pickupcapturepod" : {
+    "type" : "tutorial",
+    "text" : "You obtained a capture pod. A monster can be captured in this if their health is low enough. Throw it at a monster to capture it. Captured monsters become tame."
+  },
+  "pickupbow" : {
+    "type" : "tutorial",
+    "text" : "You obtained a bow. Overcoming a monster with one of these significantly increases your chances of getting meat and rare crafting ingredients."
+  },
+  "pickupmanipulatormodule" : {
+    "type" : "tutorial",
+    "text" : "You've obtained a manipulator module. With enough of these you can upgrade your Matter Manipulator from the access panel on the right-hand toolbar."
+  },
+
+// on encountering certain things
+
+  "naturalcave1" : {
+    "type" : "tutorial",
+    "text" : "I am detecting a variety of life signs in this mine. If you are intending to search it for core fragments, I may advise adequately arming yourself first."
+  },
+
+  "naturalcave2" : {
+    "type" : "tutorial",
+    "text" : "If you are not sufficiently confident in your personal combat capabilities, an alternative solution would be to dig closer to the planet's center to find the core fragments."
+  },
+
+  "challengedoor" : {
+    "type" : "tutorial",
+    "text" : "This door will transport you to a challenging room that you may attempt to traverse. I applaud your intrepid disposition."
+  },
+
+// on unlocking ship capabilities
+
+  "fuel" : {
+    "type" : "tutorial",
+    "text" : "Erchius fuel for your FTL drive can be mined from moons. It should be noted that since Earth's destruction, all moons scanned have delivered strange, unpleasant and indecipherable readings."
+  },
+
+// Peacekeeper station intros
+
+  "peacekeeper02" : {
+    "type" : "tutorial",
+    "senderName" : "Captain Noble",
+    "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+    "text" : "Hope you like the new station, partner! We've even got a ^orange;Peacekeeper supply store^white; now!"
+  },
+
+  "peacekeeper03" : {
+    "type" : "tutorial",
+    "senderName" : "Captain Noble",
+    "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+    "text" : "The new station ain't too bad, if I say so myself! We're risin' up, partner!"
+  },
+
+  "peacekeeper04" : {
+    "type" : "tutorial",
+    "senderName" : "Captain Noble",
+    "portraitImage" : "/interface/chatbubbles/captain.png:<frame>",
+    "text" : "Welcome to our mighty fine new place, partner! Why not check out our ^orange;Peacekeeper Furnishing store^white;?"
+  },
+
+  "peacekeeper05" : {
+    "type" : "tutorial",
+    "senderName" : "Captain Noble",
+    "portraitImage" : "/interface/chatbubbles/captainrage.png:<frame>",
+    "text" : "We've finally hit the big time, partner! The Peacekeepers are well an' truly back, and lookin' finer than ever!"
+  }
+}

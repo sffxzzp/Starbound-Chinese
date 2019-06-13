@@ -1,0 +1,48 @@
+{
+  "objectName" : "egyptianpillar",
+  "colonyTags" : ["egyptian"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "An ornamental pillar decorated with gold.",
+  "shortdescription" : "Egyptian Pillar",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 145,
+
+  "apexDescription" : "This pillar clearly prioritizes form over function.",
+  "avianDescription" : "This pillar looks like it belongs in a temple.",
+  "floranDescription" : "A tall pillar covered in metalsss.",
+  "glitchDescription" : "Curious. This pillar appears to be purely decorative, and not load bearing.",
+  "humanDescription" : "This fancy pillar looks heavy.",
+  "hylotlDescription" : "A fine example of decorative ancient art.",
+  "novakidDescription" : "Looks like it's from some sorta palace or somethin'.",
+
+  "inventoryIcon" : "egyptianpillaricon.png",
+  "orientations" : [
+    {
+      "image" : "egyptianpillar.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    },
+    {
+      "image" : "egyptianpillar.png:<color>",
+      "imagePosition" : [-16, 0],
+
+      "direction" : "right",
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ]
+}

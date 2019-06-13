@@ -1,0 +1,94 @@
+{
+  "type" : "peacekeepertenant",
+  "baseType" : "friendlyguardtenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Hey there, boss!",
+            "I'll keep the peace around here, don't you worry!",
+            "I'm on patrol! Well, not quite. But I am on the lookout for bad guys, at least.",
+            "This whole sector is under my protection! Don't you worry, boss!"
+          ]
+        },
+        "avian" : {
+          "default" : [
+            "Officer <selfname> here! I'm here to protect, and also to serve.",
+            "There's nothing like helping out your local community, is there boss?",
+            "I'm keeping an eye out for danger. I'll keep you safe, boss!"
+          ]
+        },
+        "apex" : {
+          "default" : [
+            "As long as there's no trouble round here, I won't have to use my gun.",
+            "The life of the Peacekeeper is... Quieter than the life I grew up with.",
+            "Hopefully the life of a Peacekeeper can help me bring some good to the universe."
+          ]
+        },
+        "hylotl" : {
+          "default" : [
+            "My duties as a Peacekeeper come before all else. I'm sure you understand.",
+            "As much as I admire pacifism, some situations cannot be resolved with words alone.",
+            "There are many injustices in this universe to right. I have a lot of work to do."
+          ]
+        },
+        "floran" : {
+          "default" : [
+            "Floran here to help!",
+            "Floran here to shoot bad guysss.",
+            "Floran here to be good and help out."
+          ]
+        },
+        "glitch" : {
+          "default" : [
+            "Eager. Neither beasts nor rogue shall bring harm to this place!",
+            "Gallant. My aim is true - any evildoers that step foot here will be swiftly sorry!",
+            "Nervous. I haven't done field work before - what if I do not succeed?"
+          ]
+        },
+        "novakid" : {
+          "default" : [
+            "Howdy, boss! I'm keepin' an itchy trigger finger on my pistol, just in case o' trouble.",
+            "I'm keepin' the peace around here. Y'all ain't got anythin' to worry about!",
+            "Howdy there, boss! I hope you're keepin' out of trouble! Jus' kiddin', I know you ain't."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "peacekeeperchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "peacekeeperpants", "parameters" : { "colorIndex" : [0] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcneopistol" ]
+          },
+          {
+            "chest" : [ { "name" : "peacekeeperchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "peacekeeperpants", "parameters" : { "colorIndex" : [0] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcneopistol" ]
+          },
+          {
+            "chest" : [ { "name" : "peacekeeperchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "peacekeeperpants", "parameters" : { "colorIndex" : [0] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcneopistol" ]
+          },
+          {
+            "head" : [ { "name" : "peacekeeperhead", "parameters" : { "colorIndex" : [0] } } ],
+            "chest" : [ { "name" : "peacekeeperchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "peacekeeperpants", "parameters" : { "colorIndex" : [0] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcneopistol" ]
+          }
+        ] ]
+    ]
+  }
+}

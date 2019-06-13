@@ -1,0 +1,20 @@
+{
+  "id" : "bounty_gen",
+  "title" : "^orange;Bounty",
+  "text" : "Kill the bounty",
+  "showAcceptDialog" : false,
+  "showCompleteDialog" : false,
+  "showFailDialog" : false,
+  "completionText" : "Generating bounty",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/bounty/bounty_gen.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    }
+  }
+}

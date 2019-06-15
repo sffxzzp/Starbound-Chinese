@@ -1,6 +1,6 @@
 [{"op": "add","path": "/panels/5/fontSize","value": 12.5},
-{"op": "replace","path": "/panels/5/text","value": "ÎÒÃÇ½«Åµ¿ËË¹ËøÔÚÁËÄ³¸öËıÔÙÒ²²»ÄÜÔì³ÉÂé·³µÄµØ·½¡£\n½á°¸ÁË£¬»ï°é¡£"},
+{"op": "replace","path": "/panels/5/text","value": "æˆ‘ä»¬å°†è¯ºå…‹æ–¯é”åœ¨äº†æŸä¸ªå¥¹å†ä¹Ÿä¸èƒ½é€ æˆéº»çƒ¦çš„åœ°æ–¹ã€‚\nç»“æ¡ˆäº†ï¼Œä¼™ä¼´ã€‚"},
 {"op": "add","path": "/panels/6/fontSize","value": 12.5},
-{"op": "replace","path": "/panels/6/text","value": "ÄãÖªµÀÂğ£¬µ±ÎÒÃÇ°ÑËı´ø½øÀ´µÄÊ±ºò£¬Ëı²¢²»¶à»°¡­"},
+{"op": "replace","path": "/panels/6/text","value": "ä½ çŸ¥é“å—ï¼Œå½“æˆ‘ä»¬æŠŠå¥¹å¸¦è¿›æ¥çš„æ—¶å€™ï¼Œå¥¹å¹¶ä¸å¤šè¯â€¦"},
 {"op": "add","path": "/panels/7/fontSize","value": 12.5},
-{"op": "replace","path": "/panels/7/text","value": "µ«ËıµÄÑÛÉñ±í´ïÁËËı¾¿¾¹ÓĞ¶àÃ´âã»Ú¡£"}]
+{"op": "replace","path": "/panels/7/text","value": "ä½†å¥¹çš„çœ¼ç¥è¡¨è¾¾äº†å¥¹ç©¶ç«Ÿæœ‰å¤šä¹ˆå¿æ‚”ã€‚"}]

@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "火山蟹"},
-{ "op" : "replace", "path" : "/description", "value" : "它总是紧张不安。横向行走的它把喷发火焰作为最轻微的对抗手段。"}]
+{ "op" : "replace", "path" : "/description", "value" : "它总是紧张不安。横向行走的它，只要最轻微的碰撞，就会以喷发作为对抗手段。"}]

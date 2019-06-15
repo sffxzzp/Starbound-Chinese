@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "赏金的线索。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "扫描线索1"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个手印！"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有人留下了这个手印，但我的扫描仪可以找到它的踪迹！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族能看到手！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "奇妙。扫描器能找到最近来过这里的人的微弱踪迹。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个奇怪的大手印一定是什么人留下的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个手印肉眼几乎看不见。幸运的是，我观察力很强。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这手印肯定是最近留下的，辨识中！"}]

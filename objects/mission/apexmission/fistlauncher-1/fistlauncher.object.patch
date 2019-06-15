@@ -1,2 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这个装置经过精心设计，启动时能产生巨大的力量。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "强力弹射器"}]

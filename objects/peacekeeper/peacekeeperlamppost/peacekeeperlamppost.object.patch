@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种明亮的路灯，最常见于和平卫士空间站。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士路灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个精心制作的路灯，可能是由强化耐钢制成的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一盏相当漂亮的灯！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族看到过许多高高的灯。这也是一个。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。尽管第一次出现，这个路灯的金属表面非常耐用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "没有一两个路灯，城市化进程是不完整的！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "相当难看的路灯。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个路灯很高，不是吗？"}]

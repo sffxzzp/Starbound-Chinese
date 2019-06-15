@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "电血红妖兽"},
+{ "op" : "replace", "path" : "/description", "value" : "它实际上只是被一层紫色的皮肤覆盖着，但它看起来仍然相当恶心。"}]

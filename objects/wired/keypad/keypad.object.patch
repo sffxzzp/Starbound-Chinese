@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "需要特定组合的数字安全键盘。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "数字键盘"}]

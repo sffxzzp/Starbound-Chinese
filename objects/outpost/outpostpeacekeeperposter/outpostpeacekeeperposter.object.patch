@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "宣传和平卫士宣言的海报。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士海报"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张海报似乎提供了一个\"和平卫士\"的工作。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张海报提供了一份工作！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "海报想雇叶族。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这张海报提供了某种工作。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张皱巴巴的海报似乎提供了一个令人兴奋的工作机会。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这份工作提供了更好的生活。但这张纸皱得很厉害，而且很脏。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张海报想给我一份工作。"}]

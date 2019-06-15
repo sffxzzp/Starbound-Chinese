@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种可调节灯头的小灯。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公台灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏小灯做得很结实。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这盏灯是用来放在桌子上的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "小灯可以放在任何地方。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。这盏小灯可以指向任何方向。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一款设计于放在桌面的小台灯。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个台灯很普通，但效果很好。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "只是一盏阅读用小台灯。"}]

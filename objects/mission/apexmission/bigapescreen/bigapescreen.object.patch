@@ -1,1 +1,4 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "猿人监控显示器"}]
+[{ "op" : "replace", "path" : "/description", "value" : "这个屏幕显示了大猿的各种宣传信息。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "猿族监视器"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族认为所谓的“大”猿并不大。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "警报。这些视频剪辑包含大量的潜意识信息。"}]

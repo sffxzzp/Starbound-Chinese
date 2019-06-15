@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/scriptConfig/dialog/converse/default/default","value": ["嘿，老大！","我会守卫这里的安全，不用担心！","我正在巡逻！嗯，并不全是。但我至少在寻找坏人。","整个区域都在我的保护之下！老大，你不用担心！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/avian/default","value": ["这里是军官<selfname>！我来这里是为了保护，也是为了服务。","没有什么比帮助当地社区更好的了，是不老大？","我正在留意危险。老板，我会保证你的安全！"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/apex/default","value": ["只要这里没有麻烦，我就不需要用枪了。","维和人员的生活…比我一直以来生活的更安静。","希望作为和平卫士可以让我为宇宙带来一些好处。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/hylotl/default","value": ["我作为和平卫士的职责先于其他所有人。我相信你明白。","尽管我钦佩和平主义，但有些情况无法用言语来解决。","在这个宇宙中有许多不公正需要纠正。我有很多工作要做。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/floran/default","value": ["叶族来帮忙！","叶族来这射坏家伙伙伙。","叶族是来这里帮忙的。"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/glitch/default","value": ["急切。野兽和恶棍都不会给这个地方带来伤害！","英勇。我的目标很明确—任何来到这里的恶人都会很快感到抱歉！","紧张。 我之前没有做过野外工作—如果我失败了怎么办？"]},
+{"op": "replace","path": "/scriptConfig/dialog/converse/novakid/default","value": ["你好，老大！我把自己发痒的手指放在手枪上，以防止麻烦的出现。","我在这里维护和平。你没有什么可担心的！","你好，老大！我希望你能远离麻烦！开个玩笑，我知道你不会的。"]}]

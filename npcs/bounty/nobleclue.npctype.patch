@@ -1,0 +1,5 @@
+[{"op": "replace","path": "/npcname","value": "诺布尔队长"},
+{"op": "replace","path": "/identity/name","value": "诺布尔队长"},
+{"op": "replace","path": "/scriptConfig/dialog/attack/default/default/0","value": "你将要与我作战，和平卫士！"},
+{"op": "replace","path": "/scriptConfig/dialog/killedTarget/default/default/0","value": "<entityname>…？哦豁…"},
+{"op": "replace","path": "/scriptConfig/dialog/lostTarget/default/default/0","value": "伙伴，逃跑并不是个明智的策略！"}]

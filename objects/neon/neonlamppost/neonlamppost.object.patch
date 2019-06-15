@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个品红色的路灯。并不是可视的最佳色彩，但它真的看起来很酷。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霓虹路灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯的颜色使我高度警惕。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "如果让我说的话，这个灯柱在美学上相当不舒服。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族会因为战术优势而爬上柱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "担心。如果这盏灯是为了提高街道的能见度，那么它为什么是粉红色的？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "是的，那是一盏经典的路灯。不过，我不知道粉红色的灯光是否有助于提高能见度。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "如此不雅的设计。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这样的路灯对于屠城者来说一定是一种很常见的景象！"}]

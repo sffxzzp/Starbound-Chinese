@@ -1,0 +1,2 @@
+[{"op": "replace","path": "/shortdescription","value": "绝唱"},
+{"op": "replace","path": "/baseParameters/openingDialog","value": ["我知道你会来的。毕竟，我们之间还有未完成的事情。","我还有什么可以争取的呢？我所追求的失败了…意识形态也很薄弱。","然而，我耻于放弃自己，而且我太固执，死不掉。","那么…来跳最后一支舞吧，\"守护者\"？"]}]

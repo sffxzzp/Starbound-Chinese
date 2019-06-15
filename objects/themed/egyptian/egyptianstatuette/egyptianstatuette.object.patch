@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "装饰精美的小动物雕像。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "埃及雕像"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这尊雕像看起来是用真金装饰的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这尊雕像所描绘的生物使我感到不安。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "一个看起来很可口的生物的雕像。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这座雕像的创造者一定很钦佩这个生物。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这尊雕像展示了对这只动物的尊重。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这尊雕像的细节令人印象深刻！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "恩，那不就是个好看的小动物吗？"}]

@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "由\"强光\"制成的平滑平台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "多边形平台"},
+{ "op" : "replace", "path" : "/glitchdescription", "value" : "有趣。一个由\"强光\"制成的平滑平台。"},
+{ "op" : "replace", "path" : "/florandescription", "value" : "这个平台充满抛瓦。"}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用于逮捕和麻醉所授权的赏金目标。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "长臂"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "精致的家具，带有一个和平卫士的绶带。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士家具"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这只青蛙似乎在卖和平卫士家具。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "我想我可以给自己买一些和平卫士家具！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不明白青蛙为什么不说话。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个水陆两用的绅士把他的头盔擦亮了！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "我猜\"蛙蛙家具\"一定是个连锁店？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个奇怪的人似乎在卖家具。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这看起来是一个很好的装饰机会！"}]

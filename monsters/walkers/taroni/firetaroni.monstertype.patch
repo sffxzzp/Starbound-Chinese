@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火沥青兽"},
+{ "op" : "replace", "path" : "/description", "value" : "它以沥青为生，以沥青为食。有迹象表明它分泌沥青的功能也很强。"}]

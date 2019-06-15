@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种一次性的机械猫头鹰，在投掷时会朝那个方向飞并挖一条隧道。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "采矿无人机"}]

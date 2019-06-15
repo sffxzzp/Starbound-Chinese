@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "这种远程触发的惯性抑制器可以让目标暂时锁在原地。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "眩晕地雷"}]

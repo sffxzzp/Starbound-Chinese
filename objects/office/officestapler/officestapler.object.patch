@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个鲜红的订书机。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公室订书机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "鲜红，我喜欢这东西。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台订书机的颜色很容易辨认。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢红色订书机。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "批准。这个红色订书机是一个完美设计的工具。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这台订书机状况很好，显然被保养的不错。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "感觉这个订书机对某人很重要。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个订书机的大小正好适合你的手。"}]

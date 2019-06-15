@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "装饰华丽的床，设计用于躺卧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "埃及床"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张床相比睡觉更适合躺着休息。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张床看起来有点翼族风格。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "闪闪闪亮的床看起来很软软软。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "松了一口气。这张床很适合休息。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张床看起来像是博物馆里的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张床显然是由工匠大师制造。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "相比我的口味有点异想天开—但确实不错！"}]

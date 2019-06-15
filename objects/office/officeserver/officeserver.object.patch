@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "大型计算机服务器机架。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公室服务器"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台电脑连着一堆没贴标签的线…"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台电脑比我还大！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族喜欢所有这些部件挤在一起。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。以前的电脑很大，需要专门的房间。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一个巨大的服务器机架，上面有一堆旧电脑。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这在美学上根本没有什么令人愉快的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一定是我见过的最大的电脑。"}]

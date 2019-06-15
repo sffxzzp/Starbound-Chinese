@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种自动门，通常用于和平卫士空间站。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士门"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这扇自动门有一个和平卫士的标志。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这扇门装饰着骄傲的象征。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族看到了门。叶族想穿过门。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。我很感激这扇门选择自己打开，而不是等待被打开。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "你知道，和平卫士的徽章看起来真像一张快乐的脸…"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我见过比这更优雅的门。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这扇门是自己开的！非常方便…"}]

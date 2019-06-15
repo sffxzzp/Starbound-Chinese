@@ -1,0 +1,6 @@
+[{"op": "replace","path": "/scriptConfig/behaviorConfig/bribeTitle","value": "接受贿赂？"},
+{"op": "replace","path": "/scriptConfig/behaviorConfig/bribeSubtitle","value": "这个罪犯向你提供了贿赂"},
+{"op": "replace","path": "/scriptConfig/behaviorConfig/bribeHatMessage","value": "如果你让这个罪犯离开，他们就会把^orange;他们的帽子^reset;给你。你愿意接受这个贿赂吗？"},
+{"op": "replace","path": "/scriptConfig/behaviorConfig/bribeMessage","value": "如果你让这个罪犯离开，他们就会给你^orange;一个稀有的宝物^reset;。你愿意接受这个贿赂吗？"},
+{"op": "replace","path": "/scriptConfig/behaviorConfig/bribeOk","value": "接受"},
+{"op": "replace","path": "/scriptConfig/behaviorConfig/bribeCancel","value": "拒绝"}]

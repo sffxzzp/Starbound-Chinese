@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个经典的机械身躯，历史上曾供大地和平卫士特供使用。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士机械身躯"}]

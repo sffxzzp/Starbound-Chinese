@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个老旧的金属电脑。和平卫士研究小组的标准配置。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士电脑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台电脑的外壳看起来很耐用。很难损坏。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台看起来很沉的电脑，如果新刷一层油漆，可能会更有吸引力。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族没时间看词汇盒子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "愉悦。这台大电脑看起来很坚固，但也很过时。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这台大电脑看起来有点过时。也许是时候升级了？"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这台大电脑看起来已经用了几十年了。多么遗憾的景象。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "我很欣赏霓虹灯照在这老东西上。"}]

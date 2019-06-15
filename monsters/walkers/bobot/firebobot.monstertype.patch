@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火波波机器人"},
+{ "op" : "replace", "path" : "/description", "value" : "没有人知道它是从哪里来的，或是谁制造它的。"}]

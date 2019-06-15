@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种高大的用于协助文书工作的陈旧设备。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公室扫描仪"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台机器写着多功能，但我不知道它的作用。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这台大型机器一定很强大—它写着是多合一的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "大机器发出有趣的声音。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "着迷。这台机器有连接古代人类通信网络的端口。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这台机器的显示屏上写着「卡纸」。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这台机器上的按钮太多了！"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个东西看起来很复杂—我不知道这都是些什么。"}]

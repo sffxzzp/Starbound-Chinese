@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个召唤玩家机甲的传送平台。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "机械平台"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个平台将召唤一个机甲。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "用于部署机甲的远程传送平台。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这个传送器将召唤一套机甲。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "了然。这是一种特殊的传送器，用来召唤机械装甲。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个传送器会召唤一个机甲。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个平台将传送一套机甲。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这是一个为机甲传送设计的平台。"}]

@@ -1,9 +1,0 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个老旧的科技知识部标志。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "科技知识部标志"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "知识部？这里…这里是科技发展部的前身？"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "一个多么有趣的标志。只有我想知道它到底有多旧了吗？"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族人不不不太喜欢老旧的东西。"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "欣赏。这个银色和灰色的搭配是多么有趣啊。"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "跟这个标志有关的东西让我有些紧张。"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这些字真丑。如果我有一支笔…"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "我觉得这一发现对某些人有重大意义…"}]

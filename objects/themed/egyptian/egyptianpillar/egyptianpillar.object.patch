@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用金装饰的装饰柱。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "埃及柱"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这一支柱显然相比功能更注重形式。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这根柱子看起来属于一座寺庙。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "覆盖着金属的高柱子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。这根柱子看起来纯粹是装饰性的，不是承重的。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这根漂亮的柱子看起来很重。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "古代装饰艺术的典范。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "看起来像是从某个宫殿或什么地方来的。"}]

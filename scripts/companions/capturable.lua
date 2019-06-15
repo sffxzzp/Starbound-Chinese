@@ -263,7 +263,6 @@ function capturable.generatePet()
 
   parameters.seed = monster.seed()
   parameters.level = monster.level()
-  parameters.familyIndex = monster.familyIndex()
 
   local poly = mcontroller.collisionPoly()
   if #poly <= 0 then poly = nil end

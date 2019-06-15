@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个像大眼睛的邪教兜帽。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教兜帽"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一种像大眼睛的邪教兜帽。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教常规兜帽"}]

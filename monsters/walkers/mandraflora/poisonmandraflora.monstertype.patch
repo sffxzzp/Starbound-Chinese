@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "毒曼德拉螺旋丸"},
+{ "op" : "replace", "path" : "/description", "value" : "它昏昏欲睡的生活方式使它在地下茁壮成长并达到令人印象深刻的大小。"}]

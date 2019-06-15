@@ -1,0 +1,8 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一个圆桌，通常在和平卫士空间站中发现。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张桌子的大小合适。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有人把这张桌子保养的很好！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族可以站在桌子上获得战术优势。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "这当然是一张圆桌…我不知道还能说什么。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张大桌子擦得非常干净。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张圆桌看起来非常适合玩A牌。"}]

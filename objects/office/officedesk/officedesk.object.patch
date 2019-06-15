@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用木头和金属制成的简单桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有木头表面的普通金属桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一张看起来很普通的金属桌子。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "用木头和金属做成的桌子。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "没有印象。这张桌子的设计很简单。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "一张普通的桌子，看起来像是用在办公室的。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张桌子不漂亮，但很实用。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "就是有两个金属抽屉的旧桌子。"}]

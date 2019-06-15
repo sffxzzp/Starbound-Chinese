@@ -91,6 +91,10 @@ function hasQuest(args, board)
   return self.quest:hasQuest()
 end
 
+function hasRole(args, board)
+  return self.quest:hasRole()
+end
+
 local function tooManyQuestsNearby()
   local searchRadius = config.getParameter("questGenerator.nearbyQuestRange", 50)
   local questManagers = 0

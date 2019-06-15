@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "光滑、低调的洋红色光线"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "霓虹品红灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些灯发出温暖的洋红色调。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这霓虹灯使我想起了一次日落，太阳在钻石云中闪耀。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "粉红色是一种强烈的颜色！鲜艳健康的花朵的颜色！"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "冷静。这种光线创造了一种愉快的气氛。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "霓虹灯，适合给房间创造一种酷炫的气氛。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这霓虹灯使我想起穿过蓝宝石般海洋的阳光。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这光就像一颗冷的恒星，就是小了点。"}]

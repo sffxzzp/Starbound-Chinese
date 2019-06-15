@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "地球上早期的个人电脑模型。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公电脑"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "很难相信这台旧电脑还在工作。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "看起来像早期的地球计算机模型。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这台旧机器不知怎么还在运转。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "有趣。早期的计算机处理器需要非常大的外壳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "很难相信人类曾经花很多时间在这样的机器上。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "设计很简单，但它是一件真正的历史文物。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "想知道这老机器上有没有纸牌游戏。"}]

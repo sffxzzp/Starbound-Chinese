@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "幽灵盔"},
-{ "op" : "replace", "path" : "/description", "value" : "这种生物有着缥缈的身体，受到威胁时会潜进盔甲中去。"}]
+{ "op" : "replace", "path" : "/description", "value" : "这种生物有着缥缈的身体，受到威胁时会变成盔甲。"}]

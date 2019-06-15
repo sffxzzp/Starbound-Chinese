@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "武装蜥蜴"},
-{ "op" : "replace", "path" : "/description", "value" : "武装蜥蜴并不是一种攻击性很强的生物但是它尾巴上的刺可以造成可观的伤害。"}]
+{ "op" : "replace", "path" : "/description", "value" : "武装蜥蜴并不是一种攻击性很强的生物，但是它尾巴上的刺可以造成可观的伤害。"}]

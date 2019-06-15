@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一块生锈的墙上牌匾，上面压印着和平卫士的徽章。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士生锈徽章"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这个徽章需要维护。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个徽章显然曾经有过美好的时光。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "墙上的东西…生锈了。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无感。如果有良好的保养，金属表面仍可以保持良好的状态。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个徽章有过美好的时光。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个徽章明显年久失修。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这个盾牌可以用喷灯维护一下。"}]

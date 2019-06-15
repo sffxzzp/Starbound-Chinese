@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教扫描机"},
+{ "op" : "replace", "path" : "/description", "value" : "这个扫描机被陨日教派重新改造过了。"}]

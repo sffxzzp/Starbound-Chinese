@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "附有人造触手的背饰。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教触手"}]
+[{ "op" : "replace", "path" : "/description", "value" : "带有人造触角的安全带。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教常规触角"}]

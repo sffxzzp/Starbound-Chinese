@@ -54,8 +54,7 @@ function speciesDialog(dialog, targetId)
 end
 
 function staticRandomizeDialog(list)
-  math.randomseed(context().seed())
-  return list[math.random(1, #list)]
+  return list[sb.staticRandomI32Range(1, #list, context().seed())]
 end
 
 function sequenceDialog(list, sequenceKey)
@@ -96,6 +95,14 @@ function receiveClueDialog(args, board)
   end
 end
 
+-- param tag
+-- param text
+function setDialogTag(args, board)
+  self.dialogTags = self.dialogTags or {}
+  self.dialogTags[args.tag] = args.text
+  return true
+end
+
 -- param dialogType
 -- param dialog
 -- param entity
@@ -117,8 +124,16 @@ function sayToEntity(args, board)
   end
   if dialog == nil then return false end
 
-  args.tags.selfname = world.entityName(entity.id())
-  if args.entity then args.tags.entityname = world.entityName(args.entity) end
+  local tags = sb.jsonMerge(self.dialogTags or {}, args.tags)
+  tags.selfname = world.entityName(entity.id())
+  if args.entity then
+    tags.entityname = world.entityName(args.entity)
+
+    local entityType = world.entityType(args.entity)
+    if entityType and entityType == "npc" then
+      tags.entitySpecies = world.entitySpecies(args.entity)
+    end
+  end
 
   local options = {}
 
@@ -126,8 +141,8 @@ function sayToEntity(args, board)
   if entity.entityType() == "npc" then
     options.sound = randomChatSound()
   end
-  dialog = sb_replaceTags(dialog, args.tags)
-  context().say(dialog, args.tags, options)
+  dialog = sb_replaceTags(dialog, tags)
+  context().say(dialog, tags, options)
   return true
 end
 

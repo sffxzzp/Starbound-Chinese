@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种带有深红色显示器的陈旧的计算机终端。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "暗机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这台计算机终端的屏幕上是一片危险的红色。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这看起来像一个旧的计算机终端。尽管已经有些年头，但它似乎运行良好。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族想知道为什么盒子这么红。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这台旧电脑虽然维护很少，但运行似乎很平稳。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "哎哟，电脑只显示红色。肯定是眼疲劳。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这台电脑有一个非常令人讨厌的配色方案，这点是肯定的。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个世纪前这老东西可能会更令人印象深刻。"}]

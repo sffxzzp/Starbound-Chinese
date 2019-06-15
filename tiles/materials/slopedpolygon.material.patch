@@ -1,0 +1,4 @@
+[{ "op" : "replace", "path" : "/description", "value" : "。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "感觉充满抛瓦。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "多边形面板"}]

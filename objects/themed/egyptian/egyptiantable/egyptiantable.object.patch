@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用木头和黄金做的一张很重的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "埃及桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张桌子的表面构造看起来很结实。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌子显然是用于一个重要目的的。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这张桌子看起来很重。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "困惑。这张桌子上的金属似乎不起作用。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这张桌子好像不是很结实，只是覆盖了薄薄的涂层。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这张桌子经过精心装饰。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "好大的桌子，有足够的空间玩纸牌游戏。"}]

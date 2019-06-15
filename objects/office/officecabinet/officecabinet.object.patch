@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "带有落地支架的现代金属柜。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公室橱柜"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些储物柜长这样肯定是有原因的。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这个橱柜对我来说有点花哨，但我喜欢。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "可以容纳各式各样东西的橱柜柜。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "印象深刻。这个小柜子的存储容量很大。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "这个储物柜让我想起了什么。不能把手放在上面。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "我很喜欢这个柜子的设计。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一个储物柜，足够存放任何你需要的东西。"}]

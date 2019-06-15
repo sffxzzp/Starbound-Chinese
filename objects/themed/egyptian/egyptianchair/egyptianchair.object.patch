@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用符号装饰的金色椅子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "埃及椅"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这把椅子上刻着一些奇怪的符号。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这把椅子看起来很不错。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "金属椅子加一些软皮。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "感兴趣。这把椅子有点像电子人城堡里的王座。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "好像这把椅子不太舒服。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这把椅子太漂亮了，不敢坐。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "决定重要事物的伙计才会坐在这把椅子上。"}]

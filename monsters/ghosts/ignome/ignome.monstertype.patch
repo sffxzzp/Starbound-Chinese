@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "火蝙蝠"},
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "侏蝠"},
 { "op" : "replace", "path" : "/description", "value" : "它焦黑的表面摸起来惊人的舒适。但是请远离火焰！"}]

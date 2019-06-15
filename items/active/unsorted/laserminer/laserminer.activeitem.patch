@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/description", "value" : "用聚焦微波束钻孔的一次性采矿工具。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "矿用激光"}]

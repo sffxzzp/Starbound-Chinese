@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "有金属腿的木桌。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "办公桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "有金属腿的普通桌子。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "这张桌子不太漂亮，但它能用。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "这张桌子有一个木制的表面。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无趣。这是张有木制表面和金属腿的桌子。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "只是一张普通的金属桌子。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "没有任何装饰的非常普通的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "一张好桌子，我可以把脚架在上面休息会。"}]

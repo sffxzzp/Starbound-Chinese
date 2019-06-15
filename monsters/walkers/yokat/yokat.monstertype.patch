@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/shortdescription", "value" : "怪化猫"},
-{ "op" : "replace", "path" : "/description", "value" : "天生的贪婪狡诈。如果你在它潜行的时候打扰到它便会被它那邪恶的眼睛盯着"}]
+{ "op" : "replace", "path" : "/description", "value" : "天生的贪婪狡诈。如果你在它潜行的时候打扰到它便会被它那邪恶的眼睛盯着。"}]

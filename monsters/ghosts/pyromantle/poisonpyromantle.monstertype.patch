@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "毒火焰斗篷"},
+{ "op" : "replace", "path" : "/description", "value" : "它有毒的核心产生着恒定不停的毒液。在打架时它能狠狠地挥出一记重拳。"}]

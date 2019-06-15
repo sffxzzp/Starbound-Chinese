@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "毒双头菇"},
+{ "op" : "replace", "path" : "/description", "value" : "它喜欢温暖和潮湿的气候，这样它会成长得更快。"}]

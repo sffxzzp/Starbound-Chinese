@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一盏华丽的大油灯，有柔和的蓝色火焰在燃烧。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "埃及灯"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个高高架起的木制火炬。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一个高大的闪烁不定的火炬。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "高火把保持着火光。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "宁静。一支高高的火炬，有火焰闪烁。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "噼啪作响的火把。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "高高的火炬提供大面积照明。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "火焰劈啪作响。"}]

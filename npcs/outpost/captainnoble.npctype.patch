@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/npcname","value": "诺布尔队长"},
+{"op": "replace","path": "/identity/name","value": "诺布尔队长"},
+{"op": "add","path": "/scriptConfig/dialog/converse/default/default","value": ["你吼啊，军官<entityname>！像往常一样努力作战吗？","雷猴，军官<entityname>！你的工作处理的如何？","永远昂首挺胸，军官<entityname>！"]}]

@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "眩晕手榴弹"},
+{ "op" : "replace", "path" : "/description", "value" : "一种手榴弹，它能制造出一个局部的纳米场来冻结其轨道上的主机。"}]

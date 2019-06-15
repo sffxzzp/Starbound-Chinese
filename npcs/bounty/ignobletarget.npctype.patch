@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/npcname","value": "黑诺布尔队长"},
+{"op": "replace","path": "/identity/name","value": "黑诺布尔队长"},
+{"op": "replace","path": "/scriptConfig/dialog/attack/default/default/0","value": "就是我，^orange;黑诺布尔队长^reset;，^orange;<gangName>^reset;的领袖！"},
+{"op": "replace","path": "/scriptConfig/dialog/arrested/default/default/0","value": "可恶！我被戴上了手铐！我希望你不要把我送到太空监狱，伙伴！"},
+{"op": "replace","path": "/scriptConfig/dialog/completeArrest/default/default/0","value": "^orange;<gangName>^reset;已经完蛋了…招募你的诺布尔队长肯定是个强大又聪明的家伙！"},
+{"op": "replace","path": "/scriptConfig/dialog/killedTarget/default/default/0","value": "<entityname>…？哦豁…"},
+{"op": "replace","path": "/scriptConfig/dialog/lostTarget/default/default/0","value": "伙伴，逃跑并不是个明智的策略！"}]

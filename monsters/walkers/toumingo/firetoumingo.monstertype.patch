@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "火多明戈犀鸟"},
+{ "op" : "replace", "path" : "/description", "value" : "长长的腿让它可以站在水里捕鱼。"}]

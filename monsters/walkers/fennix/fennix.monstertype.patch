@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/shortdescription", "value" : "火狐"},
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "菲狐"},
 { "op" : "replace", "path" : "/description", "value" : "它在追着自己尾巴玩时偶尔也会一不小心引火上身。"}]

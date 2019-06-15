@@ -1,8 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "让我们看看化石里面的是什么！放下来然后砸开它！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "化石舱"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "-todo-"},
-{ "op" : "replace", "path" : "/avianDescription", "value" : "-todo-"},
-{ "op" : "replace", "path" : "/floranDescription", "value" : "-todo-"},
-{ "op" : "replace", "path" : "/glitchDescription", "value" : "-todo-"},
-{ "op" : "replace", "path" : "/humanDescription", "value" : "-todo-"},
-{ "op" : "replace", "path" : "/hylotlDescription", "value" : "-todo-"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "化石舱"}]

@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一种自动售货机，似乎只做和分发甜甜圈。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士自动售货机"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这些糕点产品很不健康。我不该吃太多。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "甜甜圈？多可爱啊！"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族不喜欢任何不是肉做的食物。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。里面竟然有如此珍宝！"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "甜甜圈！人类最爱吃的食物。这里当然有很多种！"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这种不健康的食品不值得用来污染我的身体。嗯…就只吃一个。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "你知道，我不确定这些对像我这样的人的健康是否有害。"}]

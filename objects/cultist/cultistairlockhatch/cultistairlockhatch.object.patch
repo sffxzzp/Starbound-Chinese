@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一扇粗制滥造的气闸舱口。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "邪教气闸舱口"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个巨大的气闸舱口，由各种废金属碎片制成。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "一扇用吓人的眼睛装饰的大舱口。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "舱口在看叶族…"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "无视。这舱口做工不好。"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "有人很想让这个舱口看起来很吓人。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这个怪诞的舱口勉强看起来不透气。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这肯定是一个令人毛骨悚然的舱口。"}]

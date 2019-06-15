@@ -1,0 +1,9 @@
+[{ "op" : "replace", "path" : "/description", "value" : "一张用金属制成的非常沉重的、坚固的桌子。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士桌"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "这张加固的桌子可以在紧急情况下作为有效的消防覆盖物。"},
+{ "op" : "replace", "path" : "/avianDescription", "value" : "有人试图用黄色条纹来照亮这张桌子。我不确定是否成功了。"},
+{ "op" : "replace", "path" : "/floranDescription", "value" : "叶族可以把狩猎奖杯放在桌上。有用。"},
+{ "op" : "replace", "path" : "/glitchDescription", "value" : "好奇。我想知道这张结实的桌子能不能经受住行刑者斧头的打击？"},
+{ "op" : "replace", "path" : "/humanDescription", "value" : "在我的时代，我见过许多桌子，这当然是其中之一。"},
+{ "op" : "replace", "path" : "/hylotlDescription", "value" : "这是一张非常美观的桌子。"},
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "这张看起来很重的桌子似乎很难移动！"}]

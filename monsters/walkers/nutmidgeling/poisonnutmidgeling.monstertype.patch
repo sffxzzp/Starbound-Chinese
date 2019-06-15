@@ -1,0 +1,2 @@
+[{ "op" : "replace", "path" : "/shortdescription", "value" : "毒榛果果"},
+{ "op" : "replace", "path" : "/description", "value" : "它经常与其他榛果丸结合，在数量上找到力量和安全感。"}]

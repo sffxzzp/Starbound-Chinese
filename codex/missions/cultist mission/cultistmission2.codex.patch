@@ -1,0 +1,25 @@
+[{"op": "replace","path": "/title","value": "Occasus Lab Report: ANCIENT"},
+{"op": "replace","path": "/description","value": "Research logs written by the Occasus cult."},
+{"op": "replace","path": "/contentPages","value": [
+"^yellow;ASSIGNMENT^white;
+
+The Occasus Research team on board the Dantalion have been tasked by the most judicious Lady Nox to investigate the curious stone relics and doorways often found across almost every known star system. 
+
+For ease of terminology, the architects of these ancient relics are given the imaginative name of the \"Ancients\".",
+
+"Upon a recent assignment to investigate one of these doorways, Occasus field agents found themselves in a location they described as \"outside of time and space\", wherein they recovered the partial remains of what appears to be a stone automaton.
+
+The Research team have many questions about how these bygone cultures were able to craft technology out of stone that is inexplicably able to open dimensional gates, a technology no current galactic civilisation has quite achieved.",
+
+"^yellow;ANALYSIS^white;
+
+The Research Team are unfortunately unable to make any further progress with determining the technological nature of the ancient doorways. One inquisitive researcher has theorised that the ancients themselves were not organic beings, judging by trace metallic samples left on the doorway's carvings. 
+
+The automaton, however, has yielded more promising results. The liquid core within it is a volatile and potent source energy, and the automaton's remaining hand has been proven to have ballistic qualities. The liquid core can be used as a power source and also be emitted in a searing energy form - a discovery made at the inconvenient expense one of our engineers.",
+
+"^yellow;CONCLUSION^white;
+
+Lady Nox has become very interested as of late in the use of ancient tech to create weaponry, and thus has tasked the Research team with the application of the automaton's power and weapon systems to some engine blueprints of her own design. 
+
+Whilst the Research team are not entirely sure what Lady Nox has planned, we are always happy to assist our most percipient leader."
+]}]

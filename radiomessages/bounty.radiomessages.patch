@@ -1,0 +1,10 @@
+[{"op": "replace","path": "/exploreclueplanet/senderName","value": "诺布尔队长"},
+{"op": "replace","path": "/exploreclueplanet/text","value": "We know the target has been here recently. ^orange;Search^reset; for clues. Don't know where to start? Look around, partner!"},
+{"op": "replace","path": "/approachingclue/senderName","value": "诺布尔队长"},
+{"op": "replace","path": "/approachingclue/text","value": "Looks like you're gettin' close to the target, partner. ^orange;Investigate^reset; the designated area!"},
+{"op": "replace","path": "/approachingbounty/senderName","value": "诺布尔队长"},
+{"op": "replace","path": "/approachingbounty/text","value": "It looks like your target is real close. ^orange;Apprehend the target^reset;, partner!"},
+{"op": "replace","path": "/tutorialexplore/senderName","value": "诺布尔队长"},
+{"op": "replace","path": "/tutorialexplore/text","value": "Your target could be anywhere on this planet, even underground! ^green;Explore^reset; the planet until we pick up the ^orange;target's signature^reset;, partner!"},
+{"op": "replace","path": "/tutorialapproachclue/senderName","value": "诺布尔队长"},
+{"op": "replace","path": "/tutorialapproachclue/text","value": "We've picked up the ^orange;target signature^reset;! Your ^green;compass^reset; will show you the direction - follow it, partner!"}]

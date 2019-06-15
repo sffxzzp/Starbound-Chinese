@@ -1,0 +1,9 @@
+[{"op": "replace","path": "/title","value": "^orange;Kill bounty"},
+{"op": "replace","path": "/text","value": "Kill the bounty at the place"},
+{"op": "replace","path": "/completionText","value": "You apprehended the bounty!"},
+{"op": "replace","path": "/scriptConfig/objectives/findSpaceBountyStage","value": ["^orange;Travel^reset; to ^green;%s^reset;","^orange;Approach^reset; the ^green;Suspicious Ship^reset;","^orange;Deploy^reset; to the ^green;Suspicious Ship^reset;"]},
+{"op": "replace","path": "/scriptConfig/objectives/killBountyStage","value": ["^orange;Find^reset; the target's ^green; ship^reset;","^orange;Apprehend^reset; ^green;<bounty.name>^reset;"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name> was last seen <coordinate.preposition> <coordinate.name>."]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/capture","value": ["Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!"]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!"]},
+{"op": "replace","path": "/scriptConfig/generatedText/failureText/default","value": ["You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"]}]

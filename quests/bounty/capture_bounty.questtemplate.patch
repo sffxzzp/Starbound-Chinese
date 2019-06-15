@@ -1,0 +1,8 @@
+[{"op": "replace","path": "/title","value": "^orange;Bounty^reset;"},
+{"op": "replace","path": "/text","value": ""},
+{"op": "replace","path": "/completionText","value": "You killed the bounty"},
+{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["^orange;Travel^reset; to %s"]},
+{"op": "replace","path": "/scriptConfig/objectives/killBountyStage","value": ["^orange;Search^reset; planet for target signature","^orange;Apprehend^reset; ^green;<bounty.name>^reset;"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name> was last seen <coordinate.preposition> <coordinate.name>."]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["You took on <bounty.name>? an' came out on top! The universe is vast, but the arm of the law is long.\n\nCome by the Peacekeeper Station to collect your rewards!","Mighty fine job takin' on <bounty.name>! The universe is vast, but the arm of the law is long!\n\nCome by the Peacekeeper Station to collect your rewards!"]},
+{"op": "replace","path": "/scriptConfig/generatedText/failureText/default","value": ["You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"]}]

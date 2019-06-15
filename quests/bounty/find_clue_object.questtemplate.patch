@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/title","value": "^orange;Kill bounty"},
+{"op": "replace","path": "/text","value": "Find a clue to the location of the bounty"},
+{"op": "replace","path": "/completionText","value": "You have found a clue. Where does it lead?"},
+{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["^orange;Travel^reset; to ^green;%s^reset;"]},
+{"op": "replace","path": "/scriptConfig/objectives/findClueObjectStage","value": ["^orange;Search^reset; planet for the target's signature","^orange;Search^reset; for clues"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["^green;<coordinate.name>^reset;:\nComputer records here told me that that <bounty.name> is <next.coordinate.preposition> <next.coordinate.name>.\n\n","^green;<coordinate.name>^reset;:\nMy master hacking skills have led me to <next.coordinate.name>.\n\n","^green;<coordinate.name>^reset;:\nMy advanced hacking skills have led me to <next.coordinate.name>.\n\n","^green;<coordinate.name>^reset;:\nCracking the criminal's secure database gave me the location \"<next.coordinate.name>\".\n\n"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["^orange;<bounty.name>^reset; was last seen <coordinate.preposition> <coordinate.name>.\n\n","^orange;<bounty.name>^reset; was last spotted <coordinate.preposition> <coordinate.name>.\n\n","^orange;<bounty.name>^reset;'s trail went cold <coordinate.preposition> <coordinate.name>.\n\n"]}]

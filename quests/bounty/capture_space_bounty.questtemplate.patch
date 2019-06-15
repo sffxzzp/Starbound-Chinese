@@ -1,0 +1,8 @@
+[{"op": "replace","path": "/title","value": "^orange;Kill bounty"},
+{"op": "replace","path": "/text","value": "Kill the bounty at the place"},
+{"op": "replace","path": "/completionText","value": "You killed the bounty"},
+{"op": "replace","path": "/scriptConfig/objectives/findSpaceBountyStage","value": ["^orange;Travel^reset; to ^green;%s^reset;","^orange;Approach^reset; the ^green;Criminal Hideout^reset;","^orange;Deploy^reset; to the ^green;Criminal Hideout^reset;"]},
+{"op": "replace","path": "/scriptConfig/objectives/killBountyStage","value": ["^orange;Search^reset; space for the ^green;hideout^reset;","^orange;Apprehend^reset; ^green;<bounty.name>^reset;"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name> was last seen <coordinate.preposition> <coordinate.name>."]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["Nice work goin' to space and capturin' <bounty.name>! You're a real galactic hero.\n\nCome by the Peacekeeper Station to collect your reward!"]},
+{"op": "replace","path": "/scriptConfig/generatedText/failureText/default","value": ["You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"]}]

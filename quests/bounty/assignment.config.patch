@@ -1,0 +1,12 @@
+[{"op": "replace","path": "/bountyRanks/0/description","value": "等级I：Hopeful Hunter"},
+{"op": "replace","path": "/bountyRanks/1/description","value": "等级II：Aspiring Apprehender"},
+{"op": "replace","path": "/bountyRanks/2/description","value": "等级III：Dependable Deputy"},
+{"op": "replace","path": "/bountyRanks/3/description","value": "等级IV：Seasoned Sleuth"},
+{"op": "replace","path": "/bountyRanks/4/description","value": "等级V：Proven Peacekeeper"},
+{"op": "replace","path": "/finalAssignment/description","value": "等级V：Proven Peacekeeper"},
+{"op": "replace","path": "/finalAssignment/gang/name","value": "Apocalyptic Occasus Cult"},
+{"op": "replace","path": "/tutorialAssignment/description","value": "等级I：Hopeful Hunter"},
+{"op": "replace","path": "/tutorialAssignment/gang/name","value": "Rowdy Peace Disturbers"},
+{"op": "replace","path": "/bountyTypes/occasusCommander/questConfig/target/name","value": "Asra Nox"},
+{"op": "replace","path": "/bountyTypes/occasusCommander/questConfig/target/monster/parameters/shortdescription","value": "Asra Nox"},
+{"op": "replace","path": "/bountyTypes/tutorialCapstone/questConfig/target/name","value": "Captain Ignoble"}]

@@ -1,0 +1,1 @@
+[{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["We need you to locate and apprehend ^orange;<bounty.name>^reset;. We've received a tip that there may be information <coordinate.preposition> <coordinate.name>, so you should start your investigation there.\n\n- REWARDS -\nCapture: ^yellow;<rewards.money>^reset; pixels, +<rewards.rank> rank"]}]

@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/title","value": "^orange;Bounty"},
+{"op": "replace","path": "/text","value": "Kill the bounty"},
+{"op": "replace","path": "/completionText","value": "Generating bounty"}]

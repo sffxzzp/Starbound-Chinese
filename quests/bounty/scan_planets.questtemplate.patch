@@ -1,0 +1,9 @@
+[{"op": "replace","path": "/title","value": "^orange;Kill bounty"},
+{"op": "replace","path": "/text","value": "Kill the bounty at the place"},
+{"op": "replace","path": "/completionText","value": ""},
+{"op": "replace","path": "/scriptConfig/objectives/findSystemStage","value": ["^orange;Travel^reset; to %s"]},
+{"op": "replace","path": "/scriptConfig/objectives/scanPlanetsStage/searching","value": "Searching for planets..."},
+{"op": "replace","path": "/scriptConfig/objectives/scanPlanetsStage/scan","value": "^orange;Enter orbit^reset; around ^orange;%s^reset;"},
+{"op": "replace","path": "/scriptConfig/scanMessage","value": "No signatures detected on ^orange;%s^reset;."},
+{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["^green;<coordinate.name>^reset;:\nScanning for the target signature led me to <next.coordinate.name>.\n\n","^green;<coordinate.name>^reset;:\nBy scanning the planets in this system, I located the target signature at <next.coordinate.name>.\n\n"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name> was last seen somewhere in <coordinate.systemName>."]}]

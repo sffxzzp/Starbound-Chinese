@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/scriptConfig/objectives/finalMissionStage","value": ["Use ^orange;S.A.I.L^reset; to deploy to the ^green;Dantalion^reset;","^orange;Apprehend^reset; ^green;Asra Nox^reset;"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["My findings <prev.coordinate.preposition> <prev.coordinate.name> have led me to believe <bounty.name> is <coordinate.preposition> <coordinate.name>."]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name> was last seen on <coordinate.name>."]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["You took out <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper office next time you're on the Outpost to collect your rewards!"]}]

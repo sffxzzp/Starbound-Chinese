@@ -1,0 +1,28 @@
+language: python
+python:
+  - "3.4"
+
+env:
+  global:
+    - TRAVIS_TAG="$(date '+%y/%m/%d-%H:%M %z')"
+
+branches:
+  only:
+    - 1.0
+
+script:
+  - python check.py
+
+before_deploy:
+  - zip -r SChinese.zip "." -x "./.git/" "./check.py" "./.travis.yml" "./output.log"
+  - export RBody=$(cat ./output.log)
+
+deploy:
+  provider: releases
+  api_key: $gh_token
+  prerelease: true
+  body: $RBody
+  file: "SChinese.zip"
+  skip_cleanup: true
+  on:
+    branch: 1.0

@@ -16,6 +16,8 @@ script:
 before_deploy:
   - zip -r SChinese.zip "." -x "./.git/" "./check.py" "./.travis.yml" "./output.log"
   - export RBody=$(cat ./output.log)
+  - git config --local user.name "$user_name"
+  - git config --local user.email "$user_email"
 
 deploy:
   provider: releases

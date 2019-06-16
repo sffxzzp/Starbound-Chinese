@@ -216,9 +216,8 @@ function sayNext(args, board)
     context().say(self.currentDialog[1], args.tags, options)
   else
     if #self.currentDialog > 1 then
-      options.drawMoreIndicator = true
+      options.drawMoreIndicator = args.drawMoreIndicator
     end
-    self.currentDialog[1] = sb_replaceTags(self.currentDialog[1], args.tags)
     context().sayPortrait(self.currentDialog[1], portrait, args.tags, options)
   end
 

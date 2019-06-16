@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "用来奖励大地和平卫士成员的一种奖牌。"},
+[{ "op" : "replace", "path" : "/description", "value" : "用来奖励大地和平卫士成员的一种奖励凭据。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "和平点"}]

@@ -4,7 +4,7 @@ python:
 
 env:
   global:
-    - TRAVIS_TAG="$(date '+%y/%m/%d-%H:%M %z')"
+    - TRAVIS_TAG="$(date -u '+%Z-%y%m%d-%H%M')"
 
 branches:
   only:
@@ -14,15 +14,17 @@ script:
   - python check.py
 
 before_deploy:
-  - zip -r SChinese.zip "." -x "./.git/" "./check.py" "./.travis.yml" "./output.log"
+  - zip -r -9 SChinese.zip "." -x "./.git/" "./check.py" "./.travis.yml" "./output.log"
   - export RBody=$(cat ./output.log)
   - git config --local user.name "$user_name"
   - git config --local user.email "$user_email"
+  - git tag "$TRAVIS_TAG"
 
 deploy:
   provider: releases
   api_key: $gh_token
   prerelease: true
+  draft: false
   body: $RBody
   file: "SChinese.zip"
   skip_cleanup: true

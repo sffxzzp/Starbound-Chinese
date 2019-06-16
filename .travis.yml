@@ -14,7 +14,7 @@ script:
   - python check.py
 
 before_deploy:
-  - zip -r -9 SChinese.zip "." -x "./.git/" "./check.py" "./.travis.yml" "./output.log"
+  - zip -r -9 SChinese.zip "." -x "./.git/*" "./check.py" "./.travis.yml" "./output.log"
   - export RBody=$(cat ./output.log)
   - git config --local user.name "$user_name"
   - git config --local user.email "$user_email"

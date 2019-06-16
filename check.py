@@ -33,9 +33,11 @@ class checker:
 					self.transcoding(path)
 				else:
 					pass
+		if self.output == '':
+			self.output = 'None'
 		with open('output.log', 'w') as logfile:
 			logfile.write(self.output)
-		if self.output != '':
+		if self.output != 'None':
 			print(self.output)
 			sys.exit(1)
 

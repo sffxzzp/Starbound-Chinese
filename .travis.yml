@@ -8,7 +8,7 @@ env:
 
 branches:
   only:
-    - 1.0
+    - "1.0"
 
 script:
   - python check.py
@@ -25,4 +25,4 @@ deploy:
   file: "SChinese.zip"
   skip_cleanup: true
   on:
-    branch: 1.0
+    branch: "1.0"

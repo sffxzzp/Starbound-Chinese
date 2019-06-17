@@ -1,7 +1,7 @@
-[{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["Travel to %s"]},
-{"op": "replace","path": "/scriptConfig/objectives/missionTeleportStage","value": ["^orange;Search^reset; planet for ^green;target signature^reset;","^orange;Search^reset; for clues"]},
-{"op": "replace","path": "/scriptConfig/objectives/missionBountyStage","value": ["^orange;Apprehend^reset; ^green;<bounty.name>^reset;"]},
-{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["My findings <prev.coordinate.preposition> <prev.coordinate.name> have led me to believe <bounty.name> is <coordinate.preposition> <coordinate.name>."]},
-{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name> was last seen on <coordinate.name>."]},
-{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["Mighty fine job takin' on <bounty.name>, partner! Justice truly has been served this day.\n\nCome by the Peacekeeper Station to collect your rewards!","You apprehended <bounty.name>? Excellent work, partner! The universe is just a little bit safer now.\n\nCome by the Peacekeeper Station to collect your rewards!"]},
-{"op": "replace","path": "/scriptConfig/generatedText/failure/escape","value": ["--TODO-- You let them go!? How is that supposed to make the universe a safer place?"]}]
+[{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["前往%s"]},
+{"op": "replace","path": "/scriptConfig/objectives/missionTeleportStage","value": ["在星球上^orange;搜寻^green;目标的信号^reset;","^orange;寻找^reset;线索"]},
+{"op": "replace","path": "/scriptConfig/objectives/missionBountyStage","value": ["^orange;逮捕^reset; ^green;<bounty.name>^reset;"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["我在<prev.coordinate.preposition> <prev.coordinate.name>的发现让我认为<bounty.name>在<coordinate.preposition> <coordinate.name>。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name>最近曾出现在<coordinate.name>。"]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["<bounty.name>的案子解决得漂亮，伙伴！今天正义得到了伸张。\n\n什么时候顺路来和平卫士站来领取赏金吧！","你逮捕了<bounty.name>？干得漂亮，伙伴！宇宙现在更加安全了一点。\n\n什么时候顺路来和平卫士站来领取赏金吧！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/failure/escape","value": ["--TODO-- 你让他们跑了！？这还怎么让宇宙变得更安全啊？"]}]

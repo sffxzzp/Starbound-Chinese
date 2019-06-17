@@ -1,4 +1,4 @@
-[{"op": "replace","path": "/reattack/default/default","value": ["You again!"]},
+[{"op": "replace","path": "/reattack/default/default","value": ["又是你！"]},
 {"op": "replace","path": "/reattack/glitch/default","value": ["Aggressive. This time you will not escape."]},
 {"op": "replace","path": "/reattack/floran/default","value": ["Floran will ssstop you this time!"]},
 {"op": "replace","path": "/attack/default/default","value": ["Hold right where you are, law breaking dreg!"]},

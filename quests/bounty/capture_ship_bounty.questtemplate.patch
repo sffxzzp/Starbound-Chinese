@@ -1,9 +1,9 @@
-[{"op": "replace","path": "/title","value": "^orange;Kill bounty"},
-{"op": "replace","path": "/text","value": "Kill the bounty at the place"},
-{"op": "replace","path": "/completionText","value": "You apprehended the bounty!"},
-{"op": "replace","path": "/scriptConfig/objectives/findSpaceBountyStage","value": ["^orange;Travel^reset; to ^green;%s^reset;","^orange;Approach^reset; the ^green;Suspicious Ship^reset;","^orange;Deploy^reset; to the ^green;Suspicious Ship^reset;"]},
-{"op": "replace","path": "/scriptConfig/objectives/killBountyStage","value": ["^orange;Find^reset; the target's ^green; ship^reset;","^orange;Apprehend^reset; ^green;<bounty.name>^reset;"]},
-{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name> was last seen <coordinate.preposition> <coordinate.name>."]},
-{"op": "replace","path": "/scriptConfig/generatedText/complete/capture","value": ["Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!"]},
-{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["Good job taking <bounty.name> and their crew! You're a darn brave soul, partner!\n\nCome by the Peacekeeper Station to collect your reward!"]},
-{"op": "replace","path": "/scriptConfig/generatedText/failureText/default","value": ["You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"]}]
+[{"op": "replace", "path": "/title", "value": "^orange;杀死赏金目标"},
+{"op": "replace", "path": "/text", "value": "在那里杀了赏金目标"},
+{"op": "replace", "path": "/completionText", "value": "你抓住了赏金目标！"},
+{"op": "replace", "path": "/scriptConfig/objectives/findSpaceBountyStage", "value": ["^orange;前往^reset;^green;%s^reset;", "^orange;接近^reset;^green;可疑的飞船^reset;", "^orange;部署^reset;到^green;可疑的飞船^reset;"]},
+{"op": "replace", "path": "/scriptConfig/objectives/killBountyStage", "value": ["^orange;搜寻^reset;目标的^green;飞船^reset;", "^orange;逮捕^reset;^green;<bounty.name>^reset;"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/text/default", "value": ["<bounty.name>的最后踪迹在<coordinate.preposition><coordinate.name>。"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/complete/capture", "value": ["抓住了<bounty.name>和他的团队，干的好！你真是个勇敢的人，伙伴！\n\n到和平卫士空间站领取奖励！"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/complete/default", "value": ["抓住了<bounty.name>和他的团队，干的好！你真是个勇敢的人，伙伴！\n\n到和平卫士空间站领取奖励！"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/failureText/default", "value": ["你放了他们！？我得说，你这次没能尽到自己作为和平卫士的责任，伙计！"]}]

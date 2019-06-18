@@ -1,8 +1,8 @@
-[{"op": "replace","path": "/title","value": "^orange;Bounty^reset;"},
-{"op": "replace","path": "/text","value": ""},
-{"op": "replace","path": "/completionText","value": "You killed the bounty"},
-{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["^orange;Travel^reset; to %s"]},
-{"op": "replace","path": "/scriptConfig/objectives/killBountyStage","value": ["^orange;Search^reset; planet for target signature","^orange;Apprehend^reset; ^green;<bounty.name>^reset;"]},
-{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name> was last seen <coordinate.preposition> <coordinate.name>."]},
-{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["You took on <bounty.name>? an' came out on top! The universe is vast, but the arm of the law is long.\n\nCome by the Peacekeeper Station to collect your rewards!","Mighty fine job takin' on <bounty.name>! The universe is vast, but the arm of the law is long!\n\nCome by the Peacekeeper Station to collect your rewards!"]},
-{"op": "replace","path": "/scriptConfig/generatedText/failureText/default","value": ["You let them go!? I gotta say, you've failed in your duties as a Peacekeeper this time, partner!"]}]
+[{"op": "replace", "path": "/title", "value": "^orange;赏金^reset;"},
+{"op": "replace", "path": "/text", "value": ""},
+{"op": "replace", "path": "/completionText", "value": "你杀死了赏金目标"},
+{"op": "replace", "path": "/scriptConfig/objectives/findWorldStage", "value": ["^orange;前往^reset;%s"]},
+{"op": "replace", "path": "/scriptConfig/objectives/killBountyStage", "value": ["在星球^orange;搜寻^reset;目标的特征", "^orange;逮捕^reset;^green;<bounty.name>^reset;"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/text/default", "value": ["<bounty.name>的最后踪迹在<coordinate.preposition><coordinate.name>。"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/complete/default", "value": ["你接受了<bounty.name>？并且名列前茅！宇宙是浩瀚的，但法律的手臂也很长。\n\n来和平卫士空间站领取你的奖励吧！", "<bounty.name>是份不错的赏金任务！宇宙是浩瀚的，但法律的手臂也很长。\n\n来和平卫士空间站领取你的奖励吧！"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/failureText/default", "value": ["你放了他们！？我得说，你这次没能尽到自己作为和平卫士的责任，伙计！"]}]

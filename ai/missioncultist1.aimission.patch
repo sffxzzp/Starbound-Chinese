@@ -1,0 +1,3 @@
+[{"op": "replace","path": "/speciesText/default/buttonText","value": "但他林"},
+{"op": "replace","path": "/speciesText/default/repeatButtonText","value": "重返但他林"},
+{"op": "replace","path": "/speciesText/default/selectSpeech/text","value": "我们定位到了阿斯拉·诺克斯，她在她的战船「但他林」上。"}]

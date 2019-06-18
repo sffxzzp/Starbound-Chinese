@@ -1,25 +1,24 @@
-[{"op": "replace","path": "/title","value": "Occasus Lab Report: RUIN"},
-{"op": "replace","path": "/description","value": "Research logs written by the Occasus cult."},
-{"op": "replace","path": "/contentPages","value": [
-"^yellow;ASSIGNMENT^white;
+[{"op":"replace","path":"/title","value":"陨日实验室报告：祸"},
+{"op":"replace","path":"/description","value":"陨日教徒撰写的研究日志。"},
+{"op":"replace","path":"/contentPages","value":[
+"^yellow;任务^white;
 
-Upon the request of Asra Nox herself, the Occasus Research team on board the Dantalion have began an investigation into the nature of the lifeform or lifeforms associated with the now-deceased entity more commonly referred to as the \"Ruin\". 
+应阿斯拉·诺克斯本人的要求，位于但他林号上的陨日研究小组针对已被击败的某生命形态实体的本质展开了调查，人们通常将该实体称为\"祸\"。
 
-The entity was unfortunately destroyed by an individual referred to as the \"Protector\", much to the chagrin of Lady Nox.", 
+不幸的是该实体已被某个据说是\"守护者\"的家伙单枪匹马摧毁了。这让诺克斯女士懊恼不已。",
 
-"Nox has explained how the Protector opened some sort of wormhole to the pocket dimension where the core of the entity resided, where she pursued them. Our most cognizant Lady was wise enough to take some samples of the smaller lifeforms that dwelled on the surface of the entity's planetoid form during her visit.
+"诺克斯已经解释了守护者是如何打开某种虫洞抵达实体核心所居住的微型位面。聪明如我们的女士，悄悄地跟了上去，并且十分机智地在旅途中收集到了一些居住在已经小行星化的实体表面的小型生命体的样本。
 
-Nox believes that the remaining organic samples left over from the entity's destruction might give the Occasus some insight into its powers, and how they may be harnessed.",
+诺克斯相信从实体遗体上获取的有机样本或许能让陨日从中窥探出一些有关它力量的奥秘，并使这种力量能够为我们所用。",
 
-"^yellow;ANALYSIS^white;
+"^yellow;分析^white;
 
-The findings from these specimens has continued to be fascinating. They do not act as independent organisms - their synapses are more akin to wireless radios, broadcasting sensory information across space and dimensions. 
+这些样本不断地给我们带来令人着迷的新发现。它们并不像单独的器官一样运作—它们的突触更类似于无线电，在宇宙和位面间传递着感观信息。
 
-We believe they are remote limbs, used to observe and report back to a central organism - no doubt the Ruin.",
+我们相信它们就是一些遥控的肢体，用来观察并将情报传回给中央有机本体—毫无疑问也就是祸。",
 
-"^yellow;CONCLUSION^white;
+"^yellow;结论^white;
 
-Solving the Ruin's talents for cross-dimensional transportation could be incredibly valuable to the Occasus. We are all aware of the Ruin's ability to travel across dimensions as it attempted to leave its pocket dimension (resulting in the unfortunate - but unsympathetic - destruction of Earth) and harnessing this could result in new horizons for our cause. 
+揭开祸跨位面运输能力的奥秘对陨日来说具有无可估量的价值。祸试图摆脱它所在的微型位面一事（这直接导致了地球的毁灭，很不幸—但也不值得同情）让我们都了解到它具有一定在位面间穿行的能力。如果能让这种能力为我们所用，我们的事业将会有不一样的明天。
 
-Research continues."
-]}]
+研究仍在继续。"]}]

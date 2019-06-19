@@ -14,7 +14,12 @@ script:
   - python check.py
 
 before_deploy:
-  - zip -r -9 SChinese.zip "." -x "./.git/*" "./check.py" "./.travis.yml" "./output.log"
+  - mkdir SChinese
+  - mv * SChinese/ || true
+  - cd SChinese/ && mv check.py ../ && mv output.log ../ && cd ../
+  - curl -sSL -o packer.zip https://github.com/sffxzzp/Starbound-Chinese/releases/download/packer/asset_packer.zip && unzip packer.zip
+  - chmod a+x asset_packer && ./asset_packer "SChinese" "SChinese.pak"
+  - zip -9 "SChinese.zip" "Schinese.pak"
   - export RBody=$(cat ./output.log)
   - git config --local user.name "$user_name"
   - git config --local user.email "$user_email"
@@ -26,7 +31,7 @@ deploy:
   prerelease: true
   draft: false
   body: $RBody
-  file: "SChinese.zip"
+  file: "SChinese.pak"
   skip_cleanup: true
   on:
     branch: "1.0"

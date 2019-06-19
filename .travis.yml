@@ -19,7 +19,7 @@ before_deploy:
   - cd SChinese/ && mv check.py ../ && mv output.log ../ && cd ../
   - curl -sSL -o packer.zip https://github.com/sffxzzp/Starbound-Chinese/releases/download/packer/asset_packer.zip && unzip packer.zip
   - chmod a+x asset_packer && ./asset_packer "SChinese" "SChinese.pak"
-  - zip -9 "SChinese.zip" "Schinese.pak"
+  - zip -9 "SChinese.zip" "SChinese.pak"
   - export RBody=$(cat ./output.log)
   - git config --local user.name "$user_name"
   - git config --local user.email "$user_email"

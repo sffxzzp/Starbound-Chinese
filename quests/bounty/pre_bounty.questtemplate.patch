@@ -1,1 +1,0 @@
-[{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["我们需要你定位并逮捕^orange;<bounty.name>^reset;。我们收到情报称在<coordinate.preposition><coordinate.name>可能有它们的踪迹，因此你最好从那里开始调查。\n\n—奖励—\n捕获：^yellow;<rewards.money>^reset;像素，+<rewards.rank>等级"]}]

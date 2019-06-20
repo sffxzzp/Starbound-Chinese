@@ -86,7 +86,6 @@ end
 function killBountyStage()
   local tags = util.generateTextTags(quest.parameters().text.tags)
   local objectiveText = util.map(config.getParameter("objectives.killBountyStage"), function(text)
-      --return sb.replaceTags(text, tags)
       return sb_replaceTags(text, tags)
     end)
   quest.setObjectiveList({
@@ -596,7 +595,6 @@ function missionBountyStage()
 
   local tags = util.generateTextTags(quest.parameters().text.tags)
   local objectiveText = util.map(config.getParameter("objectives.missionBountyStage"), function(text)
-      --return sb.replaceTags(text, tags)
       return sb_replaceTags(text, tags)
     end)
   quest.setObjectiveList({

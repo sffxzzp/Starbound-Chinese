@@ -174,7 +174,6 @@ function questInvolvesWorld()
         local tags = {
           questId = quest.questId()
         }
-        --return sb.replaceTags(location.worldId or quest.worldId() or "", tags)
         return sb_replaceTags(location.worldId or quest.worldId() or "", tags)
       end)
     if contains(locationWorlds, player.worldId()) then
@@ -214,7 +213,6 @@ function questComplete()
 
     local tags = util.generateTextTags(quest.parameters().text.tags)
     tags.bountyPoints = rewards.rank
-    --text = sb.replaceTags(util.randomFromList(text), tags)
     text = sb_replaceTags(util.randomFromList(text), tags)
     quest.setCompletionText(text)
   end
@@ -365,11 +363,9 @@ function setText()
   self.bountyName = tags["bounty.name"]
   local title
   if self.bountyType == "major" then
-    --title = sb.replaceTags("^yellow; ^orange;Bounty: ^green;<bounty.name>", tags)
-    title = sb_replaceTags("^yellow; ^orange;Bounty: ^green;<bounty.name>", tags)
+    title = sb_replaceTags("^yellow; ^orange;赏金：^green;<bounty.name>", tags)
   else
-    --title = sb.replaceTags("^orange;Bounty: ^green;<bounty.name>", tags)
-    title = sb_replaceTags("^orange;Bounty: ^green;<bounty.name>", tags)
+    title = sb_replaceTags("^orange;赏金：^green;<bounty.name>", tags)
   end
   quest.setTitle(title)
 
@@ -393,17 +389,14 @@ function setText()
 
       local tags = util.generateTextTags(q.parameters.text.tags)
       if textCons then
-        --textCons = string.format("%s%s", textCons, sb.replaceTags(text, tags))
         textCons = string.format("%s%s", textCons, sb_replaceTags(text, tags))
       else
-        --textCons = sb.replaceTags(text, tags)
         textCons = sb_replaceTags(text, tags)
       end
 
       if q.questId == quest.questId() then
         if questConfig.generatedText.failureText then
           local failureText = util.randomFromList(questConfig.generatedText.failureText.default)
-          --failureText = sb.replaceTags(failureText, tags)
           failureText = sb_replaceTags(failureText, tags)
           quest.setFailureText(failureText)
         end
@@ -420,7 +413,6 @@ function radioMessage(text, portraitType)
   portraitType = portraitType or "default"
   local message = copy(self.radioMessageConfig[portraitType])
   local tags = util.generateTextTags(quest.parameters().text.tags)
-  --message.text = sb.replaceTags(text, tags)
   message.text = sb_replaceTags(text, tags)
   return message
 end

@@ -19,8 +19,7 @@ end
 
 function setText()
   local tags = util.generateTextTags(quest.parameters().text.tags)
-  --quest.setTitle(sb.replaceTags("^orange;Bounty: ^green;<bounty.name>", tags))
-  quest.setTitle(sb_replaceTags("^orange;Bounty: ^green;<bounty.name>", tags))
+  quest.setTitle(sb_replaceTags("^orange;赏金：^green;<bounty.name>", tags))
 
   local textCons
   for i, q in pairs(quest.questArcDescriptor().quests) do
@@ -34,16 +33,13 @@ function setText()
 
     local tags = util.generateTextTags(q.parameters.text.tags)
     if textCons then
-      --textCons = string.format("%s\n\n%s", textCons, sb.replaceTags(text, tags))
       textCons = string.format("%s\n\n%s", textCons, sb_replaceTags(text, tags))
     else
-      --textCons = sb.replaceTags(text, tags)
       textCons = sb_replaceTags(text, tags)
     end
     if q.questId == quest.questId() then
       if questConfig.generatedText.failureText then
         local failureText = util.randomFromList(questConfig.generatedText.failureText.default)
-        --failureText = sb.replaceTags(failureText, tags)
         failureText = sb_replaceTags(failureText, tags)
         quest.setFailureText(failureText)
       end

@@ -36,10 +36,7 @@ function sayBountyClueDialog(args, board)
   local nameGen = root.assetJson(string.format("/species/%s.species:nameGen", species))
   self.dialogTags.randomName = root.generateName(gender == "male" and nameGen[1] or nameGen[2])
 
-  --npc.say(sb.replaceTags(dialog, self.dialogTags), tags)
-  dialog = sb_replaceTags(dialog, self.dialogTags)
-  dialog = sb_replaceTags(dialog, tags)
-  npc.say(dialog, tags)
+  npc.say(sb_replaceTags(sb_replaceTags(dialog, self.dialogTags), tags))
   return true
 end
 

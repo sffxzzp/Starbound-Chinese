@@ -698,7 +698,6 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
         questId = step.questId,
         threatLevel = self.level,
       }
-      --local worldId = locationConfig.worldId and sb.replaceTags(locationConfig.worldId, worldTags)
       local worldId = locationConfig.worldId and sb_replaceTags(locationConfig.worldId, worldTags)
       if locationConfig.type == "dungeon" then
         step.questParameters.locations.locations[k] = {
@@ -896,7 +895,6 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
                   clueType = step.clueType
                 }
                 if type(v) == "string" then
-                  --override.behavior.parameters[k] = sb.replaceTags(v, tags)
                   override.behavior.parameters[k] = sb_replaceTags(v, tags)
                 end
               end
@@ -1026,11 +1024,9 @@ function BountyGenerator:processSteps(steps, bounty, planetPool)
     local text = step.questParameters.text
     if text then
       if text.completeMessage then
-        --text.completeMessage = sb.replaceTags(text.completeMessage, tags)
         text.completeMessage = sb_replaceTags(text.completeMessage, tags)
       end
       if text.skipMessage then
-        --text.skipMessage = sb.replaceTags(text.skipMessage, tags)
         text.skipMessage = sb_replaceTags(text.skipMessage, tags)
       end
     end

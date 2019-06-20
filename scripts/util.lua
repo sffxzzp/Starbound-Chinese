@@ -832,7 +832,6 @@ function util.recReplaceTags(v, tags)
     end
     return v
   elseif type(v) == "string" then
-    --return sb.replaceTags(v, tags)
     return sb_replaceTags(v, tags)
   else
     return v

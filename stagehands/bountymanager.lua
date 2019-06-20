@@ -797,11 +797,9 @@ function spawnObject(spawnConfig)
   local clueConfig = clueConfigs[world.entityName(clue)][spawnConfig.clueType]
   if clueConfig then
     local tags = util.generateTextTags(self.quests[spawnConfig.questId].parameters.text.tags)
-    --storage.questStorage[spawnConfig.questId].dialog[uniqueId] = sb.replaceTags(clueConfig.dialog, tags)
     storage.questStorage[spawnConfig.questId].dialog[uniqueId] = sb_replaceTags(clueConfig.dialog, tags)
     if clueConfig.message then
       for _,playerId in ipairs(storage.questStorage[spawnConfig.questId].players) do
-        --self.outbox:sendMessage(playerId, spawnConfig.questId.."setCompleteMessage", sb.replaceTags(clueConfig.message, tags))
         self.outbox:sendMessage(playerId, spawnConfig.questId.."setCompleteMessage", sb_replaceTags(clueConfig.message, tags))
       end
     end
@@ -861,7 +859,6 @@ function spawnScanObject(spawnConfig)
       if clueConfig.message then
         local tags = util.generateTextTags(self.quests[spawnConfig.questId].parameters.text.tags)
         for _,playerId in ipairs(storage.questStorage[spawnConfig.questId].players) do
-          --self.outbox:sendMessage(playerId, spawnConfig.questId.."setCompleteMessage", sb.replaceTags(clueConfig.message, tags))
           self.outbox:sendMessage(playerId, spawnConfig.questId.."setCompleteMessage", sb_replaceTags(clueConfig.message, tags))
         end
       end

@@ -5,5 +5,5 @@
 {"op": "replace","path": "/scriptConfig/objectives/killBountyStage","value": ["在星球上^orange;搜寻^reset;目标的特征","^orange;杀死^reset; ^green;<bounty.name>^reset;"]},
 {"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["我在<prev.coordinate.preposition> <prev.coordinate.name>的发现让我认为<bounty.name>就在<coordinate.preposition> <coordinate.name>。"]},
 {"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name>最后一次出现是在<coordinate.preposition> <coordinate.name>。"]},
-{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["你解决了 <bounty.name>？干得漂亮，搭档！宇宙现在更安全了一点。\n\n什么时候去前哨站时顺路来和平卫士办公室来领取奖励吧！"]},
+{"op": "replace","path": "/scriptConfig/generatedText/complete/default","value": ["你解决了 <bounty.name>？干得漂亮，搭档！宇宙现在更安全了一点。\n\n什么时候顺路来和平卫士办公室来领取奖励吧！"]},
 {"op": "replace","path": "/scriptConfig/generatedText/failure/default","value": ["--TODO-- 你让他们跑了？这还怎么让宇宙更安全啊？"]}]

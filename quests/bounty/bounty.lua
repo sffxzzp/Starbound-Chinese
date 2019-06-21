@@ -62,19 +62,19 @@ function init()
     default = {
       messageId = "bounty_message",
       unique = false,
-      senderName = "Captain Noble",
+      senderName = "诺布尔队长",
       portraitImage = "/interface/chatbubbles/captain.png:<frame>"
     },
     angry = {
       messageId = "bounty_message",
       unique = false,
-      senderName = "Captain Noble",
+      senderName = "诺布尔队长",
       portraitImage = "/interface/chatbubbles/captainrage.png:<frame>"
     }
   }
 
   self.defaultSkipMessages = {
-    "You managed to figure that out without a clue? Nice work!"
+    "你确定不要任何线索解决问题？干的漂亮！"
   }
 
   self.managerPosition = nil

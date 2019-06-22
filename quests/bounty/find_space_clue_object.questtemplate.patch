@@ -1,0 +1,7 @@
+[{"op": "replace","path": "/title","value": "^orange;杀死赏金目标"},
+{"op": "replace","path": "/text","value": "找到赏金目标位置的线索"},
+{"op": "replace","path": "/completionText","value": "你找到了一条线索。它指向何处？"},
+{"op": "replace","path": "/scriptConfig/objectives/findSpaceBountyStage","value": ["^orange;前往^green;%s^reset;","^orange;到达^green;罪犯藏身处^reset;","^orange;部署^reset;至^green;罪犯藏身处^reset;"]},
+{"op": "replace","path": "/scriptConfig/objectives/findClueObjectStage","value": ["在空间中^orange;搜索^green;藏身处^reset;","^orange;寻找^reset;线索"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["^green;<coordinate.name>^reset;：\n电脑记录告诉我<bounty.name>在<next.coordinate.preposition><next.coordinate.name>。\n\n","^green;<coordinate.name>^reset;：\n我的大师级骇客技巧指引我到<next.coordinate.name>。\n\n","^green;<coordinate.name>^reset;：\n我的高级骇客技巧指引我到<next.coordinate.name>。\n\n","^green;<coordinate.name>^reset;：\n骇入罪犯的安全数据库给了我\"<next.coordinate.name>\"的位置。\n\n"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["^orange;<bounty.name>^reset;在<coordinate.preposition><coordinate.name>被最后目击。\n\n","^orange;<bounty.name>^reset;最近于<coordinate.preposition><coordinate.name>被看见。\n\n","^orange;<bounty.name>^reset;的线索在<coordinate.preposition><coordinate.name>开始逐渐失效。\n\n"]}]

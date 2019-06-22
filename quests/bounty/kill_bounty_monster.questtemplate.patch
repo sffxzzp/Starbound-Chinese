@@ -1,7 +1,7 @@
 [{"op": "replace","path": "/title","value": "^orange;赏金^reset;"},
 {"op": "replace","path": "/text","value": ""},
 {"op": "replace","path": "/completionText","value": "你杀死了赏金目标"},
-{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["^orange;前往^reset; to %s"]},
+{"op": "replace","path": "/scriptConfig/objectives/findWorldStage","value": ["^orange;前往^reset;%s"]},
 {"op": "replace","path": "/scriptConfig/objectives/killBountyStage","value": ["在星球上^orange;搜寻^reset;目标的特征", "^orange;杀死^reset; ^green;<bounty.name>^reset;"]},
 {"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["我在<prev.coordinate.preposition> <prev.coordinate.name>的发现让我认为<bounty.name>就在<coordinate.preposition> <coordinate.name>。"]},
 {"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["<bounty.name>最后一次出现是在<coordinate.preposition> <coordinate.name>。"]},

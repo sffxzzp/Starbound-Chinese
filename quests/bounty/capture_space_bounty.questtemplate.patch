@@ -3,6 +3,6 @@
 {"op": "replace", "path": "/completionText", "value": "你杀死了赏金目标"},
 {"op": "replace", "path": "/scriptConfig/objectives/findSpaceBountyStage", "value": ["^orange;前往^reset;^green;%s^reset;", "^orange;接近^reset;^green;罪犯藏身处^reset;", "^orange;部署^reset;到^green;罪犯藏身处^reset;"]},
 {"op": "replace", "path": "/scriptConfig/objectives/killBountyStage", "value": ["^orange;搜寻^reset;空间来寻找^green;藏身处^reset;", "^orange;逮捕^reset;^green;<bounty.name>^reset;"]},
-{"op": "replace", "path": "/scriptConfig/generatedText/text/default", "value": ["<bounty.name>的最后踪迹在<coordinate.preposition><coordinate.name>。"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/text/default", "value": ["<bounty.name>的最后踪迹在<coordinate.name>。"]},
 {"op": "replace", "path": "/scriptConfig/generatedText/complete/default", "value": ["深入太空并捕获了<bounty.name>，干的漂亮！你是一个真正的银河英雄。\n\n来维和站领取你的奖励吧！"]},
 {"op": "replace", "path": "/scriptConfig/generatedText/failureText/default", "value": ["你放了他们！？我得说，你这次没能尽到自己作为和平卫士的责任，伙计！"]}]

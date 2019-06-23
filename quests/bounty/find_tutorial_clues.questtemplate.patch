@@ -8,5 +8,5 @@
 {"op": "replace","path": "/scriptConfig/objectives/tutorialClueStage/1/findObject","value": "为线索^orange;搜索电脑^reset;"},
 {"op": "replace","path": "/scriptConfig/objectives/tutorialClueStage/1/findScan","value": "为线索^orange;扫描^reset;"},
 {"op": "replace","path": "/scriptConfig/generatedText/text/prev","value": ["^green;<coordinate.name>^reset;：\n我在这找到的几条线索指引我到<next.coordinate.name>。\n\n","^green;<coordinate.name>^reset;：\n我找的线索把我的视线带到<next.coordinate.name>。\n\n"]},
-{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["^orange;<bounty.name>^reset;的最后踪迹在<coordinate.preposition><coordinate.name>。\n\n","^orange;<bounty.name>^reset;在<coordinate.preposition><coordinate.name>被最后目击。\n\n","^orange;<bounty.name>^reset;的踪迹在<coordinate.preposition><coordinate.name>。\n\n"]},
+{"op": "replace","path": "/scriptConfig/generatedText/text/default","value": ["^orange;<bounty.name>^reset;的最后踪迹在<coordinate.name>。\n\n","^orange;<bounty.name>^reset;在<coordinate.name>被最后目击。\n\n","^orange;<bounty.name>^reset;的踪迹在<coordinate.name>。\n\n"]},
 {"op": "replace","path": "/scriptConfig/generatedText/failureText/default","value": ["线索开始逐渐失效！如果没有更多指引，<bounty.name>就会又一次溜出我们的掌控。谁知道在我们再次抓住他们之前他们会犯下什么令人发指的罪行？","耗尽所有可用线索后，我们不得不放弃寻找<bounty.name>。这将是正义的黑暗之日。"]}]

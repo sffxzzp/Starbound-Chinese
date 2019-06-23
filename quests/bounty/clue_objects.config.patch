@@ -29,7 +29,7 @@
 {"op": "replace","path": "/stationconsole/vaultClue/dialog","value": ">金库位置：^green;<next.coordinate.systemName>^reset; 金库密码^green;<password>^reset;被设定将于[999]天后到期"},
 {"op": "replace","path": "/stationconsole/vaultClue/message","value": "谁能猜到金库密码会是<password>？你最好返回那座金库，搭档！"},
 {"op": "replace","path": "/industrialcomputer/planetClue/dialog","value": ">上次交货地点：^green;<next.coordinate.name>^reset;"},
-{"op": "replace","path": "/indus0trialcomputer/planetClue/message","value": "^green;<next.coordinate.name>^reset;？这条线索比我对正义的渴望还要棒！"},
+{"op": "replace","path": "/industrialcomputer/planetClue/message","value": "^green;<next.coordinate.name>^reset;？这条线索比我对正义的渴望还要棒！"},
 {"op": "replace","path": "/industrialcomputer/planetBounty/dialog","value": ">信息请求：<bounty.name>目前居住在^green;<next.coordinate.name>^reset;"},
 {"op": "replace","path": "/industrialcomputer/planetBounty/message","value": "你发现目标的位置了？你最好启程前往^green;<next.coordinate.name>^reset;！"},
 {"op": "replace","path": "/industrialcomputer/spaceClue/dialog","value": ">加密的星系名称：^green;<next.coordinate.systemName>^reset;"},

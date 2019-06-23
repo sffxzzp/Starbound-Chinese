@@ -1,4 +1,4 @@
-[{"op": "replace", "path": "/scriptConfig/objectives/finalMissionStage", "value": ["使用^orange;S.A.I.L^reset;以部署至^green;但他林^reset;", "^orange;逮捕^reset;^green;阿斯拉·诺克斯^reset;"]},
-{"op": "replace", "path": "/scriptConfig/generatedText/text/prev", "value": ["我在<prev.coordinate.preposition><prev.coordinate.name>的发现使我相信<bounty.name>在<coordinate.preposition><coordinate.name>。"]},
+[{"op": "replace", "path": "/scriptConfig/objectives/finalMissionStage", "value": ["使用^orange;S.A.I.L^reset;以部署至^green;旃塔霖^reset;", "^orange;逮捕^reset;^green;阿斯拉·诺克斯^reset;"]},
+{"op": "replace", "path": "/scriptConfig/generatedText/text/prev", "value": ["我在<prev.coordinate.preposition><prev.coordinate.name>的发现使我相信<bounty.name>在<coordinate.name>。"]},
 {"op": "replace", "path": "/scriptConfig/generatedText/text/default", "value": ["<bounty.name>的最后踪迹在<coordinate.name>。"]},
 {"op": "replace", "path": "/scriptConfig/generatedText/complete/default", "value": ["你搞定了<bounty.name>？干得好，搭档！宇宙比以前更安全一些了。\n\n下次到空间站的时候记得来办公室领取你的 奖励！"]}]

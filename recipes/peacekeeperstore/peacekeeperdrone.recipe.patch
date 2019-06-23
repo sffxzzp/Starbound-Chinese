@@ -1,0 +1,4 @@
+[{"op": "replace","path": "/output/parameters/shortdescription","value": "和平卫士无人机"},
+{"op": "replace","path": "/output/parameters/description","value": "可部署的自动化无人机，用于发射爆炸性弹药。"},
+{"op": "replace","path": "/output/parameters/tooltipFields/subtitle","value": "和平卫士无人机"},
+{"op": "replace","path": "/output/parameters/pets/0/name","value": "无人机"}]

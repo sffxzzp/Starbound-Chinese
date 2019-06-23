@@ -1,5 +1,7 @@
 [{ "op" : "replace", "path" : "/description", "value" : "精致的家具，带有一个和平卫士的绶带。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "和平卫士家具"},
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/title","value": "和平卫士家具"},
+{"op": "replace","path": "/interactData/paneLayoutOverride/windowtitle/subtitle","value": "像和平卫士一样装饰！"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这只青蛙似乎在卖和平卫士家具。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "我想我可以给自己买一些和平卫士家具！"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族不明白青蛙为什么不说话。"},

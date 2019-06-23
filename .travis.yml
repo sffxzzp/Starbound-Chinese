@@ -30,7 +30,7 @@ deploy:
   api_key: $gh_token
   prerelease: true
   draft: false
-  title: $TRAVIS_TAG
+  name: $TRAVIS_TAG
   body: $RBody
   file: "SChinese.zip"
   skip_cleanup: true

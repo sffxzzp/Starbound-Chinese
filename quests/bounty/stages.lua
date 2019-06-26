@@ -667,9 +667,13 @@ function tutorialClueStage()
   playBountyMusic()
   playApproachMessage("approachclue")
   while true do
+    if not onQuestWorld() then
+      return previousStage()
+    end
+
     local toClue = world.distance(storage.spawned["clueItem"], entity.position())
     local distance = world.magnitude(toClue)
-    if distance > 32 then 
+    if distance > 24 then 
       quest.setCompassDirection(vec2.angle(toClue))
     else
       quest.setCompassDirection(nil)

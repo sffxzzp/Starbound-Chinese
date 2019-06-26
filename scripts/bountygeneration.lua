@@ -217,6 +217,7 @@ function BountyGenerator:generateBountyNpc(gang, colorIndex, withTitle)
       name = gang.name,
       hat = gang.hat,
       colorIndex = colorIndex,
+      species = gang.species,
     }
   end
   local bounty = {

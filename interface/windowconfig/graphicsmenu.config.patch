@@ -7,6 +7,7 @@
 {"op": "replace","path": "/paneLayout/interactiveHighlightLabel/value","value": "目标高亮"},
 {"op": "replace","path": "/paneLayout/speechBubbleLabel/value","value": "对话泡泡"},
 {"op": "replace","path": "/paneLayout/textureLimitLabel/value","value": "纹理限制"},
+{"op": "replace","path": "/paneLayout/multiTextureLabel/value","value": "多重贴图"},
 {"op": "replace","path": "/paneLayout/resLabel/value","value": "全屏分辨率"},
 {"op": "replace","path": "/paneLayout/zoomLabel/value","value": "缩放等级"},
 {"op": "replace","path": "/zoomList","value": [1,2,3,4,5]}]

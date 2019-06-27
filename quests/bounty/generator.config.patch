@@ -10,6 +10,6 @@
 {"op": "replace","path": "/edges/16/next/text/questLog","value": "^green;<coordinate.name>^reset;:\n经过劝说，一个小喽罗给了我安全屋的密码： <password>。\n\n"},
 {"op": "replace","path": "/edges/17/mid/text/skipMessage","value": "骇得不错，搭档！你成功猜中密码的概率有多少？"},
 {"op": "replace","path": "/edges/18/mid/text/skipMessage","value": "我们甚至还没找到密码。骇得漂亮，搭档！"},
-{"op": "replace","path": "/edges/19/mid/text/skipMessage","value": "我喜欢你的手法-不用去找什么安全屋密码，猜就是了！干得好，搭档！"},
+{"op": "replace","path": "/edges/19/mid/text/skipMessage","value": "我喜欢你的手法—不用去找什么安全屋密码，猜就是了！干得好，搭档！"},
 {"op": "replace","path": "/edges/29/prev/text/message","value": "你找齐了线索，干得好，搭档！你现在有足够的情报去追踪无赖^green;黑诺布尔队长^reset;了！"},
 {"op": "replace","path": "/edges/29/next/text/message","value": "真是不敢相信，搭档！你解决了神秘帅气的^orange;黑诺布尔队长^reset;！^orange;回和平卫士空间站^reset;接受新的指派吧。"}]

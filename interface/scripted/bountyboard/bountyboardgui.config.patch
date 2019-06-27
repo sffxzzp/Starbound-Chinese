@@ -14,6 +14,12 @@
 {"op": "replace","path": "/assignmentFormat","value": "调查^cyan;<systemName>^reset;附近的^yellow;<gangName>^reset;"},
 {"op": "replace","path": "/missingAssignment","value": "无和平卫士任务"},
 {"op": "replace","path": "/newAssignmentText","value": " 新任务！"},
-{"op": "replace","path": "/newRankText","value": " 升级！"},
+{"op": "replace","path": "/otherAssignment","value": "You are assigned to another Peacekeeper Department."},
+{"op": "replace","path": "/noBoardAssignment","value": "This board has no current assignment. Waiting for assigned Peacekeeper..."},
+{"op": "replace","path": "/assignmentDifferentRank","value": "This board provides cases of rank %s. Your current rank is %s. Please continue to your assigned Peacekeeper Station."},
+{"op": "replace","path": "/finalAssignmentNotReady","value": "Restricted assignment. Please return to your assigned peacekeeper station."},
+{"op": "replace","path": "/assignmentCompleted","value": "You have already completed this station's assignment. Please continue to your assigned peacekeeper station."},
+{"op": "replace","path": "/otherAssignmentActive","value": "You have active cases registered to another department. Please clear your current case load before assigning to a different station."},
+{"op": "replace","path": "/assignmentNotReady","value": "You are not yet ready to take cases of this rank. Please continue to your assigned peacekeeper station."},
 {"op": "replace","path": "/posterTags/majorText","value": ["高价值"]},
 {"op": "replace","path": "/posterTags/capstoneText","value": ["领袖"]}]

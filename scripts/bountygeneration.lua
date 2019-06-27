@@ -397,10 +397,11 @@ function BountyGenerator:pickEdge(fromStep, toStep, toClueType, questId, previou
       }
     }
   else
-    options = util.map(self.config.ends, function(step)
+    options = util.map(self.config.ends, function(o)
         return {
+          weight = o[1],
           prev = {
-            step = step
+            step = o[2],
           },
 
           next = nil

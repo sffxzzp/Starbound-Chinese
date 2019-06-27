@@ -14,6 +14,7 @@
 {"op": "replace","path": "/assignmentFormat","value": "调查^cyan;<systemName>^reset;附近的^yellow;<gangName>^reset;"},
 {"op": "replace","path": "/missingAssignment","value": "无和平卫士任务"},
 {"op": "replace","path": "/newAssignmentText","value": " 新任务！"},
+{"op": "replace","path": "/newRankText","value": " 升级！"},
 {"op": "replace","path": "/otherAssignment","value": "你被分配到另一个和平卫士部门。"},
 {"op": "replace","path": "/noBoardAssignment","value": "该赏金板目前并无分配。正在等待分配和平卫士…"},
 {"op": "replace","path": "/assignmentDifferentRank","value": "该赏金版提供级别%s的按键。你当前的级别是%s。请前往你被分配的和平卫士空间站。"},

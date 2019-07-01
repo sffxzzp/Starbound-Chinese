@@ -17,7 +17,7 @@
 {"op": "replace","path": "/newRankText","value": " 升级！"},
 {"op": "replace","path": "/otherAssignment","value": "你被分配到另一个和平卫士部门。"},
 {"op": "replace","path": "/noBoardAssignment","value": "该赏金板目前并无分配。正在等待分配和平卫士…"},
-{"op": "replace","path": "/assignmentDifferentRank","value": "该赏金版提供级别%s的按键。你当前的级别是%s。请前往你被分配的和平卫士空间站。"},
+{"op": "replace","path": "/assignmentDifferentRank","value": "该赏金板提供级别%s的案件。你当前的级别是%s。请前往你被分配的和平卫士空间站。"},
 {"op": "replace","path": "/finalAssignmentNotReady","value": "受限制的分配。请返回你被分配的和平卫士空间站。"},
 {"op": "replace","path": "/assignmentCompleted","value": "你已完成该空间站所分配的任务。请前往你被分配的和平卫士空间站以继续。"},
 {"op": "replace","path": "/otherAssignmentActive","value": "你在其他部门已有活跃案件记录在案。在分配至其他空间站前，请先完成你当前的案件。"},

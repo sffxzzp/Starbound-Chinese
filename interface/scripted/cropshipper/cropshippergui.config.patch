@@ -1,2 +1,3 @@
-[{"op": "replace","path": "/gui/lblMoneyLabel/value","value": "总价值"},
+[{"op": "replace","path": "/gui/btnShip/caption","value": "发射"},
+{"op": "replace","path": "/gui/lblMoneyLabel/value","value": "总价值"},
 {"op": "replace","path": "/gui/count/value","value": "40格"}]

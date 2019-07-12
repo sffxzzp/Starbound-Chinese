@@ -1,7 +1,7 @@
 [{"op": "replace","path": "/title","value": "莱西亚公司手册"},
 {"op": "replace","path": "/description","value": "一个莱西亚公司的商业宣传手册。"},
 {"op": "replace","path": "/contentPages","value": [
-"^yellow;莱西亚公司^white;的存在是为了改善你生活的每一方面。这是我们公司的座右铭以及目标，“为什么活在莱西亚以外？”比以前更近在咫尺！以下是我们惊人的产品以及服务：
+"^yellow;莱西亚公司^white;的存在是为了改善你生活的每一方面。这是我们公司的座右铭以及目标，“何不与莱西亚一同生活？”比以前更近在咫尺！以下是我们惊人的产品以及服务：
 
 ^orange;星际旅行^white;
 

@@ -101,4 +101,9 @@
     "toy": "玩具",
     "uniqueWeapon": "独特武器",
     "whip": "鞭"
-}}]
+}},
+{
+    "op": "add",
+    "path": "/labels/Tool",
+    "value": "工具"
+  }]

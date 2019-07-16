@@ -1,1 +1,12 @@
-[{"op": "replace","path": "/0/1","value": [[["test"],{"name": "测试用有腿鱼","typeName": "lilodon"}],[["generic"],{"name": "葛利普","typeName": "gleap"}],[["generic"],{"name": "铁头犬","typeName": "voltip"}],[["generic"],{"name": "吐槽蛇","typeName": "snaunt"}],[["generic"],{"name": "鲨狗","typeName": "lilodon"}],[["generic"],{"name": "毒气草","typeName": "miasmop"}],[["generic"],{"name": "小岩石","typeName": "peblit"}],[["generic"],{"name": "吐舌娃","typeName": "poptop"}],[["generic"],{"name": "波尔普","typeName": "bulbop"}],[["generic"],{"name": "火狐","typeName": "fennix"}]]}]
+[{"op": "replace","path": "/0/1","value": [
+[["test"],{"name": "测试用有腿鱼","typeName": "lilodon"}],
+[["generic"],{"name": "葛利普","typeName": "gleap"}],
+[["generic"],{"name": "伏特犬","typeName": "voltip"}],
+[["generic"],{"name": "吐槽蛇","typeName": "snaunt"}],
+[["generic"],{"name": "鲨狗","typeName": "lilodon"}],
+[["generic"],{"name": "毒气草","typeName": "miasmop"}],
+[["generic"],{"name": "小岩石","typeName": "peblit"}],
+[["generic"],{"name": "吐舌娃","typeName": "poptop"}],
+[["generic"],{"name": "波尔普","typeName": "bulbop"}],
+[["generic"],{"name": "菲狐","typeName": "fennix"}]
+]}]

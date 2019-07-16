@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "path": "/toolLabel/value",
-    "value": "门"
-  }
-]
+[{"op": "replace", "path": "/toolLabel/value", "value": "门"}]

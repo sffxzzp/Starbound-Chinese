@@ -1,0 +1,9 @@
+[{"op": "replace","path": "/nameGen/1/1","value": [
+    {"mode": "alts"},"即兴","临时","无效","廉价","自制"
+]},
+{"op": "replace","path": "/nameGen/1/2","value": [
+    {"mode": "alts"},"面部","头部","颅骨","身体","英雄","匪徒"
+]},
+{"op": "replace","path": "/nameGen/1/3","value": [
+    {"mode": "alts"},"威慑者","打击者","击打者","棒","猛击者"
+]}]

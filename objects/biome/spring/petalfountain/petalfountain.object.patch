@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一个有着花卉核心的漂亮石制喷泉。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "花卉喷泉"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一个漂亮的喷泉。它的声音抚慰了我的心灵。."},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一个漂亮的喷泉。它的声音抚慰了我的心灵。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个巨大的供鸟类戏水的水盆。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "水为叶族人带来了生命。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "轻松。这水让我平静。"},

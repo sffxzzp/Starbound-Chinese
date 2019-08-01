@@ -6,7 +6,7 @@
 {"op": "replace","path": "/reattack/default/default","value": ["紧逼。我看到你了！","细心。我窥探到敌人在逼近！","恐吓。你无法逃出我的视线！","敌意。看着你自己败在我手中吧！","威胁。我又看到我们目标了！"]},
 {"op": "replace","path": "/attack/default/default","value": ["威胁。我看到你了！","敏锐。我侦查到一个正在靠近的敌人！ ","恐吓。你逃不出我的视线！","敌视。瞧仔细了你是如何败在我手中的！","威胁。我已经看到下一个目标了！"]},
 {"op": "replace","path": "/killedTarget/default/default","value": ["满意。一场可以接受的战斗。","愉悦。这场长枪比武满足了我的战斗欲。暂时的。","不悦，我本可以更快解决那个…"]},
-{"op": "replace","path": "/lostTarget/default/default","value": ["失望。我让我们的敌人逃掉了…暂时的","惊讶。他们是怎么躲开了我的视线的？！"]},
+{"op": "replace","path": "/lostTarget/default/default","value": ["失望。我让我们的敌人逃掉了…暂时的。","惊讶。他们是怎么躲开了我的视线的？！"]},
 {"op": "replace","path": "/outOfSight/default/default","value": ["惊讶。他们是如何逃开我的永恒凝视的！？","震惊。他们躲开了我的视线？"]},
 {"op": "replace","path": "/cantReach/default/default","value": ["沮丧。这个胆小的敌人不敢和我正面交手。","生气。我们的敌人是个胆小鬼，他没胆子正面进攻！"]},
-{"op": "replace","path": "/cheerOn/default/default","value": ["沉思。也许我做一个旁观者就够了","支持。我将见证这场胜利！","支持。我将见证我们的敌人的败北！"]}]
+{"op": "replace","path": "/cheerOn/default/default","value": ["沉思。也许我做一个旁观者就够了。","支持。我将见证这场胜利！","支持。我将见证我们的敌人的败北！"]}]

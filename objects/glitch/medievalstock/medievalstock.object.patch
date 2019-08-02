@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一副刑枷。中世纪时代的一种刑罚方式。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "中世纪刑枷"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "一套刑枷。科学进展部都还没发现的一种少有的侮辱人格的刑具。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "一套刑枷。科技发展部都还没发现的一种少有的侮辱人格的刑具。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "看起来像某种束缚装置。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "木家伙上有有有股讨厌的水果味儿。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "受惊。你绝对不会想被锁进这里面。"},

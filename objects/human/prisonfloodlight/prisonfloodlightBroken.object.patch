@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "闪烁的灯光营造了惊悚的气氛。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "损坏的小型照明灯"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "科学进展部就用这样的聚光灯来强迫人们说话。这个似乎已经损坏了。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "科技发展部就用这样的聚光灯来强迫人们说话。这个似乎已经损坏了。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个烦人的，刺眼的灯。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "闪烁的灯光让叶族人紧紧张张张。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "懊恼。有人应该修好它。"},

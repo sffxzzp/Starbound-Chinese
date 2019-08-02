@@ -15,9 +15,6 @@ class checker:
 		try:
 			content = codecs.open(path, 'r', encoding='utf-8').read()
 		except UnicodeDecodeError:
-			content = codecs.open(path, 'r', encoding='gb18030').read()
-			codecs.open(path, 'w', encoding='utf-8').write(content)
-			content = codecs.open(path, 'r', encoding='utf-8').read()
 			self.output += 'Coding: ' + path + '\n'
 		if not self.jsonload(content):
 			self.output += 'JSON: ' + path + '\n'

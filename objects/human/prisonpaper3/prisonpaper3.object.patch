@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "囚犯#2162研究团队针对那些不能正常阅读的囚犯的研究。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "事件备忘录"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来这些囚犯被允许接受一些教育，这是科学进展部明令禁止的。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "看起来这些囚犯被允许接受一些教育，这是科技发展部明令禁止的。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "一个犯罪学研究的飞跃式进步。能看到囚犯努力改造是极好的。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "叶族人读书少，叶族人不理理理解这这这种事。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "乐观。在关押犯人的同时让他们学习一技之长，这种概念我觉得很积极。"},

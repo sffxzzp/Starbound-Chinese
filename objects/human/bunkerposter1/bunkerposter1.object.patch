@@ -1,6 +1,6 @@
 [{ "op" : "replace", "path" : "/description", "value" : "看起来不是那么鼓舞人心。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "动员令"},
-{ "op" : "replace", "path" : "/apexDescription", "value" : "如果这是科学进展部的海报，那下面丢失的文本就是“拒绝的话你不会被处决”。"},
+{ "op" : "replace", "path" : "/apexDescription", "value" : "如果这是科技发展部的海报，那下面丢失的文本就是“拒绝的话你不会被处决”。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "翼族人向克鲁西斯祈祷以求得安宁。我们可不需要这种愚蠢的动员令。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "这张动员令损坏了。叶族人看到这张东西后感到热血沸腾腾。"},
 { "op" : "replace", "path" : "/glitchDescription", "value" : "沮丧。要猜出丢失的文本会让我困扰一整天。"},

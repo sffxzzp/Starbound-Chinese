@@ -1,4 +1,4 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这中先进的古代技术能够提高一些武器的效果。"},
+[{ "op" : "replace", "path" : "/description", "value" : "这种先进的古代技术能够提高一些武器的效果。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "武器升级台"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这块砧还能用，我在想它是什么做的。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "这块砧来源于古代。"},

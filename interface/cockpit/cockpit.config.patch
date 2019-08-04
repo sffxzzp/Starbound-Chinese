@@ -223,4 +223,6 @@
     "中等",
     "危险",
     "极限"
-]}]
+]},
+{"op": "replace","path": "/systemTooltip/exploredLabel/explored","value": "曾经访问"},
+{"op": "replace","path": "/systemTooltip/exploredLabel/unexplored","value": "尚未探索"}]

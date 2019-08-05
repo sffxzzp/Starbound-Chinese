@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "把烤肉酱拿来！"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "炖排骨"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "烤肋排"}]

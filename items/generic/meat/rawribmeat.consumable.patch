@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "从一些不幸的生物肋排上切下来的生肉，如果能弄熟的话应该会很好吃。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "生排骨"}]
+[{ "op" : "replace", "path" : "/description", "value" : "从一些不幸的生物肋骨上切下来的生肉，如果能弄熟的话应该会很好吃。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "生肋排"}]

@@ -1,6 +1,6 @@
 {
   "author" : "StarCore Localization Team",
-  "description" : "[b]To English users: This is a Simplified-Chinese mod, Almost all text in game would be changed.\nIt may possibly affect your save file, So think TWICE before you decide to subscribe.[/b]\n\n[h1]Supports only 1.4 and 1.4.1[/h1]\n\n[h1]About:[/h1]\nMade by StarCore Localization Team.\nNow almost all text has been translated.\nNeed to install a Chinese-Font mod first.\n\n[h1]Usage (Read [b]BEFORE[/b] Subscribe)：[/h1]\n1.Need to install a Chinese-Font mod first, click [url=https://github.com/sffxzzp/Starbound-Chinese/releases/download/StarCore-Font/StarCore.pak]here[/url] to download.\n    mirror link 1    http s://www.lan zous.com/b644634\n    [url=https://www.jianguoyun.com/p/DTYqYpUQoMcDGNPiIQ]mirror link 2[/url]\n    [url=https://1drv.ms/f/s!Aml90vgiMULbhjup0TdAGjho8ILl]mirror link 3[/url]\n2.Subscribe this mod.[h1](though i think you shouldn't since you are not a native chinese speaker.)[/h1]\n3.[b]Start Starbound game from Steam.[/b](Start the game directly will not load workshop mods)\n\n[h1]ChangeLog:[/h1]\nSee [url=http://steamcommunity.com/sharedfiles/filedetails/changelog/807695810]here.[/here]",
+  "description" : "[b]To English users: This is a Simplified-Chinese mod, Almost all text in game would be changed.\nIt may possibly affect your save file, So think TWICE before you decide to subscribe.[/b]\n\n[h1]Supports only 1.4.4[/h1]\n\n[h1]About:[/h1]\nMade by StarCore Localization Team.\nNow almost all text has been translated.\nNeed to install a Chinese-Font mod first.\n\n[h1]Usage (Read [b]BEFORE[/b] Subscribe)：[/h1]\n1.Need to install a Chinese-Font mod first, click [url=https://github.com/sffxzzp/Starbound-Chinese/releases/download/StarCore-Font/StarCore.pak]here[/url] to download.\n    mirror link 1    http s://www.lan zous.com/b644634\n    [url=https://www.jianguoyun.com/p/DTYqYpUQoMcDGNPiIQ]mirror link 2[/url]\n    [url=https://1drv.ms/f/s!Aml90vgiMULbhjup0TdAGjho8ILl]mirror link 3[/url]\n2.Subscribe this mod.[h1](though i think you shouldn't since you are not a native chinese speaker.)[/h1]\n3.[b]Start Starbound game from Steam.[/b](Start the game directly will not load workshop mods)\n\n[h1]ChangeLog:[/h1]\nSee [url=http://steamcommunity.com/sharedfiles/filedetails/changelog/807695810]here.[/here]",
   "friendlyName" : "[StarCore Localization Team] Simplified Chinese Mod (zh_CN)",
   "link" : "steam://url/CommunityFilePage/807695810",
   "name" : "SChinese",
@@ -8,5 +8,5 @@
   "requires" : ["base"],
   "steamContentId" : "807695810",
   "tags" : "User Interface",
-  "version" : "V108_190802_05"
+  "version" : "V108_190808_06"
 }

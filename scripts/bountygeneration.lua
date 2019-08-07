@@ -409,8 +409,16 @@ function BountyGenerator:pickEdge(fromStep, toStep, toClueType, questId, previou
       end)
   end
 
-  -- filter edges by allowed step categories
   options = util.filter(options, function(o)
+      -- if there's already any "mid" step in the previous step, don't put in any more mid-step edges
+      -- this is a workaround to fix an issue with vaults breaking if there are two vault edges in a row
+      -- there's not really any reason that shouldn't work, but is a more differen bug, and we probably don't want
+      -- two vault steps in a single bounty anyway
+      local prevMidStep = util.find(previousSteps, function(s) return s.mid ~= nil end)
+      if prevMidStep ~= nil and o.mid then
+        return false
+      end
+
       if o.prev and not o.mid then
         if not contains(self.categories, self.config.steps[o.prev.step].category) then
           return false
@@ -500,6 +508,7 @@ function BountyGenerator:generateStepsTo(toStep, fromStep, previousSteps)
       if steps == nil then
         error(string.format("Failed to insert mid steps, no chain from %s to %s available", toStep.name, edge.next.step))
       end
+      steps[1].mid = true
 
       -- next find a new edge from the first step the mid step in the next iteration of the loop
       previousSteps = util.mergeLists(steps, previousSteps)

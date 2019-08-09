@@ -12,4 +12,4 @@
 {"op": "replace","path": "/testdrive08/text","value": "初步的环境扫描表明，该区域尤其危险，即便是驾驶着机甲。建议谨慎行事。"},
 {"op": "replace","path": "/testdrive09/text","value": "这个传送器指示^green;你已经通过了阿卡基博士的高级测试航线^white;。你应该回去向她报告。"},
 {"op": "replace","path": "/spaceencounter01/text","value": "我在这艘飞船上接收到了不寻常的生物信号。建议时刻谨慎。"},
-{"op": "replace","path": "/spaceencounter02/text","value": "这似乎是一个旧的大地守护者储存设施。我的记录里不存在这个地方。"}]
+{"op": "replace","path": "/spaceencounter02/text","value": "这似乎是一个旧的大地守护团储存设施。我的记录里不存在这个地方。"}]

@@ -102,4 +102,5 @@
     "uniqueWeapon": "独特武器",
     "whip": "鞭"
 }},
-{"op": "add", "path": "/labels/Tool", "value": "工具"}]
+{"op": "add", "path": "/labels/Tool", "value": "工具"},
+{"op": "add", "path": "/labels/Drone", "value": "无人机"}]

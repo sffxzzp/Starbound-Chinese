@@ -1,6 +1,6 @@
 [{"op": "replace","path": "/title","value": "获取叶族人神器"},
-{"op": "replace","path": "/text","value": "你手头上的线索指示出^orange;叶族神器^reset;被珍藏在^orange;狩猎仪式洞穴^reset;中。根据我的发现，你需要^green;完成一场仪式狩猎来取得它^reset;。我已经将航行坐标发送给你了。小心，亲爱的。"},
-{"op": "replace","path": "/completionText","value": "漂亮，你做的很棒！现在进度已经完成六分之一了，亲爱的。另外可别小瞧这件事，现在我们有^orange;努鲁^reset;来帮我们了。"},
-{"op": "replace","path": "/scriptConfig/missionRadioMessage/text","value": "我已经收到^orange;狩猎仪式洞穴^reset;的航行坐标了。^green;请通过任务界面^reset;前往目的地。"},
+{"op": "replace","path": "/text","value": "你手头上的线索指示出^orange;叶族神器^reset;被珍藏在^orange;狩猎聚会洞穴^reset;中。根据我的发现，你需要^green;完成一场仪式狩猎来取得它^reset;。我已经将航行坐标发送给你了。小心，亲爱的。"},
+{"op": "replace","path": "/completionText","value": "漂亮，你做的很棒！现在进度已经完成六分之一了，亲爱的。可别小瞧这件事。而且现在我们有^orange;努鲁^reset;来帮我们了。"},
+{"op": "replace","path": "/scriptConfig/missionRadioMessage/text","value": "我已经收到^orange;狩猎聚会洞穴^reset;的航行坐标了。^green;请通过任务界面^reset;前往目的地。"},
 {"op": "replace","path": "/scriptConfig/descriptions/artifact","value": "在^green;狩猎区域^reset;中^orange;寻找神器^reset;"},
 {"op": "replace","path": "/scriptConfig/descriptions/turnIn","value": "返回^green;方舟废墟^reset;并交给 ^orange;艾丝特^reset;"}]

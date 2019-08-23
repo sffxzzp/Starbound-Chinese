@@ -6,4 +6,4 @@
 { "op" : "replace", "path" : "/glitchDescription", "value" : "兴奋。这个工作台用于组装模块化机械部件。"},
 { "op" : "replace", "path" : "/humanDescription", "value" : "我可以在这个工作台上组装模块化机械部件。"},
 { "op" : "replace", "path" : "/hylotlDescription", "value" : "这种工业生产的桌子是用于生产模块化机械部件的。"},
-{ "op" : "replace", "path" : "/novakidDescription", "value" : "有了这个表，我可以制作一些机械部件。"}]
+{ "op" : "replace", "path" : "/novakidDescription", "value" : "有了这个桌子，我可以制作一些机械部件。"}]

@@ -1,5 +1,5 @@
-[{"op": "replace","path": "/title","value": "取得鲛人族神器"},
-{"op": "replace","path": "/text","value": "从你发现的线索来看，^orange;鲛人族神器^reset;在海洋深处一个叫做^orange;大塔图书馆^reset;的地方与世隔绝。这图书馆非常古老，^green;到那去参观应该会很有意思^reset;。"},
+[{"op": "replace","path": "/title","value": "取得鲛人神器"},
+{"op": "replace","path": "/text","value": "从你发现的线索来看，^orange;鲛人神器^reset;在海洋深处一个叫做^orange;大塔图书馆^reset;的地方与世隔绝。这图书馆非常古老，^green;到那去参观应该会很有意思^reset;。"},
 {"op": "replace","path": "/completionText","value": "亲爱的，你为保护神器做得非常好。它们的力量不容小觑，千万不能让其落入坏人之手…"},
 {"op": "replace","path": "/scriptConfig/missionRadioMessage/text","value": "我已经收到了^orange;大塔图书馆^reset;的坐标。^green;请使用飞船终端^reset;前往那里。"},
 {"op": "replace","path": "/scriptConfig/descriptions/artifact","value": "在^orange;大塔图书馆^reset;中找到^orange;神器^reset;"},

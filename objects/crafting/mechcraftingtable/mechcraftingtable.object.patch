@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "用于生产模块化机械部件。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;机械零件制造台^white;"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "^orange;机械部件制造台^white;"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这个桌子可用于生产模块化机械部件。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "有了这个桌子，我可以组装模块化机械部件。"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "制造机械零件的制造台。"},

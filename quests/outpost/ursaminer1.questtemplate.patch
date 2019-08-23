@@ -1,4 +1,4 @@
 [{"op": "replace","path": "/title","value": "^green;丢失的泰迪熊"},
-{"op": "replace","path": "/text","value": "我的小北斗弄丢了他的宝贝^orange;泰迪熊^white;。我实在无法在这种状态下和他开店——你能帮帮我吗？帮他^green;找一只新的泰迪熊^white;，拜托了。"},
+{"op": "replace","path": "/text","value": "我的小北斗弄丢了他的宝贝^orange;泰迪熊^white;。我实在无法和在这种状态下他一起开店——你能帮帮我吗？帮他^green;找一只新的泰迪熊^white;，拜托了。"},
 {"op": "replace","path": "/completionText","value": "小北斗现在很开心！太感谢你了，现在我可以重新开张了。"},
 {"op": "replace","path": "/scriptConfig/failConditions/0/failureText","value": "小北斗现在从别人那里得到了新泰迪熊！"}]

@@ -1,4 +1,4 @@
-[{"op": "replace","path": "/title","value": "寻找定位猿人神器的线索"},
+[{"op": "replace","path": "/title","value": "寻找能定位猿人神器的线索"},
 {"op": "replace","path": "/text","value": "我觉得我们应该开始寻找^orange;猿人神器^reset;了。猿族人常见于围绕着^orange;寒冷恒星^reset;的^orange;冰冻星球^reset;上，那里是最适合^green;寻找我们所需要的^orange;线索^green;的地方^reset;。穿的暖和一些亲爱的，并且记住：猿人社会正处于动荡时期，所以一定要小心行事。"},
 {"op": "replace","path": "/completionText","value": "你已经找到了定位神器位置所需要的所有线索！非常出色，亲爱的——我们已经走得这么远了。"},
 {"op": "replace","path": "/scriptConfig/descriptions/findClues","value": "^green;扫描物体^reset;来寻找^orange;猿人的线索^reset;"},

@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/title","value": "获得畅游太空的资格"},
-{"op": "replace","path": "/text","value": "首先，亲爱的：你需要一个^orange;能够正常工作的飞船^reset;。在我们开始一切之前，谁也不知道我们将要旅行到多远的地方去。我想你应该^green;返回前哨站并和^orange;企鹅皮特船长^reset;汇报一下。"},
+{"op": "replace","path": "/text","value": "首先，亲爱的：你需要一个^orange;能够正常工作的飞船^reset;。在我们完成一切之前，谁也不知道我们将要旅行到多远的地方去。我想你应该^green;返回前哨站并和^orange;企鹅皮特船长^reset;聊聊。"},
 {"op": "replace","path": "/completionText","value": "这可不是容易解决的事啊—你做的太棒了，亲爱的。现在你的飞船已经恢复了所有的工作秩序，我们可以开始进行下一步的任务啦。"},
 {"op": "replace","path": "/scriptConfig/descriptions/findMechanic","value": "^green;找到^white;在^orange;前哨站的^orange;企鹅皮特^reset;"},
 {"op": "replace","path": "/scriptConfig/descriptions/repairShip","value": "^green;修复你的^orange;飞船^reset;。"},

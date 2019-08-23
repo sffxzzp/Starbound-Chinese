@@ -1,4 +1,4 @@
 [{"op": "replace","path": "/title","value": "^orange;跳跃的研发"},
 {"op": "replace","path": "/text","value": "我一直在完成一个全新的技术，它可以让使用者在空中多跳一次，让他们到达一个更高的高度！但很遗憾，我还需要一些素材去完成它。^green;你能给我带^orange;10个银锭^white;吗？"},
-{"op": "replace","path": "/completionText","value": "了不起！把这些也融合进去的话，^orange;脉冲跳跃^white;就随时可以测试了！你想帮忙的就来找我吧。"},
+{"op": "replace","path": "/completionText","value": "了不起！把这些也融合进去的话，^orange;二段跳^white;就随时可以测试了！你想帮忙的就来找我吧。"},
 {"op": "replace","path": "/scriptConfig/turnInDescription","value": "去^orange;前哨战^reset;找^orange;埃利奥特^reset;"}]

@@ -1,5 +1,5 @@
-[{"op": "replace","path": "/title","value": "^green;小鹰级飞船"},
-{"op": "replace","path": "/text","value": "现在你已经有四名船员了！随着这个规模的舰队，你终于有资格取得小鹰级飞船的执照。恭喜你！带着四个^orange;升级模块^reset;^green;去见企鹅皮特^reset;来升级你的飞船吧。"},
+[{"op": "replace","path": "/title","value": "^green;小鹰级飞船升级"},
+{"op": "replace","path": "/text","value": "现在你已经有四名船员了！有了这个规模的舰队，你终于有资格取得小鹰级飞船的执照。恭喜你！带着四个^orange;升级模块^reset;^green;去见企鹅皮特^reset;来升级你的飞船吧。"},
 {"op": "replace","path": "/completionText","value": "你的飞船马上就会升级好。企鹅们总是会出色地完成工作。"},
 {"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "企鹅皮特"},
 {"op": "replace","path": "/scriptConfig/turnInDescription","value": "提供^orange;升级模块^reset;给位于^orange;前哨站的^reset;^orange;企鹅皮特^reset;。"},

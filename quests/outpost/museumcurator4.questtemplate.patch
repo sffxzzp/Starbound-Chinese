@@ -1,3 +1,3 @@
-[{"op": "replace","path": "/title","value": "^green;无言武士"},
+[{"op": "replace","path": "/title","value": "^green;沉默武士"},
 {"op": "replace","path": "/text","value": "电子人真让我着迷，他们生来就是最伟大的机器，但大多数电子人的思维程序都太过死板了。也许当你在游历某个电子人城堡时能为我的博物馆^green;带来一套^orange;展示用武装盔甲^white;吗？。"},
 {"op": "replace","path": "/completionText","value": "太棒了！我的博物馆会成为这片星系最有教育意义的地方。谢谢你，这件东西太完美了。"}]

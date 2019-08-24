@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "有一个额外的喷气推进器平衡性能的机械腿。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "双子喷射机械腿"}]
+[{ "op" : "replace", "path" : "/description", "value" : "有一个额外的喷气推进器平衡性能的机甲腿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "双子喷射机甲腿"}]

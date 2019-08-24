@@ -32,9 +32,9 @@
 {"op": "replace","path": "/parts/tjuncNSW/description","value": "一个T形的房间拥有三个方向的扩展槽。"},
 {"op": "replace","path": "/parts/tjuncSWE/displayName","value": "T接头 东南西"},
 {"op": "replace","path": "/parts/tjuncSWE/description","value": "一个T形的房间拥有三个方向的扩展槽。"},
-{"op": "replace","path": "/parts/mechassembly/displayName","value": "机械组装室"},
-{"op": "replace","path": "/parts/mechassembly/description","value": "一条带有机械组装站和机械制造站的走廊。它的两端都有扩展槽。"},
-{"op": "replace","path": "/parts/mechbayL/displayName","value": "机械湾 西"},
-{"op": "replace","path": "/parts/mechbayL/description","value": "面向西边的空间站入口，适用于机械的着陆。"},
-{"op": "replace","path": "/parts/mechbayR/displayName","value": "机械湾 东"},
-{"op": "replace","path": "/parts/mechbayR/description","value": "面向东边的空间站入口，适用于机械的着陆。"}]
+{"op": "replace","path": "/parts/mechassembly/displayName","value": "机甲组装室"},
+{"op": "replace","path": "/parts/mechassembly/description","value": "一条带有机甲组装站和机甲制造站的走廊。它的两端都有扩展槽。"},
+{"op": "replace","path": "/parts/mechbayL/displayName","value": "机甲湾 西"},
+{"op": "replace","path": "/parts/mechbayL/description","value": "面向西边的空间站入口，适用于机甲的着陆。"},
+{"op": "replace","path": "/parts/mechbayR/displayName","value": "机甲湾 东"},
+{"op": "replace","path": "/parts/mechbayR/description","value": "面向东边的空间站入口，适用于机甲的着陆。"}]

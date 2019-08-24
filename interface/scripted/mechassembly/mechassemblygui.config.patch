@@ -1,5 +1,5 @@
-[{"op": "replace","path": "/gui/windowtitle/title","value": "机械装配站"},
-{"op": "replace","path": "/gui/windowtitle/subtitle","value": "^#b9b5b2;装备和自定义你的个人机械！"},
+[{"op": "replace","path": "/gui/windowtitle/title","value": "机甲装配站"},
+{"op": "replace","path": "/gui/windowtitle/subtitle","value": "^#b9b5b2;装备和自定义你的个人机甲！"},
 {"op": "replace","path": "/gui/lblSlot_body/value","value": "躯干"},
 {"op": "replace","path": "/gui/lblSlot_leftArm/value","value": "左臂"},
 {"op": "replace","path": "/gui/lblSlot_legs/value","value": "腿"},

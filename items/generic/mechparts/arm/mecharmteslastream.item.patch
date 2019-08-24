@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一种经典的武器设计，用毁灭性的电荷使敌人超载。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "特斯拉流机械臂"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "特斯拉流机甲臂"}]

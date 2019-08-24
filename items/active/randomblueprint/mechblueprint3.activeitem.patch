@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个简单机械部件的蓝图。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "简单机械蓝图"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一个简单机甲部件的蓝图。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "简单机甲蓝图"}]

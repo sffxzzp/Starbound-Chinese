@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "可以发射三组远程制导导弹的重型机械臂。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "制导导弹机械臂"}]
+[{ "op" : "replace", "path" : "/description", "value" : "可以发射三组远程制导导弹的重型机甲臂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "制导导弹机甲臂"}]

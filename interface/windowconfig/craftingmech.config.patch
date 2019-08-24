@@ -1,5 +1,5 @@
-[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "机械部件制造"},
-{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "为您的模块式机械制造新的部件！"},
+[{"op": "replace","path": "/paneLayout/windowtitle/title","value": "机甲部件制造"},
+{"op": "replace","path": "/paneLayout/windowtitle/subtitle","value": "为您的模块式机甲制造新的部件！"},
 {"op": "replace","path": "/paneLayout/lblSchematics/value","value": "^#b9b5b2;蓝图"},
 {"op": "replace","path": "/paneLayout/lblProducttitle/value","value": "^#b9b5b2;产品"},
 {"op": "replace","path": "/paneLayout/btnCraft/caption","value": "锻造"},

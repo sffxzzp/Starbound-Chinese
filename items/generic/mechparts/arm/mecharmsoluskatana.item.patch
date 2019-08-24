@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "机械。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "单手武士刀机械臂"}]
+[{ "op" : "replace", "path" : "/description", "value" : "一种强大的机甲武器，专为阿斯拉·诺克斯的\"绝唱\"机甲打造。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "单手武士刀机甲臂"}]

@@ -1,5 +1,5 @@
 [{"op": "replace","path": "/title","value": "^orange;零件与售后"},
 {"op": "replace","path": "/text","value": "我正在搞一个全新闪亮的机甲武器，但是我需要有人帮我找些零件。如果你能^green;进入太空^white;并^green;给我找来5个^orange;回收接口芯片^white;和^green;10 个^orange;回收功率耦合^white;，我想这些足以完成工作了！"},
-{"op": "replace","path": "/completionText","value": "这些部分足够我完成全新的^orange;导弹机架机械臂^white;了！为了表示我的感谢，我已经发送了一份^green;蓝图^white;到那台^green;机甲部件制造桌^white;，现在你可以去做一个你自己的了！"},
+{"op": "replace","path": "/completionText","value": "这些部分足够我完成全新的^orange;导弹机架机甲臂^white;了！为了表示我的感谢，我已经发送了一份^green;蓝图^white;到那台^green;机甲部件制造桌^white;，现在你可以去做一个你自己的了！"},
 {"op": "replace","path": "/scriptConfig/portraits/questStarted/title","value": "阿卡基博士"},
 {"op": "replace","path": "/scriptConfig/portraits/questComplete/title","value": "阿卡基博士"}]

@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "蟑螂，蟑螂，不能再走了！（原文：Lacucaracha，lacucaracha，yanopuedecaminar!）"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "旋律机械角"}]
+[{ "op" : "replace", "path" : "/description", "value" : "两只老虎，两只老虎。跑得快，跑得快！（原文：Lacucaracha, lacucaracha, yanopuedecaminar!，意为：蟑螂，蟑螂，不能再走了！）"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "旋律机甲角"}]

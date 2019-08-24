@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一种机甲武器，发射带耐钢尖刺的自回归拳套。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "尖拳机械臂"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "尖拳机甲臂"}]

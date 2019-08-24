@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "当你可以成为公牛的时候，为什么仅抓着公牛的角（双关：喇叭）？"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "公牛机械喇叭"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "公牛机甲喇叭"}]

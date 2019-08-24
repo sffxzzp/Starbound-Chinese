@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "最便宜的机械武器，一个发射加热金属片的机械臂。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "高射炮机械臂"}]
+[{ "op" : "replace", "path" : "/description", "value" : "最便宜的机甲武器，一个发射加热金属片的机甲臂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "高射炮机甲臂"}]

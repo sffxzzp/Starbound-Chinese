@@ -56,7 +56,7 @@
 {"op": "replace","path": "/gui/clusterinfo/children/inner/children/view/caption","value": "未探索"},
 {"op": "replace","path": "/gui/objectinfo/children/inner/children/name/value","value": "空间对象"},
 {"op": "replace","path": "/gui/objectinfo/children/inner/children/description/value","value": "这是个非常好的空间对象"},
-{"op": "replace","path": "/gui/objectinfo/children/inner/children/threat/value","value": "需要机械以部署"},
+{"op": "replace","path": "/gui/objectinfo/children/inner/children/threat/value","value": "需要机甲以部署"},
 {"op": "replace","path": "/gui/objectinfo/children/inner/children/bookmark/caption","value": "添加标签"},
 {"op": "replace","path": "/gui/systeminfo/children/inner/children/type/value","value": "星球类型"},
 {"op": "replace","path": "/gui/systeminfo/children/inner/children/name/value","value": "系统"},
@@ -216,7 +216,7 @@
 {"op": "replace","path": "/bookmarks/newTitle","value": "新建标签"},
 {"op": "replace","path": "/bookmarks/editTitle","value": "编辑标签"},
 {"op": "replace","path": "/threatTextPrefix","value": "^white;威胁度：^reset;"},
-{"op": "replace","path": "/objectThreatText/unavailable","value": "需要机械以部署"},
+{"op": "replace","path": "/objectThreatText/unavailable","value": "需要机甲以部署"},
 {"op": "replace","path": "/objectThreatText/available","value": [
     "无",
     "低",

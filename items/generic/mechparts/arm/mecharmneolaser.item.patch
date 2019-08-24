@@ -1,2 +1,2 @@
 [{ "op" : "replace", "path" : "/description", "value" : "为和平卫士设计的远程光束武器。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "NEO镭射机械臂"}]
+{ "op" : "replace", "path" : "/shortdescription", "value" : "NEO镭射机甲臂"}]

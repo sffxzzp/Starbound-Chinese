@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "该组件可以用于制作机械手臂。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "回收功率耦合"}]
+[{ "op" : "replace", "path" : "/description", "value" : "该组件可以用于制作机甲手臂。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "回收动力联结"}]

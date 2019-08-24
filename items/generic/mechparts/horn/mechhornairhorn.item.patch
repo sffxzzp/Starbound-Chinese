@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "在你舒适的机械中制造一些小小的噪音。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "空号机械喇叭"}]
+[{ "op" : "replace", "path" : "/description", "value" : "在你舒适的机甲中制造一些小小的噪音。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "空号机甲喇叭"}]

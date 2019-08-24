@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "为跳跃而设计的一组中等质量的机械腿。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "料斗机械腿"}]
+[{ "op" : "replace", "path" : "/description", "value" : "为跳跃而设计的一组中等质量的机甲腿。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "料斗机甲腿"}]

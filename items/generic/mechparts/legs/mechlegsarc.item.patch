@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "爪状机械腿，流线型设计，仅为速度。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "弧形机械腿"}]
+[{ "op" : "replace", "path" : "/description", "value" : "爪状机甲腿，流线型设计，仅为速度。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "弧形机甲腿"}]

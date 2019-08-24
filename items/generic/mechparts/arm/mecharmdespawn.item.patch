@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "调试机械臂，仅用于拆解机械。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "拆解机械臂"}]
+[{ "op" : "replace", "path" : "/description", "value" : "机甲调试臂，仅用于拆解机甲。"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "拆解用机甲臂"}]

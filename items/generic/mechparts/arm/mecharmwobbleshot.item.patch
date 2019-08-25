@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "这种机甲臂发射告诉振荡的等离子体甜甜圈。"},
+[{ "op" : "replace", "path" : "/description", "value" : "这种机甲臂发射可怕的等离子振荡圈。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "摆动射击机甲臂"}]

@@ -1,2 +1,2 @@
-[{ "op" : "replace", "path" : "/description", "value" : "一个由鲨狗的机体，它的皮肤也能够堪堪抵挡它的撕咬。"},
+[{ "op" : "replace", "path" : "/description", "value" : "一个由鲨狗的机体，它的吼声不比它的撕咬差到哪去。"},
 { "op" : "replace", "path" : "/shortdescription", "value" : "鲨狗化机体"}]

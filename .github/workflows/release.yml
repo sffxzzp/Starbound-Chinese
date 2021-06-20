@@ -1,0 +1,48 @@
+name: Auto Releases
+
+on:
+  push:
+    branches: [ '1.0' ]
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'name'
+        required: false
+        default: 'test'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.7'
+    - name: Running checks
+      run: |
+        python check.py
+    - name: Packing
+      run: |
+        mkdir SChinese
+        mv * SChinese/ || true
+        cd SChinese/ && mv check.py ../ && mv output.log ../ && cd ../
+        curl -sSL -o packer.zip https://github.com/sffxzzp/Starbound-Chinese/releases/download/packer/asset_packer.zip && unzip packer.zip
+        chmod a+x asset_packer && ./asset_packer "SChinese" "SChinese.pak"
+        zip -9 "SChinese.zip" "SChinese.pak"
+        echo "RBody=$(cat ./output.log)" >> $GITHUB_ENV
+        echo "TagName=$(date -u '+%Z-%y%m%d-%H%M')" >> $GITHUB_ENV
+    - name: Git Tag
+      run: |
+        git config --local user.name "$user_name"
+        git config --local user.email "$user_email"
+        git tag "${{ env.TagName }}"
+    - name: Release
+      uses: ncipollo/release-action@v1.8.6
+      with:
+        body: ${{ env.RBody }}
+        name: ${{ env.TagName }}
+        prerelease: true
+        artifact: SChinese.zip
+        tag: ${{ env.TagName }}
+        token: ${{ secrets.GITHUB_TOKEN }}

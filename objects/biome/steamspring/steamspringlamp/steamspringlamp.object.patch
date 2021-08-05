@@ -1,5 +1,5 @@
 [{ "op" : "replace", "path" : "/description", "value" : "一盏用木头和黄铜制成的奇怪的灯。"},
-{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽春天灯"},
+{ "op" : "replace", "path" : "/shortdescription", "value" : "蒸汽弹簧灯"},
 { "op" : "replace", "path" : "/apexDescription", "value" : "这盏灯有一个非常独特的形状。"},
 { "op" : "replace", "path" : "/avianDescription", "value" : "外形多么有趣的灯啊！"},
 { "op" : "replace", "path" : "/floranDescription", "value" : "灯看看看上去很奇怪―难难难道它其实是是是一把武器？"},

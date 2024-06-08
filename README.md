@@ -27,13 +27,17 @@
 [https://steamcommunity.com/workshop/filedetails/discussion/807695810/1649917420747513908/](https://steamcommunity.com/workshop/filedetails/discussion/807695810/1649917420747513908/)
 
 **使用步骤（使用前必读）：**
- * 首先需要安装字体mod，[点击此处下载](https://github.com/sffxzzp/Starbound-Chinese/releases/download/StarCore-Font/StarCore.pak)。
+ * 首先需要安装字体mod，[点击此处下载](https://fastly.jsdelivr.net/gh/sffxzzp/Starbound-Chinese@fonts/StarCore/StarCore.pak)。
 
-    [备用链接1](https://www.lanzous.com/b644634)
+    [备用链接1](https://github.com/sffxzzp/Starbound-Chinese/raw/fonts/StarCore/StarCore.pak)
 
-    [备用链接2](https://www.jianguoyun.com/p/DTYqYpUQoMcDGNPiIQ)
+    [备用链接2](https://sffxzzp.lanzoui.com/b644634)
 
-    [备用链接3](https://1drv.ms/f/s!Aml90vgiMULbhjup0TdAGjho8ILl)
+    [备用链接3](https://www.jianguoyun.com/p/DTYqYpUQoMcDGNPiIQ)
+
+    [备用链接4](https://1drv.ms/f/s!Aml90vgiMULbhjup0TdAGjho8ILl)
+
+    [备用链接5](https://github.com/sffxzzp/Starbound-Chinese/releases/download/StarCore-Font/StarCore.pak)
 
     ***请将字体mod（.pak文件）直接放入游戏目录的mods文件夹下。游戏目录请在Steam游戏库中右键Starbound，在属性中选择浏览本地文件即可找到。***
 
